@@ -9,12 +9,13 @@
 
 	<name>afl-stats</name>
 	<url>finiteloop.me</url>
-	
+
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.7</maven.compiler.source>
 		<maven.compiler.target>1.7</maven.compiler.target>
+		<fabric8.version>2.2.19</fabric8.version>
 		<camel.version>2.15.2</camel.version>
 	</properties>
 

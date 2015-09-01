@@ -25,8 +25,9 @@ public class ExtractRoute extends RouteBuilder {
 
 	@Override
 	public void configure() throws Exception {
-		from("file:src/data")
-			.log("File is: " + simple("${header.CamelFileName}"));
+		from("file:src/data/?noop=true")
+		//.to("file:target/new");
+			.log("Read the file");
 		
 	}
 
