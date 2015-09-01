@@ -9,8 +9,13 @@ package me.finiteloop.afl.constants;
  */
 public enum HTMLColumnHeaders {
 
+	Year("Year"),
 	TM("Team"),
+	JUMPER("Jumper"),
 	GM("Games"),
+	Win("Wins"),
+	Draw("Draws"),
+	Loss("Losses"),
 	KI("Kicks"),
 	MK("Marks"),
 	HB("Handballs"),
