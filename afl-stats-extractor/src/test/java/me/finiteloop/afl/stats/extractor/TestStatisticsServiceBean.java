@@ -3,7 +3,6 @@
  */
 package me.finiteloop.afl.stats.extractor;
 
-import java.io.File;
 import java.net.URL;
 
 import javax.ws.rs.core.Response;
