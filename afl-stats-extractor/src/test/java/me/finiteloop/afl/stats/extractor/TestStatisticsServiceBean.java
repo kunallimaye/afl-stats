@@ -34,10 +34,12 @@ public class TestStatisticsServiceBean {
                 .addClasses(JaxRsActivator.class)
                 .addClasses(StatisticsServiceBean.class)
                 .addAsLibraries(Maven.resolver().resolve(
+                		//TODO: find an elegant way to resolving this dependency instead of hardcoding below.
 //						"org.infinispan:infinispan-core:6.0.0.Final",
 //						"com.thetransactioncompany:cors-filter:1.3.2",
                 		"org.apache.camel:camel-core:2.15.2",
                 		"org.apache.camel:camel-http4:2.15.2",
+                		"org.apache.camel:camel-jsonpath:2.15.2",
 						"org.apache.cxf:cxf-rt-rs-client:3.0.0-milestone1"
 						).withTransitivity().asFile())                .addAsWebInfResource(EmptyAsset.INSTANCE, "beans.xml");
     }
