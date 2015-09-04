@@ -32,4 +32,10 @@
 		</configuration>
 	</container>
 
+	<container qualifier="jboss-remote">
+		<configuration>
+			<property name="managemenAddress">localhost</property>
+			<property name="managemenPort">9999</property>
+		</configuration>
+	</container>
 </arquillian>

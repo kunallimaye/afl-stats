@@ -32,25 +32,27 @@ public class StatisticsServiceBean{
 
 	@GET
 	@Path("/season/{year:[0-9][0-9][0-9][0-9]}")
-//	@Consumes(MediaType.APPLICATION_JSON)
 	@Produces(MediaType.APPLICATION_JSON)
 	public Response getCompetition(@PathParam("year") String year){
 		Response.ResponseBuilder responseBuilder = null;
+		final String fromEndpoint = "direct:getseason";
 		CamelContext context = new DefaultCamelContext();
 		try {
 			context.addRoutes(new RouteBuilder() {
 
 				@Override
 				public void configure() throws Exception {
-					from("direct:getseason")
+					from(fromEndpoint)
 						.setHeader("X-media-mis-token",
 								//TODO: Work out a way to get this value auto-magically with a call to afl.com.au
 								// At the moment we have to manually inspect headers to extract this value
 							constant("ef65e0c7bd2946c03174e3ab7a018cd1"))
 						.recipientList(
-							simple("http4:www.afl.com.au/api/cfs/afl/statsCentre/players?competitionId=CD_S${body}014"))
-							//URL for a season
-							//http://www.afl.com.au/api/cfs/afl/season?seasonId=CD_S2014014
+							simple("http4:www.afl.com.au/api/cfs/afl/season?seasonId=CD_S${body}014"))
+							// URL for a season
+							// http://www.afl.com.au/api/cfs/afl/season?seasonId=CD_S2014014
+							// URL for a player
+							// http4:www.afl.com.au/api/cfs/afl/statsCentre/players?competitionId=CD_S${body}014
 						;
 
 				}
@@ -58,7 +60,51 @@ public class StatisticsServiceBean{
 			context.start();
 	
 			ProducerTemplate producer = context.createProducerTemplate();
-			String res = (String) producer.requestBody("direct:getseason", year, String.class);
+			String res = (String) producer.requestBody(fromEndpoint, year, String.class);
+			
+			logger.info(res);
+			context.stop();
+			responseBuilder = Response.status(Response.Status.OK).entity(res);
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+			responseBuilder = Response.status(Response.Status.INTERNAL_SERVER_ERROR).entity(e.getMessage());
+		}
+		
+		return responseBuilder.build();
+	}
+	
+	@GET
+	@Path("/players/{year:[0-9][0-9][0-9][0-9]}")
+	@Produces(MediaType.APPLICATION_JSON)
+	public Response getPlayersInYear(@PathParam("year") String year){
+		Response.ResponseBuilder responseBuilder = null;
+		final String fromEndpoint = "direct:getPlayerBySeason";
+		CamelContext context = new DefaultCamelContext();
+		try {
+			context.addRoutes(new RouteBuilder() {
+
+				@Override
+				public void configure() throws Exception {
+					from(fromEndpoint)
+						.setHeader("X-media-mis-token",
+								//TODO: Work out a way to get this value auto-magically with a call to afl.com.au
+								// At the moment we have to manually inspect headers to extract this value
+							constant("ef65e0c7bd2946c03174e3ab7a018cd1"))
+						.recipientList(
+							simple("http4:www.afl.com.au/api/cfs/afl/statsCentre/players?competitionId=CD_S${body}014"))
+							// URL for a season
+							// http://www.afl.com.au/api/cfs/afl/season?seasonId=CD_S2014014
+							// URL for a player
+							// http4:www.afl.com.au/api/cfs/afl/statsCentre/players?competitionId=CD_S${body}014
+						;
+
+				}
+			});
+			context.start();
+	
+			ProducerTemplate producer = context.createProducerTemplate();
+			String res = (String) producer.requestBody(fromEndpoint, year, String.class);
 			
 			logger.info(res);
 			context.stop();

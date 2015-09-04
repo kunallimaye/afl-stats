@@ -51,4 +51,14 @@ public class TestStatisticsServiceBean {
 		System.out.println("OUTPUT: " + response.toString());
 		Assert.assertEquals(Response.Status.OK.getStatusCode(), response.getStatus());
     }
+
+    @Test
+    @RunAsClient
+    public void testGetPlayersInSeasonStatistics(@ArquillianResource URL contextRoot) throws Exception {
+    	WebClient client = WebClient.create("http://localhost:8080/test-afl-extraction/statistics/players/2015");
+		client.type("application/json").accept("application/json");
+		Response response = client.get();
+		System.out.println("OUTPUT: " + response.toString());
+		Assert.assertEquals(Response.Status.OK.getStatusCode(), response.getStatus());
+    }
 }
