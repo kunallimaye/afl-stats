@@ -3,11 +3,8 @@
  */
 package me.finiteloop.afl.stats.extractor;
 
-import java.util.Map;
-import java.util.Set;
 import java.util.logging.Logger;
 
-import javax.activation.DataHandler;
 import javax.ejb.Stateless;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
@@ -18,15 +15,10 @@ import javax.ws.rs.core.Response;
 
 import org.apache.camel.CamelContext;
 import org.apache.camel.Exchange;
-import org.apache.camel.InvalidPayloadException;
 import org.apache.camel.Main;
-import org.apache.camel.Message;
-import org.apache.camel.Processor;
 import org.apache.camel.ProducerTemplate;
 import org.apache.camel.impl.DefaultCamelContext;
-import org.apache.camel.jsonpath.JsonPath;
 import org.apache.camel.builder.RouteBuilder;
-import org.apache.camel.component.file.FileComponent;
 import org.apache.camel.component.http4.HttpMethods;
 
 /**
@@ -69,6 +61,39 @@ public class StatisticsServiceBean{
 			
 	}
 
+	@GET
+	@Path("load-data")
+	public Response loadData(){
+		Response.ResponseBuilder responseBuilder = null;
+		final String fromEndpoint = "direct:loadData";
+		CamelContext context = new DefaultCamelContext();
+		try {
+			context.addRoutes(new RouteBuilder() {
+				@Override
+				public void configure() throws Exception {
+					from(fromEndpoint)
+						.recipientList(
+							simple("http4:www.afl.com.au/api/cfs/afl/season?seasonId=CD_S${body}014"))
+						;
+
+				}
+			});
+			context.start();
+	
+			ProducerTemplate producer = context.createProducerTemplate();
+			String res = (String) producer.requestBody(fromEndpoint, "", String.class);
+			
+			logger.info(res);
+			context.stop();
+			responseBuilder = Response.status(Response.Status.OK).entity(res);
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+			responseBuilder = Response.status(Response.Status.INTERNAL_SERVER_ERROR).entity(e.getMessage());
+		}
+		return responseBuilder.build();
+	}
+	
 	@GET
 	@Path("/season/{year:[0-9][0-9][0-9][0-9]}")
 	@Produces(MediaType.APPLICATION_JSON)
