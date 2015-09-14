@@ -1,0 +1,1001 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I261299",
+    "position" : "Ruck",
+    "surname" : "Kreuzer",
+    "jumperNumber" : 8,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.5,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 6.0,
+      "handballs" : 6.1,
+      "disposals" : 12.0,
+      "marks" : 2.9,
+      "bounces" : 0.1,
+      "tackles" : 3.5,
+      "contestedPossessions" : 6.1,
+      "uncontestedPossessions" : 6.0,
+      "totalPossessions" : 12.1,
+      "inside50s" : 2.1,
+      "marksInside50" : 0.6,
+      "contestedMarks" : 0.9,
+      "hitouts" : 17.9,
+      "onePercenters" : 3.2,
+      "disposalEfficiency" : null,
+      "clangers" : 1.6,
+      "freesFor" : 1.2,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 73.6,
+      "clearances" : {
+        "centreClearances" : 0.8,
+        "stoppageClearances" : 1.2,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 0.8,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Matthew",
+    "bio" : "<p>After spending virtually all of season 2014 on the sidelines following foot surgery, Matthew Kreuzer is looking forward to making his long-awaited return to Carlton&rsquo;s line-up.</p>\n<p>The big man had been looking fitter than ever after a solid pre-season, before suffering another minor setback with his foot. However Blues fans can breathe a sigh of relief as he&rsquo;s expected to return to playing early in the season.</p>\n<p>The former No. 1 draft pick is likely to spend more time in the forward line this year.<br />&nbsp;<br /> <strong>Draft history: </strong>2007 NAB AFL Draft priority selection (Carlton) No. 1 overall.<br /> <br /> <strong>Instagram:</strong> <a href=\"http://instagram.com/mattkreuz\" target=\"_blank\">mattkreuz</a></p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Carlton/Player Profiles/2015 - Profiles/KREUZER Matthew.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1989-05-13T02:00:00.000+0000",
+      "draftYear" : "2007",
+      "heightInCm" : 200,
+      "weightInKg" : 103,
+      "recruitedFrom" : "Bundoora/Northern U18",
+      "debutYear" : "2008"
+    },
+    "careerStats" : {
+      "goals" : 65.0,
+      "behinds" : 47.0,
+      "superGoals" : null,
+      "kicks" : 712.0,
+      "handballs" : 720.0,
+      "disposals" : 1432.0,
+      "marks" : 347.0,
+      "bounces" : 8.0,
+      "tackles" : 414.0,
+      "contestedPossessions" : 727.0,
+      "uncontestedPossessions" : 713.0,
+      "totalPossessions" : 1440.0,
+      "inside50s" : 244.0,
+      "marksInside50" : 68.0,
+      "contestedMarks" : 110.0,
+      "hitouts" : 2131.0,
+      "onePercenters" : 386.0,
+      "disposalEfficiency" : 67.8,
+      "clangers" : 194.0,
+      "freesFor" : 142.0,
+      "freesAgainst" : 76.0,
+      "dreamTeamPoints" : 8755.0,
+      "clearances" : {
+        "centreClearances" : 93.0,
+        "stoppageClearances" : 144.0,
+        "totalClearances" : 237.0
+      },
+      "rebound50s" : 100.0,
+      "goalAssists" : 53.0,
+      "goalAccuracy" : 46.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 5.8,
+            "disposals" : 12.8,
+            "marks" : 3.1,
+            "bounces" : 0.0,
+            "tackles" : 4.2,
+            "contestedPossessions" : 7.2,
+            "uncontestedPossessions" : 5.4,
+            "totalPossessions" : 12.5,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 1.2,
+            "hitouts" : 21.2,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 83.1,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.1
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261299",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Kreuzer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 91.0,
+            "handballs" : 75.0,
+            "disposals" : 166.0,
+            "marks" : 40.0,
+            "bounces" : 0.0,
+            "tackles" : 55.0,
+            "contestedPossessions" : 93.0,
+            "uncontestedPossessions" : 70.0,
+            "totalPossessions" : 163.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 15.0,
+            "hitouts" : 276.0,
+            "onePercenters" : 33.0,
+            "disposalEfficiency" : 63.3,
+            "clangers" : 35.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1080.0,
+            "clearances" : {
+              "centreClearances" : 14.0,
+              "stoppageClearances" : 26.0,
+              "totalClearances" : 40.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 47.4,
+            "ratingPoints" : 158.2,
+            "ranking" : 425.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261299",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Kreuzer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 79.2
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 5.0,
+            "disposals" : 14.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 13.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 13.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : null,
+            "clangers" : 4.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 59.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261299",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Kreuzer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 5.0,
+            "disposals" : 14.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 13.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 13.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 42.9,
+            "clangers" : 4.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 59.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 205.0,
+            "ranking" : 353.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261299",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Kreuzer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 71.6
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 6.8,
+            "handballs" : 4.6,
+            "disposals" : 11.5,
+            "marks" : 3.3,
+            "bounces" : 0.0,
+            "tackles" : 4.2,
+            "contestedPossessions" : 6.5,
+            "uncontestedPossessions" : 5.4,
+            "totalPossessions" : 11.9,
+            "inside50s" : 2.1,
+            "marksInside50" : 1.1,
+            "contestedMarks" : 1.3,
+            "hitouts" : 25.2,
+            "onePercenters" : 3.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 84.4,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261299",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Kreuzer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 116.0,
+            "handballs" : 79.0,
+            "disposals" : 195.0,
+            "marks" : 56.0,
+            "bounces" : 0.0,
+            "tackles" : 71.0,
+            "contestedPossessions" : 111.0,
+            "uncontestedPossessions" : 91.0,
+            "totalPossessions" : 202.0,
+            "inside50s" : 36.0,
+            "marksInside50" : 18.0,
+            "contestedMarks" : 22.0,
+            "hitouts" : 428.0,
+            "onePercenters" : 62.0,
+            "disposalEfficiency" : 64.6,
+            "clangers" : 23.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1435.0,
+            "clearances" : {
+              "centreClearances" : 15.0,
+              "stoppageClearances" : 23.0,
+              "totalClearances" : 38.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 29.6,
+            "ratingPoints" : 394.8,
+            "ranking" : 99.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261299",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Kreuzer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 81.9
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 7.3,
+            "handballs" : 4.8,
+            "disposals" : 12.1,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 3.3,
+            "contestedPossessions" : 6.7,
+            "uncontestedPossessions" : 5.4,
+            "totalPossessions" : 12.1,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 1.1,
+            "hitouts" : 22.5,
+            "onePercenters" : 3.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 78.3,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 2.5
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261299",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Kreuzer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 146.0,
+            "handballs" : 97.0,
+            "disposals" : 243.0,
+            "marks" : 60.0,
+            "bounces" : 0.0,
+            "tackles" : 66.0,
+            "contestedPossessions" : 134.0,
+            "uncontestedPossessions" : 109.0,
+            "totalPossessions" : 243.0,
+            "inside50s" : 47.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 23.0,
+            "hitouts" : 450.0,
+            "onePercenters" : 79.0,
+            "disposalEfficiency" : 68.3,
+            "clangers" : 38.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1567.0,
+            "clearances" : {
+              "centreClearances" : 20.0,
+              "stoppageClearances" : 30.0,
+              "totalClearances" : 50.0
+            },
+            "rebound50s" : 20.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 52.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261299",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Kreuzer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 85.5
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 6.2,
+            "disposals" : 11.7,
+            "marks" : 2.2,
+            "bounces" : 0.0,
+            "tackles" : 3.7,
+            "contestedPossessions" : 7.2,
+            "uncontestedPossessions" : 4.8,
+            "totalPossessions" : 12.0,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 1.0,
+            "hitouts" : 12.3,
+            "onePercenters" : 3.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 1.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 65.9,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261299",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Kreuzer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 66.0,
+            "handballs" : 74.0,
+            "disposals" : 140.0,
+            "marks" : 27.0,
+            "bounces" : 0.0,
+            "tackles" : 44.0,
+            "contestedPossessions" : 86.0,
+            "uncontestedPossessions" : 58.0,
+            "totalPossessions" : 144.0,
+            "inside50s" : 19.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 148.0,
+            "onePercenters" : 42.0,
+            "disposalEfficiency" : 65.0,
+            "clangers" : 19.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 791.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 19.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 43.7,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261299",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Kreuzer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 78.6
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 7.2,
+            "disposals" : 12.2,
+            "marks" : 2.2,
+            "bounces" : 0.0,
+            "tackles" : 4.8,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 6.3,
+            "totalPossessions" : 12.1,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 1.1,
+            "hitouts" : 18.4,
+            "onePercenters" : 2.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 1.3,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 75.9,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261299",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Kreuzer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 65.0,
+            "handballs" : 94.0,
+            "disposals" : 159.0,
+            "marks" : 29.0,
+            "bounces" : 0.0,
+            "tackles" : 62.0,
+            "contestedPossessions" : 75.0,
+            "uncontestedPossessions" : 82.0,
+            "totalPossessions" : 157.0,
+            "inside50s" : 32.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 14.0,
+            "hitouts" : 239.0,
+            "onePercenters" : 38.0,
+            "disposalEfficiency" : 72.3,
+            "clangers" : 20.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 987.0,
+            "clearances" : {
+              "centreClearances" : 11.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 24.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 41.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261299",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Kreuzer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 64.5
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 5.3,
+            "handballs" : 8.6,
+            "disposals" : 13.9,
+            "marks" : 3.2,
+            "bounces" : 0.3,
+            "tackles" : 3.1,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 7.9,
+            "totalPossessions" : 13.9,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.8,
+            "hitouts" : 17.1,
+            "onePercenters" : 3.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 1.3,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 76.0,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261299",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Kreuzer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 123.0,
+            "handballs" : 197.0,
+            "disposals" : 320.0,
+            "marks" : 73.0,
+            "bounces" : 6.0,
+            "tackles" : 71.0,
+            "contestedPossessions" : 138.0,
+            "uncontestedPossessions" : 181.0,
+            "totalPossessions" : 319.0,
+            "inside50s" : 48.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 19.0,
+            "hitouts" : 394.0,
+            "onePercenters" : 73.0,
+            "disposalEfficiency" : 70.6,
+            "clangers" : 27.0,
+            "freesFor" : 30.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1749.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 28.0,
+              "totalClearances" : 45.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 46.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261299",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Kreuzer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 68.0
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.8,
+            "handballs" : 4.9,
+            "disposals" : 9.7,
+            "marks" : 2.9,
+            "bounces" : 0.1,
+            "tackles" : 2.2,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 5.8,
+            "totalPossessions" : 10.0,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.2,
+            "hitouts" : 9.1,
+            "onePercenters" : 2.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 54.3,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261299",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Kreuzer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 96.0,
+            "handballs" : 99.0,
+            "disposals" : 195.0,
+            "marks" : 59.0,
+            "bounces" : 2.0,
+            "tackles" : 45.0,
+            "contestedPossessions" : 85.0,
+            "uncontestedPossessions" : 116.0,
+            "totalPossessions" : 201.0,
+            "inside50s" : 32.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 183.0,
+            "onePercenters" : 53.0,
+            "disposalEfficiency" : 69.7,
+            "clangers" : 28.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1087.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 21.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 72.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261299",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Kreuzer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 62.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 9.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 91.0,
+      "handballs" : 75.0,
+      "disposals" : 166.0,
+      "marks" : 40.0,
+      "bounces" : 0.0,
+      "tackles" : 55.0,
+      "contestedPossessions" : 93.0,
+      "uncontestedPossessions" : 70.0,
+      "totalPossessions" : 163.0,
+      "inside50s" : 29.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 15.0,
+      "hitouts" : 276.0,
+      "onePercenters" : 33.0,
+      "disposalEfficiency" : 63.3,
+      "clangers" : 35.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1080.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 40.0
+      },
+      "rebound50s" : 14.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 47.4,
+      "ratingPoints" : 158.2,
+      "ranking" : 425.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I261299",
+        "playerName" : {
+          "givenName" : "Matthew",
+          "surname" : "Kreuzer"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T30",
+        "teamAbbr" : "CARL",
+        "teamName" : "Carlton",
+        "teamNickname" : "Blues"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 144.2,
+        "ranking" : 443,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 144.2,
+        "ranking" : 26,
+        "ratingType" : "TEAM",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 144.2,
+        "ranking" : 31,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 138.3,
+        "ranking" : 276,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2007"
+    },
+    "careerGamesPlayed" : 119
+  }
+}

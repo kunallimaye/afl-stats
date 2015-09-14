@@ -1,0 +1,898 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280746",
+    "position" : "Right Wing",
+    "surname" : "Blease",
+    "jumperNumber" : 12,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.7,
+      "behinds" : 0.6,
+      "superGoals" : null,
+      "kicks" : 7.6,
+      "handballs" : 3.5,
+      "disposals" : 11.1,
+      "marks" : 2.1,
+      "bounces" : 1.7,
+      "tackles" : 1.6,
+      "contestedPossessions" : 3.9,
+      "uncontestedPossessions" : 7.3,
+      "totalPossessions" : 11.2,
+      "inside50s" : 2.2,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.8,
+      "disposalEfficiency" : null,
+      "clangers" : 1.9,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 46.2,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.6,
+        "totalClearances" : 0.7
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Sam",
+    "bio" : "<p>Blease entered 2013 with high hopes, but an ankle injury in a NAB Cup game set his season adrift. After a good pre-season, he had a stop-start year, playing 10 games, but the ankle remained a concern throughout. The setback did not allow him to deliver on the promise he showed in 2012 when he kicked 19 goals. Last year he kicked just five goals and his game-breaking runs were few and far between. He had an ankle operation at the end of the season and needed another big pre-season to continue to build his endurance. He is capable of playing a number of roles, including the wing, but looks a potential crumbing forward.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GeelongCats/Player Profiles/2015 - Profiles/BLEASE Sam.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-02-19T01:00:00.000+0000",
+      "draftYear" : "2008",
+      "heightInCm" : 184,
+      "weightInKg" : 77,
+      "recruitedFrom" : "Norwood (VMFL)/Yarra Valley Grammar//Eastern U18",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 25.0,
+      "behinds" : 21.0,
+      "superGoals" : null,
+      "kicks" : 260.0,
+      "handballs" : 118.0,
+      "disposals" : 378.0,
+      "marks" : 72.0,
+      "bounces" : 58.0,
+      "tackles" : 55.0,
+      "contestedPossessions" : 134.0,
+      "uncontestedPossessions" : 248.0,
+      "totalPossessions" : 382.0,
+      "inside50s" : 74.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 27.0,
+      "disposalEfficiency" : 61.1,
+      "clangers" : 64.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 24.0,
+      "dreamTeamPoints" : 1570.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 23.0
+      },
+      "rebound50s" : 34.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 41.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 3.0,
+            "disposals" : 7.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 7.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 24.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280746",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Blease"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 3.0,
+            "disposals" : 7.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 7.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 71.4,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 24.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 13.2,
+            "ranking" : 660.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280746",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Blease"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 32.5
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 2.5,
+            "disposals" : 10.5,
+            "marks" : 1.5,
+            "bounces" : 1.5,
+            "tackles" : 2.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 11.0,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 1.5,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 42.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280746",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Blease"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 16.0,
+            "handballs" : 5.0,
+            "disposals" : 21.0,
+            "marks" : 3.0,
+            "bounces" : 3.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 8.0,
+            "uncontestedPossessions" : 14.0,
+            "totalPossessions" : 22.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 42.9,
+            "clangers" : 5.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 85.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : 64.8,
+            "ranking" : 550.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280746",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Blease"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 73.4
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 5.6,
+            "handballs" : 1.9,
+            "disposals" : 7.5,
+            "marks" : 1.3,
+            "bounces" : 1.7,
+            "tackles" : 1.3,
+            "contestedPossessions" : 2.9,
+            "uncontestedPossessions" : 4.7,
+            "totalPossessions" : 7.6,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 31.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280746",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Blease"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 56.0,
+            "handballs" : 19.0,
+            "disposals" : 75.0,
+            "marks" : 13.0,
+            "bounces" : 17.0,
+            "tackles" : 13.0,
+            "contestedPossessions" : 29.0,
+            "uncontestedPossessions" : 47.0,
+            "totalPossessions" : 76.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 56.0,
+            "clangers" : 17.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 318.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 45.5,
+            "ratingPoints" : 182.2,
+            "ranking" : 377.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280746",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Blease"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 58.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 8.5,
+            "handballs" : 4.1,
+            "disposals" : 12.6,
+            "marks" : 2.7,
+            "bounces" : 1.8,
+            "tackles" : 2.1,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 8.2,
+            "totalPossessions" : 12.6,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 57.0,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280746",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Blease"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 19.0,
+            "behinds" : 13.0,
+            "superGoals" : null,
+            "kicks" : 136.0,
+            "handballs" : 65.0,
+            "disposals" : 201.0,
+            "marks" : 44.0,
+            "bounces" : 29.0,
+            "tackles" : 33.0,
+            "contestedPossessions" : 69.0,
+            "uncontestedPossessions" : 132.0,
+            "totalPossessions" : 201.0,
+            "inside50s" : 45.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 59.2,
+            "clangers" : 29.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 912.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 46.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280746",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Blease"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 69.8
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 9.6,
+            "handballs" : 5.2,
+            "disposals" : 14.8,
+            "marks" : 2.0,
+            "bounces" : 1.8,
+            "tackles" : 1.0,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 15.2,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 46.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 2.8,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280746",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Blease"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 48.0,
+            "handballs" : 26.0,
+            "disposals" : 74.0,
+            "marks" : 10.0,
+            "bounces" : 9.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 26.0,
+            "uncontestedPossessions" : 50.0,
+            "totalPossessions" : 76.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 75.7,
+            "clangers" : 12.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 231.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280746",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Blease"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 59.5
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280746",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Blease"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280746",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Blease"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280746",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Blease"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280746",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Blease"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 4.0,
+      "handballs" : 3.0,
+      "disposals" : 7.0,
+      "marks" : 2.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 2.0,
+      "uncontestedPossessions" : 5.0,
+      "totalPossessions" : 7.0,
+      "inside50s" : 2.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : 71.4,
+      "clangers" : 1.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 24.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 13.2,
+      "ranking" : 660.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280746",
+        "playerName" : {
+          "givenName" : "Sam",
+          "surname" : "Blease"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T70",
+        "teamAbbr" : "GEEL",
+        "teamName" : "Geelong Cats",
+        "teamNickname" : "Cats"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 13.2,
+        "ranking" : 662,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 13.2,
+        "ranking" : 36,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 13.2,
+        "ranking" : 57,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 3.5,
+        "ranking" : 649,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2008"
+    },
+    "careerGamesPlayed" : 34
+  }
+}

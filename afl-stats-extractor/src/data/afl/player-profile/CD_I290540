@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I290540",
+    "position" : "Full Back",
+    "surname" : "O'Shea",
+    "jumperNumber" : 13,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 8.9,
+      "handballs" : 6.7,
+      "disposals" : 15.6,
+      "marks" : 4.5,
+      "bounces" : 0.2,
+      "tackles" : 2.6,
+      "contestedPossessions" : 4.8,
+      "uncontestedPossessions" : 10.8,
+      "totalPossessions" : 15.6,
+      "inside50s" : 1.9,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.1,
+      "onePercenters" : 2.8,
+      "disposalEfficiency" : null,
+      "clangers" : 2.6,
+      "freesFor" : 0.6,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 62.6,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.6,
+        "totalClearances" : 0.7
+      },
+      "rebound50s" : 2.2,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Cam",
+    "bio" : "<p>The tall and versatile defender had to work hard for his 12 games last year, starting the season as emergency and spending the bulk of the year in the SANFL. His ability to play on a variety of opponents saw him promoted when injuries took their toll on the Power&rsquo;s backline and he played all but one game after round 15. O&rsquo;Shea has worked to improve his skills in recent seasons and is an underrated but effective player.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/PortAdelaide/Player Profiles/2015 profiles/OSHEA Cam.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-03-13T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 193,
+      "weightInKg" : 91,
+      "recruitedFrom" : "Emerald/Eastern U18",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 7.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 604.0,
+      "handballs" : 458.0,
+      "disposals" : 1062.0,
+      "marks" : 306.0,
+      "bounces" : 12.0,
+      "tackles" : 177.0,
+      "contestedPossessions" : 327.0,
+      "uncontestedPossessions" : 735.0,
+      "totalPossessions" : 1062.0,
+      "inside50s" : 131.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 18.0,
+      "hitouts" : 8.0,
+      "onePercenters" : 190.0,
+      "disposalEfficiency" : 75.7,
+      "clangers" : 175.0,
+      "freesFor" : 40.0,
+      "freesAgainst" : 65.0,
+      "dreamTeamPoints" : 4254.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 39.0,
+        "totalClearances" : 51.0
+      },
+      "rebound50s" : 149.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 41.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 9.8,
+            "handballs" : 4.2,
+            "disposals" : 14.0,
+            "marks" : 4.4,
+            "bounces" : 0.1,
+            "tackles" : 2.6,
+            "contestedPossessions" : 2.9,
+            "uncontestedPossessions" : 11.0,
+            "totalPossessions" : 13.9,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.3,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 58.8,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 2.6,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290540",
+            "playerName" : {
+              "givenName" : "Cam",
+              "surname" : "O'Shea"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 98.0,
+            "handballs" : 42.0,
+            "disposals" : 140.0,
+            "marks" : 44.0,
+            "bounces" : 1.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 29.0,
+            "uncontestedPossessions" : 110.0,
+            "totalPossessions" : 139.0,
+            "inside50s" : 21.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 80.7,
+            "clangers" : 24.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 588.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 26.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 161.8,
+            "ranking" : 418.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290540",
+            "playerName" : {
+              "givenName" : "Cam",
+              "surname" : "O'Shea"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 85.5
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.7,
+            "handballs" : 9.2,
+            "disposals" : 18.9,
+            "marks" : 5.0,
+            "bounces" : 0.4,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 12.6,
+            "totalPossessions" : 18.4,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 67.2,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290540",
+            "playerName" : {
+              "givenName" : "Cam",
+              "surname" : "O'Shea"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 116.0,
+            "handballs" : 111.0,
+            "disposals" : 227.0,
+            "marks" : 60.0,
+            "bounces" : 5.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 70.0,
+            "uncontestedPossessions" : 151.0,
+            "totalPossessions" : 221.0,
+            "inside50s" : 23.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 35.0,
+            "disposalEfficiency" : 80.2,
+            "clangers" : 26.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 807.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 317.7,
+            "ranking" : 202.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290540",
+            "playerName" : {
+              "givenName" : "Cam",
+              "surname" : "O'Shea"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 87.5
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 9.7,
+            "handballs" : 8.5,
+            "disposals" : 18.2,
+            "marks" : 5.0,
+            "bounces" : 0.1,
+            "tackles" : 3.2,
+            "contestedPossessions" : 6.4,
+            "uncontestedPossessions" : 11.9,
+            "totalPossessions" : 18.3,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.3,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 72.8,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290540",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "O'Shea"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 232.0,
+            "handballs" : 205.0,
+            "disposals" : 437.0,
+            "marks" : 121.0,
+            "bounces" : 2.0,
+            "tackles" : 77.0,
+            "contestedPossessions" : 154.0,
+            "uncontestedPossessions" : 285.0,
+            "totalPossessions" : 439.0,
+            "inside50s" : 51.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 67.0,
+            "disposalEfficiency" : 76.0,
+            "clangers" : 72.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 26.0,
+            "dreamTeamPoints" : 1747.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 24.0,
+              "totalClearances" : 28.0
+            },
+            "rebound50s" : 52.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : 240.7,
+            "ranking" : 309.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290540",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "O'Shea"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 88.1
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.5,
+            "handballs" : 4.2,
+            "disposals" : 8.7,
+            "marks" : 2.7,
+            "bounces" : 0.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 2.7,
+            "uncontestedPossessions" : 6.2,
+            "totalPossessions" : 9.0,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 3.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 32.0,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290540",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "O'Shea"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 18.0,
+            "handballs" : 17.0,
+            "disposals" : 35.0,
+            "marks" : 11.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 11.0,
+            "uncontestedPossessions" : 25.0,
+            "totalPossessions" : 36.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 68.6,
+            "clangers" : 14.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 128.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290540",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "O'Shea"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 54.2
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.8,
+            "handballs" : 4.6,
+            "disposals" : 12.4,
+            "marks" : 3.9,
+            "bounces" : 0.2,
+            "tackles" : 2.7,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 9.1,
+            "totalPossessions" : 12.6,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 3.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 54.7,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290540",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "O'Shea"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 140.0,
+            "handballs" : 83.0,
+            "disposals" : 223.0,
+            "marks" : 70.0,
+            "bounces" : 4.0,
+            "tackles" : 48.0,
+            "contestedPossessions" : 63.0,
+            "uncontestedPossessions" : 164.0,
+            "totalPossessions" : 227.0,
+            "inside50s" : 31.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 62.0,
+            "disposalEfficiency" : 68.6,
+            "clangers" : 39.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 984.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 35.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290540",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "O'Shea"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 80.3
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 98.0,
+      "handballs" : 42.0,
+      "disposals" : 140.0,
+      "marks" : 44.0,
+      "bounces" : 1.0,
+      "tackles" : 26.0,
+      "contestedPossessions" : 29.0,
+      "uncontestedPossessions" : 110.0,
+      "totalPossessions" : 139.0,
+      "inside50s" : 21.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 23.0,
+      "disposalEfficiency" : 80.7,
+      "clangers" : 24.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 588.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 26.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 161.8,
+      "ranking" : 418.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I290540",
+        "playerName" : {
+          "givenName" : "Cam",
+          "surname" : "O'Shea"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T110",
+        "teamAbbr" : "PORT",
+        "teamName" : "Port Adelaide",
+        "teamNickname" : "Power"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 146.5,
+        "ranking" : 442,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 146.5,
+        "ranking" : 26,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 146.5,
+        "ranking" : 93,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 32.5,
+        "ranking" : 527,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 68
+  }
+}

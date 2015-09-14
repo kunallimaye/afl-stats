@@ -1,0 +1,338 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I970115",
+    "position" : "Right Forward Pocket",
+    "surname" : "Mead",
+    "jumperNumber" : 33,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Darren",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1971-03-29T02:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 193,
+      "weightInKg" : 98,
+      "recruitedFrom" : null,
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 5.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 528.0,
+      "handballs" : 325.0,
+      "disposals" : 853.0,
+      "marks" : 333.0,
+      "bounces" : 9.0,
+      "tackles" : 112.0,
+      "contestedPossessions" : 329.0,
+      "uncontestedPossessions" : 498.0,
+      "totalPossessions" : 827.0,
+      "inside50s" : 62.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 70.0,
+      "hitouts" : 124.0,
+      "onePercenters" : 130.0,
+      "disposalEfficiency" : 84.4,
+      "clangers" : 153.0,
+      "freesFor" : 39.0,
+      "freesAgainst" : 63.0,
+      "dreamTeamPoints" : 3689.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 32.0,
+        "totalClearances" : 40.0
+      },
+      "rebound50s" : 157.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 55.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.6,
+            "handballs" : 4.3,
+            "disposals" : 8.9,
+            "marks" : 3.7,
+            "bounces" : 0.2,
+            "tackles" : 1.2,
+            "contestedPossessions" : 3.2,
+            "uncontestedPossessions" : 5.6,
+            "totalPossessions" : 8.8,
+            "inside50s" : 0.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.2,
+            "hitouts" : 1.9,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 38.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970115",
+            "playerName" : {
+              "givenName" : "Darren",
+              "surname" : "Mead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 55.0,
+            "handballs" : 52.0,
+            "disposals" : 107.0,
+            "marks" : 45.0,
+            "bounces" : 3.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 39.0,
+            "uncontestedPossessions" : 67.0,
+            "totalPossessions" : 106.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 14.0,
+            "hitouts" : 23.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 83.2,
+            "clangers" : 20.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 458.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970115",
+            "playerName" : {
+              "givenName" : "Darren",
+              "surname" : "Mead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.6,
+            "handballs" : 4.1,
+            "disposals" : 10.7,
+            "marks" : 4.1,
+            "bounces" : 0.0,
+            "tackles" : 1.4,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 6.6,
+            "totalPossessions" : 10.1,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.6,
+            "hitouts" : 1.8,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 46.5,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970115",
+            "playerName" : {
+              "givenName" : "Darren",
+              "surname" : "Mead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 151.0,
+            "handballs" : 94.0,
+            "disposals" : 245.0,
+            "marks" : 94.0,
+            "bounces" : 1.0,
+            "tackles" : 32.0,
+            "contestedPossessions" : 80.0,
+            "uncontestedPossessions" : 152.0,
+            "totalPossessions" : 232.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 14.0,
+            "hitouts" : 42.0,
+            "onePercenters" : 57.0,
+            "disposalEfficiency" : 83.3,
+            "clangers" : 41.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1070.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 39.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970115",
+            "playerName" : {
+              "givenName" : "Darren",
+              "surname" : "Mead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 55.0,
+      "handballs" : 52.0,
+      "disposals" : 107.0,
+      "marks" : 45.0,
+      "bounces" : 3.0,
+      "tackles" : 14.0,
+      "contestedPossessions" : 39.0,
+      "uncontestedPossessions" : 67.0,
+      "totalPossessions" : 106.0,
+      "inside50s" : 3.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 23.0,
+      "onePercenters" : 24.0,
+      "disposalEfficiency" : 83.2,
+      "clangers" : 20.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 9.0,
+      "dreamTeamPoints" : 458.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 19.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

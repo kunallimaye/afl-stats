@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I281048",
+    "position" : "Interchange",
+    "surname" : "Harwood",
+    "jumperNumber" : 2,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 8.1,
+      "handballs" : 7.6,
+      "disposals" : 15.8,
+      "marks" : 3.5,
+      "bounces" : 0.4,
+      "tackles" : 2.9,
+      "contestedPossessions" : 5.2,
+      "uncontestedPossessions" : 10.4,
+      "totalPossessions" : 15.6,
+      "inside50s" : 1.2,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.1,
+      "disposalEfficiency" : null,
+      "clangers" : 1.6,
+      "freesFor" : 0.8,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 61.2,
+      "clearances" : {
+        "centreClearances" : 0.3,
+        "stoppageClearances" : 0.7,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 1.9,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Ryan",
+    "bio" : "<p>Tasmanian 'tough-nut' Ryan Harwood was initially recruited to the Lions as a genuine inside midfielder, but has since developed into a creative half-back. He is now an important part of the Lions' back six.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2015 - Profiles/HARWOOD Ryan.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-07-08T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 184,
+      "weightInKg" : 90,
+      "recruitedFrom" : "Glenorchy/Tas U18",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 6.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 480.0,
+      "handballs" : 450.0,
+      "disposals" : 930.0,
+      "marks" : 205.0,
+      "bounces" : 25.0,
+      "tackles" : 172.0,
+      "contestedPossessions" : 306.0,
+      "uncontestedPossessions" : 615.0,
+      "totalPossessions" : 921.0,
+      "inside50s" : 72.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 16.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 123.0,
+      "disposalEfficiency" : 80.6,
+      "clangers" : 92.0,
+      "freesFor" : 45.0,
+      "freesAgainst" : 40.0,
+      "dreamTeamPoints" : 3611.0,
+      "clearances" : {
+        "centreClearances" : 15.0,
+        "stoppageClearances" : 44.0,
+        "totalClearances" : 59.0
+      },
+      "rebound50s" : 110.0,
+      "goalAssists" : 19.0,
+      "goalAccuracy" : 46.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.3,
+            "handballs" : 4.0,
+            "disposals" : 11.3,
+            "marks" : 2.7,
+            "bounces" : 0.7,
+            "tackles" : 2.3,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 9.3,
+            "totalPossessions" : 12.3,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 45.3,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281048",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Harwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 22.0,
+            "handballs" : 12.0,
+            "disposals" : 34.0,
+            "marks" : 8.0,
+            "bounces" : 2.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 9.0,
+            "uncontestedPossessions" : 28.0,
+            "totalPossessions" : 37.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 82.4,
+            "clangers" : 4.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 136.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 176.1,
+            "ranking" : 397.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281048",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Harwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 57.0
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 10.2,
+            "handballs" : 8.4,
+            "disposals" : 18.6,
+            "marks" : 4.1,
+            "bounces" : 0.3,
+            "tackles" : 3.1,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 12.7,
+            "totalPossessions" : 18.3,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 72.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281048",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Harwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 143.0,
+            "handballs" : 117.0,
+            "disposals" : 260.0,
+            "marks" : 58.0,
+            "bounces" : 4.0,
+            "tackles" : 43.0,
+            "contestedPossessions" : 78.0,
+            "uncontestedPossessions" : 178.0,
+            "totalPossessions" : 256.0,
+            "inside50s" : 18.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 47.0,
+            "disposalEfficiency" : 82.7,
+            "clangers" : 25.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 1015.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 261.6,
+            "ranking" : 286.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281048",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Harwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 79.7
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.9,
+            "handballs" : 7.2,
+            "disposals" : 16.1,
+            "marks" : 3.8,
+            "bounces" : 1.1,
+            "tackles" : 3.0,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 10.9,
+            "totalPossessions" : 15.8,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 63.6,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281048",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Harwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 116.0,
+            "handballs" : 93.0,
+            "disposals" : 209.0,
+            "marks" : 49.0,
+            "bounces" : 14.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 63.0,
+            "uncontestedPossessions" : 142.0,
+            "totalPossessions" : 205.0,
+            "inside50s" : 18.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 83.7,
+            "clangers" : 21.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 827.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 217.4,
+            "ranking" : 333.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281048",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Harwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 77.5
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 7.0,
+            "disposals" : 15.2,
+            "marks" : 3.7,
+            "bounces" : 0.2,
+            "tackles" : 2.2,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 9.9,
+            "totalPossessions" : 14.9,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 57.2,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281048",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Harwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 131.0,
+            "handballs" : 112.0,
+            "disposals" : 243.0,
+            "marks" : 60.0,
+            "bounces" : 4.0,
+            "tackles" : 36.0,
+            "contestedPossessions" : 80.0,
+            "uncontestedPossessions" : 158.0,
+            "totalPossessions" : 238.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 38.0,
+            "disposalEfficiency" : 80.2,
+            "clangers" : 23.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 916.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 38.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281048",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Harwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 76.3
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.9,
+            "handballs" : 8.0,
+            "disposals" : 13.9,
+            "marks" : 2.1,
+            "bounces" : 0.1,
+            "tackles" : 3.6,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 8.4,
+            "totalPossessions" : 14.1,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 55.3,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.3
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281048",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Harwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 41.0,
+            "handballs" : 56.0,
+            "disposals" : 97.0,
+            "marks" : 15.0,
+            "bounces" : 1.0,
+            "tackles" : 25.0,
+            "contestedPossessions" : 40.0,
+            "uncontestedPossessions" : 59.0,
+            "totalPossessions" : 99.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 73.2,
+            "clangers" : 7.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 387.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281048",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Harwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 57.0
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.5,
+            "handballs" : 10.0,
+            "disposals" : 14.5,
+            "marks" : 2.5,
+            "bounces" : 0.0,
+            "tackles" : 3.7,
+            "contestedPossessions" : 6.2,
+            "uncontestedPossessions" : 8.3,
+            "totalPossessions" : 14.5,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 55.0,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281048",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Harwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 27.0,
+            "handballs" : 60.0,
+            "disposals" : 87.0,
+            "marks" : 15.0,
+            "bounces" : 0.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 37.0,
+            "uncontestedPossessions" : 50.0,
+            "totalPossessions" : 87.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 75.9,
+            "clangers" : 12.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 330.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281048",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Harwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 63.2
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 22.0,
+      "handballs" : 12.0,
+      "disposals" : 34.0,
+      "marks" : 8.0,
+      "bounces" : 2.0,
+      "tackles" : 7.0,
+      "contestedPossessions" : 9.0,
+      "uncontestedPossessions" : 28.0,
+      "totalPossessions" : 37.0,
+      "inside50s" : 2.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 5.0,
+      "disposalEfficiency" : 82.4,
+      "clangers" : 4.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 3.0,
+      "dreamTeamPoints" : 136.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 8.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 176.1,
+      "ranking" : 397.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I281048",
+        "playerName" : {
+          "givenName" : "Ryan",
+          "surname" : "Harwood"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 169.4,
+        "ranking" : 404,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 169.4,
+        "ranking" : 21,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 169.4,
+        "ranking" : 84,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 13.9,
+        "ranking" : 593,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 59
+  }
+}

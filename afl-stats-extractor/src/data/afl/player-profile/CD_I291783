@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291783",
+    "position" : "Rover",
+    "surname" : "Shiel",
+    "jumperNumber" : 5,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.5,
+      "behinds" : 0.5,
+      "superGoals" : null,
+      "kicks" : 10.2,
+      "handballs" : 11.7,
+      "disposals" : 21.8,
+      "marks" : 3.2,
+      "bounces" : 0.9,
+      "tackles" : 4.0,
+      "contestedPossessions" : 8.6,
+      "uncontestedPossessions" : 13.3,
+      "totalPossessions" : 21.9,
+      "inside50s" : 3.4,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.1,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : null,
+      "clangers" : 2.4,
+      "freesFor" : 0.8,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 81.6,
+      "clearances" : {
+        "centreClearances" : 1.7,
+        "stoppageClearances" : 2.2,
+        "totalClearances" : 3.8
+      },
+      "rebound50s" : 1.4,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Dylan",
+    "bio" : "<p>Dylan Shiel is a classy on-baller who assured his place on the GIANTS' list with an eight-goal performance from the midfield whilst playing school football for Caulfield Grammar against Haileybury College on a wet Saturday in June 2010. The former Dandenong Stingray was pre-selected by the GIANTS as a 17-year-old and moved to Sydney in 2011 to begin his AFL career with the GIANTS. Shiel made his AFL debut in Round 1, 2012 and was nominated for the NAB AFL Rising Star Award later in his first season. Shiel was named in the GIANTS’ emerging leaders group before the 2014 season.<br>\n&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2015 - Profiles/SHIEL Dylan.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-03-09T02:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 181,
+      "weightInKg" : 83,
+      "recruitedFrom" : "Edithvale-Aspendale (Vic)/Caulfield Grammar (Vic)/Dandenong U18",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 33.0,
+      "behinds" : 35.0,
+      "superGoals" : null,
+      "kicks" : 652.0,
+      "handballs" : 746.0,
+      "disposals" : 1398.0,
+      "marks" : 204.0,
+      "bounces" : 58.0,
+      "tackles" : 254.0,
+      "contestedPossessions" : 548.0,
+      "uncontestedPossessions" : 854.0,
+      "totalPossessions" : 1402.0,
+      "inside50s" : 220.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 5.0,
+      "onePercenters" : 65.0,
+      "disposalEfficiency" : 73.0,
+      "clangers" : 154.0,
+      "freesFor" : 50.0,
+      "freesAgainst" : 48.0,
+      "dreamTeamPoints" : 5220.0,
+      "clearances" : {
+        "centreClearances" : 107.0,
+        "stoppageClearances" : 138.0,
+        "totalClearances" : 245.0
+      },
+      "rebound50s" : 89.0,
+      "goalAssists" : 32.0,
+      "goalAccuracy" : 40.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 11.7,
+            "handballs" : 14.4,
+            "disposals" : 26.1,
+            "marks" : 2.7,
+            "bounces" : 1.5,
+            "tackles" : 4.0,
+            "contestedPossessions" : 10.0,
+            "uncontestedPossessions" : 16.0,
+            "totalPossessions" : 26.0,
+            "inside50s" : 3.9,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 1.5,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 92.5,
+            "clearances" : {
+              "centreClearances" : 1.8,
+              "stoppageClearances" : 2.9,
+              "totalClearances" : 4.7
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291783",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Shiel"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 164.0,
+            "handballs" : 202.0,
+            "disposals" : 366.0,
+            "marks" : 38.0,
+            "bounces" : 21.0,
+            "tackles" : 56.0,
+            "contestedPossessions" : 140.0,
+            "uncontestedPossessions" : 224.0,
+            "totalPossessions" : 364.0,
+            "inside50s" : 55.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 75.1,
+            "clangers" : 32.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 1295.0,
+            "clearances" : {
+              "centreClearances" : 25.0,
+              "stoppageClearances" : 41.0,
+              "totalClearances" : 66.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 47.1,
+            "ratingPoints" : 421.6,
+            "ranking" : 77.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291783",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Shiel"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 75.7
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 10.9,
+            "handballs" : 12.2,
+            "disposals" : 23.1,
+            "marks" : 3.8,
+            "bounces" : 0.7,
+            "tackles" : 4.8,
+            "contestedPossessions" : 8.1,
+            "uncontestedPossessions" : 15.1,
+            "totalPossessions" : 23.1,
+            "inside50s" : 3.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 90.1,
+            "clearances" : {
+              "centreClearances" : 1.8,
+              "stoppageClearances" : 2.4,
+              "totalClearances" : 4.2
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291783",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Shiel"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 186.0,
+            "handballs" : 207.0,
+            "disposals" : 393.0,
+            "marks" : 65.0,
+            "bounces" : 12.0,
+            "tackles" : 82.0,
+            "contestedPossessions" : 137.0,
+            "uncontestedPossessions" : 256.0,
+            "totalPossessions" : 393.0,
+            "inside50s" : 63.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 75.8,
+            "clangers" : 38.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1531.0,
+            "clearances" : {
+              "centreClearances" : 31.0,
+              "stoppageClearances" : 40.0,
+              "totalClearances" : 71.0
+            },
+            "rebound50s" : 29.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : 379.0,
+            "ranking" : 124.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291783",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Shiel"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 76.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 9.2,
+            "handballs" : 10.3,
+            "disposals" : 19.6,
+            "marks" : 3.0,
+            "bounces" : 0.8,
+            "tackles" : 3.3,
+            "contestedPossessions" : 8.3,
+            "uncontestedPossessions" : 11.3,
+            "totalPossessions" : 19.7,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 72.0,
+            "clearances" : {
+              "centreClearances" : 1.6,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 3.4
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291783",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Shiel"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 194.0,
+            "handballs" : 217.0,
+            "disposals" : 411.0,
+            "marks" : 62.0,
+            "bounces" : 17.0,
+            "tackles" : 70.0,
+            "contestedPossessions" : 175.0,
+            "uncontestedPossessions" : 238.0,
+            "totalPossessions" : 413.0,
+            "inside50s" : 71.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 70.3,
+            "clangers" : 55.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1513.0,
+            "clearances" : {
+              "centreClearances" : 34.0,
+              "stoppageClearances" : 38.0,
+              "totalClearances" : 72.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 36.7,
+            "ratingPoints" : 374.2,
+            "ranking" : 125.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291783",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Shiel"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 79.3
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 10.0,
+            "disposals" : 19.0,
+            "marks" : 3.2,
+            "bounces" : 0.7,
+            "tackles" : 3.8,
+            "contestedPossessions" : 8.0,
+            "uncontestedPossessions" : 11.3,
+            "totalPossessions" : 19.3,
+            "inside50s" : 2.6,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 73.4,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291783",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Shiel"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 108.0,
+            "handballs" : 120.0,
+            "disposals" : 228.0,
+            "marks" : 39.0,
+            "bounces" : 8.0,
+            "tackles" : 46.0,
+            "contestedPossessions" : 96.0,
+            "uncontestedPossessions" : 136.0,
+            "totalPossessions" : 232.0,
+            "inside50s" : 31.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 69.7,
+            "clangers" : 29.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 881.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 19.0,
+              "totalClearances" : 36.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291783",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Shiel"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 77.8
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 8.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 164.0,
+      "handballs" : 202.0,
+      "disposals" : 366.0,
+      "marks" : 38.0,
+      "bounces" : 21.0,
+      "tackles" : 56.0,
+      "contestedPossessions" : 140.0,
+      "uncontestedPossessions" : 224.0,
+      "totalPossessions" : 364.0,
+      "inside50s" : 55.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 12.0,
+      "disposalEfficiency" : 75.1,
+      "clangers" : 32.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 6.0,
+      "dreamTeamPoints" : 1295.0,
+      "clearances" : {
+        "centreClearances" : 25.0,
+        "stoppageClearances" : 41.0,
+        "totalClearances" : 66.0
+      },
+      "rebound50s" : 18.0,
+      "goalAssists" : 11.0,
+      "goalAccuracy" : 47.1,
+      "ratingPoints" : 421.6,
+      "ranking" : 77.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291783",
+        "playerName" : {
+          "givenName" : "Dylan",
+          "surname" : "Shiel"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 416.1,
+        "ranking" : 80,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 416.1,
+        "ranking" : 5,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 416.1,
+        "ranking" : 45,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 218.8,
+        "ranking" : 115,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 64
+  }
+}

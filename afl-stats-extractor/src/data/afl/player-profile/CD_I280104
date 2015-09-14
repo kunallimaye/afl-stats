@@ -1,0 +1,898 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280104",
+    "position" : "Left Half Forward",
+    "surname" : "Blair",
+    "jumperNumber" : 11,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.8,
+      "behinds" : 0.5,
+      "superGoals" : null,
+      "kicks" : 7.4,
+      "handballs" : 9.0,
+      "disposals" : 16.4,
+      "marks" : 2.6,
+      "bounces" : 0.3,
+      "tackles" : 4.7,
+      "contestedPossessions" : 8.1,
+      "uncontestedPossessions" : 8.2,
+      "totalPossessions" : 16.4,
+      "inside50s" : 2.5,
+      "marksInside50" : 0.7,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.2,
+      "disposalEfficiency" : null,
+      "clangers" : 1.7,
+      "freesFor" : 1.0,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 71.3,
+      "clearances" : {
+        "centreClearances" : 0.7,
+        "stoppageClearances" : 1.7,
+        "totalClearances" : 2.4
+      },
+      "rebound50s" : 0.5,
+      "goalAssists" : 0.6,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jarryd",
+    "bio" : "<p>A remarkable football story, rising from the rookie list to an AFL premiership in the space of 13 weeks in 2010. Made his name predominently as a midfielder in his debut year but spent more time as a small forward in 2011 where he found his niche via his tackling and forward pressure. Entrenched himself in the midfield during the injury enforced absence of Luke Ball in 2012 and made an impression with his strength over the ball and fierce tackling. A smart player with a clever side-step that fools most of his opponents, the respect in which Blair is held was evident when he received the Gavin Brown Desire Indicator Award at the end of 2013.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Collingwood/Player Profiles/2015 - Profiles/BLAIR Jarryd.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1990-04-14T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 174,
+      "weightInKg" : 81,
+      "recruitedFrom" : "Wonthaggi/Gippsland U18",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 95.0,
+      "behinds" : 64.0,
+      "superGoals" : null,
+      "kicks" : 906.0,
+      "handballs" : 1093.0,
+      "disposals" : 1999.0,
+      "marks" : 321.0,
+      "bounces" : 33.0,
+      "tackles" : 575.0,
+      "contestedPossessions" : 993.0,
+      "uncontestedPossessions" : 1005.0,
+      "totalPossessions" : 1998.0,
+      "inside50s" : 301.0,
+      "marksInside50" : 81.0,
+      "contestedMarks" : 25.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 145.0,
+      "disposalEfficiency" : 70.7,
+      "clangers" : 203.0,
+      "freesFor" : 126.0,
+      "freesAgainst" : 75.0,
+      "dreamTeamPoints" : 8702.0,
+      "clearances" : {
+        "centreClearances" : 91.0,
+        "stoppageClearances" : 203.0,
+        "totalClearances" : 294.0
+      },
+      "rebound50s" : 59.0,
+      "goalAssists" : 78.0,
+      "goalAccuracy" : 47.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 8.5,
+            "disposals" : 15.5,
+            "marks" : 2.8,
+            "bounces" : 0.1,
+            "tackles" : 4.1,
+            "contestedPossessions" : 7.5,
+            "uncontestedPossessions" : 7.7,
+            "totalPossessions" : 15.2,
+            "inside50s" : 2.3,
+            "marksInside50" : 1.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 68.4,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280104",
+            "playerName" : {
+              "givenName" : "Jarryd",
+              "surname" : "Blair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 19.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 140.0,
+            "handballs" : 170.0,
+            "disposals" : 310.0,
+            "marks" : 57.0,
+            "bounces" : 3.0,
+            "tackles" : 83.0,
+            "contestedPossessions" : 150.0,
+            "uncontestedPossessions" : 154.0,
+            "totalPossessions" : 304.0,
+            "inside50s" : 46.0,
+            "marksInside50" : 22.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 71.6,
+            "clangers" : 32.0,
+            "freesFor" : 28.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1369.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 32.0,
+              "totalClearances" : 45.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 15.0,
+            "goalAccuracy" : 48.7,
+            "ratingPoints" : 370.8,
+            "ranking" : 128.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280104",
+            "playerName" : {
+              "givenName" : "Jarryd",
+              "surname" : "Blair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 81.0
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 6.6,
+            "handballs" : 8.8,
+            "disposals" : 15.4,
+            "marks" : 2.9,
+            "bounces" : 0.2,
+            "tackles" : 5.3,
+            "contestedPossessions" : 7.6,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 15.5,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 70.3,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280104",
+            "playerName" : {
+              "givenName" : "Jarryd",
+              "surname" : "Blair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 139.0,
+            "handballs" : 184.0,
+            "disposals" : 323.0,
+            "marks" : 60.0,
+            "bounces" : 4.0,
+            "tackles" : 112.0,
+            "contestedPossessions" : 159.0,
+            "uncontestedPossessions" : 167.0,
+            "totalPossessions" : 326.0,
+            "inside50s" : 53.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 69.7,
+            "clangers" : 32.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1476.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 25.0,
+              "totalClearances" : 37.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : 355.1,
+            "ranking" : 156.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280104",
+            "playerName" : {
+              "givenName" : "Jarryd",
+              "surname" : "Blair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 87.5
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.1,
+            "handballs" : 9.2,
+            "disposals" : 16.3,
+            "marks" : 2.6,
+            "bounces" : 0.0,
+            "tackles" : 5.7,
+            "contestedPossessions" : 7.7,
+            "uncontestedPossessions" : 8.7,
+            "totalPossessions" : 16.5,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 74.0,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280104",
+            "playerName" : {
+              "givenName" : "Jarryd",
+              "surname" : "Blair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 156.0,
+            "handballs" : 202.0,
+            "disposals" : 358.0,
+            "marks" : 58.0,
+            "bounces" : 1.0,
+            "tackles" : 126.0,
+            "contestedPossessions" : 170.0,
+            "uncontestedPossessions" : 192.0,
+            "totalPossessions" : 362.0,
+            "inside50s" : 42.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 69.8,
+            "clangers" : 42.0,
+            "freesFor" : 22.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1629.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 31.0,
+              "totalClearances" : 40.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 17.0,
+            "goalAccuracy" : 53.8,
+            "ratingPoints" : 383.2,
+            "ranking" : 114.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280104",
+            "playerName" : {
+              "givenName" : "Jarryd",
+              "surname" : "Blair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 83.1
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 11.1,
+            "disposals" : 19.8,
+            "marks" : 2.6,
+            "bounces" : 0.4,
+            "tackles" : 4.7,
+            "contestedPossessions" : 10.6,
+            "uncontestedPossessions" : 9.4,
+            "totalPossessions" : 20.0,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 78.7,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 2.9,
+              "totalClearances" : 4.4
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280104",
+            "playerName" : {
+              "givenName" : "Jarryd",
+              "surname" : "Blair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 200.0,
+            "handballs" : 255.0,
+            "disposals" : 455.0,
+            "marks" : 59.0,
+            "bounces" : 10.0,
+            "tackles" : 107.0,
+            "contestedPossessions" : 244.0,
+            "uncontestedPossessions" : 217.0,
+            "totalPossessions" : 461.0,
+            "inside50s" : 57.0,
+            "marksInside50" : 12.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 40.0,
+            "disposalEfficiency" : 72.3,
+            "clangers" : 42.0,
+            "freesFor" : 27.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1811.0,
+            "clearances" : {
+              "centreClearances" : 35.0,
+              "stoppageClearances" : 66.0,
+              "totalClearances" : 101.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 47.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280104",
+            "playerName" : {
+              "givenName" : "Jarryd",
+              "surname" : "Blair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 82.1
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.1,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 7.8,
+            "handballs" : 7.9,
+            "disposals" : 15.7,
+            "marks" : 2.3,
+            "bounces" : 0.4,
+            "tackles" : 4.0,
+            "contestedPossessions" : 8.0,
+            "uncontestedPossessions" : 7.6,
+            "totalPossessions" : 15.6,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 68.2,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 2.1
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280104",
+            "playerName" : {
+              "givenName" : "Jarryd",
+              "surname" : "Blair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 26.0,
+            "behinds" : 18.0,
+            "superGoals" : null,
+            "kicks" : 187.0,
+            "handballs" : 189.0,
+            "disposals" : 376.0,
+            "marks" : 56.0,
+            "bounces" : 9.0,
+            "tackles" : 95.0,
+            "contestedPossessions" : 192.0,
+            "uncontestedPossessions" : 183.0,
+            "totalPossessions" : 375.0,
+            "inside50s" : 72.0,
+            "marksInside50" : 18.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 69.7,
+            "clangers" : 37.0,
+            "freesFor" : 22.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1638.0,
+            "clearances" : {
+              "centreClearances" : 15.0,
+              "stoppageClearances" : 35.0,
+              "totalClearances" : 50.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 18.0,
+            "goalAccuracy" : 47.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280104",
+            "playerName" : {
+              "givenName" : "Jarryd",
+              "surname" : "Blair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 76.6
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 7.7,
+            "disposals" : 14.7,
+            "marks" : 2.6,
+            "bounces" : 0.5,
+            "tackles" : 4.3,
+            "contestedPossessions" : 6.7,
+            "uncontestedPossessions" : 7.7,
+            "totalPossessions" : 14.3,
+            "inside50s" : 2.6,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 64.9,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280104",
+            "playerName" : {
+              "givenName" : "Jarryd",
+              "surname" : "Blair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 84.0,
+            "handballs" : 93.0,
+            "disposals" : 177.0,
+            "marks" : 31.0,
+            "bounces" : 6.0,
+            "tackles" : 52.0,
+            "contestedPossessions" : 80.0,
+            "uncontestedPossessions" : 92.0,
+            "totalPossessions" : 172.0,
+            "inside50s" : 31.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 70.6,
+            "clangers" : 18.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 779.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 21.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 41.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280104",
+            "playerName" : {
+              "givenName" : "Jarryd",
+              "surname" : "Blair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 72.5
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280104",
+            "playerName" : {
+              "givenName" : "Jarryd",
+              "surname" : "Blair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280104",
+            "playerName" : {
+              "givenName" : "Jarryd",
+              "surname" : "Blair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 19.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 140.0,
+      "handballs" : 170.0,
+      "disposals" : 310.0,
+      "marks" : 57.0,
+      "bounces" : 3.0,
+      "tackles" : 83.0,
+      "contestedPossessions" : 150.0,
+      "uncontestedPossessions" : 154.0,
+      "totalPossessions" : 304.0,
+      "inside50s" : 46.0,
+      "marksInside50" : 22.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 22.0,
+      "disposalEfficiency" : 71.6,
+      "clangers" : 32.0,
+      "freesFor" : 28.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1369.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 32.0,
+        "totalClearances" : 45.0
+      },
+      "rebound50s" : 8.0,
+      "goalAssists" : 15.0,
+      "goalAccuracy" : 48.7,
+      "ratingPoints" : 370.8,
+      "ranking" : 128.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280104",
+        "playerName" : {
+          "givenName" : "Jarryd",
+          "surname" : "Blair"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T40",
+        "teamAbbr" : "COLL",
+        "teamName" : "Collingwood",
+        "teamNickname" : "Magpies"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 372.2,
+        "ranking" : 129,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 372.2,
+        "ranking" : 5,
+        "ratingType" : "TEAM",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 372.2,
+        "ranking" : 15,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 200.2,
+        "ranking" : 149,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2008"
+    },
+    "careerGamesPlayed" : 122
+  }
+}

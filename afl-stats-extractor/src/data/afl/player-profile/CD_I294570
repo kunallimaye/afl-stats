@@ -1,0 +1,486 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I294570",
+    "position" : "Left Forward Pocket",
+    "surname" : "Kent",
+    "jumperNumber" : 16,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.7,
+      "behinds" : 0.6,
+      "superGoals" : null,
+      "kicks" : 7.1,
+      "handballs" : 3.6,
+      "disposals" : 10.7,
+      "marks" : 2.7,
+      "bounces" : 0.5,
+      "tackles" : 1.8,
+      "contestedPossessions" : 4.1,
+      "uncontestedPossessions" : 6.7,
+      "totalPossessions" : 10.8,
+      "inside50s" : 2.6,
+      "marksInside50" : 0.6,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.6,
+      "disposalEfficiency" : null,
+      "clangers" : 2.1,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.8,
+      "dreamTeamPoints" : 47.1,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.5,
+        "totalClearances" : 0.6
+      },
+      "rebound50s" : 0.4,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Dean",
+    "bio" : "<p>Battled a calf injury early in the season and had an ordinary start to the year as a result. After a stint in the VFL, he began to show his ability following his return to the team in round 13. Kicked a brilliant running goal in the win that week against Essendon and was encouraged to take the game on and run with the ball. Averaged just 12 disposals a game as a high half-forward, but showed in bursts he can be damaging. Kicked 12 goals in 13 games to make reasonable progress on his excellent first season.<br>\n<br>\n<b>Draft history:</b> 2012 NAB AFL Draft 3rd round selection (Melbourne) No. 48 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Melbourne/Player Profiles/2015 - Profiles/KENT Dean.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1994-02-24T01:00:00.000+0000",
+      "draftYear" : "2012",
+      "heightInCm" : 179,
+      "weightInKg" : 82,
+      "recruitedFrom" : "Federals (WA)/Perth (WAFL)",
+      "debutYear" : "2013"
+    },
+    "careerStats" : {
+      "goals" : 24.0,
+      "behinds" : 19.0,
+      "superGoals" : null,
+      "kicks" : 228.0,
+      "handballs" : 115.0,
+      "disposals" : 343.0,
+      "marks" : 87.0,
+      "bounces" : 17.0,
+      "tackles" : 58.0,
+      "contestedPossessions" : 132.0,
+      "uncontestedPossessions" : 214.0,
+      "totalPossessions" : 346.0,
+      "inside50s" : 82.0,
+      "marksInside50" : 19.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 20.0,
+      "disposalEfficiency" : 64.4,
+      "clangers" : 67.0,
+      "freesFor" : 16.0,
+      "freesAgainst" : 26.0,
+      "dreamTeamPoints" : 1508.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 17.0,
+        "totalClearances" : 19.0
+      },
+      "rebound50s" : 13.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 41.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 3.7,
+            "disposals" : 9.7,
+            "marks" : 1.2,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 4.5,
+            "totalPossessions" : 9.7,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.2,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 1.2,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 37.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294570",
+            "playerName" : {
+              "givenName" : "Dean",
+              "surname" : "Kent"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 24.0,
+            "handballs" : 15.0,
+            "disposals" : 39.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 21.0,
+            "uncontestedPossessions" : 18.0,
+            "totalPossessions" : 39.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 53.8,
+            "clangers" : 12.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 151.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 28.6,
+            "ratingPoints" : 132.0,
+            "ranking" : 462.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294570",
+            "playerName" : {
+              "givenName" : "Dean",
+              "surname" : "Kent"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 66.1
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 4.5,
+            "disposals" : 12.0,
+            "marks" : 3.2,
+            "bounces" : 0.5,
+            "tackles" : 1.9,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 12.2,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 53.0,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294570",
+            "playerName" : {
+              "givenName" : "Dean",
+              "surname" : "Kent"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 98.0,
+            "handballs" : 58.0,
+            "disposals" : 156.0,
+            "marks" : 42.0,
+            "bounces" : 6.0,
+            "tackles" : 25.0,
+            "contestedPossessions" : 54.0,
+            "uncontestedPossessions" : 104.0,
+            "totalPossessions" : 158.0,
+            "inside50s" : 28.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 71.2,
+            "clangers" : 30.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 689.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 44.4,
+            "ratingPoints" : 173.8,
+            "ranking" : 387.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294570",
+            "playerName" : {
+              "givenName" : "Dean",
+              "surname" : "Kent"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 71.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.1,
+            "handballs" : 2.8,
+            "disposals" : 9.9,
+            "marks" : 2.7,
+            "bounces" : 0.7,
+            "tackles" : 1.7,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 6.1,
+            "totalPossessions" : 9.9,
+            "inside50s" : 3.1,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 44.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294570",
+            "playerName" : {
+              "givenName" : "Dean",
+              "surname" : "Kent"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 106.0,
+            "handballs" : 42.0,
+            "disposals" : 148.0,
+            "marks" : 40.0,
+            "bounces" : 11.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 57.0,
+            "uncontestedPossessions" : 92.0,
+            "totalPossessions" : 149.0,
+            "inside50s" : 46.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 60.1,
+            "clangers" : 25.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 668.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 41.7,
+            "ratingPoints" : 88.8,
+            "ranking" : 516.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294570",
+            "playerName" : {
+              "givenName" : "Dean",
+              "surname" : "Kent"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 67.8
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 24.0,
+      "handballs" : 15.0,
+      "disposals" : 39.0,
+      "marks" : 5.0,
+      "bounces" : 0.0,
+      "tackles" : 7.0,
+      "contestedPossessions" : 21.0,
+      "uncontestedPossessions" : 18.0,
+      "totalPossessions" : 39.0,
+      "inside50s" : 8.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : 53.8,
+      "clangers" : 12.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 5.0,
+      "dreamTeamPoints" : 151.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 28.6,
+      "ratingPoints" : 132.0,
+      "ranking" : 462.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I294570",
+        "playerName" : {
+          "givenName" : "Dean",
+          "surname" : "Kent"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T90",
+        "teamAbbr" : "MELB",
+        "teamName" : "Melbourne",
+        "teamNickname" : "Demons"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 123.1,
+        "ranking" : 471,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 123.1,
+        "ranking" : 26,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 123.1,
+        "ranking" : 65,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 20.2,
+        "ranking" : 568,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2012"
+    },
+    "careerGamesPlayed" : 32
+  }
+}

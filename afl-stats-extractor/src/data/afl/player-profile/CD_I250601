@@ -1,0 +1,682 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I250601",
+    "position" : "Right Forward Pocket",
+    "surname" : "Markovic",
+    "jumperNumber" : 37,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 6.0,
+      "handballs" : 3.9,
+      "disposals" : 9.9,
+      "marks" : 3.3,
+      "bounces" : 0.3,
+      "tackles" : 1.9,
+      "contestedPossessions" : 3.9,
+      "uncontestedPossessions" : 6.0,
+      "totalPossessions" : 9.9,
+      "inside50s" : 0.2,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.9,
+      "hitouts" : 0.1,
+      "onePercenters" : 5.7,
+      "disposalEfficiency" : null,
+      "clangers" : 1.8,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.9,
+      "dreamTeamPoints" : 42.3,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.2,
+        "totalClearances" : 0.2
+      },
+      "rebound50s" : 1.9,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Lukas",
+    "bio" : "<p>The honest defender has performed admirably against a number of the opposition’s key powerhouses when given the opportunity at senior level. After a late start to his AFL career Markovic is hitting his stride and becoming more confident in his abilities. After spending a year on Hawthorn’s rookie list, the 24 year old was given another opportunity through the 2009 AFL National Draft (pick 63 overall).&nbsp;<b><br>\n<br>\n<br>\n</b>&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WesternBulldogs/Player Profiles/2013 - Profiles/MARKOVIC Lukas.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1987-01-05T01:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 193,
+      "weightInKg" : 93,
+      "recruitedFrom" : "South Croydon/Eastern U18/Hawthorn Rookies/Box Hill Hawks",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 5.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 173.0,
+      "handballs" : 114.0,
+      "disposals" : 287.0,
+      "marks" : 96.0,
+      "bounces" : 10.0,
+      "tackles" : 55.0,
+      "contestedPossessions" : 113.0,
+      "uncontestedPossessions" : 173.0,
+      "totalPossessions" : 286.0,
+      "inside50s" : 7.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 25.0,
+      "hitouts" : 3.0,
+      "onePercenters" : 164.0,
+      "disposalEfficiency" : 76.3,
+      "clangers" : 53.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 25.0,
+      "dreamTeamPoints" : 1228.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 7.0,
+        "totalClearances" : 7.0
+      },
+      "rebound50s" : 56.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 83.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 3.2,
+            "handballs" : 5.7,
+            "disposals" : 9.0,
+            "marks" : 3.5,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 4.7,
+            "totalPossessions" : 9.2,
+            "inside50s" : 0.2,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.7,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 0.7,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 47.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250601",
+            "playerName" : {
+              "givenName" : "Lukas",
+              "surname" : "Markovic"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 13.0,
+            "handballs" : 23.0,
+            "disposals" : 36.0,
+            "marks" : 14.0,
+            "bounces" : 0.0,
+            "tackles" : 8.0,
+            "contestedPossessions" : 18.0,
+            "uncontestedPossessions" : 19.0,
+            "totalPossessions" : 37.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 83.3,
+            "clangers" : 3.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 191.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 83.3,
+            "ratingPoints" : 87.7,
+            "ranking" : 522.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250601",
+            "playerName" : {
+              "givenName" : "Lukas",
+              "surname" : "Markovic"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 87.1
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 3.3,
+            "disposals" : 10.3,
+            "marks" : 4.2,
+            "bounces" : 0.2,
+            "tackles" : 1.4,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 10.6,
+            "inside50s" : 0.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.9,
+            "freesFor" : 0.3,
+            "freesAgainst" : 1.7,
+            "dreamTeamPoints" : 41.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250601",
+            "playerName" : {
+              "givenName" : "Lukas",
+              "surname" : "Markovic"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 63.0,
+            "handballs" : 30.0,
+            "disposals" : 93.0,
+            "marks" : 38.0,
+            "bounces" : 2.0,
+            "tackles" : 13.0,
+            "contestedPossessions" : 32.0,
+            "uncontestedPossessions" : 63.0,
+            "totalPossessions" : 95.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 57.0,
+            "disposalEfficiency" : 80.6,
+            "clangers" : 26.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 373.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250601",
+            "playerName" : {
+              "givenName" : "Lukas",
+              "surname" : "Markovic"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 90.6
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.1,
+            "handballs" : 3.8,
+            "disposals" : 9.9,
+            "marks" : 2.7,
+            "bounces" : 0.5,
+            "tackles" : 2.1,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 5.7,
+            "totalPossessions" : 9.6,
+            "inside50s" : 0.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 41.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 2.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250601",
+            "playerName" : {
+              "givenName" : "Lukas",
+              "surname" : "Markovic"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 97.0,
+            "handballs" : 61.0,
+            "disposals" : 158.0,
+            "marks" : 44.0,
+            "bounces" : 8.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 63.0,
+            "uncontestedPossessions" : 91.0,
+            "totalPossessions" : 154.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 100.0,
+            "disposalEfficiency" : 72.2,
+            "clangers" : 24.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 664.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 41.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250601",
+            "playerName" : {
+              "givenName" : "Lukas",
+              "surname" : "Markovic"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 89.8
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250601",
+            "playerName" : {
+              "givenName" : "Lukas",
+              "surname" : "Markovic"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250601",
+            "playerName" : {
+              "givenName" : "Lukas",
+              "surname" : "Markovic"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250601",
+            "playerName" : {
+              "givenName" : "Lukas",
+              "surname" : "Markovic"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250601",
+            "playerName" : {
+              "givenName" : "Lukas",
+              "surname" : "Markovic"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 5.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 13.0,
+      "handballs" : 23.0,
+      "disposals" : 36.0,
+      "marks" : 14.0,
+      "bounces" : 0.0,
+      "tackles" : 8.0,
+      "contestedPossessions" : 18.0,
+      "uncontestedPossessions" : 19.0,
+      "totalPossessions" : 37.0,
+      "inside50s" : 1.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 3.0,
+      "onePercenters" : 7.0,
+      "disposalEfficiency" : 83.3,
+      "clangers" : 3.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 191.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 3.0,
+        "totalClearances" : 3.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 83.3,
+      "ratingPoints" : 87.7,
+      "ranking" : 522.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201301427",
+      "player" : {
+        "playerId" : "CD_I250601",
+        "playerName" : {
+          "givenName" : "Lukas",
+          "surname" : "Markovic"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T140",
+        "teamAbbr" : "WB",
+        "teamName" : "Western Bulldogs",
+        "teamNickname" : "Bulldogs"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 80.0,
+        "ranking" : 526,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 80.0,
+        "ranking" : 31,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 80.0,
+        "ranking" : 167,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 29
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I990425",
+    "position" : "Interchange",
+    "surname" : "Johnson",
+    "jumperNumber" : 30,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 4.6,
+      "handballs" : 3.6,
+      "disposals" : 8.1,
+      "marks" : 2.4,
+      "bounces" : 0.0,
+      "tackles" : 1.7,
+      "contestedPossessions" : 3.3,
+      "uncontestedPossessions" : 4.9,
+      "totalPossessions" : 8.1,
+      "inside50s" : 2.1,
+      "marksInside50" : 0.3,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.7,
+      "disposalEfficiency" : null,
+      "clangers" : 1.7,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 35.1,
+      "clearances" : {
+        "centreClearances" : 0.3,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.3
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Blaine",
+    "bio" : "<p>Perth teenager Blaine Johnson played an impressive five AFL games in his first season as a Carlton rookie, after being upgraded following Heath Scotland&rsquo;s move to the long-term injury list.</p>\n<p>The half-forward made his debut against Collingwood in Round 15, with his standout performance coming the following week when he kicked his first AFL goal, gathered 15 disposals and took nine marks against St Kilda.</p>\n<p>He also starred for Carlton&rsquo;s VFL-affiliate the Northern Blues, winning the goalkicking award with 17 goals in 13 VFL games.<br /><br /> <strong>Draft history:</strong> 2014 Rookie Draft selection (Carlton) No. 43.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Carlton/Player Profiles/2015 - Profiles/JOHNSON Blaine.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1995-07-28T02:00:00.000+0000",
+      "draftYear" : "2014",
+      "heightInCm" : 186,
+      "weightInKg" : 84,
+      "recruitedFrom" : null,
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 1.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 32.0,
+      "handballs" : 25.0,
+      "disposals" : 57.0,
+      "marks" : 17.0,
+      "bounces" : 0.0,
+      "tackles" : 12.0,
+      "contestedPossessions" : 23.0,
+      "uncontestedPossessions" : 34.0,
+      "totalPossessions" : 57.0,
+      "inside50s" : 15.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 5.0,
+      "disposalEfficiency" : 66.7,
+      "clangers" : 12.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 4.0,
+      "dreamTeamPoints" : 246.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 16.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 2.5,
+            "handballs" : 5.0,
+            "disposals" : 7.5,
+            "marks" : 1.5,
+            "bounces" : 0.0,
+            "tackles" : 2.5,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 4.5,
+            "totalPossessions" : 7.5,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 29.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990425",
+            "playerName" : {
+              "givenName" : "Blaine",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 10.0,
+            "disposals" : 15.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 15.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 80.0,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 59.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 23.5,
+            "ranking" : 634.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990425",
+            "playerName" : {
+              "givenName" : "Blaine",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 72.7
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 5.4,
+            "handballs" : 3.0,
+            "disposals" : 8.4,
+            "marks" : 2.8,
+            "bounces" : 0.0,
+            "tackles" : 1.4,
+            "contestedPossessions" : 3.4,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 8.4,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 37.4,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990425",
+            "playerName" : {
+              "givenName" : "Blaine",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 27.0,
+            "handballs" : 15.0,
+            "disposals" : 42.0,
+            "marks" : 14.0,
+            "bounces" : 0.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 17.0,
+            "uncontestedPossessions" : 25.0,
+            "totalPossessions" : 42.0,
+            "inside50s" : 11.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 61.9,
+            "clangers" : 9.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 187.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : 14.8,
+            "ranking" : 659.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990425",
+            "playerName" : {
+              "givenName" : "Blaine",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 66.3
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 5.0,
+      "handballs" : 10.0,
+      "disposals" : 15.0,
+      "marks" : 3.0,
+      "bounces" : 0.0,
+      "tackles" : 5.0,
+      "contestedPossessions" : 6.0,
+      "uncontestedPossessions" : 9.0,
+      "totalPossessions" : 15.0,
+      "inside50s" : 4.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : 80.0,
+      "clangers" : 3.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 2.0,
+      "dreamTeamPoints" : 59.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 23.5,
+      "ranking" : 634.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I990425",
+        "playerName" : {
+          "givenName" : "Blaine",
+          "surname" : "Johnson"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T30",
+        "teamAbbr" : "CARL",
+        "teamName" : "Carlton",
+        "teamNickname" : "Blues"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 23.5,
+        "ranking" : 634,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 23.5,
+        "ranking" : 37,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 23.5,
+        "ranking" : 99,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 8.7,
+        "ranking" : 619,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 7
+  }
+}

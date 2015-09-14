@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I270936",
+    "position" : "Left Back Pocket",
+    "surname" : "Lisle",
+    "jumperNumber" : 19,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.7,
+      "behinds" : 0.5,
+      "superGoals" : null,
+      "kicks" : 7.4,
+      "handballs" : 4.9,
+      "disposals" : 12.3,
+      "marks" : 5.4,
+      "bounces" : 0.1,
+      "tackles" : 1.4,
+      "contestedPossessions" : 4.9,
+      "uncontestedPossessions" : 7.6,
+      "totalPossessions" : 12.5,
+      "inside50s" : 1.2,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 1.1,
+      "hitouts" : 2.3,
+      "onePercenters" : 3.1,
+      "disposalEfficiency" : null,
+      "clangers" : 1.2,
+      "freesFor" : 1.0,
+      "freesAgainst" : 0.4,
+      "dreamTeamPoints" : 60.7,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.3,
+        "totalClearances" : 0.4
+      },
+      "rebound50s" : 0.8,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jordan",
+    "bio" : "<p>Jordan Lisle is an exciting key position prospect who spent his first three years of development at Hawthorn. Capable of playing key posts at either end of the field, he is a versatile option who is regarded for his marking ability, competitiveness and&nbsp;football smarts.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2014 - Profiles/LISLE Jordan.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1990-07-12T02:00:00.000+0000",
+      "draftYear" : "2008",
+      "heightInCm" : 195,
+      "weightInKg" : 94,
+      "recruitedFrom" : "Blackburn/Carey Grammar/Oakleigh U18",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 16.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 171.0,
+      "handballs" : 113.0,
+      "disposals" : 284.0,
+      "marks" : 125.0,
+      "bounces" : 3.0,
+      "tackles" : 32.0,
+      "contestedPossessions" : 112.0,
+      "uncontestedPossessions" : 175.0,
+      "totalPossessions" : 287.0,
+      "inside50s" : 27.0,
+      "marksInside50" : 23.0,
+      "contestedMarks" : 26.0,
+      "hitouts" : 52.0,
+      "onePercenters" : 71.0,
+      "disposalEfficiency" : 72.2,
+      "clangers" : 27.0,
+      "freesFor" : 23.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 1395.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 6.0,
+        "totalClearances" : 10.0
+      },
+      "rebound50s" : 19.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 45.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.4,
+            "handballs" : 4.4,
+            "disposals" : 14.8,
+            "marks" : 6.4,
+            "bounces" : 0.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 4.4,
+            "uncontestedPossessions" : 10.2,
+            "totalPossessions" : 14.6,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.8,
+            "onePercenters" : 4.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 64.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270936",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lisle"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 52.0,
+            "handballs" : 22.0,
+            "disposals" : 74.0,
+            "marks" : 32.0,
+            "bounces" : 0.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 22.0,
+            "uncontestedPossessions" : 51.0,
+            "totalPossessions" : 73.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 71.6,
+            "clangers" : 9.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 321.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 106.2,
+            "ranking" : 490.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270936",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lisle"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 88.7
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.4,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 4.7,
+            "disposals" : 11.2,
+            "marks" : 4.4,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 11.5,
+            "inside50s" : 1.7,
+            "marksInside50" : 1.6,
+            "contestedMarks" : 1.6,
+            "hitouts" : 2.6,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 0.7,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 60.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270936",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lisle"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 52.0,
+            "handballs" : 38.0,
+            "disposals" : 90.0,
+            "marks" : 35.0,
+            "bounces" : 0.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 44.0,
+            "uncontestedPossessions" : 48.0,
+            "totalPossessions" : 92.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 21.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 67.8,
+            "clangers" : 6.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 487.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 52.4,
+            "ratingPoints" : 109.7,
+            "ranking" : 475.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270936",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lisle"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 82.9
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 7.4,
+            "handballs" : 5.8,
+            "disposals" : 13.2,
+            "marks" : 5.2,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 7.2,
+            "totalPossessions" : 13.0,
+            "inside50s" : 1.4,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.2,
+            "hitouts" : 3.8,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 0.4,
+            "freesFor" : 1.6,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 63.2,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270936",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lisle"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 37.0,
+            "handballs" : 29.0,
+            "disposals" : 66.0,
+            "marks" : 26.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 29.0,
+            "uncontestedPossessions" : 36.0,
+            "totalPossessions" : 65.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 19.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 75.8,
+            "clangers" : 2.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 316.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 44.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270936",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lisle"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 81.6
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 6.4,
+            "handballs" : 4.8,
+            "disposals" : 11.2,
+            "marks" : 6.4,
+            "bounces" : 0.6,
+            "tackles" : 1.4,
+            "contestedPossessions" : 3.4,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 11.4,
+            "inside50s" : 0.6,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.8,
+            "hitouts" : 1.6,
+            "onePercenters" : 4.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 55.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270936",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lisle"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 32.0,
+            "handballs" : 24.0,
+            "disposals" : 56.0,
+            "marks" : 32.0,
+            "bounces" : 3.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 17.0,
+            "uncontestedPossessions" : 40.0,
+            "totalPossessions" : 57.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 8.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 76.8,
+            "clangers" : 10.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 277.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270936",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lisle"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 74.9
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270936",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lisle"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270936",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lisle"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270936",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lisle"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270936",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lisle"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 52.0,
+      "handballs" : 22.0,
+      "disposals" : 74.0,
+      "marks" : 32.0,
+      "bounces" : 0.0,
+      "tackles" : 6.0,
+      "contestedPossessions" : 22.0,
+      "uncontestedPossessions" : 51.0,
+      "totalPossessions" : 73.0,
+      "inside50s" : 3.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 4.0,
+      "onePercenters" : 24.0,
+      "disposalEfficiency" : 71.6,
+      "clangers" : 9.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 2.0,
+      "dreamTeamPoints" : 321.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 10.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 106.2,
+      "ranking" : 490.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201401427",
+      "player" : {
+        "playerId" : "CD_I270936",
+        "playerName" : {
+          "givenName" : "Jordan",
+          "surname" : "Lisle"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 92.2,
+        "ranking" : 502,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 92.2,
+        "ranking" : 28,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 92.2,
+        "ranking" : 59,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 28.2,
+        "ranking" : 543,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2008"
+    },
+    "careerGamesPlayed" : 23
+  }
+}

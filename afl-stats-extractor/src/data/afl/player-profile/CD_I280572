@@ -1,0 +1,579 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280572",
+    "position" : "Right Half Forward",
+    "surname" : "O'Brien",
+    "jumperNumber" : 34,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 7.2,
+      "handballs" : 3.8,
+      "disposals" : 11.1,
+      "marks" : 3.0,
+      "bounces" : 0.1,
+      "tackles" : 2.9,
+      "contestedPossessions" : 3.6,
+      "uncontestedPossessions" : 7.4,
+      "totalPossessions" : 10.9,
+      "inside50s" : 2.1,
+      "marksInside50" : 0.4,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.9,
+      "disposalEfficiency" : null,
+      "clangers" : 1.1,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 50.4,
+      "clearances" : {
+        "centreClearances" : 0.4,
+        "stoppageClearances" : 0.6,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 0.6,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jesse",
+    "bio" : "<p>South Australian product Jesse O'Brien is a fleet-footed outside midfielder who has good skills under pressure. He has been described as somewhat of an 'x-factor' and&nbsp;possesses great endurance and running ability.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2013 - Profiles/OBRIEN Jesse.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-02-13T01:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 185,
+      "weightInKg" : 79,
+      "recruitedFrom" : "North Adelaide (SA)",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 4.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 123.0,
+      "handballs" : 65.0,
+      "disposals" : 188.0,
+      "marks" : 51.0,
+      "bounces" : 1.0,
+      "tackles" : 49.0,
+      "contestedPossessions" : 61.0,
+      "uncontestedPossessions" : 125.0,
+      "totalPossessions" : 186.0,
+      "inside50s" : 35.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 16.0,
+      "disposalEfficiency" : 67.0,
+      "clangers" : 19.0,
+      "freesFor" : 10.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 856.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 11.0,
+        "totalClearances" : 17.0
+      },
+      "rebound50s" : 10.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 36.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 4.5,
+            "disposals" : 12.5,
+            "marks" : 3.5,
+            "bounces" : 0.5,
+            "tackles" : 6.0,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 7.5,
+            "totalPossessions" : 12.0,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 67.0,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280572",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "O'Brien"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 16.0,
+            "handballs" : 9.0,
+            "disposals" : 25.0,
+            "marks" : 7.0,
+            "bounces" : 1.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 9.0,
+            "uncontestedPossessions" : 15.0,
+            "totalPossessions" : 24.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 60.0,
+            "clangers" : 5.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 134.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 19.1,
+            "ranking" : 657.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280572",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "O'Brien"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 83.2
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 2.0,
+            "disposals" : 5.0,
+            "marks" : 1.5,
+            "bounces" : 0.0,
+            "tackles" : 2.5,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 3.0,
+            "totalPossessions" : 5.0,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 31.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280572",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "O'Brien"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 4.0,
+            "disposals" : 10.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 10.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 60.0,
+            "clangers" : 0.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 62.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280572",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "O'Brien"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 51.9
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 3.8,
+            "disposals" : 12.1,
+            "marks" : 3.3,
+            "bounces" : 0.0,
+            "tackles" : 2.2,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 8.2,
+            "totalPossessions" : 12.0,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 0.9,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 52.1,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280572",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "O'Brien"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 99.0,
+            "handballs" : 46.0,
+            "disposals" : 145.0,
+            "marks" : 40.0,
+            "bounces" : 0.0,
+            "tackles" : 27.0,
+            "contestedPossessions" : 45.0,
+            "uncontestedPossessions" : 99.0,
+            "totalPossessions" : 144.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 67.6,
+            "clangers" : 11.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 625.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 28.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280572",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "O'Brien"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 68.7
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.0,
+            "handballs" : 6.0,
+            "disposals" : 8.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 8.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 35.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280572",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "O'Brien"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.0,
+            "handballs" : 6.0,
+            "disposals" : 8.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 8.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 87.5,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 35.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280572",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "O'Brien"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 68.9
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 16.0,
+      "handballs" : 9.0,
+      "disposals" : 25.0,
+      "marks" : 7.0,
+      "bounces" : 1.0,
+      "tackles" : 12.0,
+      "contestedPossessions" : 9.0,
+      "uncontestedPossessions" : 15.0,
+      "totalPossessions" : 24.0,
+      "inside50s" : 5.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.0,
+      "disposalEfficiency" : 60.0,
+      "clangers" : 5.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 3.0,
+      "dreamTeamPoints" : 134.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 19.1,
+      "ranking" : 657.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201301427",
+      "player" : {
+        "playerId" : "CD_I280572",
+        "playerName" : {
+          "givenName" : "Jesse",
+          "surname" : "O'Brien"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 19.0,
+        "ranking" : 655,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 19.0,
+        "ranking" : 38,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 19.0,
+        "ranking" : 243,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 17
+  }
+}

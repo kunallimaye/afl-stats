@@ -1,0 +1,750 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I260581",
+    "position" : "Left Half Forward",
+    "surname" : "Gamble",
+    "jumperNumber" : 16,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Ryan",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1987-09-23T02:00:00.000+0000",
+      "draftYear" : "2005",
+      "heightInCm" : 184,
+      "weightInKg" : 85,
+      "recruitedFrom" : "Glenelg (SA)/Geelong",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 42.0,
+      "behinds" : 31.0,
+      "superGoals" : null,
+      "kicks" : 219.0,
+      "handballs" : 197.0,
+      "disposals" : 416.0,
+      "marks" : 153.0,
+      "bounces" : 6.0,
+      "tackles" : 86.0,
+      "contestedPossessions" : 141.0,
+      "uncontestedPossessions" : 280.0,
+      "totalPossessions" : 421.0,
+      "inside50s" : 66.0,
+      "marksInside50" : 61.0,
+      "contestedMarks" : 22.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 38.0,
+      "disposalEfficiency" : 67.1,
+      "clangers" : 54.0,
+      "freesFor" : 28.0,
+      "freesAgainst" : 33.0,
+      "dreamTeamPoints" : 2066.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 17.0,
+        "totalClearances" : 19.0
+      },
+      "rebound50s" : 7.0,
+      "goalAssists" : 20.0,
+      "goalAccuracy" : 52.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 4.5,
+            "disposals" : 11.7,
+            "marks" : 4.5,
+            "bounces" : 0.1,
+            "tackles" : 2.4,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 7.5,
+            "totalPossessions" : 11.9,
+            "inside50s" : 2.5,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 57.9,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260581",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Gamble"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 79.0,
+            "handballs" : 50.0,
+            "disposals" : 129.0,
+            "marks" : 50.0,
+            "bounces" : 1.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 49.0,
+            "uncontestedPossessions" : 82.0,
+            "totalPossessions" : 131.0,
+            "inside50s" : 28.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 64.3,
+            "clangers" : 20.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 637.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260581",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Gamble"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 74.3
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 7.0,
+            "disposals" : 12.5,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 2.5,
+            "uncontestedPossessions" : 10.5,
+            "totalPossessions" : 13.0,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 47.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260581",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Gamble"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 14.0,
+            "disposals" : 25.0,
+            "marks" : 8.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 21.0,
+            "totalPossessions" : 26.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 80.0,
+            "clangers" : 4.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 95.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260581",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Gamble"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 78.2
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 1.4,
+            "superGoals" : null,
+            "kicks" : 5.6,
+            "handballs" : 6.6,
+            "disposals" : 12.2,
+            "marks" : 4.5,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 3.4,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 12.4,
+            "inside50s" : 1.1,
+            "marksInside50" : 1.5,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 59.2,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260581",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Gamble"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 45.0,
+            "handballs" : 53.0,
+            "disposals" : 98.0,
+            "marks" : 36.0,
+            "bounces" : 0.0,
+            "tackles" : 16.0,
+            "contestedPossessions" : 27.0,
+            "uncontestedPossessions" : 72.0,
+            "totalPossessions" : 99.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 12.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 62.2,
+            "clangers" : 11.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 474.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 43.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260581",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Gamble"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 71.1
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.6,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 6.1,
+            "handballs" : 5.9,
+            "disposals" : 12.0,
+            "marks" : 4.2,
+            "bounces" : 0.4,
+            "tackles" : 3.0,
+            "contestedPossessions" : 4.4,
+            "uncontestedPossessions" : 7.7,
+            "totalPossessions" : 12.1,
+            "inside50s" : 1.9,
+            "marksInside50" : 2.6,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 63.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260581",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Gamble"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 21.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 79.0,
+            "handballs" : 77.0,
+            "disposals" : 156.0,
+            "marks" : 55.0,
+            "bounces" : 5.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 57.0,
+            "uncontestedPossessions" : 100.0,
+            "totalPossessions" : 157.0,
+            "inside50s" : 25.0,
+            "marksInside50" : 34.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 69.2,
+            "clangers" : 17.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 828.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260581",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Gamble"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 80.7
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260581",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Gamble"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260581",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Gamble"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 3.0,
+            "disposals" : 8.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 8.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 32.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260581",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Gamble"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 3.0,
+            "disposals" : 8.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 8.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 87.5,
+            "clangers" : 2.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 32.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260581",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Gamble"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 61.9
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 11.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 79.0,
+      "handballs" : 50.0,
+      "disposals" : 129.0,
+      "marks" : 50.0,
+      "bounces" : 1.0,
+      "tackles" : 26.0,
+      "contestedPossessions" : 49.0,
+      "uncontestedPossessions" : 82.0,
+      "totalPossessions" : 131.0,
+      "inside50s" : 28.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 15.0,
+      "disposalEfficiency" : 64.3,
+      "clangers" : 20.0,
+      "freesFor" : 8.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 637.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 3.0,
+        "totalClearances" : 3.0
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

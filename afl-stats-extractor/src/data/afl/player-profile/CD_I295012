@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I295012",
+    "position" : "Right Back Pocket",
+    "surname" : "Scharenberg",
+    "jumperNumber" : 12,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 8.2,
+      "handballs" : 6.7,
+      "disposals" : 15.0,
+      "marks" : 4.5,
+      "bounces" : 0.0,
+      "tackles" : 1.2,
+      "contestedPossessions" : 3.0,
+      "uncontestedPossessions" : 12.0,
+      "totalPossessions" : 15.0,
+      "inside50s" : 0.7,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.5,
+      "disposalEfficiency" : null,
+      "clangers" : 1.0,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 55.5,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.2
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Matt",
+    "bio" : "<p>Once described by Mark Williams as the best schoolboy talent he had seen since Wayne Carey, the South Australian is extremely composed in his disposal and shows great temperament in heavy traffic. His progress has been stalled by injuries to his feet and knee, which combined to restrict him to only five VFL games in 2014. A knee reconstruction, sustained during the final home and away game, will result in a late start to 2015, but Scharenberg's limitless potential means Collingwood coaches and fans alike eagerly await his senior debut.<br /><br />A 190cm key position player who is equally comfortable forward or back, Scharenberg collected back-to-back All Australian selections in 2012 and 2013. His ability to read the play and strong hands makes him a force in the air while his poise in heavy traffic stood out in his brief VFL foray in 2014.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Collingwood/Player Profiles/2015 - Profiles/SCHARENBERG Matthew.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1995-09-18T02:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 191,
+      "weightInKg" : 87,
+      "recruitedFrom" : "PHOS Camden (SA)/Glenelg (SANFL)",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 0.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 33.0,
+      "handballs" : 27.0,
+      "disposals" : 60.0,
+      "marks" : 18.0,
+      "bounces" : 0.0,
+      "tackles" : 5.0,
+      "contestedPossessions" : 12.0,
+      "uncontestedPossessions" : 48.0,
+      "totalPossessions" : 60.0,
+      "inside50s" : 3.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 6.0,
+      "disposalEfficiency" : 70.0,
+      "clangers" : 4.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 3.0,
+      "dreamTeamPoints" : 222.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 8.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 6.7,
+            "disposals" : 15.0,
+            "marks" : 4.5,
+            "bounces" : 0.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 12.0,
+            "totalPossessions" : 15.0,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 55.5,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295012",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Scharenberg"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 33.0,
+            "handballs" : 27.0,
+            "disposals" : 60.0,
+            "marks" : 18.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 12.0,
+            "uncontestedPossessions" : 48.0,
+            "totalPossessions" : 60.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 70.0,
+            "clangers" : 4.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 222.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 9.4,
+            "ranking" : 675.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295012",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Scharenberg"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 71.0
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295012",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Scharenberg"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295012",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Scharenberg"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 33.0,
+      "handballs" : 27.0,
+      "disposals" : 60.0,
+      "marks" : 18.0,
+      "bounces" : 0.0,
+      "tackles" : 5.0,
+      "contestedPossessions" : 12.0,
+      "uncontestedPossessions" : 48.0,
+      "totalPossessions" : 60.0,
+      "inside50s" : 3.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 6.0,
+      "disposalEfficiency" : 70.0,
+      "clangers" : 4.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 3.0,
+      "dreamTeamPoints" : 222.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 8.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 9.4,
+      "ranking" : 675.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I295012",
+        "playerName" : {
+          "givenName" : "Matthew",
+          "surname" : "Scharenberg"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T40",
+        "teamAbbr" : "COLL",
+        "teamName" : "Collingwood",
+        "teamNickname" : "Magpies"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 10.8,
+        "ranking" : 673,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 10.8,
+        "ranking" : 40,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 10.8,
+        "ranking" : 131,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 10.8,
+        "ranking" : 607,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 4
+  }
+}

@@ -1,0 +1,853 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960533",
+    "position" : "Interchange",
+    "surname" : "Torney",
+    "jumperNumber" : 15,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jason",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1977-06-16T02:00:00.000+0000",
+      "draftYear" : "1994",
+      "heightInCm" : 187,
+      "weightInKg" : 84,
+      "recruitedFrom" : "South Adelaide (SA)/Richmond",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 30.0,
+      "behinds" : 26.0,
+      "superGoals" : null,
+      "kicks" : 1075.0,
+      "handballs" : 889.0,
+      "disposals" : 1964.0,
+      "marks" : 644.0,
+      "bounces" : 95.0,
+      "tackles" : 247.0,
+      "contestedPossessions" : 711.0,
+      "uncontestedPossessions" : 1271.0,
+      "totalPossessions" : 1982.0,
+      "inside50s" : 242.0,
+      "marksInside50" : 30.0,
+      "contestedMarks" : 86.0,
+      "hitouts" : 10.0,
+      "onePercenters" : 315.0,
+      "disposalEfficiency" : 85.9,
+      "clangers" : 204.0,
+      "freesFor" : 94.0,
+      "freesAgainst" : 87.0,
+      "dreamTeamPoints" : 7972.0,
+      "clearances" : {
+        "centreClearances" : 35.0,
+        "stoppageClearances" : 104.0,
+        "totalClearances" : 139.0
+      },
+      "rebound50s" : 267.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 46.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 7.9,
+            "handballs" : 7.5,
+            "disposals" : 15.4,
+            "marks" : 5.5,
+            "bounces" : 0.3,
+            "tackles" : 2.6,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 11.0,
+            "totalPossessions" : 15.7,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.2,
+            "onePercenters" : 2.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 66.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960533",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Torney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 182.0,
+            "handballs" : 173.0,
+            "disposals" : 355.0,
+            "marks" : 127.0,
+            "bounces" : 8.0,
+            "tackles" : 59.0,
+            "contestedPossessions" : 108.0,
+            "uncontestedPossessions" : 252.0,
+            "totalPossessions" : 360.0,
+            "inside50s" : 43.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 60.0,
+            "disposalEfficiency" : 83.7,
+            "clangers" : 40.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1522.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 26.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960533",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Torney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 91.7
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 6.6,
+            "disposals" : 14.1,
+            "marks" : 4.6,
+            "bounces" : 1.0,
+            "tackles" : 2.7,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 14.1,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 63.1,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960533",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Torney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 60.0,
+            "handballs" : 53.0,
+            "disposals" : 113.0,
+            "marks" : 37.0,
+            "bounces" : 8.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 41.0,
+            "uncontestedPossessions" : 72.0,
+            "totalPossessions" : 113.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 85.8,
+            "clangers" : 8.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 505.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 75.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960533",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Torney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 77.9
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 7.1,
+            "disposals" : 14.6,
+            "marks" : 5.2,
+            "bounces" : 1.1,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 10.4,
+            "totalPossessions" : 14.6,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 58.6,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960533",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Torney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 120.0,
+            "handballs" : 113.0,
+            "disposals" : 233.0,
+            "marks" : 84.0,
+            "bounces" : 17.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 67.0,
+            "uncontestedPossessions" : 167.0,
+            "totalPossessions" : 234.0,
+            "inside50s" : 31.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 42.0,
+            "disposalEfficiency" : 88.0,
+            "clangers" : 19.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 937.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 36.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960533",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Torney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 91.6
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 9.5,
+            "handballs" : 6.7,
+            "disposals" : 16.2,
+            "marks" : 4.7,
+            "bounces" : 0.8,
+            "tackles" : 1.8,
+            "contestedPossessions" : 6.2,
+            "uncontestedPossessions" : 10.5,
+            "totalPossessions" : 16.7,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 62.7,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960533",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Torney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 57.0,
+            "handballs" : 40.0,
+            "disposals" : 97.0,
+            "marks" : 28.0,
+            "bounces" : 5.0,
+            "tackles" : 11.0,
+            "contestedPossessions" : 37.0,
+            "uncontestedPossessions" : 63.0,
+            "totalPossessions" : 100.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 80.4,
+            "clangers" : 12.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 376.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960533",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Torney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 94.6
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 5.2,
+            "disposals" : 11.6,
+            "marks" : 3.8,
+            "bounces" : 0.3,
+            "tackles" : 1.4,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 11.8,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 47.3,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960533",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Torney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 155.0,
+            "handballs" : 124.0,
+            "disposals" : 279.0,
+            "marks" : 91.0,
+            "bounces" : 8.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 115.0,
+            "uncontestedPossessions" : 169.0,
+            "totalPossessions" : 284.0,
+            "inside50s" : 41.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 18.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 53.0,
+            "disposalEfficiency" : 85.7,
+            "clangers" : 28.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1136.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 23.0
+            },
+            "rebound50s" : 40.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 58.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960533",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Torney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 82.2
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 8.5,
+            "handballs" : 5.2,
+            "disposals" : 13.7,
+            "marks" : 4.6,
+            "bounces" : 0.6,
+            "tackles" : 1.2,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 8.6,
+            "totalPossessions" : 13.5,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 55.9,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960533",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Torney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 187.0,
+            "handballs" : 115.0,
+            "disposals" : 302.0,
+            "marks" : 101.0,
+            "bounces" : 13.0,
+            "tackles" : 27.0,
+            "contestedPossessions" : 108.0,
+            "uncontestedPossessions" : 190.0,
+            "totalPossessions" : 298.0,
+            "inside50s" : 37.0,
+            "marksInside50" : 12.0,
+            "contestedMarks" : 22.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 68.0,
+            "disposalEfficiency" : 86.1,
+            "clangers" : 27.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 1229.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 25.0,
+              "totalClearances" : 26.0
+            },
+            "rebound50s" : 46.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960533",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Torney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.6,
+            "handballs" : 6.9,
+            "disposals" : 13.5,
+            "marks" : 4.1,
+            "bounces" : 1.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 9.1,
+            "totalPossessions" : 13.7,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 52.0,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960533",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Torney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 152.0,
+            "handballs" : 158.0,
+            "disposals" : 310.0,
+            "marks" : 95.0,
+            "bounces" : 22.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 107.0,
+            "uncontestedPossessions" : 209.0,
+            "totalPossessions" : 316.0,
+            "inside50s" : 24.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 14.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 35.0,
+            "disposalEfficiency" : 89.0,
+            "clangers" : 33.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1197.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 17.0,
+              "totalClearances" : 20.0
+            },
+            "rebound50s" : 49.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960533",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Torney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 7.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 182.0,
+      "handballs" : 173.0,
+      "disposals" : 355.0,
+      "marks" : 127.0,
+      "bounces" : 8.0,
+      "tackles" : 59.0,
+      "contestedPossessions" : 108.0,
+      "uncontestedPossessions" : 252.0,
+      "totalPossessions" : 360.0,
+      "inside50s" : 43.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 4.0,
+      "onePercenters" : 60.0,
+      "disposalEfficiency" : 83.7,
+      "clangers" : 40.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1522.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 12.0,
+        "totalClearances" : 16.0
+      },
+      "rebound50s" : 26.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

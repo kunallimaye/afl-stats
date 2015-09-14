@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I271433",
+    "position" : "Full Back",
+    "surname" : "Silvagni",
+    "jumperNumber" : 36,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 7.3,
+      "handballs" : 3.5,
+      "disposals" : 10.8,
+      "marks" : 4.6,
+      "bounces" : 0.1,
+      "tackles" : 2.9,
+      "contestedPossessions" : 4.3,
+      "uncontestedPossessions" : 6.5,
+      "totalPossessions" : 10.8,
+      "inside50s" : 1.1,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.9,
+      "hitouts" : 0.4,
+      "onePercenters" : 4.5,
+      "disposalEfficiency" : null,
+      "clangers" : 2.2,
+      "freesFor" : 0.9,
+      "freesAgainst" : 1.1,
+      "dreamTeamPoints" : 53.6,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.3,
+        "totalClearances" : 0.3
+      },
+      "rebound50s" : 2.2,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Alex",
+    "bio" : "<p><strong>Outlook:</strong> Silvagni plays the game with tremendous courage and effort. He hasn&rsquo;t cemented a spot in the team yet, but he&rsquo;s all heart and look for him to get more opportunities in 2015.<br /><br /><strong>What the coach says (Michael Prior): </strong>Has had an uninterrupted pre-season after missing fair chunks of the past few pre-seasons. He&rsquo;s been really fit and should be available for us come round 1.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Fremantle/Player Profiles/2015 - Profiles/SILVAGNI Alex.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1987-09-29T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 192,
+      "weightInKg" : 92,
+      "recruitedFrom" : "Berwick (Vic)/Casey Scorpions (VFL)",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 10.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 352.0,
+      "handballs" : 166.0,
+      "disposals" : 518.0,
+      "marks" : 219.0,
+      "bounces" : 5.0,
+      "tackles" : 141.0,
+      "contestedPossessions" : 208.0,
+      "uncontestedPossessions" : 312.0,
+      "totalPossessions" : 520.0,
+      "inside50s" : 52.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 44.0,
+      "hitouts" : 17.0,
+      "onePercenters" : 218.0,
+      "disposalEfficiency" : 75.7,
+      "clangers" : 105.0,
+      "freesFor" : 44.0,
+      "freesAgainst" : 53.0,
+      "dreamTeamPoints" : 2574.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 13.0,
+        "totalClearances" : 15.0
+      },
+      "rebound50s" : 108.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 4.0,
+            "disposals" : 11.0,
+            "marks" : 5.5,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 11.0,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 4.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 3.5,
+            "dreamTeamPoints" : 41.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271433",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Silvagni"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 14.0,
+            "handballs" : 8.0,
+            "disposals" : 22.0,
+            "marks" : 11.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 8.0,
+            "uncontestedPossessions" : 14.0,
+            "totalPossessions" : 22.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 81.8,
+            "clangers" : 9.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 83.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 35.6,
+            "ranking" : 612.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271433",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Silvagni"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 97.4
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.3,
+            "handballs" : 2.7,
+            "disposals" : 10.0,
+            "marks" : 4.1,
+            "bounces" : 0.0,
+            "tackles" : 2.7,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 6.3,
+            "totalPossessions" : 9.9,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.3,
+            "onePercenters" : 4.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 48.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 3.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271433",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Silvagni"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 51.0,
+            "handballs" : 19.0,
+            "disposals" : 70.0,
+            "marks" : 29.0,
+            "bounces" : 0.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 25.0,
+            "uncontestedPossessions" : 44.0,
+            "totalPossessions" : 69.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 77.1,
+            "clangers" : 14.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 338.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 88.3,
+            "ranking" : 505.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271433",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Silvagni"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 91.6
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 5.6,
+            "handballs" : 3.2,
+            "disposals" : 8.8,
+            "marks" : 4.3,
+            "bounces" : 0.0,
+            "tackles" : 2.6,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 5.5,
+            "totalPossessions" : 9.1,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.3,
+            "onePercenters" : 4.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 47.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271433",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Silvagni"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 56.0,
+            "handballs" : 32.0,
+            "disposals" : 88.0,
+            "marks" : 43.0,
+            "bounces" : 0.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 36.0,
+            "uncontestedPossessions" : 55.0,
+            "totalPossessions" : 91.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 41.0,
+            "disposalEfficiency" : 75.0,
+            "clangers" : 20.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 475.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 45.5,
+            "ratingPoints" : 78.0,
+            "ranking" : 531.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271433",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Silvagni"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 76.4
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.4,
+            "handballs" : 3.2,
+            "disposals" : 10.6,
+            "marks" : 4.8,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 6.8,
+            "totalPossessions" : 10.4,
+            "inside50s" : 0.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.4,
+            "onePercenters" : 5.2,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 1.2,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 50.6,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271433",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Silvagni"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 37.0,
+            "handballs" : 16.0,
+            "disposals" : 53.0,
+            "marks" : 24.0,
+            "bounces" : 0.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 18.0,
+            "uncontestedPossessions" : 34.0,
+            "totalPossessions" : 52.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 81.1,
+            "clangers" : 15.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 253.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271433",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Silvagni"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 92.5
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 5.0,
+            "disposals" : 13.2,
+            "marks" : 5.1,
+            "bounces" : 0.0,
+            "tackles" : 2.9,
+            "contestedPossessions" : 6.7,
+            "uncontestedPossessions" : 6.8,
+            "totalPossessions" : 13.4,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 4.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 61.6,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 3.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271433",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Silvagni"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 74.0,
+            "handballs" : 45.0,
+            "disposals" : 119.0,
+            "marks" : 46.0,
+            "bounces" : 0.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 60.0,
+            "uncontestedPossessions" : 61.0,
+            "totalPossessions" : 121.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 18.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 41.0,
+            "disposalEfficiency" : 75.6,
+            "clangers" : 19.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 554.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 29.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271433",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Silvagni"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 86.1
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 3.1,
+            "disposals" : 11.1,
+            "marks" : 4.4,
+            "bounces" : 0.3,
+            "tackles" : 3.5,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 6.9,
+            "totalPossessions" : 11.0,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.6,
+            "onePercenters" : 4.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 58.1,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271433",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Silvagni"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 120.0,
+            "handballs" : 46.0,
+            "disposals" : 166.0,
+            "marks" : 66.0,
+            "bounces" : 5.0,
+            "tackles" : 52.0,
+            "contestedPossessions" : 61.0,
+            "uncontestedPossessions" : 104.0,
+            "totalPossessions" : 165.0,
+            "inside50s" : 22.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 9.0,
+            "onePercenters" : 74.0,
+            "disposalEfficiency" : 72.3,
+            "clangers" : 28.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 871.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 36.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 57.1,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271433",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Silvagni"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 83.7
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 14.0,
+      "handballs" : 8.0,
+      "disposals" : 22.0,
+      "marks" : 11.0,
+      "bounces" : 0.0,
+      "tackles" : 3.0,
+      "contestedPossessions" : 8.0,
+      "uncontestedPossessions" : 14.0,
+      "totalPossessions" : 22.0,
+      "inside50s" : 1.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 5.0,
+      "disposalEfficiency" : 81.8,
+      "clangers" : 9.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 7.0,
+      "dreamTeamPoints" : 83.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 35.6,
+      "ranking" : 612.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I271433",
+        "playerName" : {
+          "givenName" : "Alex",
+          "surname" : "Silvagni"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T60",
+        "teamAbbr" : "FRE",
+        "teamName" : "Fremantle",
+        "teamNickname" : "Dockers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 35.6,
+        "ranking" : 611,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 35.6,
+        "ranking" : 30,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 35.6,
+        "ranking" : 74,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 6.3,
+        "ranking" : 629,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 48
+  }
+}

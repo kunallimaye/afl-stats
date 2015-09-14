@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I296559",
+    "position" : "Ruck",
+    "surname" : "Downie",
+    "jumperNumber" : 44,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 2.2,
+      "handballs" : 3.9,
+      "disposals" : 6.1,
+      "marks" : 2.4,
+      "bounces" : 0.0,
+      "tackles" : 3.9,
+      "contestedPossessions" : 3.4,
+      "uncontestedPossessions" : 3.1,
+      "totalPossessions" : 6.5,
+      "inside50s" : 0.6,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.7,
+      "hitouts" : 19.5,
+      "onePercenters" : 3.2,
+      "disposalEfficiency" : null,
+      "clangers" : 2.4,
+      "freesFor" : 0.1,
+      "freesAgainst" : 1.9,
+      "dreamTeamPoints" : 52.6,
+      "clearances" : {
+        "centreClearances" : 0.4,
+        "stoppageClearances" : 0.6,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 0.4,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Tom",
+    "bio" : "<p>The GIANTS selected ruckman Tom Downie with pick number 56 in the 2011 NAB AFL Draft. A former Under-17s Australian basketballer, 203cm Downie played for the North Ballarat Rebels in the TAC Cup. Downie made his AFL debut in Round 20, 2013 against Fremantle at Patersons Stadium.<br /> &nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2015 - Profiles/DOWNIE Tom.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-04-27T02:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 203,
+      "weightInKg" : 99,
+      "recruitedFrom" : "Benalla (Vic)/St Pats College (Vic)/North Ballarat U18",
+      "debutYear" : "2013"
+    },
+    "careerStats" : {
+      "goals" : 2.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 18.0,
+      "handballs" : 31.0,
+      "disposals" : 49.0,
+      "marks" : 19.0,
+      "bounces" : 0.0,
+      "tackles" : 31.0,
+      "contestedPossessions" : 27.0,
+      "uncontestedPossessions" : 25.0,
+      "totalPossessions" : 52.0,
+      "inside50s" : 5.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 156.0,
+      "onePercenters" : 26.0,
+      "disposalEfficiency" : 77.6,
+      "clangers" : 19.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 421.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 5.0,
+        "totalClearances" : 8.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.1,
+            "handballs" : 4.3,
+            "disposals" : 6.4,
+            "marks" : 2.6,
+            "bounces" : 0.0,
+            "tackles" : 3.7,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 3.4,
+            "totalPossessions" : 7.0,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.9,
+            "hitouts" : 22.0,
+            "onePercenters" : 3.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.1,
+            "freesAgainst" : 1.9,
+            "dreamTeamPoints" : 55.9,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296559",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Downie"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 15.0,
+            "handballs" : 30.0,
+            "disposals" : 45.0,
+            "marks" : 18.0,
+            "bounces" : 0.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 25.0,
+            "uncontestedPossessions" : 24.0,
+            "totalPossessions" : 49.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 154.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 80.0,
+            "clangers" : 16.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 391.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 47.4,
+            "ranking" : 581.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296559",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Downie"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 77.4
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296559",
+            "playerName" : {
+              "givenName" : "Thomas",
+              "surname" : "Downie"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : -2.9,
+            "ranking" : 711.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296559",
+            "playerName" : {
+              "givenName" : "Thomas",
+              "surname" : "Downie"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 1.0,
+            "disposals" : 4.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 1.0,
+            "totalPossessions" : 3.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 30.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296559",
+            "playerName" : {
+              "givenName" : "Thomas",
+              "surname" : "Downie"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 1.0,
+            "disposals" : 4.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 1.0,
+            "totalPossessions" : 3.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 50.0,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 30.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : -2.9,
+            "ranking" : 715.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296559",
+            "playerName" : {
+              "givenName" : "Thomas",
+              "surname" : "Downie"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 85.1
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296559",
+            "playerName" : {
+              "givenName" : "Thomas",
+              "surname" : "Downie"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296559",
+            "playerName" : {
+              "givenName" : "Thomas",
+              "surname" : "Downie"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 15.0,
+      "handballs" : 30.0,
+      "disposals" : 45.0,
+      "marks" : 18.0,
+      "bounces" : 0.0,
+      "tackles" : 26.0,
+      "contestedPossessions" : 25.0,
+      "uncontestedPossessions" : 24.0,
+      "totalPossessions" : 49.0,
+      "inside50s" : 5.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 154.0,
+      "onePercenters" : 23.0,
+      "disposalEfficiency" : 80.0,
+      "clangers" : 16.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 391.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 5.0,
+        "totalClearances" : 8.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : 47.4,
+      "ranking" : 581.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I296559",
+        "playerName" : {
+          "givenName" : "Tom",
+          "surname" : "Downie"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 58.9,
+        "ranking" : 555,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 58.9,
+        "ranking" : 33,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 58.9,
+        "ranking" : 46,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 58.9,
+        "ranking" : 454,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 8
+  }
+}

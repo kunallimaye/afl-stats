@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I296198",
+    "position" : "Left Wing",
+    "surname" : "Hartung",
+    "jumperNumber" : 40,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 8.4,
+      "handballs" : 6.8,
+      "disposals" : 15.3,
+      "marks" : 3.2,
+      "bounces" : 0.9,
+      "tackles" : 1.2,
+      "contestedPossessions" : 3.8,
+      "uncontestedPossessions" : 11.2,
+      "totalPossessions" : 15.0,
+      "inside50s" : 2.3,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.4,
+      "disposalEfficiency" : null,
+      "clangers" : 1.6,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 56.2,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 1.1,
+        "totalClearances" : 1.3
+      },
+      "rebound50s" : 1.3,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Billy",
+    "bio" : "<p>Both player and club were delighted with Hartung&rsquo;s debut season. Despite a mid-year elbow injury, he played seven AFL games, averaged 12 disposals despite wearing the sub&rsquo;s vest on six occasions and looked comfortable with his zippy outside run, neat skills and clean disposal. His aim this year would be more consistency and to press further claims to be in Hawthorn&rsquo;s best 22. Blessed with elite speed and endurance.</p>\n<p><strong>Draft history: </strong>2013 NAB AFL Draft 2nd round selection (Hawthorn), No. 24 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Hawthorn/Player Profiles/2015 - Profiles/HARTUNG Billy.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1995-01-24T01:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 177,
+      "weightInKg" : 75,
+      "recruitedFrom" : null,
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 14.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 211.0,
+      "handballs" : 171.0,
+      "disposals" : 382.0,
+      "marks" : 80.0,
+      "bounces" : 22.0,
+      "tackles" : 30.0,
+      "contestedPossessions" : 95.0,
+      "uncontestedPossessions" : 281.0,
+      "totalPossessions" : 376.0,
+      "inside50s" : 58.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 10.0,
+      "disposalEfficiency" : 78.3,
+      "clangers" : 39.0,
+      "freesFor" : 16.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1404.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 32.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 60.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.2,
+            "handballs" : 7.7,
+            "disposals" : 16.8,
+            "marks" : 3.3,
+            "bounces" : 1.2,
+            "tackles" : 1.2,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 12.6,
+            "totalPossessions" : 16.8,
+            "inside50s" : 2.6,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 60.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296198",
+            "playerName" : {
+              "givenName" : "Billy",
+              "surname" : "Hartung"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 165.0,
+            "handballs" : 138.0,
+            "disposals" : 303.0,
+            "marks" : 59.0,
+            "bounces" : 21.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 75.0,
+            "uncontestedPossessions" : 227.0,
+            "totalPossessions" : 302.0,
+            "inside50s" : 46.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 79.2,
+            "clangers" : 31.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1083.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 26.0,
+              "totalClearances" : 30.0
+            },
+            "rebound50s" : 28.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 68.7,
+            "ratingPoints" : 176.9,
+            "ranking" : 398.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296198",
+            "playerName" : {
+              "givenName" : "Billy",
+              "surname" : "Hartung"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 58.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.6,
+            "handballs" : 4.7,
+            "disposals" : 11.3,
+            "marks" : 3.0,
+            "bounces" : 0.1,
+            "tackles" : 1.3,
+            "contestedPossessions" : 2.9,
+            "uncontestedPossessions" : 7.7,
+            "totalPossessions" : 10.6,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.1,
+            "dreamTeamPoints" : 45.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296198",
+            "playerName" : {
+              "givenName" : "Billy",
+              "surname" : "Hartung"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 46.0,
+            "handballs" : 33.0,
+            "disposals" : 79.0,
+            "marks" : 21.0,
+            "bounces" : 1.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 20.0,
+            "uncontestedPossessions" : 54.0,
+            "totalPossessions" : 74.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 74.7,
+            "clangers" : 8.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 321.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : 36.9,
+            "ranking" : 613.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296198",
+            "playerName" : {
+              "givenName" : "Billy",
+              "surname" : "Hartung"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 42.5
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 11.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 165.0,
+      "handballs" : 138.0,
+      "disposals" : 303.0,
+      "marks" : 59.0,
+      "bounces" : 21.0,
+      "tackles" : 21.0,
+      "contestedPossessions" : 75.0,
+      "uncontestedPossessions" : 227.0,
+      "totalPossessions" : 302.0,
+      "inside50s" : 46.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 8.0,
+      "disposalEfficiency" : 79.2,
+      "clangers" : 31.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1083.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 28.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 68.7,
+      "ratingPoints" : 176.9,
+      "ranking" : 398.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I296198",
+        "playerName" : {
+          "givenName" : "Billy",
+          "surname" : "Hartung"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T80",
+        "teamAbbr" : "HAW",
+        "teamName" : "Hawthorn",
+        "teamNickname" : "Hawks"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 176.9,
+        "ranking" : 398,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 176.9,
+        "ranking" : 25,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 176.9,
+        "ranking" : 126,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 140.0,
+        "ranking" : 268,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 25
+  }
+}

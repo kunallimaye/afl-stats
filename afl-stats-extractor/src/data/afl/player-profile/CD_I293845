@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I293845",
+    "position" : "Full Forward",
+    "surname" : "Cameron",
+    "jumperNumber" : 18,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 2.5,
+      "behinds" : 1.4,
+      "superGoals" : null,
+      "kicks" : 7.9,
+      "handballs" : 2.4,
+      "disposals" : 10.3,
+      "marks" : 5.0,
+      "bounces" : 0.2,
+      "tackles" : 1.5,
+      "contestedPossessions" : 4.5,
+      "uncontestedPossessions" : 5.7,
+      "totalPossessions" : 10.2,
+      "inside50s" : 2.3,
+      "marksInside50" : 2.4,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.1,
+      "onePercenters" : 1.6,
+      "disposalEfficiency" : null,
+      "clangers" : 2.3,
+      "freesFor" : 0.9,
+      "freesAgainst" : 1.2,
+      "dreamTeamPoints" : 63.6,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.1,
+        "totalClearances" : 0.1
+      },
+      "rebound50s" : 0.2,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jeremy",
+    "bio" : "<p>Jeremy Cameron arrived at the GIANTS from the tiny town of Dartmoor in Victoria at the age of 17 as an underage recruit. Cameron didn&rsquo;t begin playing football until the age of 16 but burst on to the AFL scene, making his debut in Round 1, 2012 and finishing his first year as the GIANTS&rsquo; leading goal-kicker. 2013 saw Cameron finish third in the Coleman Medal, become the first GIANT to be named in the All-Australian team and win the Kevin Sheedy Medal as the GIANTS&rsquo; Best and Fairest player.<br /> &nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2015 - Profiles/CAMERON Jeremy.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-04-01T02:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 195,
+      "weightInKg" : 95,
+      "recruitedFrom" : "Dartmoor (Vic)/North Ballarat U18",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 183.0,
+      "behinds" : 100.0,
+      "superGoals" : null,
+      "kicks" : 575.0,
+      "handballs" : 177.0,
+      "disposals" : 752.0,
+      "marks" : 368.0,
+      "bounces" : 11.0,
+      "tackles" : 110.0,
+      "contestedPossessions" : 329.0,
+      "uncontestedPossessions" : 419.0,
+      "totalPossessions" : 748.0,
+      "inside50s" : 168.0,
+      "marksInside50" : 176.0,
+      "contestedMarks" : 75.0,
+      "hitouts" : 4.0,
+      "onePercenters" : 115.0,
+      "disposalEfficiency" : 65.4,
+      "clangers" : 170.0,
+      "freesFor" : 69.0,
+      "freesAgainst" : 84.0,
+      "dreamTeamPoints" : 4642.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 5.0
+      },
+      "rebound50s" : 17.0,
+      "goalAssists" : 36.0,
+      "goalAccuracy" : 59.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.9,
+            "behinds" : 1.7,
+            "superGoals" : null,
+            "kicks" : 8.4,
+            "handballs" : 2.3,
+            "disposals" : 10.7,
+            "marks" : 5.5,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 6.1,
+            "totalPossessions" : 10.4,
+            "inside50s" : 2.2,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 70.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293845",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Cameron"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 63.0,
+            "behinds" : 37.0,
+            "superGoals" : null,
+            "kicks" : 185.0,
+            "handballs" : 50.0,
+            "disposals" : 235.0,
+            "marks" : 122.0,
+            "bounces" : 0.0,
+            "tackles" : 37.0,
+            "contestedPossessions" : 94.0,
+            "uncontestedPossessions" : 135.0,
+            "totalPossessions" : 229.0,
+            "inside50s" : 48.0,
+            "marksInside50" : 65.0,
+            "contestedMarks" : 17.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 64.3,
+            "clangers" : 44.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1543.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 58.9,
+            "ratingPoints" : 317.8,
+            "ranking" : 197.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293845",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Cameron"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 89.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.1,
+            "behinds" : 1.5,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 2.0,
+            "disposals" : 9.5,
+            "marks" : 4.3,
+            "bounces" : 0.0,
+            "tackles" : 1.3,
+            "contestedPossessions" : 4.4,
+            "uncontestedPossessions" : 5.1,
+            "totalPossessions" : 9.4,
+            "inside50s" : 1.7,
+            "marksInside50" : 2.4,
+            "contestedMarks" : 0.9,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 55.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293845",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Cameron"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 29.0,
+            "behinds" : 21.0,
+            "superGoals" : null,
+            "kicks" : 105.0,
+            "handballs" : 28.0,
+            "disposals" : 133.0,
+            "marks" : 60.0,
+            "bounces" : 0.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 61.0,
+            "uncontestedPossessions" : 71.0,
+            "totalPossessions" : 132.0,
+            "inside50s" : 24.0,
+            "marksInside50" : 33.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 56.4,
+            "clangers" : 36.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 772.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 54.7,
+            "ratingPoints" : 332.1,
+            "ranking" : 181.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293845",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Cameron"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 90.2
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.3,
+            "superGoals" : null,
+            "kicks" : 8.1,
+            "handballs" : 2.6,
+            "disposals" : 10.7,
+            "marks" : 5.0,
+            "bounces" : 0.5,
+            "tackles" : 1.3,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 6.3,
+            "totalPossessions" : 10.8,
+            "inside50s" : 3.0,
+            "marksInside50" : 2.2,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 66.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293845",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Cameron"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 62.0,
+            "behinds" : 27.0,
+            "superGoals" : null,
+            "kicks" : 170.0,
+            "handballs" : 54.0,
+            "disposals" : 224.0,
+            "marks" : 106.0,
+            "bounces" : 10.0,
+            "tackles" : 27.0,
+            "contestedPossessions" : 94.0,
+            "uncontestedPossessions" : 133.0,
+            "totalPossessions" : 227.0,
+            "inside50s" : 62.0,
+            "marksInside50" : 47.0,
+            "contestedMarks" : 20.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 37.0,
+            "disposalEfficiency" : 66.1,
+            "clangers" : 51.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 1396.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 62.0,
+            "ratingPoints" : 349.3,
+            "ranking" : 163.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293845",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Cameron"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 88.6
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.8,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 2.8,
+            "disposals" : 10.0,
+            "marks" : 5.0,
+            "bounces" : 0.1,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 10.0,
+            "inside50s" : 2.1,
+            "marksInside50" : 1.9,
+            "contestedMarks" : 1.6,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.2,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 58.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293845",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Cameron"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 29.0,
+            "behinds" : 15.0,
+            "superGoals" : null,
+            "kicks" : 115.0,
+            "handballs" : 45.0,
+            "disposals" : 160.0,
+            "marks" : 80.0,
+            "bounces" : 1.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 80.0,
+            "uncontestedPossessions" : 80.0,
+            "totalPossessions" : 160.0,
+            "inside50s" : 34.0,
+            "marksInside50" : 31.0,
+            "contestedMarks" : 26.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 73.7,
+            "clangers" : 39.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 931.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 58.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293845",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Cameron"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 87.9
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 63.0,
+      "behinds" : 37.0,
+      "superGoals" : null,
+      "kicks" : 185.0,
+      "handballs" : 50.0,
+      "disposals" : 235.0,
+      "marks" : 122.0,
+      "bounces" : 0.0,
+      "tackles" : 37.0,
+      "contestedPossessions" : 94.0,
+      "uncontestedPossessions" : 135.0,
+      "totalPossessions" : 229.0,
+      "inside50s" : 48.0,
+      "marksInside50" : 65.0,
+      "contestedMarks" : 17.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 21.0,
+      "disposalEfficiency" : 64.3,
+      "clangers" : 44.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1543.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 10.0,
+      "goalAccuracy" : 58.9,
+      "ratingPoints" : 317.8,
+      "ranking" : 197.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I293845",
+        "playerName" : {
+          "givenName" : "Jeremy",
+          "surname" : "Cameron"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 318.5,
+        "ranking" : 200,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 318.5,
+        "ranking" : 10,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 318.5,
+        "ranking" : 20,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 221.8,
+        "ranking" : 110,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 73
+  }
+}

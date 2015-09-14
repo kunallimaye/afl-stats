@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I296324",
+    "position" : "Right Half Forward",
+    "surname" : "Hogan",
+    "jumperNumber" : 1,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 2.2,
+      "behinds" : 0.9,
+      "superGoals" : null,
+      "kicks" : 8.9,
+      "handballs" : 4.1,
+      "disposals" : 13.0,
+      "marks" : 6.7,
+      "bounces" : 0.0,
+      "tackles" : 1.2,
+      "contestedPossessions" : 5.9,
+      "uncontestedPossessions" : 6.9,
+      "totalPossessions" : 12.8,
+      "inside50s" : 2.2,
+      "marksInside50" : 2.6,
+      "contestedMarks" : 2.3,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.1,
+      "disposalEfficiency" : null,
+      "clangers" : 1.0,
+      "freesFor" : 0.8,
+      "freesAgainst" : 0.3,
+      "dreamTeamPoints" : 74.2,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.1,
+        "totalClearances" : 0.2
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.6,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jesse",
+    "bio" : "<p>A stress-related back injury in the NAB Challenge ruined his season. He played one VFL game at the end of the season, but was immediately put back into cotton wool to ensure he had every chance of being right in 2015. The Demons have been both cautious in their approach and active in attempting to change Hogan’s running style to make him more durable. He remains a key plank in the club’s plans and his decision to extend his contract until the end of 2017 shows he is going to give himself the best chance to establish himself.<br>\n<br>\n<b>Draft history:</b> GWS Giants Trade Incentive Rule selection 17-year-old access (Melbourne) No. 2.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Melbourne/Player Profiles/2015 - Profiles/HOGAN Jesse.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1995-02-12T01:00:00.000+0000",
+      "draftYear" : "2012",
+      "heightInCm" : 195,
+      "weightInKg" : 97,
+      "recruitedFrom" : null,
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 44.0,
+      "behinds" : 19.0,
+      "superGoals" : null,
+      "kicks" : 178.0,
+      "handballs" : 83.0,
+      "disposals" : 261.0,
+      "marks" : 134.0,
+      "bounces" : 1.0,
+      "tackles" : 25.0,
+      "contestedPossessions" : 118.0,
+      "uncontestedPossessions" : 139.0,
+      "totalPossessions" : 257.0,
+      "inside50s" : 45.0,
+      "marksInside50" : 52.0,
+      "contestedMarks" : 47.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 22.0,
+      "disposalEfficiency" : 68.6,
+      "clangers" : 20.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 6.0,
+      "dreamTeamPoints" : 1484.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 62.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.2,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 8.9,
+            "handballs" : 4.1,
+            "disposals" : 13.0,
+            "marks" : 6.7,
+            "bounces" : 0.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 5.9,
+            "uncontestedPossessions" : 6.9,
+            "totalPossessions" : 12.8,
+            "inside50s" : 2.2,
+            "marksInside50" : 2.6,
+            "contestedMarks" : 2.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 74.2,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296324",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "Hogan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 44.0,
+            "behinds" : 19.0,
+            "superGoals" : null,
+            "kicks" : 178.0,
+            "handballs" : 83.0,
+            "disposals" : 261.0,
+            "marks" : 134.0,
+            "bounces" : 1.0,
+            "tackles" : 25.0,
+            "contestedPossessions" : 118.0,
+            "uncontestedPossessions" : 139.0,
+            "totalPossessions" : 257.0,
+            "inside50s" : 45.0,
+            "marksInside50" : 52.0,
+            "contestedMarks" : 47.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 68.6,
+            "clangers" : 20.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 1484.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 62.0,
+            "ratingPoints" : 181.7,
+            "ranking" : 387.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296324",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "Hogan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 90.3
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296324",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "Hogan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296324",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "Hogan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 44.0,
+      "behinds" : 19.0,
+      "superGoals" : null,
+      "kicks" : 178.0,
+      "handballs" : 83.0,
+      "disposals" : 261.0,
+      "marks" : 134.0,
+      "bounces" : 1.0,
+      "tackles" : 25.0,
+      "contestedPossessions" : 118.0,
+      "uncontestedPossessions" : 139.0,
+      "totalPossessions" : 257.0,
+      "inside50s" : 45.0,
+      "marksInside50" : 52.0,
+      "contestedMarks" : 47.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 22.0,
+      "disposalEfficiency" : 68.6,
+      "clangers" : 20.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 6.0,
+      "dreamTeamPoints" : 1484.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 62.0,
+      "ratingPoints" : 181.7,
+      "ranking" : 387.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I296324",
+        "playerName" : {
+          "givenName" : "Jesse",
+          "surname" : "Hogan"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T90",
+        "teamAbbr" : "MELB",
+        "teamName" : "Melbourne",
+        "teamNickname" : "Demons"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 195.8,
+        "ranking" : 372,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 195.8,
+        "ranking" : 19,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 195.8,
+        "ranking" : 35,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 195.8,
+        "ranking" : 158,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 20
+  }
+}

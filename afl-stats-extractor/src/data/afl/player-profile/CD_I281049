@@ -1,0 +1,579 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I281049",
+    "position" : "Right Wing",
+    "surname" : "Davies",
+    "jumperNumber" : 31,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 4.9,
+      "handballs" : 3.1,
+      "disposals" : 7.9,
+      "marks" : 2.0,
+      "bounces" : 0.4,
+      "tackles" : 2.7,
+      "contestedPossessions" : 2.5,
+      "uncontestedPossessions" : 5.2,
+      "totalPossessions" : 7.7,
+      "inside50s" : 1.1,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.1,
+      "disposalEfficiency" : null,
+      "clangers" : 1.6,
+      "freesFor" : 0.5,
+      "freesAgainst" : 1.2,
+      "dreamTeamPoints" : 35.1,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.1,
+        "totalClearances" : 0.1
+      },
+      "rebound50s" : 1.2,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Marcus",
+    "bio" : "<p>Complications with a shoulder injury confined Marcus to just two senior appearances for the season. Will no doubt be jockeying for a berth in the back six as the season opener steadily looms.<br>\n<br>\n<strong>Draft history:</strong> 2009 NAB AFL Draft 3rd round selection (Carlton) No. 43 overall.<br>\n<br>\n&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Carlton/Player Profiles/2013 - Profiles/DAVIES Marcus.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-04-06T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 188,
+      "weightInKg" : 90,
+      "recruitedFrom" : "North Hobart/Tas U18",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 1.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 83.0,
+      "handballs" : 52.0,
+      "disposals" : 135.0,
+      "marks" : 34.0,
+      "bounces" : 6.0,
+      "tackles" : 46.0,
+      "contestedPossessions" : 43.0,
+      "uncontestedPossessions" : 88.0,
+      "totalPossessions" : 131.0,
+      "inside50s" : 19.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 36.0,
+      "disposalEfficiency" : 70.4,
+      "clangers" : 28.0,
+      "freesFor" : 9.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 597.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 20.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 25.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 3.0,
+            "disposals" : 7.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 4.5,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 3.5,
+            "totalPossessions" : 6.5,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 35.0,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281049",
+            "playerName" : {
+              "givenName" : "Marcus",
+              "surname" : "Davies"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 6.0,
+            "disposals" : 14.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 13.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 64.3,
+            "clangers" : 3.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 70.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 16.5,
+            "ranking" : 661.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281049",
+            "playerName" : {
+              "givenName" : "Marcus",
+              "surname" : "Davies"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 78.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 0.5,
+            "disposals" : 5.5,
+            "marks" : 1.5,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 2.0,
+            "totalPossessions" : 5.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 20.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281049",
+            "playerName" : {
+              "givenName" : "Marcus",
+              "surname" : "Davies"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 1.0,
+            "disposals" : 11.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 10.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 54.5,
+            "clangers" : 3.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 41.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281049",
+            "playerName" : {
+              "givenName" : "Marcus",
+              "surname" : "Davies"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 57.8
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 4.7,
+            "handballs" : 3.6,
+            "disposals" : 8.4,
+            "marks" : 2.4,
+            "bounces" : 0.5,
+            "tackles" : 2.6,
+            "contestedPossessions" : 2.1,
+            "uncontestedPossessions" : 6.2,
+            "totalPossessions" : 8.4,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 38.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281049",
+            "playerName" : {
+              "givenName" : "Marcus",
+              "surname" : "Davies"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 38.0,
+            "handballs" : 29.0,
+            "disposals" : 67.0,
+            "marks" : 19.0,
+            "bounces" : 4.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 17.0,
+            "uncontestedPossessions" : 50.0,
+            "totalPossessions" : 67.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 71.6,
+            "clangers" : 11.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 306.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281049",
+            "playerName" : {
+              "givenName" : "Marcus",
+              "surname" : "Davies"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 74.0
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 5.4,
+            "handballs" : 3.2,
+            "disposals" : 8.6,
+            "marks" : 2.0,
+            "bounces" : 0.4,
+            "tackles" : 2.8,
+            "contestedPossessions" : 2.8,
+            "uncontestedPossessions" : 5.4,
+            "totalPossessions" : 8.2,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.6,
+            "dreamTeamPoints" : 36.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281049",
+            "playerName" : {
+              "givenName" : "Marcus",
+              "surname" : "Davies"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 27.0,
+            "handballs" : 16.0,
+            "disposals" : 43.0,
+            "marks" : 10.0,
+            "bounces" : 2.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 14.0,
+            "uncontestedPossessions" : 27.0,
+            "totalPossessions" : 41.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 74.4,
+            "clangers" : 11.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 180.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281049",
+            "playerName" : {
+              "givenName" : "Marcus",
+              "surname" : "Davies"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 72.1
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 8.0,
+      "handballs" : 6.0,
+      "disposals" : 14.0,
+      "marks" : 2.0,
+      "bounces" : 0.0,
+      "tackles" : 9.0,
+      "contestedPossessions" : 6.0,
+      "uncontestedPossessions" : 7.0,
+      "totalPossessions" : 13.0,
+      "inside50s" : 4.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 5.0,
+      "disposalEfficiency" : 64.3,
+      "clangers" : 3.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 3.0,
+      "dreamTeamPoints" : 70.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 16.5,
+      "ranking" : 661.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201301427",
+      "player" : {
+        "playerId" : "CD_I281049",
+        "playerName" : {
+          "givenName" : "Marcus",
+          "surname" : "Davies"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T30",
+        "teamAbbr" : "CARL",
+        "teamName" : "Carlton",
+        "teamNickname" : "Blues"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 14.0,
+        "ranking" : 662,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 14.0,
+        "ranking" : 37,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 14.0,
+        "ranking" : 209,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 17
+  }
+}

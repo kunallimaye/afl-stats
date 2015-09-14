@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I270637",
+    "position" : "Left Back Pocket",
+    "surname" : "White",
+    "jumperNumber" : 43,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 6.9,
+      "handballs" : 4.4,
+      "disposals" : 11.3,
+      "marks" : 4.2,
+      "bounces" : 0.3,
+      "tackles" : 1.7,
+      "contestedPossessions" : 4.2,
+      "uncontestedPossessions" : 7.1,
+      "totalPossessions" : 11.2,
+      "inside50s" : 1.2,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.5,
+      "hitouts" : 0.2,
+      "onePercenters" : 4.1,
+      "disposalEfficiency" : null,
+      "clangers" : 1.5,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 48.8,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.3,
+        "totalClearances" : 0.4
+      },
+      "rebound50s" : 1.5,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Simon",
+    "bio" : "<p>Simon White displayed remarkable mental strength in 2014, overcoming a season-ending fractured vertebrae the previous year to play 19 games &ndash; his best season return.</p>\n<p>Despite suffering a potentially life-threatening injury, the defender lost none of his trademark courage, finishing third at the Blues for one-percenters and equal fourth for contested marks.</p>\n<p>Off the field, White was recognised for his significant contribution to the wider community with the Player Ambassador Award.<br />&nbsp;<br /> <strong>Draft history:</strong> 2010 Rookie Draft selection (Carlton) No. 56; 2010 NAB AFL Draft rookie elevation (Carlton) selection No. 108.<br /> <br /> <strong>Twitter:</strong> <a href=\"http://twitter.com/whiteman43\" target=\"_blank\">@whiteman43<br /> </a><strong>Instagram:</strong> <a href=\"http://instagram.com/whiteman43\" target=\"_blank\">whiteman43</a><br /><strong>Incogo:</strong> <a href=\"https://www.incogo.com/member/profile/75\" target=\"_blank\">My off season</a></p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Carlton/Player Profiles/2015 - Profiles/WHITE-Simon.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1988-06-17T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 190,
+      "weightInKg" : 93,
+      "recruitedFrom" : "Subiaco (WA)",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 10.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 407.0,
+      "handballs" : 257.0,
+      "disposals" : 664.0,
+      "marks" : 248.0,
+      "bounces" : 18.0,
+      "tackles" : 102.0,
+      "contestedPossessions" : 246.0,
+      "uncontestedPossessions" : 416.0,
+      "totalPossessions" : 662.0,
+      "inside50s" : 69.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 29.0,
+      "hitouts" : 11.0,
+      "onePercenters" : 244.0,
+      "disposalEfficiency" : 74.4,
+      "clangers" : 90.0,
+      "freesFor" : 42.0,
+      "freesAgainst" : 42.0,
+      "dreamTeamPoints" : 2878.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 22.0
+      },
+      "rebound50s" : 86.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 55.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.6,
+            "handballs" : 4.5,
+            "disposals" : 11.1,
+            "marks" : 3.0,
+            "bounces" : 0.1,
+            "tackles" : 1.9,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 6.7,
+            "totalPossessions" : 11.3,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.5,
+            "onePercenters" : 4.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 44.4,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270637",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "White"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 93.0,
+            "handballs" : 63.0,
+            "disposals" : 156.0,
+            "marks" : 42.0,
+            "bounces" : 2.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 64.0,
+            "uncontestedPossessions" : 94.0,
+            "totalPossessions" : 158.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 57.0,
+            "disposalEfficiency" : 69.2,
+            "clangers" : 26.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 622.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 206.7,
+            "ranking" : 357.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270637",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "White"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 84.0
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.8,
+            "handballs" : 3.6,
+            "disposals" : 10.4,
+            "marks" : 4.2,
+            "bounces" : 0.4,
+            "tackles" : 1.8,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 6.4,
+            "totalPossessions" : 10.4,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.2,
+            "onePercenters" : 3.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 49.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270637",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "White"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 129.0,
+            "handballs" : 69.0,
+            "disposals" : 198.0,
+            "marks" : 80.0,
+            "bounces" : 7.0,
+            "tackles" : 35.0,
+            "contestedPossessions" : 77.0,
+            "uncontestedPossessions" : 121.0,
+            "totalPossessions" : 198.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 72.0,
+            "disposalEfficiency" : 72.7,
+            "clangers" : 29.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 941.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 63.6,
+            "ratingPoints" : 194.6,
+            "ranking" : 365.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270637",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "White"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 84.7
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.9,
+            "handballs" : 3.8,
+            "disposals" : 10.7,
+            "marks" : 4.4,
+            "bounces" : 0.0,
+            "tackles" : 1.4,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 6.7,
+            "totalPossessions" : 10.7,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 45.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270637",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "White"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 62.0,
+            "handballs" : 34.0,
+            "disposals" : 96.0,
+            "marks" : 40.0,
+            "bounces" : 0.0,
+            "tackles" : 13.0,
+            "contestedPossessions" : 36.0,
+            "uncontestedPossessions" : 60.0,
+            "totalPossessions" : 96.0,
+            "inside50s" : 11.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 38.0,
+            "disposalEfficiency" : 82.3,
+            "clangers" : 9.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 408.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 90.6,
+            "ranking" : 507.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270637",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "White"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 82.5
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.2,
+            "handballs" : 4.4,
+            "disposals" : 10.6,
+            "marks" : 4.8,
+            "bounces" : 0.2,
+            "tackles" : 1.8,
+            "contestedPossessions" : 4.4,
+            "uncontestedPossessions" : 5.8,
+            "totalPossessions" : 10.2,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 47.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270637",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "White"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 31.0,
+            "handballs" : 22.0,
+            "disposals" : 53.0,
+            "marks" : 24.0,
+            "bounces" : 1.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 22.0,
+            "uncontestedPossessions" : 29.0,
+            "totalPossessions" : 51.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 73.6,
+            "clangers" : 7.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 237.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270637",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "White"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 91.3
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.3,
+            "handballs" : 5.2,
+            "disposals" : 11.5,
+            "marks" : 2.8,
+            "bounces" : 0.2,
+            "tackles" : 1.8,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 6.7,
+            "totalPossessions" : 11.2,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 45.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270637",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "White"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 38.0,
+            "handballs" : 31.0,
+            "disposals" : 69.0,
+            "marks" : 17.0,
+            "bounces" : 1.0,
+            "tackles" : 11.0,
+            "contestedPossessions" : 27.0,
+            "uncontestedPossessions" : 40.0,
+            "totalPossessions" : 67.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 32.0,
+            "disposalEfficiency" : 76.8,
+            "clangers" : 6.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 273.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270637",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "White"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 83.2
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 6.3,
+            "disposals" : 15.3,
+            "marks" : 7.5,
+            "bounces" : 1.2,
+            "tackles" : 1.3,
+            "contestedPossessions" : 3.3,
+            "uncontestedPossessions" : 12.0,
+            "totalPossessions" : 15.3,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 66.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270637",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "White"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 54.0,
+            "handballs" : 38.0,
+            "disposals" : 92.0,
+            "marks" : 45.0,
+            "bounces" : 7.0,
+            "tackles" : 8.0,
+            "contestedPossessions" : 20.0,
+            "uncontestedPossessions" : 72.0,
+            "totalPossessions" : 92.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 76.1,
+            "clangers" : 13.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 397.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270637",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "White"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 73.8
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 93.0,
+      "handballs" : 63.0,
+      "disposals" : 156.0,
+      "marks" : 42.0,
+      "bounces" : 2.0,
+      "tackles" : 26.0,
+      "contestedPossessions" : 64.0,
+      "uncontestedPossessions" : 94.0,
+      "totalPossessions" : 158.0,
+      "inside50s" : 15.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 7.0,
+      "onePercenters" : 57.0,
+      "disposalEfficiency" : 69.2,
+      "clangers" : 26.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 622.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 8.0,
+        "totalClearances" : 13.0
+      },
+      "rebound50s" : 27.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : 206.7,
+      "ranking" : 357.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I270637",
+        "playerName" : {
+          "givenName" : "Simon",
+          "surname" : "White"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T30",
+        "teamAbbr" : "CARL",
+        "teamName" : "Carlton",
+        "teamNickname" : "Blues"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 206.7,
+        "ranking" : 356,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 206.7,
+        "ranking" : 19,
+        "ratingType" : "TEAM",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 206.7,
+        "ranking" : 40,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 78.3,
+        "ranking" : 405,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 59
+  }
+}

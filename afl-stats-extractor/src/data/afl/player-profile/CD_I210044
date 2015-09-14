@@ -1,0 +1,647 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I210044",
+    "position" : "Interchange",
+    "surname" : "Woods",
+    "jumperNumber" : 6,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Dion",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1982-01-25T01:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 191,
+      "weightInKg" : 84,
+      "recruitedFrom" : "Perth (WA)",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 7.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 471.0,
+      "handballs" : 243.0,
+      "disposals" : 714.0,
+      "marks" : 204.0,
+      "bounces" : 35.0,
+      "tackles" : 108.0,
+      "contestedPossessions" : 273.0,
+      "uncontestedPossessions" : 442.0,
+      "totalPossessions" : 715.0,
+      "inside50s" : 85.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 31.0,
+      "hitouts" : 22.0,
+      "onePercenters" : 164.0,
+      "disposalEfficiency" : 83.9,
+      "clangers" : 82.0,
+      "freesFor" : 33.0,
+      "freesAgainst" : 24.0,
+      "dreamTeamPoints" : 2975.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 42.0,
+        "totalClearances" : 54.0
+      },
+      "rebound50s" : 166.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 46.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.2,
+            "handballs" : 4.0,
+            "disposals" : 9.2,
+            "marks" : 2.7,
+            "bounces" : 1.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 2.7,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 8.7,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.2,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 40.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210044",
+            "playerName" : {
+              "givenName" : "Dion",
+              "surname" : "Woods"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 21.0,
+            "handballs" : 16.0,
+            "disposals" : 37.0,
+            "marks" : 11.0,
+            "bounces" : 4.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 11.0,
+            "uncontestedPossessions" : 24.0,
+            "totalPossessions" : 35.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 86.5,
+            "clangers" : 4.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 163.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210044",
+            "playerName" : {
+              "givenName" : "Dion",
+              "surname" : "Woods"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 68.0
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 3.8,
+            "disposals" : 11.8,
+            "marks" : 4.2,
+            "bounces" : 1.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 7.7,
+            "totalPossessions" : 11.8,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.1,
+            "dreamTeamPoints" : 49.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 3.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210044",
+            "playerName" : {
+              "givenName" : "Dion",
+              "surname" : "Woods"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 128.0,
+            "handballs" : 61.0,
+            "disposals" : 189.0,
+            "marks" : 67.0,
+            "bounces" : 16.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 65.0,
+            "uncontestedPossessions" : 124.0,
+            "totalPossessions" : 189.0,
+            "inside50s" : 26.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 59.0,
+            "disposalEfficiency" : 83.6,
+            "clangers" : 23.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 791.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 52.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210044",
+            "playerName" : {
+              "givenName" : "Dion",
+              "surname" : "Woods"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 72.3
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 10.1,
+            "handballs" : 4.0,
+            "disposals" : 14.0,
+            "marks" : 4.0,
+            "bounces" : 0.4,
+            "tackles" : 2.5,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 8.4,
+            "totalPossessions" : 14.0,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.2,
+            "onePercenters" : 3.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 59.6,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 4.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210044",
+            "playerName" : {
+              "givenName" : "Dion",
+              "surname" : "Woods"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 212.0,
+            "handballs" : 83.0,
+            "disposals" : 295.0,
+            "marks" : 84.0,
+            "bounces" : 9.0,
+            "tackles" : 53.0,
+            "contestedPossessions" : 117.0,
+            "uncontestedPossessions" : 176.0,
+            "totalPossessions" : 293.0,
+            "inside50s" : 28.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 14.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 65.0,
+            "disposalEfficiency" : 86.8,
+            "clangers" : 31.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1251.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 16.0,
+              "totalClearances" : 20.0
+            },
+            "rebound50s" : 88.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210044",
+            "playerName" : {
+              "givenName" : "Dion",
+              "surname" : "Woods"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 92.5
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 6.3,
+            "handballs" : 4.6,
+            "disposals" : 10.9,
+            "marks" : 2.1,
+            "bounces" : 0.5,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 7.4,
+            "totalPossessions" : 11.4,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.4,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 42.4,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210044",
+            "playerName" : {
+              "givenName" : "Dion",
+              "surname" : "Woods"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 63.0,
+            "handballs" : 46.0,
+            "disposals" : 109.0,
+            "marks" : 21.0,
+            "bounces" : 5.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 40.0,
+            "uncontestedPossessions" : 74.0,
+            "totalPossessions" : 114.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 78.0,
+            "clangers" : 15.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 424.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 17.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210044",
+            "playerName" : {
+              "givenName" : "Dion",
+              "surname" : "Woods"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.9,
+            "handballs" : 4.6,
+            "disposals" : 10.5,
+            "marks" : 2.6,
+            "bounces" : 0.1,
+            "tackles" : 1.6,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 5.5,
+            "totalPossessions" : 10.5,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 1.5,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 43.2,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210044",
+            "playerName" : {
+              "givenName" : "Dion",
+              "surname" : "Woods"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 47.0,
+            "handballs" : 37.0,
+            "disposals" : 84.0,
+            "marks" : 21.0,
+            "bounces" : 1.0,
+            "tackles" : 13.0,
+            "contestedPossessions" : 40.0,
+            "uncontestedPossessions" : 44.0,
+            "totalPossessions" : 84.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 12.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 81.0,
+            "clangers" : 9.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 346.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210044",
+            "playerName" : {
+              "givenName" : "Dion",
+              "surname" : "Woods"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 21.0,
+      "handballs" : 16.0,
+      "disposals" : 37.0,
+      "marks" : 11.0,
+      "bounces" : 4.0,
+      "tackles" : 6.0,
+      "contestedPossessions" : 11.0,
+      "uncontestedPossessions" : 24.0,
+      "totalPossessions" : 35.0,
+      "inside50s" : 5.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 9.0,
+      "disposalEfficiency" : 86.5,
+      "clangers" : 4.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 163.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 5.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

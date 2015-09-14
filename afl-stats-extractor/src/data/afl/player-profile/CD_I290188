@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I290188",
+    "position" : "Centre Half Forward",
+    "surname" : "Reid",
+    "jumperNumber" : 20,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.0,
+      "behinds" : 0.7,
+      "superGoals" : null,
+      "kicks" : 5.9,
+      "handballs" : 5.0,
+      "disposals" : 10.9,
+      "marks" : 4.2,
+      "bounces" : 0.0,
+      "tackles" : 2.2,
+      "contestedPossessions" : 5.2,
+      "uncontestedPossessions" : 5.9,
+      "totalPossessions" : 11.1,
+      "inside50s" : 1.4,
+      "marksInside50" : 1.4,
+      "contestedMarks" : 1.3,
+      "hitouts" : 1.0,
+      "onePercenters" : 2.3,
+      "disposalEfficiency" : null,
+      "clangers" : 1.5,
+      "freesFor" : 0.8,
+      "freesAgainst" : 0.4,
+      "dreamTeamPoints" : 56.2,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.3,
+        "totalClearances" : 0.4
+      },
+      "rebound50s" : 0.3,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Sam",
+    "bio" : "<p>Reid emerged as the club&rsquo;s &lsquo;Mr Fix-It&rsquo; last year. More than capable of leading out of the goalsquare or taking big grabs at centre half-forward, the 23-year-old was also regularly shifted into defence when needed.</p>\n<p>Whether it&rsquo;s as a loose man in defence, quelling a rampaging key forward or even helping out in the ruck, Reid handled it all, and will be looking for much of the same in 2015.<br /> <br /> <strong>Draft history:</strong> 2009 NAB AFL Draft 3rd round selection (Sydney) No. 38 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/SydneySwans/Player Profiles/2014 Profiles/REID Sam.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-12-27T01:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 196,
+      "weightInKg" : 95,
+      "recruitedFrom" : "Wangaratta Rovers/Murray U18",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 94.0,
+      "behinds" : 72.0,
+      "superGoals" : null,
+      "kicks" : 575.0,
+      "handballs" : 494.0,
+      "disposals" : 1069.0,
+      "marks" : 416.0,
+      "bounces" : 4.0,
+      "tackles" : 214.0,
+      "contestedPossessions" : 511.0,
+      "uncontestedPossessions" : 576.0,
+      "totalPossessions" : 1087.0,
+      "inside50s" : 142.0,
+      "marksInside50" : 133.0,
+      "contestedMarks" : 132.0,
+      "hitouts" : 98.0,
+      "onePercenters" : 223.0,
+      "disposalEfficiency" : 69.4,
+      "clangers" : 143.0,
+      "freesFor" : 83.0,
+      "freesAgainst" : 42.0,
+      "dreamTeamPoints" : 5508.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 29.0,
+        "totalClearances" : 39.0
+      },
+      "rebound50s" : 33.0,
+      "goalAssists" : 40.0,
+      "goalAccuracy" : 49.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 6.7,
+            "handballs" : 6.8,
+            "disposals" : 13.5,
+            "marks" : 5.8,
+            "bounces" : 0.0,
+            "tackles" : 2.4,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 13.5,
+            "inside50s" : 1.5,
+            "marksInside50" : 1.3,
+            "contestedMarks" : 1.0,
+            "hitouts" : 2.4,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 67.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290188",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Reid"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 16.0,
+            "behinds" : 13.0,
+            "superGoals" : null,
+            "kicks" : 147.0,
+            "handballs" : 149.0,
+            "disposals" : 296.0,
+            "marks" : 128.0,
+            "bounces" : 0.0,
+            "tackles" : 53.0,
+            "contestedPossessions" : 100.0,
+            "uncontestedPossessions" : 198.0,
+            "totalPossessions" : 298.0,
+            "inside50s" : 33.0,
+            "marksInside50" : 29.0,
+            "contestedMarks" : 21.0,
+            "hitouts" : 52.0,
+            "onePercenters" : 53.0,
+            "disposalEfficiency" : 74.0,
+            "clangers" : 29.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 1490.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 17.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 48.5,
+            "ratingPoints" : 284.2,
+            "ranking" : 253.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290188",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Reid"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 87.2
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 5.3,
+            "disposals" : 10.3,
+            "marks" : 3.4,
+            "bounces" : 0.0,
+            "tackles" : 2.4,
+            "contestedPossessions" : 5.3,
+            "uncontestedPossessions" : 5.4,
+            "totalPossessions" : 10.7,
+            "inside50s" : 1.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 2.3,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 52.6,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290188",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Reid"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 100.0,
+            "handballs" : 106.0,
+            "disposals" : 206.0,
+            "marks" : 68.0,
+            "bounces" : 0.0,
+            "tackles" : 48.0,
+            "contestedPossessions" : 106.0,
+            "uncontestedPossessions" : 109.0,
+            "totalPossessions" : 215.0,
+            "inside50s" : 20.0,
+            "marksInside50" : 20.0,
+            "contestedMarks" : 20.0,
+            "hitouts" : 46.0,
+            "onePercenters" : 54.0,
+            "disposalEfficiency" : 71.8,
+            "clangers" : 32.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 1052.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 25.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 58.6,
+            "ratingPoints" : 226.0,
+            "ranking" : 330.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290188",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Reid"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 83.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 6.1,
+            "handballs" : 4.7,
+            "disposals" : 10.8,
+            "marks" : 3.8,
+            "bounces" : 0.3,
+            "tackles" : 2.4,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 6.2,
+            "totalPossessions" : 10.9,
+            "inside50s" : 2.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 51.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290188",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Reid"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 61.0,
+            "handballs" : 47.0,
+            "disposals" : 108.0,
+            "marks" : 38.0,
+            "bounces" : 3.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 47.0,
+            "uncontestedPossessions" : 62.0,
+            "totalPossessions" : 109.0,
+            "inside50s" : 20.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 14.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 65.7,
+            "clangers" : 23.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 518.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 43.7,
+            "ratingPoints" : 246.2,
+            "ranking" : 301.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290188",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Reid"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 80.6
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.4,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 5.2,
+            "handballs" : 4.1,
+            "disposals" : 9.4,
+            "marks" : 3.1,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 9.5,
+            "inside50s" : 1.8,
+            "marksInside50" : 1.5,
+            "contestedMarks" : 1.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 49.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290188",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Reid"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 31.0,
+            "behinds" : 19.0,
+            "superGoals" : null,
+            "kicks" : 115.0,
+            "handballs" : 91.0,
+            "disposals" : 206.0,
+            "marks" : 68.0,
+            "bounces" : 0.0,
+            "tackles" : 43.0,
+            "contestedPossessions" : 119.0,
+            "uncontestedPossessions" : 89.0,
+            "totalPossessions" : 208.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 33.0,
+            "contestedMarks" : 31.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 45.0,
+            "disposalEfficiency" : 68.4,
+            "clangers" : 28.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1095.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 55.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290188",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Reid"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 88.9
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.1,
+            "superGoals" : null,
+            "kicks" : 6.2,
+            "handballs" : 4.2,
+            "disposals" : 10.4,
+            "marks" : 4.6,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 4.7,
+            "totalPossessions" : 10.7,
+            "inside50s" : 1.2,
+            "marksInside50" : 1.7,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 55.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290188",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Reid"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 22.0,
+            "behinds" : 26.0,
+            "superGoals" : null,
+            "kicks" : 143.0,
+            "handballs" : 97.0,
+            "disposals" : 240.0,
+            "marks" : 106.0,
+            "bounces" : 1.0,
+            "tackles" : 45.0,
+            "contestedPossessions" : 137.0,
+            "uncontestedPossessions" : 108.0,
+            "totalPossessions" : 245.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 40.0,
+            "contestedMarks" : 45.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 55.0,
+            "disposalEfficiency" : 64.2,
+            "clangers" : 30.0,
+            "freesFor" : 26.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 1281.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 41.5,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290188",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Reid"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 89.2
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 4.0,
+            "disposals" : 13.0,
+            "marks" : 8.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 13.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 72.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290188",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Reid"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 4.0,
+            "disposals" : 13.0,
+            "marks" : 8.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 13.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 69.2,
+            "clangers" : 1.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 72.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290188",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Reid"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 74.4
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 16.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 147.0,
+      "handballs" : 149.0,
+      "disposals" : 296.0,
+      "marks" : 128.0,
+      "bounces" : 0.0,
+      "tackles" : 53.0,
+      "contestedPossessions" : 100.0,
+      "uncontestedPossessions" : 198.0,
+      "totalPossessions" : 298.0,
+      "inside50s" : 33.0,
+      "marksInside50" : 29.0,
+      "contestedMarks" : 21.0,
+      "hitouts" : 52.0,
+      "onePercenters" : 53.0,
+      "disposalEfficiency" : 74.0,
+      "clangers" : 29.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 8.0,
+      "dreamTeamPoints" : 1490.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 6.0,
+        "totalClearances" : 6.0
+      },
+      "rebound50s" : 17.0,
+      "goalAssists" : 11.0,
+      "goalAccuracy" : 48.5,
+      "ratingPoints" : 284.2,
+      "ranking" : 253.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I290188",
+        "playerName" : {
+          "givenName" : "Sam",
+          "surname" : "Reid"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T160",
+        "teamAbbr" : "SYD",
+        "teamName" : "Sydney Swans",
+        "teamNickname" : "Swans"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 282.6,
+        "ranking" : 255,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 282.6,
+        "ranking" : 17,
+        "ratingType" : "TEAM",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 282.6,
+        "ranking" : 24,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 6.8,
+        "ranking" : 115,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 167.0,
+        "ranking" : 209,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 98
+  }
+}

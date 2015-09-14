@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I296452",
+    "position" : "Full Forward",
+    "surname" : "Minchington",
+    "jumperNumber" : 41,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.2,
+      "behinds" : 0.6,
+      "superGoals" : null,
+      "kicks" : 5.4,
+      "handballs" : 3.8,
+      "disposals" : 9.2,
+      "marks" : 2.5,
+      "bounces" : 0.1,
+      "tackles" : 2.1,
+      "contestedPossessions" : 4.4,
+      "uncontestedPossessions" : 5.0,
+      "totalPossessions" : 9.4,
+      "inside50s" : 1.9,
+      "marksInside50" : 0.8,
+      "contestedMarks" : 0.4,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.5,
+      "disposalEfficiency" : null,
+      "clangers" : 1.0,
+      "freesFor" : 0.1,
+      "freesAgainst" : 0.3,
+      "dreamTeamPoints" : 46.7,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.2,
+        "totalClearances" : 0.4
+      },
+      "rebound50s" : 0.2,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Darren",
+    "bio" : "<p>A natural and skilful half-forward, Minchington was drafted with pick No.65 in the 2012 AFL Rookie Draft.</p>\n\n<p>Despite promising junior careers in cricket and squash, he pursued football and was rewarded with two senior games last year after showing sparks of brilliance in the VFL.</p>\n\n<p>His two games, against Hawthorn and Sydney, yielded a goal on each occasion and another summer in the gym will greatly benefit the clever forward.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/StKilda/Player Profiles/2015 - Profiles/MINCHINGTON Darren.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-12-09T01:00:00.000+0000",
+      "draftYear" : "2012",
+      "heightInCm" : 179,
+      "weightInKg" : 82,
+      "recruitedFrom" : "Dromana/Dandenong U18",
+      "debutYear" : "2013"
+    },
+    "careerStats" : {
+      "goals" : 12.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 54.0,
+      "handballs" : 38.0,
+      "disposals" : 92.0,
+      "marks" : 25.0,
+      "bounces" : 1.0,
+      "tackles" : 21.0,
+      "contestedPossessions" : 44.0,
+      "uncontestedPossessions" : 50.0,
+      "totalPossessions" : 94.0,
+      "inside50s" : 19.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 5.0,
+      "disposalEfficiency" : 65.2,
+      "clangers" : 10.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 3.0,
+      "dreamTeamPoints" : 467.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 57.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 4.8,
+            "handballs" : 4.6,
+            "disposals" : 9.4,
+            "marks" : 2.0,
+            "bounces" : 0.2,
+            "tackles" : 3.0,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 9.6,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 47.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296452",
+            "playerName" : {
+              "givenName" : "Darren",
+              "surname" : "Minchington"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 24.0,
+            "handballs" : 23.0,
+            "disposals" : 47.0,
+            "marks" : 10.0,
+            "bounces" : 1.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 23.0,
+            "uncontestedPossessions" : 25.0,
+            "totalPossessions" : 48.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 57.4,
+            "clangers" : 6.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 239.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 76.7,
+            "ranking" : 524.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296452",
+            "playerName" : {
+              "givenName" : "Darren",
+              "surname" : "Minchington"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 76.8
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 6.7,
+            "handballs" : 2.7,
+            "disposals" : 9.3,
+            "marks" : 2.3,
+            "bounces" : 0.0,
+            "tackles" : 1.3,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 5.3,
+            "totalPossessions" : 10.0,
+            "inside50s" : 2.7,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 46.3,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296452",
+            "playerName" : {
+              "givenName" : "Darren",
+              "surname" : "Minchington"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 20.0,
+            "handballs" : 8.0,
+            "disposals" : 28.0,
+            "marks" : 7.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 14.0,
+            "uncontestedPossessions" : 16.0,
+            "totalPossessions" : 30.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 71.4,
+            "clangers" : 3.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 139.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 45.8,
+            "ranking" : 593.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296452",
+            "playerName" : {
+              "givenName" : "Darren",
+              "surname" : "Minchington"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 65.5
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 3.5,
+            "disposals" : 8.5,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 4.5,
+            "totalPossessions" : 8.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.5,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 44.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296452",
+            "playerName" : {
+              "givenName" : "Darren",
+              "surname" : "Minchington"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 7.0,
+            "disposals" : 17.0,
+            "marks" : 8.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 16.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 76.5,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 89.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 13.7,
+            "ranking" : 668.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296452",
+            "playerName" : {
+              "givenName" : "Darren",
+              "surname" : "Minchington"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 78.0
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296452",
+            "playerName" : {
+              "givenName" : "Darren",
+              "surname" : "Minchington"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296452",
+            "playerName" : {
+              "givenName" : "Darren",
+              "surname" : "Minchington"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 6.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 24.0,
+      "handballs" : 23.0,
+      "disposals" : 47.0,
+      "marks" : 10.0,
+      "bounces" : 1.0,
+      "tackles" : 15.0,
+      "contestedPossessions" : 23.0,
+      "uncontestedPossessions" : 25.0,
+      "totalPossessions" : 48.0,
+      "inside50s" : 9.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 3.0,
+      "disposalEfficiency" : 57.4,
+      "clangers" : 6.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 3.0,
+      "dreamTeamPoints" : 239.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 76.7,
+      "ranking" : 524.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I296452",
+        "playerName" : {
+          "givenName" : "Darren",
+          "surname" : "Minchington"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T130",
+        "teamAbbr" : "STK",
+        "teamName" : "St Kilda",
+        "teamNickname" : "Saints"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 76.7,
+        "ranking" : 529,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 76.7,
+        "ranking" : 30,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 76.7,
+        "ranking" : 79,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 44.6,
+        "ranking" : 498,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 10
+  }
+}

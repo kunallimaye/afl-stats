@@ -1,0 +1,1619 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I210059",
+    "position" : "Left Half Back",
+    "surname" : "Hunt",
+    "jumperNumber" : 32,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 8.9,
+      "handballs" : 6.0,
+      "disposals" : 15.0,
+      "marks" : 4.2,
+      "bounces" : 0.2,
+      "tackles" : 2.1,
+      "contestedPossessions" : 4.4,
+      "uncontestedPossessions" : 10.4,
+      "totalPossessions" : 14.7,
+      "inside50s" : 1.5,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.5,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.7,
+      "disposalEfficiency" : null,
+      "clangers" : 1.8,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 59.6,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.4,
+        "totalClearances" : 0.5
+      },
+      "rebound50s" : 2.7,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Josh",
+    "bio" : "<p>Tough defender Josh Hunt was drafted by Geelong with pick 44 in the 2000 NAB AFL Draft. Recruited from the Bendigo Pioneers as a forward, Hunt is renowned for his raking left foot kicks that can break the game open. He made his AFL debut in Round 8, 2001 and after 198 games with Geelong, including two premierships, he joined the GIANTS at the end of 2013 as a free agent.<br>\n&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2014 - Profiles/Hunt297.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1982-03-14T01:00:00.000+0000",
+      "draftYear" : "2000",
+      "heightInCm" : 184,
+      "weightInKg" : 102,
+      "recruitedFrom" : "Mildura Imperials/Bendigo U18",
+      "debutYear" : "2001"
+    },
+    "careerStats" : {
+      "goals" : 33.0,
+      "behinds" : 27.0,
+      "superGoals" : null,
+      "kicks" : 1893.0,
+      "handballs" : 1282.0,
+      "disposals" : 3175.0,
+      "marks" : 896.0,
+      "bounces" : 48.0,
+      "tackles" : 440.0,
+      "contestedPossessions" : 924.0,
+      "uncontestedPossessions" : 2195.0,
+      "totalPossessions" : 3119.0,
+      "inside50s" : 325.0,
+      "marksInside50" : 27.0,
+      "contestedMarks" : 113.0,
+      "hitouts" : 4.0,
+      "onePercenters" : 580.0,
+      "disposalEfficiency" : 83.4,
+      "clangers" : 379.0,
+      "freesFor" : 104.0,
+      "freesAgainst" : 131.0,
+      "dreamTeamPoints" : 12631.0,
+      "clearances" : {
+        "centreClearances" : 22.0,
+        "stoppageClearances" : 91.0,
+        "totalClearances" : 113.0
+      },
+      "rebound50s" : 573.0,
+      "goalAssists" : 37.0,
+      "goalAccuracy" : 47.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 9.6,
+            "handballs" : 4.4,
+            "disposals" : 14.0,
+            "marks" : 4.8,
+            "bounces" : 0.1,
+            "tackles" : 2.1,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 13.9,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 60.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 2.6,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 135.0,
+            "handballs" : 61.0,
+            "disposals" : 196.0,
+            "marks" : 67.0,
+            "bounces" : 2.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 54.0,
+            "uncontestedPossessions" : 140.0,
+            "totalPossessions" : 194.0,
+            "inside50s" : 26.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 38.0,
+            "disposalEfficiency" : 78.1,
+            "clangers" : 35.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 846.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 36.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : 252.3,
+            "ranking" : 299.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 77.2
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 5.6,
+            "disposals" : 14.3,
+            "marks" : 4.5,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 9.9,
+            "totalPossessions" : 14.7,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 56.8,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 105.0,
+            "handballs" : 67.0,
+            "disposals" : 172.0,
+            "marks" : 54.0,
+            "bounces" : 0.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 57.0,
+            "uncontestedPossessions" : 119.0,
+            "totalPossessions" : 176.0,
+            "inside50s" : 25.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 82.6,
+            "clangers" : 16.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 682.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 26.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : 315.5,
+            "ranking" : 206.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 66.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 10.3,
+            "handballs" : 5.4,
+            "disposals" : 15.7,
+            "marks" : 5.9,
+            "bounces" : 0.2,
+            "tackles" : 2.4,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 10.7,
+            "totalPossessions" : 15.5,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 69.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 2.6,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 185.0,
+            "handballs" : 97.0,
+            "disposals" : 282.0,
+            "marks" : 106.0,
+            "bounces" : 3.0,
+            "tackles" : 43.0,
+            "contestedPossessions" : 86.0,
+            "uncontestedPossessions" : 193.0,
+            "totalPossessions" : 279.0,
+            "inside50s" : 34.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 18.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 54.0,
+            "disposalEfficiency" : 85.1,
+            "clangers" : 27.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1250.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 47.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 41.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 80.2
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.2,
+            "handballs" : 6.4,
+            "disposals" : 15.6,
+            "marks" : 4.7,
+            "bounces" : 0.0,
+            "tackles" : 2.6,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 10.3,
+            "totalPossessions" : 15.0,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 65.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 203.0,
+            "handballs" : 141.0,
+            "disposals" : 344.0,
+            "marks" : 103.0,
+            "bounces" : 0.0,
+            "tackles" : 57.0,
+            "contestedPossessions" : 104.0,
+            "uncontestedPossessions" : 226.0,
+            "totalPossessions" : 330.0,
+            "inside50s" : 38.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 54.0,
+            "disposalEfficiency" : 81.7,
+            "clangers" : 41.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1434.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 60.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 81.4
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 7.5,
+            "disposals" : 16.3,
+            "marks" : 4.9,
+            "bounces" : 0.1,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 12.0,
+            "totalPossessions" : 16.2,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 61.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 210.0,
+            "handballs" : 181.0,
+            "disposals" : 391.0,
+            "marks" : 117.0,
+            "bounces" : 2.0,
+            "tackles" : 42.0,
+            "contestedPossessions" : 102.0,
+            "uncontestedPossessions" : 287.0,
+            "totalPossessions" : 389.0,
+            "inside50s" : 22.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 85.0,
+            "disposalEfficiency" : 84.1,
+            "clangers" : 39.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1482.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 65.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 83.2
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 8.2,
+            "disposals" : 16.9,
+            "marks" : 3.9,
+            "bounces" : 0.1,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 11.8,
+            "totalPossessions" : 16.4,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 60.3,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.6,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 200.0,
+            "handballs" : 189.0,
+            "disposals" : 389.0,
+            "marks" : 89.0,
+            "bounces" : 3.0,
+            "tackles" : 38.0,
+            "contestedPossessions" : 105.0,
+            "uncontestedPossessions" : 272.0,
+            "totalPossessions" : 377.0,
+            "inside50s" : 26.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 17.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 59.0,
+            "disposalEfficiency" : 82.8,
+            "clangers" : 41.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1387.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 59.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 85.8
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.9,
+            "handballs" : 8.2,
+            "disposals" : 17.2,
+            "marks" : 4.5,
+            "bounces" : 0.6,
+            "tackles" : 2.7,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 12.5,
+            "totalPossessions" : 16.8,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 66.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 3.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 143.0,
+            "handballs" : 132.0,
+            "disposals" : 275.0,
+            "marks" : 72.0,
+            "bounces" : 10.0,
+            "tackles" : 43.0,
+            "contestedPossessions" : 69.0,
+            "uncontestedPossessions" : 200.0,
+            "totalPossessions" : 269.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 16.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 64.0,
+            "disposalEfficiency" : 83.3,
+            "clangers" : 29.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1064.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 53.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 75.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 83.2
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 10.9,
+            "handballs" : 6.9,
+            "disposals" : 17.8,
+            "marks" : 4.4,
+            "bounces" : 0.4,
+            "tackles" : 2.2,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 12.4,
+            "totalPossessions" : 17.4,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 68.3,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 3.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 239.0,
+            "handballs" : 152.0,
+            "disposals" : 391.0,
+            "marks" : 96.0,
+            "bounces" : 9.0,
+            "tackles" : 49.0,
+            "contestedPossessions" : 110.0,
+            "uncontestedPossessions" : 273.0,
+            "totalPossessions" : 383.0,
+            "inside50s" : 28.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 74.0,
+            "disposalEfficiency" : 88.5,
+            "clangers" : 41.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1503.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 19.0
+            },
+            "rebound50s" : 82.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 44.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 87.8
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.8,
+            "handballs" : 5.3,
+            "disposals" : 16.1,
+            "marks" : 4.5,
+            "bounces" : 0.4,
+            "tackles" : 1.4,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 10.7,
+            "totalPossessions" : 15.5,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 61.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 3.5,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 238.0,
+            "handballs" : 116.0,
+            "disposals" : 354.0,
+            "marks" : 98.0,
+            "bounces" : 8.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 104.0,
+            "uncontestedPossessions" : 236.0,
+            "totalPossessions" : 340.0,
+            "inside50s" : 30.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 14.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 61.0,
+            "disposalEfficiency" : 84.2,
+            "clangers" : 58.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1350.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 76.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 92.0
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 4.7,
+            "disposals" : 12.7,
+            "marks" : 2.8,
+            "bounces" : 0.4,
+            "tackles" : 2.6,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 8.2,
+            "totalPossessions" : 12.4,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 51.6,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 191.0,
+            "handballs" : 114.0,
+            "disposals" : 305.0,
+            "marks" : 68.0,
+            "bounces" : 9.0,
+            "tackles" : 62.0,
+            "contestedPossessions" : 100.0,
+            "uncontestedPossessions" : 198.0,
+            "totalPossessions" : 298.0,
+            "inside50s" : 50.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 44.0,
+            "disposalEfficiency" : 80.7,
+            "clangers" : 41.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1239.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 56.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 84.8
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 4.0,
+            "disposals" : 10.5,
+            "marks" : 3.0,
+            "bounces" : 0.5,
+            "tackles" : 3.0,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 10.5,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 48.5,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 13.0,
+            "handballs" : 8.0,
+            "disposals" : 21.0,
+            "marks" : 6.0,
+            "bounces" : 1.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 11.0,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 21.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 85.7,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 97.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 68.6
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 3.3,
+            "handballs" : 1.4,
+            "disposals" : 4.7,
+            "marks" : 1.9,
+            "bounces" : 0.1,
+            "tackles" : 2.1,
+            "contestedPossessions" : 1.4,
+            "uncontestedPossessions" : 3.3,
+            "totalPossessions" : 4.7,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.1,
+            "dreamTeamPoints" : 27.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 23.0,
+            "handballs" : 10.0,
+            "disposals" : 33.0,
+            "marks" : 13.0,
+            "bounces" : 1.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 10.0,
+            "uncontestedPossessions" : 23.0,
+            "totalPossessions" : 33.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 78.8,
+            "clangers" : 7.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 192.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.7,
+            "handballs" : 2.5,
+            "disposals" : 5.2,
+            "marks" : 1.2,
+            "bounces" : 0.0,
+            "tackles" : 1.3,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 3.0,
+            "totalPossessions" : 5.0,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 0.7,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 21.8,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 16.0,
+            "handballs" : 15.0,
+            "disposals" : 31.0,
+            "marks" : 7.0,
+            "bounces" : 0.0,
+            "tackles" : 8.0,
+            "contestedPossessions" : 12.0,
+            "uncontestedPossessions" : 18.0,
+            "totalPossessions" : 30.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 80.6,
+            "clangers" : 4.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 131.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210059",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Hunt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 4.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 135.0,
+      "handballs" : 61.0,
+      "disposals" : 196.0,
+      "marks" : 67.0,
+      "bounces" : 2.0,
+      "tackles" : 29.0,
+      "contestedPossessions" : 54.0,
+      "uncontestedPossessions" : 140.0,
+      "totalPossessions" : 194.0,
+      "inside50s" : 26.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 38.0,
+      "disposalEfficiency" : 78.1,
+      "clangers" : 35.0,
+      "freesFor" : 4.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 846.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 3.0
+      },
+      "rebound50s" : 36.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 40.0,
+      "ratingPoints" : 252.3,
+      "ranking" : 299.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201401427",
+      "player" : {
+        "playerId" : "CD_I210059",
+        "playerName" : {
+          "givenName" : "Josh",
+          "surname" : "Hunt"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 243.2,
+        "ranking" : 310,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 243.2,
+        "ranking" : 15,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 243.2,
+        "ranking" : 60,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 124.8,
+        "ranking" : 332,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2000"
+    },
+    "careerGamesPlayed" : 212
+  }
+}

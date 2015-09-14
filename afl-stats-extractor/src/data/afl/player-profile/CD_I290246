@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I290246",
+    "position" : "Right Forward Pocket",
+    "surname" : "Campbell",
+    "jumperNumber" : 15,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.5,
+      "superGoals" : null,
+      "kicks" : 3.7,
+      "handballs" : 4.7,
+      "disposals" : 8.4,
+      "marks" : 2.2,
+      "bounces" : 0.0,
+      "tackles" : 1.9,
+      "contestedPossessions" : 5.8,
+      "uncontestedPossessions" : 2.6,
+      "totalPossessions" : 8.4,
+      "inside50s" : 1.3,
+      "marksInside50" : 0.6,
+      "contestedMarks" : 1.2,
+      "hitouts" : 12.6,
+      "onePercenters" : 1.5,
+      "disposalEfficiency" : null,
+      "clangers" : 1.8,
+      "freesFor" : 0.9,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 49.5,
+      "clearances" : {
+        "centreClearances" : 0.7,
+        "stoppageClearances" : 0.5,
+        "totalClearances" : 1.2
+      },
+      "rebound50s" : 0.3,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Tom",
+    "bio" : "<p>Campbell is a big bodied ruckman who has also shown promising signs in the forward line in recent seasons. Recruited from Bendigo Bombers through the rookie list in 2011, Campbell made his debut in round 13 of 2012 and went on to receive the Williamstown Best Player Award that year.<br /> &nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WesternBulldogs/Player Profiles/2015 - Profiles/CAMPBELL Tom.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-11-02T01:00:00.000+0000",
+      "draftYear" : "2012",
+      "heightInCm" : 200,
+      "weightInKg" : 106,
+      "recruitedFrom" : "Wesley College/Sandringham U18/Old Scotch/Bendigo Bombers",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 16.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 95.0,
+      "handballs" : 123.0,
+      "disposals" : 218.0,
+      "marks" : 58.0,
+      "bounces" : 0.0,
+      "tackles" : 50.0,
+      "contestedPossessions" : 150.0,
+      "uncontestedPossessions" : 68.0,
+      "totalPossessions" : 218.0,
+      "inside50s" : 33.0,
+      "marksInside50" : 16.0,
+      "contestedMarks" : 30.0,
+      "hitouts" : 327.0,
+      "onePercenters" : 40.0,
+      "disposalEfficiency" : 70.2,
+      "clangers" : 48.0,
+      "freesFor" : 24.0,
+      "freesAgainst" : 26.0,
+      "dreamTeamPoints" : 1286.0,
+      "clearances" : {
+        "centreClearances" : 19.0,
+        "stoppageClearances" : 13.0,
+        "totalClearances" : 32.0
+      },
+      "rebound50s" : 9.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 7.2,
+            "disposals" : 11.2,
+            "marks" : 2.3,
+            "bounces" : 0.0,
+            "tackles" : 2.2,
+            "contestedPossessions" : 6.7,
+            "uncontestedPossessions" : 4.5,
+            "totalPossessions" : 11.2,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 22.8,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 61.8,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 2.3
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290246",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Campbell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 24.0,
+            "handballs" : 43.0,
+            "disposals" : 67.0,
+            "marks" : 14.0,
+            "bounces" : 0.0,
+            "tackles" : 13.0,
+            "contestedPossessions" : 40.0,
+            "uncontestedPossessions" : 27.0,
+            "totalPossessions" : 67.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 137.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 70.1,
+            "clangers" : 15.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 371.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 99.9,
+            "ranking" : 500.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290246",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Campbell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 85.9
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 3.1,
+            "handballs" : 3.4,
+            "disposals" : 6.6,
+            "marks" : 1.9,
+            "bounces" : 0.0,
+            "tackles" : 2.7,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 1.9,
+            "totalPossessions" : 6.6,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.9,
+            "hitouts" : 9.9,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.9,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 45.1,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290246",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Campbell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 22.0,
+            "handballs" : 24.0,
+            "disposals" : 46.0,
+            "marks" : 13.0,
+            "bounces" : 0.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 33.0,
+            "uncontestedPossessions" : 13.0,
+            "totalPossessions" : 46.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 69.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 65.2,
+            "clangers" : 6.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 316.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 82.9,
+            "ranking" : 518.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290246",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Campbell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 73.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.5,
+            "behinds" : 1.2,
+            "superGoals" : null,
+            "kicks" : 3.8,
+            "handballs" : 4.0,
+            "disposals" : 7.8,
+            "marks" : 2.3,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 6.5,
+            "uncontestedPossessions" : 1.3,
+            "totalPossessions" : 7.8,
+            "inside50s" : 1.0,
+            "marksInside50" : 1.5,
+            "contestedMarks" : 1.8,
+            "hitouts" : 5.3,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.5,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 45.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290246",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Campbell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 23.0,
+            "handballs" : 24.0,
+            "disposals" : 47.0,
+            "marks" : 14.0,
+            "bounces" : 0.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 39.0,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 47.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 32.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 76.6,
+            "clangers" : 12.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 273.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 52.9,
+            "ratingPoints" : 94.1,
+            "ranking" : 504.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290246",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Campbell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 88.9
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.7,
+            "handballs" : 4.6,
+            "disposals" : 8.3,
+            "marks" : 2.4,
+            "bounces" : 0.0,
+            "tackles" : 1.3,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 2.9,
+            "totalPossessions" : 8.3,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 1.4,
+            "hitouts" : 12.7,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 46.6,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290246",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Campbell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 26.0,
+            "handballs" : 32.0,
+            "disposals" : 58.0,
+            "marks" : 17.0,
+            "bounces" : 0.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 38.0,
+            "uncontestedPossessions" : 20.0,
+            "totalPossessions" : 58.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 89.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 69.0,
+            "clangers" : 15.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 326.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 75.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290246",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Campbell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 71.7
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 24.0,
+      "handballs" : 43.0,
+      "disposals" : 67.0,
+      "marks" : 14.0,
+      "bounces" : 0.0,
+      "tackles" : 13.0,
+      "contestedPossessions" : 40.0,
+      "uncontestedPossessions" : 27.0,
+      "totalPossessions" : 67.0,
+      "inside50s" : 12.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 137.0,
+      "onePercenters" : 10.0,
+      "disposalEfficiency" : 70.1,
+      "clangers" : 15.0,
+      "freesFor" : 6.0,
+      "freesAgainst" : 9.0,
+      "dreamTeamPoints" : 371.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 5.0,
+        "totalClearances" : 14.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 99.9,
+      "ranking" : 500.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I290246",
+        "playerName" : {
+          "givenName" : "Tom",
+          "surname" : "Campbell"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T140",
+        "teamAbbr" : "WB",
+        "teamName" : "Western Bulldogs",
+        "teamNickname" : "Bulldogs"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 99.9,
+        "ranking" : 503,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 99.9,
+        "ranking" : 26,
+        "ratingType" : "TEAM",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 99.9,
+        "ranking" : 39,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 57.0,
+        "ranking" : 458,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 26
+  }
+}

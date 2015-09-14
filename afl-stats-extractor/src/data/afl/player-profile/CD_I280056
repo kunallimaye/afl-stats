@@ -1,0 +1,898 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280056",
+    "position" : "Ruck",
+    "surname" : "Cordy",
+    "jumperNumber" : 49,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 3.7,
+      "handballs" : 4.3,
+      "disposals" : 8.0,
+      "marks" : 2.5,
+      "bounces" : 0.0,
+      "tackles" : 2.4,
+      "contestedPossessions" : 4.8,
+      "uncontestedPossessions" : 3.4,
+      "totalPossessions" : 8.3,
+      "inside50s" : 1.0,
+      "marksInside50" : 0.7,
+      "contestedMarks" : 1.0,
+      "hitouts" : 4.9,
+      "onePercenters" : 2.0,
+      "disposalEfficiency" : null,
+      "clangers" : 2.1,
+      "freesFor" : 0.6,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 42.7,
+      "clearances" : {
+        "centreClearances" : 0.4,
+        "stoppageClearances" : 0.3,
+        "totalClearances" : 0.6
+      },
+      "rebound50s" : 0.2,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Ayce",
+    "bio" : "<p>Cordy is a versatile tall who predominantly fulfils a dual role rotating between the ruck and forward line. An intensive gym program to build his 204cm frame has begun to pay dividends as Cordy now looks to regain his natural agility and carry the extra muscle with ease. The father-son selection was taken with the Bulldogs first round selection in 2008 (pick 14 overall).</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WesternBulldogs/Player Profiles/2015 - Profiles/CORDY Ayce.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1990-08-06T02:00:00.000+0000",
+      "draftYear" : "2008",
+      "heightInCm" : 204,
+      "weightInKg" : 99,
+      "recruitedFrom" : "Ocean Grove/Geelong College/Geelong U18",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 15.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 99.0,
+      "handballs" : 117.0,
+      "disposals" : 216.0,
+      "marks" : 67.0,
+      "bounces" : 1.0,
+      "tackles" : 64.0,
+      "contestedPossessions" : 130.0,
+      "uncontestedPossessions" : 93.0,
+      "totalPossessions" : 223.0,
+      "inside50s" : 26.0,
+      "marksInside50" : 18.0,
+      "contestedMarks" : 26.0,
+      "hitouts" : 133.0,
+      "onePercenters" : 55.0,
+      "disposalEfficiency" : 63.0,
+      "clangers" : 58.0,
+      "freesFor" : 16.0,
+      "freesAgainst" : 27.0,
+      "dreamTeamPoints" : 1154.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 7.0,
+        "totalClearances" : 17.0
+      },
+      "rebound50s" : 6.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 51.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.3,
+            "handballs" : 4.4,
+            "disposals" : 7.7,
+            "marks" : 1.9,
+            "bounces" : 0.0,
+            "tackles" : 2.4,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 3.0,
+            "totalPossessions" : 7.9,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.7,
+            "hitouts" : 9.9,
+            "onePercenters" : 4.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.9,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.7,
+            "dreamTeamPoints" : 41.1,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280056",
+            "playerName" : {
+              "givenName" : "Ayce",
+              "surname" : "Cordy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 23.0,
+            "handballs" : 31.0,
+            "disposals" : 54.0,
+            "marks" : 13.0,
+            "bounces" : 0.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 34.0,
+            "uncontestedPossessions" : 21.0,
+            "totalPossessions" : 55.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 69.0,
+            "onePercenters" : 29.0,
+            "disposalEfficiency" : 72.2,
+            "clangers" : 20.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 288.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 48.0,
+            "ranking" : 583.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280056",
+            "playerName" : {
+              "givenName" : "Ayce",
+              "surname" : "Cordy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 77.1
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 6.0,
+            "disposals" : 10.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 10.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 14.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 48.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280056",
+            "playerName" : {
+              "givenName" : "Ayce",
+              "surname" : "Cordy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 6.0,
+            "disposals" : 10.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 10.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 14.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 60.0,
+            "clangers" : 2.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 48.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 20.4,
+            "ranking" : 648.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280056",
+            "playerName" : {
+              "givenName" : "Ayce",
+              "surname" : "Cordy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 89.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 3.4,
+            "handballs" : 4.6,
+            "disposals" : 8.0,
+            "marks" : 1.4,
+            "bounces" : 0.0,
+            "tackles" : 1.8,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 3.2,
+            "totalPossessions" : 8.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.6,
+            "hitouts" : 3.6,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.2,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 37.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280056",
+            "playerName" : {
+              "givenName" : "Ayce",
+              "surname" : "Cordy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 17.0,
+            "handballs" : 23.0,
+            "disposals" : 40.0,
+            "marks" : 7.0,
+            "bounces" : 0.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 24.0,
+            "uncontestedPossessions" : 16.0,
+            "totalPossessions" : 40.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 18.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 55.0,
+            "clangers" : 16.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 186.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 62.5,
+            "ratingPoints" : 75.6,
+            "ranking" : 539.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280056",
+            "playerName" : {
+              "givenName" : "Ayce",
+              "surname" : "Cordy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 85.9
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 4.2,
+            "handballs" : 3.7,
+            "disposals" : 8.0,
+            "marks" : 3.3,
+            "bounces" : 0.1,
+            "tackles" : 2.7,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 3.7,
+            "totalPossessions" : 8.5,
+            "inside50s" : 1.1,
+            "marksInside50" : 1.1,
+            "contestedMarks" : 1.4,
+            "hitouts" : 2.2,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 46.7,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280056",
+            "playerName" : {
+              "givenName" : "Ayce",
+              "surname" : "Cordy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 51.0,
+            "handballs" : 45.0,
+            "disposals" : 96.0,
+            "marks" : 40.0,
+            "bounces" : 1.0,
+            "tackles" : 32.0,
+            "contestedPossessions" : 57.0,
+            "uncontestedPossessions" : 45.0,
+            "totalPossessions" : 102.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 17.0,
+            "hitouts" : 27.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 57.3,
+            "clangers" : 20.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 560.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 44.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280056",
+            "playerName" : {
+              "givenName" : "Ayce",
+              "surname" : "Cordy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 80.6
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.0,
+            "handballs" : 6.0,
+            "disposals" : 8.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 3.5,
+            "totalPossessions" : 8.0,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.5,
+            "hitouts" : 2.5,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 36.0,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280056",
+            "playerName" : {
+              "givenName" : "Ayce",
+              "surname" : "Cordy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 12.0,
+            "disposals" : 16.0,
+            "marks" : 6.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 9.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 16.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 81.2,
+            "clangers" : 0.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 72.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280056",
+            "playerName" : {
+              "givenName" : "Ayce",
+              "surname" : "Cordy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 79.6
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280056",
+            "playerName" : {
+              "givenName" : "Ayce",
+              "surname" : "Cordy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280056",
+            "playerName" : {
+              "givenName" : "Ayce",
+              "surname" : "Cordy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280056",
+            "playerName" : {
+              "givenName" : "Ayce",
+              "surname" : "Cordy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280056",
+            "playerName" : {
+              "givenName" : "Ayce",
+              "surname" : "Cordy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 23.0,
+      "handballs" : 31.0,
+      "disposals" : 54.0,
+      "marks" : 13.0,
+      "bounces" : 0.0,
+      "tackles" : 17.0,
+      "contestedPossessions" : 34.0,
+      "uncontestedPossessions" : 21.0,
+      "totalPossessions" : 55.0,
+      "inside50s" : 7.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 69.0,
+      "onePercenters" : 29.0,
+      "disposalEfficiency" : 72.2,
+      "clangers" : 20.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 288.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 9.0
+      },
+      "rebound50s" : 5.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 100.0,
+      "ratingPoints" : 48.0,
+      "ranking" : 583.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280056",
+        "playerName" : {
+          "givenName" : "Ayce",
+          "surname" : "Cordy"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T140",
+        "teamAbbr" : "WB",
+        "teamName" : "Western Bulldogs",
+        "teamNickname" : "Bulldogs"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 48.0,
+        "ranking" : 583,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 48.0,
+        "ranking" : 33,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 48.0,
+        "ranking" : 48,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 44.4,
+        "ranking" : 500,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2008"
+    },
+    "careerGamesPlayed" : 27
+  }
+}

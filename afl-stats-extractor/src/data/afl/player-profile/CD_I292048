@@ -1,0 +1,486 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I292048",
+    "position" : "Left Back Pocket",
+    "surname" : "Oxley",
+    "jumperNumber" : 43,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 10.2,
+      "handballs" : 6.9,
+      "disposals" : 17.1,
+      "marks" : 3.8,
+      "bounces" : 0.6,
+      "tackles" : 2.3,
+      "contestedPossessions" : 5.3,
+      "uncontestedPossessions" : 11.2,
+      "totalPossessions" : 16.5,
+      "inside50s" : 2.2,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.4,
+      "hitouts" : 0.1,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : null,
+      "clangers" : 1.6,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.3,
+      "dreamTeamPoints" : 66.7,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.6,
+        "totalClearances" : 0.8
+      },
+      "rebound50s" : 2.3,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Adam",
+    "bio" : "<p>A rangy half back flanker with great skills and poise. Oxley belies his light frame with a strong overhead mark and proved his ability to read the play in defence during his first season on the rookie list in 2013. After a year battling an ankle injury where he only managed three VFL matches, Oxley will look to make an impact in 2015.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Collingwood/Player Profiles/2015 - Profiles/OXLEY Adam.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-11-01T01:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 192,
+      "weightInKg" : 78,
+      "recruitedFrom" : "Redland (Qld)",
+      "debutYear" : "2013"
+    },
+    "careerStats" : {
+      "goals" : 5.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 194.0,
+      "handballs" : 131.0,
+      "disposals" : 325.0,
+      "marks" : 72.0,
+      "bounces" : 12.0,
+      "tackles" : 44.0,
+      "contestedPossessions" : 101.0,
+      "uncontestedPossessions" : 212.0,
+      "totalPossessions" : 313.0,
+      "inside50s" : 41.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 19.0,
+      "disposalEfficiency" : 77.2,
+      "clangers" : 31.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 6.0,
+      "dreamTeamPoints" : 1267.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 12.0,
+        "totalClearances" : 15.0
+      },
+      "rebound50s" : 44.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 38.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 11.1,
+            "handballs" : 7.5,
+            "disposals" : 18.5,
+            "marks" : 4.1,
+            "bounces" : 0.5,
+            "tackles" : 2.5,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 12.1,
+            "totalPossessions" : 17.8,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 72.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292048",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Oxley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 188.0,
+            "handballs" : 127.0,
+            "disposals" : 315.0,
+            "marks" : 69.0,
+            "bounces" : 9.0,
+            "tackles" : 43.0,
+            "contestedPossessions" : 98.0,
+            "uncontestedPossessions" : 205.0,
+            "totalPossessions" : 303.0,
+            "inside50s" : 41.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 77.8,
+            "clangers" : 31.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 1227.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 42.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 38.5,
+            "ratingPoints" : 143.5,
+            "ranking" : 447.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292048",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Oxley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 77.9
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292048",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Oxley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 6.5,
+            "ranking" : 685.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292048",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Oxley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 2.0,
+            "disposals" : 5.0,
+            "marks" : 1.5,
+            "bounces" : 1.5,
+            "tackles" : 0.5,
+            "contestedPossessions" : 1.5,
+            "uncontestedPossessions" : 3.5,
+            "totalPossessions" : 5.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 20.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292048",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Oxley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 4.0,
+            "disposals" : 10.0,
+            "marks" : 3.0,
+            "bounces" : 3.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 10.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 60.0,
+            "clangers" : 0.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 40.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 6.5,
+            "ranking" : 681.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292048",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Oxley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 32.5
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 5.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 188.0,
+      "handballs" : 127.0,
+      "disposals" : 315.0,
+      "marks" : 69.0,
+      "bounces" : 9.0,
+      "tackles" : 43.0,
+      "contestedPossessions" : 98.0,
+      "uncontestedPossessions" : 205.0,
+      "totalPossessions" : 303.0,
+      "inside50s" : 41.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 19.0,
+      "disposalEfficiency" : 77.8,
+      "clangers" : 31.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 6.0,
+      "dreamTeamPoints" : 1227.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 12.0,
+        "totalClearances" : 15.0
+      },
+      "rebound50s" : 42.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 38.5,
+      "ratingPoints" : 143.5,
+      "ranking" : 447.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I292048",
+        "playerName" : {
+          "givenName" : "Adam",
+          "surname" : "Oxley"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T40",
+        "teamAbbr" : "COLL",
+        "teamName" : "Collingwood",
+        "teamNickname" : "Magpies"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 151.6,
+        "ranking" : 433,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 151.6,
+        "ranking" : 24,
+        "ratingType" : "TEAM",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 151.6,
+        "ranking" : 130,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 151.6,
+        "ranking" : 246,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2012"
+    },
+    "careerGamesPlayed" : 19
+  }
+}

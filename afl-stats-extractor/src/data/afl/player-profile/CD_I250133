@@ -1,0 +1,486 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I250133",
+    "position" : "Right Half Forward",
+    "surname" : "Dwyer",
+    "jumperNumber" : 2,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 7.9,
+      "handballs" : 7.9,
+      "disposals" : 15.8,
+      "marks" : 3.8,
+      "bounces" : 0.5,
+      "tackles" : 1.5,
+      "contestedPossessions" : 5.1,
+      "uncontestedPossessions" : 10.7,
+      "totalPossessions" : 15.8,
+      "inside50s" : 2.5,
+      "marksInside50" : 0.4,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.9,
+      "disposalEfficiency" : null,
+      "clangers" : 1.0,
+      "freesFor" : 0.3,
+      "freesAgainst" : 0.2,
+      "dreamTeamPoints" : 60.6,
+      "clearances" : {
+        "centreClearances" : 0.4,
+        "stoppageClearances" : 0.7,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 0.7,
+      "goalAssists" : 0.8,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Sam",
+    "bio" : "<p>It took Sam Dwyer eight years to make the jump from state league football to the big time, but once he got his foot in the door, he quickly made up for lost time. Aged 26 on the day of his debut, the small forward won the admiration of the entire competition for his poise, cool head and sharp decision making in his 21 senior games in 2013. Although injuries made life difficult the following season, Dwyer's professionalism and ability to create scoring opportunities (he ranked second at the club for score assists in his debut season) make him a player the Magpies can ill-afford to do without, a fact that was confirmed when the club re-signed him until the end of 2015. It's a long way from his past life as one of the resident stars of VFL powerhouse Port Melbourne with whom he tasted premiership success in 2011.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Collingwood/Player Profiles/2015 - Profiles/DWYER Sam.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1986-08-29T02:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 180,
+      "weightInKg" : 76,
+      "recruitedFrom" : "South Warrnambool (Vic)/Port Melbourne (VFL)",
+      "debutYear" : "2013"
+    },
+    "careerStats" : {
+      "goals" : 22.0,
+      "behinds" : 15.0,
+      "superGoals" : null,
+      "kicks" : 309.0,
+      "handballs" : 307.0,
+      "disposals" : 616.0,
+      "marks" : 150.0,
+      "bounces" : 18.0,
+      "tackles" : 59.0,
+      "contestedPossessions" : 200.0,
+      "uncontestedPossessions" : 416.0,
+      "totalPossessions" : 616.0,
+      "inside50s" : 98.0,
+      "marksInside50" : 15.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 37.0,
+      "disposalEfficiency" : 72.4,
+      "clangers" : 40.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 8.0,
+      "dreamTeamPoints" : 2362.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 40.0
+      },
+      "rebound50s" : 29.0,
+      "goalAssists" : 31.0,
+      "goalAccuracy" : 53.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 4.8,
+            "disposals" : 10.8,
+            "marks" : 2.8,
+            "bounces" : 0.0,
+            "tackles" : 1.4,
+            "contestedPossessions" : 2.8,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 10.8,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 0.6,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 47.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250133",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Dwyer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 30.0,
+            "handballs" : 24.0,
+            "disposals" : 54.0,
+            "marks" : 14.0,
+            "bounces" : 0.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 14.0,
+            "uncontestedPossessions" : 40.0,
+            "totalPossessions" : 54.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 72.2,
+            "clangers" : 3.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 235.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 174.7,
+            "ranking" : 399.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250133",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Dwyer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 64.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 8.1,
+            "handballs" : 8.4,
+            "disposals" : 16.5,
+            "marks" : 4.2,
+            "bounces" : 0.4,
+            "tackles" : 1.2,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 11.1,
+            "totalPossessions" : 16.5,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.8,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.1,
+            "dreamTeamPoints" : 60.2,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250133",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Dwyer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 105.0,
+            "handballs" : 109.0,
+            "disposals" : 214.0,
+            "marks" : 54.0,
+            "bounces" : 5.0,
+            "tackles" : 16.0,
+            "contestedPossessions" : 71.0,
+            "uncontestedPossessions" : 144.0,
+            "totalPossessions" : 215.0,
+            "inside50s" : 30.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 74.3,
+            "clangers" : 10.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 782.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 292.4,
+            "ranking" : 247.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250133",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Dwyer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 70.2
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 8.3,
+            "handballs" : 8.3,
+            "disposals" : 16.6,
+            "marks" : 3.9,
+            "bounces" : 0.6,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 11.0,
+            "totalPossessions" : 16.5,
+            "inside50s" : 2.7,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 64.0,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250133",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Dwyer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 174.0,
+            "handballs" : 174.0,
+            "disposals" : 348.0,
+            "marks" : 82.0,
+            "bounces" : 13.0,
+            "tackles" : 36.0,
+            "contestedPossessions" : 115.0,
+            "uncontestedPossessions" : 232.0,
+            "totalPossessions" : 347.0,
+            "inside50s" : 56.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 71.3,
+            "clangers" : 27.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 1345.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 16.0,
+              "totalClearances" : 24.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 22.0,
+            "goalAccuracy" : 57.7,
+            "ratingPoints" : 191.2,
+            "ranking" : 362.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250133",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Dwyer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 76.7
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 4.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 30.0,
+      "handballs" : 24.0,
+      "disposals" : 54.0,
+      "marks" : 14.0,
+      "bounces" : 0.0,
+      "tackles" : 7.0,
+      "contestedPossessions" : 14.0,
+      "uncontestedPossessions" : 40.0,
+      "totalPossessions" : 54.0,
+      "inside50s" : 12.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 3.0,
+      "disposalEfficiency" : 72.2,
+      "clangers" : 3.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 235.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : 174.7,
+      "ranking" : 399.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I250133",
+        "playerName" : {
+          "givenName" : "Sam",
+          "surname" : "Dwyer"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T40",
+        "teamAbbr" : "COLL",
+        "teamName" : "Collingwood",
+        "teamNickname" : "Magpies"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 151.6,
+        "ranking" : 434,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 151.6,
+        "ranking" : 25,
+        "ratingType" : "TEAM",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 151.6,
+        "ranking" : 35,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 34.8,
+        "ranking" : 521,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2012"
+    },
+    "careerGamesPlayed" : 39
+  }
+}

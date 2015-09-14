@@ -1,0 +1,853 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I240031",
+    "position" : "Interchange",
+    "surname" : "Johnson",
+    "jumperNumber" : 9,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Chris",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1986-01-25T01:00:00.000+0000",
+      "draftYear" : "2003",
+      "heightInCm" : 188,
+      "weightInKg" : 87,
+      "recruitedFrom" : "East Fremantle (WA)",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 4.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 445.0,
+      "handballs" : 227.0,
+      "disposals" : 672.0,
+      "marks" : 223.0,
+      "bounces" : 27.0,
+      "tackles" : 100.0,
+      "contestedPossessions" : 168.0,
+      "uncontestedPossessions" : 499.0,
+      "totalPossessions" : 667.0,
+      "inside50s" : 81.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 15.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 83.0,
+      "disposalEfficiency" : 74.0,
+      "clangers" : 95.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 39.0,
+      "dreamTeamPoints" : 2795.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 94.0,
+      "goalAssists" : 16.0,
+      "goalAccuracy" : 28.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 10.8,
+            "handballs" : 4.8,
+            "disposals" : 15.6,
+            "marks" : 5.6,
+            "bounces" : 0.4,
+            "tackles" : 3.0,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 11.8,
+            "totalPossessions" : 15.6,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 71.6,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240031",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 54.0,
+            "handballs" : 24.0,
+            "disposals" : 78.0,
+            "marks" : 28.0,
+            "bounces" : 2.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 19.0,
+            "uncontestedPossessions" : 59.0,
+            "totalPossessions" : 78.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 73.1,
+            "clangers" : 9.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 358.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240031",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 67.1
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 9.6,
+            "handballs" : 4.8,
+            "disposals" : 14.4,
+            "marks" : 4.0,
+            "bounces" : 0.6,
+            "tackles" : 2.6,
+            "contestedPossessions" : 3.4,
+            "uncontestedPossessions" : 11.2,
+            "totalPossessions" : 14.6,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 59.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240031",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 96.0,
+            "handballs" : 48.0,
+            "disposals" : 144.0,
+            "marks" : 40.0,
+            "bounces" : 6.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 34.0,
+            "uncontestedPossessions" : 112.0,
+            "totalPossessions" : 146.0,
+            "inside50s" : 19.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 74.3,
+            "clangers" : 23.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 595.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240031",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 77.0
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 12.4,
+            "handballs" : 7.3,
+            "disposals" : 19.7,
+            "marks" : 6.3,
+            "bounces" : 0.8,
+            "tackles" : 1.8,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 14.5,
+            "totalPossessions" : 19.3,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 76.2,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 3.3,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240031",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 124.0,
+            "handballs" : 73.0,
+            "disposals" : 197.0,
+            "marks" : 63.0,
+            "bounces" : 8.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 48.0,
+            "uncontestedPossessions" : 145.0,
+            "totalPossessions" : 193.0,
+            "inside50s" : 19.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 74.1,
+            "clangers" : 26.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 762.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240031",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 81.8
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.5,
+            "handballs" : 4.5,
+            "disposals" : 13.0,
+            "marks" : 4.1,
+            "bounces" : 1.0,
+            "tackles" : 2.5,
+            "contestedPossessions" : 2.9,
+            "uncontestedPossessions" : 10.4,
+            "totalPossessions" : 13.2,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 54.5,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240031",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 68.0,
+            "handballs" : 36.0,
+            "disposals" : 104.0,
+            "marks" : 33.0,
+            "bounces" : 8.0,
+            "tackles" : 20.0,
+            "contestedPossessions" : 23.0,
+            "uncontestedPossessions" : 83.0,
+            "totalPossessions" : 106.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 73.1,
+            "clangers" : 15.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 436.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240031",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 76.3
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.4,
+            "handballs" : 4.0,
+            "disposals" : 12.4,
+            "marks" : 4.9,
+            "bounces" : 0.3,
+            "tackles" : 1.6,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 11.9,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 53.2,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240031",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 76.0,
+            "handballs" : 36.0,
+            "disposals" : 112.0,
+            "marks" : 44.0,
+            "bounces" : 3.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 35.0,
+            "uncontestedPossessions" : 72.0,
+            "totalPossessions" : 107.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 75.0,
+            "clangers" : 15.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 479.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240031",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 72.9
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.7,
+            "handballs" : 2.5,
+            "disposals" : 9.2,
+            "marks" : 3.7,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 2.2,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 9.2,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 41.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240031",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 27.0,
+            "handballs" : 10.0,
+            "disposals" : 37.0,
+            "marks" : 15.0,
+            "bounces" : 0.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 9.0,
+            "uncontestedPossessions" : 28.0,
+            "totalPossessions" : 37.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 73.0,
+            "clangers" : 7.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 165.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240031",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 55.3
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240031",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240031",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 54.0,
+      "handballs" : 24.0,
+      "disposals" : 78.0,
+      "marks" : 28.0,
+      "bounces" : 2.0,
+      "tackles" : 15.0,
+      "contestedPossessions" : 19.0,
+      "uncontestedPossessions" : 59.0,
+      "totalPossessions" : 78.0,
+      "inside50s" : 8.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 8.0,
+      "disposalEfficiency" : 73.1,
+      "clangers" : 9.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 2.0,
+      "dreamTeamPoints" : 358.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 3.0,
+        "totalClearances" : 6.0
+      },
+      "rebound50s" : 6.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

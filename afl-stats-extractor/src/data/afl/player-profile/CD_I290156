@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I290156",
+    "position" : "Right Back Pocket",
+    "surname" : "Pittard",
+    "jumperNumber" : 29,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 10.9,
+      "handballs" : 5.4,
+      "disposals" : 16.3,
+      "marks" : 4.3,
+      "bounces" : 1.9,
+      "tackles" : 2.0,
+      "contestedPossessions" : 3.8,
+      "uncontestedPossessions" : 11.5,
+      "totalPossessions" : 15.3,
+      "inside50s" : 2.1,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.1,
+      "onePercenters" : 3.0,
+      "disposalEfficiency" : null,
+      "clangers" : 2.5,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 64.0,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.3,
+        "totalClearances" : 0.4
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jasper",
+    "bio" : "<p>Pittard formed a great partnership with Matthew Broadbent across Port&rsquo;s half-back line last year. The dashing defender was second at the Power for rebound 50s (89) and third for long kicks (81). Pittard loves to break the lines with his run and finished with more running bounces than any other player in the AFL (79). After being held down by injury early in his career, Pittard is developing quickly as he gains more experience.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/PortAdelaide/Player Profiles/2015 profiles/PITTARD Jasper.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-04-01T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 186,
+      "weightInKg" : 83,
+      "recruitedFrom" : "Torquay/Geelong U18",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 10.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 825.0,
+      "handballs" : 414.0,
+      "disposals" : 1239.0,
+      "marks" : 329.0,
+      "bounces" : 146.0,
+      "tackles" : 149.0,
+      "contestedPossessions" : 291.0,
+      "uncontestedPossessions" : 875.0,
+      "totalPossessions" : 1166.0,
+      "inside50s" : 157.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 23.0,
+      "hitouts" : 5.0,
+      "onePercenters" : 225.0,
+      "disposalEfficiency" : 75.6,
+      "clangers" : 192.0,
+      "freesFor" : 48.0,
+      "freesAgainst" : 50.0,
+      "dreamTeamPoints" : 4862.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 25.0,
+        "totalClearances" : 34.0
+      },
+      "rebound50s" : 228.0,
+      "goalAssists" : 14.0,
+      "goalAccuracy" : 31.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 12.6,
+            "handballs" : 7.0,
+            "disposals" : 19.6,
+            "marks" : 5.5,
+            "bounces" : 0.8,
+            "tackles" : 2.1,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 14.3,
+            "totalPossessions" : 18.9,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.9,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 75.8,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.8,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290156",
+            "playerName" : {
+              "givenName" : "Jasper",
+              "surname" : "Pittard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 253.0,
+            "handballs" : 140.0,
+            "disposals" : 393.0,
+            "marks" : 110.0,
+            "bounces" : 16.0,
+            "tackles" : 43.0,
+            "contestedPossessions" : 91.0,
+            "uncontestedPossessions" : 287.0,
+            "totalPossessions" : 378.0,
+            "inside50s" : 47.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 59.0,
+            "disposalEfficiency" : 77.6,
+            "clangers" : 59.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 1517.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 56.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 22.2,
+            "ratingPoints" : 354.2,
+            "ranking" : 148.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290156",
+            "playerName" : {
+              "givenName" : "Jasper",
+              "surname" : "Pittard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 83.5
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 11.2,
+            "handballs" : 4.8,
+            "disposals" : 16.0,
+            "marks" : 4.4,
+            "bounces" : 3.2,
+            "tackles" : 2.2,
+            "contestedPossessions" : 3.2,
+            "uncontestedPossessions" : 11.6,
+            "totalPossessions" : 14.8,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 65.6,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 3.6,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290156",
+            "playerName" : {
+              "givenName" : "Jasper",
+              "surname" : "Pittard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 280.0,
+            "handballs" : 119.0,
+            "disposals" : 399.0,
+            "marks" : 110.0,
+            "bounces" : 79.0,
+            "tackles" : 55.0,
+            "contestedPossessions" : 81.0,
+            "uncontestedPossessions" : 290.0,
+            "totalPossessions" : 371.0,
+            "inside50s" : 54.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 72.0,
+            "disposalEfficiency" : 73.7,
+            "clangers" : 55.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 1641.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 89.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 27.3,
+            "ratingPoints" : 312.7,
+            "ranking" : 213.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290156",
+            "playerName" : {
+              "givenName" : "Jasper",
+              "surname" : "Pittard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 79.3
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.9,
+            "handballs" : 5.5,
+            "disposals" : 14.4,
+            "marks" : 4.4,
+            "bounces" : 1.8,
+            "tackles" : 1.8,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 14.1,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 3.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 57.1,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290156",
+            "playerName" : {
+              "givenName" : "Jasper",
+              "surname" : "Pittard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 151.0,
+            "handballs" : 94.0,
+            "disposals" : 245.0,
+            "marks" : 74.0,
+            "bounces" : 30.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 70.0,
+            "uncontestedPossessions" : 170.0,
+            "totalPossessions" : 240.0,
+            "inside50s" : 39.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 58.0,
+            "disposalEfficiency" : 76.3,
+            "clangers" : 42.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 970.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 147.8,
+            "ranking" : 420.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290156",
+            "playerName" : {
+              "givenName" : "Jasper",
+              "surname" : "Pittard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 76.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 3.0,
+            "disposals" : 3.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 2.0,
+            "totalPossessions" : 4.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 9.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290156",
+            "playerName" : {
+              "givenName" : "Jasper",
+              "surname" : "Pittard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 3.0,
+            "disposals" : 3.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 2.0,
+            "totalPossessions" : 4.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 66.7,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 9.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290156",
+            "playerName" : {
+              "givenName" : "Jasper",
+              "surname" : "Pittard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 14.6
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 10.8,
+            "handballs" : 4.5,
+            "disposals" : 15.3,
+            "marks" : 2.6,
+            "bounces" : 1.6,
+            "tackles" : 1.5,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 9.7,
+            "totalPossessions" : 13.3,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 55.8,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 3.8,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290156",
+            "playerName" : {
+              "givenName" : "Jasper",
+              "surname" : "Pittard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 141.0,
+            "handballs" : 58.0,
+            "disposals" : 199.0,
+            "marks" : 34.0,
+            "bounces" : 21.0,
+            "tackles" : 20.0,
+            "contestedPossessions" : 47.0,
+            "uncontestedPossessions" : 126.0,
+            "totalPossessions" : 173.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 74.4,
+            "clangers" : 35.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 725.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 50.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290156",
+            "playerName" : {
+              "givenName" : "Jasper",
+              "surname" : "Pittard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 73.6
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290156",
+            "playerName" : {
+              "givenName" : "Jasper",
+              "surname" : "Pittard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290156",
+            "playerName" : {
+              "givenName" : "Jasper",
+              "surname" : "Pittard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 253.0,
+      "handballs" : 140.0,
+      "disposals" : 393.0,
+      "marks" : 110.0,
+      "bounces" : 16.0,
+      "tackles" : 43.0,
+      "contestedPossessions" : 91.0,
+      "uncontestedPossessions" : 287.0,
+      "totalPossessions" : 378.0,
+      "inside50s" : 47.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 59.0,
+      "disposalEfficiency" : 77.6,
+      "clangers" : 59.0,
+      "freesFor" : 16.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1517.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 6.0,
+        "totalClearances" : 8.0
+      },
+      "rebound50s" : 56.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 22.2,
+      "ratingPoints" : 354.2,
+      "ranking" : 148.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I290156",
+        "playerName" : {
+          "givenName" : "Jasper",
+          "surname" : "Pittard"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T110",
+        "teamAbbr" : "PORT",
+        "teamName" : "Port Adelaide",
+        "teamNickname" : "Power"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 358.7,
+        "ranking" : 145,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 358.7,
+        "ranking" : 10,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 358.7,
+        "ranking" : 16,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 214.7,
+        "ranking" : 121,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 76
+  }
+}

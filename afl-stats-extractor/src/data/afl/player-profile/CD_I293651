@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I293651",
+    "position" : "Right Forward Pocket",
+    "surname" : "Crozier",
+    "jumperNumber" : 17,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.7,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 6.6,
+      "handballs" : 3.5,
+      "disposals" : 10.1,
+      "marks" : 2.8,
+      "bounces" : 0.2,
+      "tackles" : 2.7,
+      "contestedPossessions" : 3.7,
+      "uncontestedPossessions" : 6.6,
+      "totalPossessions" : 10.3,
+      "inside50s" : 2.1,
+      "marksInside50" : 0.4,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.6,
+      "disposalEfficiency" : null,
+      "clangers" : 1.0,
+      "freesFor" : 0.8,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 49.9,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.4,
+        "totalClearances" : 0.5
+      },
+      "rebound50s" : 0.6,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Hayden",
+    "bio" : "<p><strong>Outlook:</strong> Began to emerge late in 2014 as a quality forward option. He will be keen to go on with it this year and realise his undoubted potential.<br /><br /><strong>What the coach says (Marc Webb): </strong>Finished off well at the end of last year and he hasn&rsquo;t missed a training session. He&rsquo;s looking strong and running well and he&rsquo;s been playing up the ground at times in training.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Fremantle/Player Profiles/2015 - Profiles/CROZIER Hayden.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-12-24T01:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 185,
+      "weightInKg" : 80,
+      "recruitedFrom" : "Rowville (Vic)/Eastern U18",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 25.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 223.0,
+      "handballs" : 120.0,
+      "disposals" : 343.0,
+      "marks" : 94.0,
+      "bounces" : 7.0,
+      "tackles" : 91.0,
+      "contestedPossessions" : 127.0,
+      "uncontestedPossessions" : 223.0,
+      "totalPossessions" : 350.0,
+      "inside50s" : 72.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 21.0,
+      "disposalEfficiency" : 72.6,
+      "clangers" : 35.0,
+      "freesFor" : 26.0,
+      "freesAgainst" : 16.0,
+      "dreamTeamPoints" : 1696.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 13.0,
+        "totalClearances" : 16.0
+      },
+      "rebound50s" : 19.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 54.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 5.3,
+            "handballs" : 3.1,
+            "disposals" : 8.4,
+            "marks" : 2.1,
+            "bounces" : 0.2,
+            "tackles" : 2.8,
+            "contestedPossessions" : 2.9,
+            "uncontestedPossessions" : 5.7,
+            "totalPossessions" : 8.6,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 41.8,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293651",
+            "playerName" : {
+              "givenName" : "Hayden",
+              "surname" : "Crozier"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 58.0,
+            "handballs" : 34.0,
+            "disposals" : 92.0,
+            "marks" : 23.0,
+            "bounces" : 2.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 32.0,
+            "uncontestedPossessions" : 63.0,
+            "totalPossessions" : 95.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 67.4,
+            "clangers" : 14.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 460.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 130.2,
+            "ranking" : 464.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293651",
+            "playerName" : {
+              "givenName" : "Hayden",
+              "surname" : "Crozier"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 64.5
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 4.0,
+            "disposals" : 11.0,
+            "marks" : 3.0,
+            "bounces" : 0.4,
+            "tackles" : 3.3,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 7.1,
+            "totalPossessions" : 11.3,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 55.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293651",
+            "playerName" : {
+              "givenName" : "Hayden",
+              "surname" : "Crozier"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 77.0,
+            "handballs" : 44.0,
+            "disposals" : 121.0,
+            "marks" : 33.0,
+            "bounces" : 4.0,
+            "tackles" : 36.0,
+            "contestedPossessions" : 46.0,
+            "uncontestedPossessions" : 78.0,
+            "totalPossessions" : 124.0,
+            "inside50s" : 25.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 72.7,
+            "clangers" : 13.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 609.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 47.1,
+            "ratingPoints" : 139.9,
+            "ranking" : 444.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293651",
+            "playerName" : {
+              "givenName" : "Hayden",
+              "surname" : "Crozier"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 66.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.1,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 8.3,
+            "handballs" : 2.8,
+            "disposals" : 11.1,
+            "marks" : 3.7,
+            "bounces" : 0.1,
+            "tackles" : 2.3,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 7.4,
+            "totalPossessions" : 11.1,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.4,
+            "disposalEfficiency" : null,
+            "clangers" : 0.4,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 58.3,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293651",
+            "playerName" : {
+              "givenName" : "Hayden",
+              "surname" : "Crozier"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 75.0,
+            "handballs" : 25.0,
+            "disposals" : 100.0,
+            "marks" : 33.0,
+            "bounces" : 1.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 33.0,
+            "uncontestedPossessions" : 67.0,
+            "totalPossessions" : 100.0,
+            "inside50s" : 21.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 76.0,
+            "clangers" : 4.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 525.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 92.6,
+            "ranking" : 505.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293651",
+            "playerName" : {
+              "givenName" : "Hayden",
+              "surname" : "Crozier"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 67.8
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.3,
+            "handballs" : 5.7,
+            "disposals" : 10.0,
+            "marks" : 1.7,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 5.3,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 10.3,
+            "inside50s" : 3.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 34.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293651",
+            "playerName" : {
+              "givenName" : "Hayden",
+              "surname" : "Crozier"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 13.0,
+            "handballs" : 17.0,
+            "disposals" : 30.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 16.0,
+            "uncontestedPossessions" : 15.0,
+            "totalPossessions" : 31.0,
+            "inside50s" : 11.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 76.7,
+            "clangers" : 4.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 102.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293651",
+            "playerName" : {
+              "givenName" : "Hayden",
+              "surname" : "Crozier"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 50.1
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 7.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 58.0,
+      "handballs" : 34.0,
+      "disposals" : 92.0,
+      "marks" : 23.0,
+      "bounces" : 2.0,
+      "tackles" : 31.0,
+      "contestedPossessions" : 32.0,
+      "uncontestedPossessions" : 63.0,
+      "totalPossessions" : 95.0,
+      "inside50s" : 15.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 5.0,
+      "disposalEfficiency" : 67.4,
+      "clangers" : 14.0,
+      "freesFor" : 7.0,
+      "freesAgainst" : 9.0,
+      "dreamTeamPoints" : 460.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 6.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 130.2,
+      "ranking" : 464.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I293651",
+        "playerName" : {
+          "givenName" : "Hayden",
+          "surname" : "Crozier"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T60",
+        "teamAbbr" : "FRE",
+        "teamName" : "Fremantle",
+        "teamNickname" : "Dockers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 130.2,
+        "ranking" : 464,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 130.2,
+        "ranking" : 25,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 130.2,
+        "ranking" : 64,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 49.3,
+        "ranking" : 479,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 34
+  }
+}

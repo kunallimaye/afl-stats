@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I290765",
+    "position" : "Interchange",
+    "surname" : "Darley",
+    "jumperNumber" : 33,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 9.4,
+      "handballs" : 5.6,
+      "disposals" : 15.0,
+      "marks" : 2.9,
+      "bounces" : 0.3,
+      "tackles" : 2.2,
+      "contestedPossessions" : 3.4,
+      "uncontestedPossessions" : 11.2,
+      "totalPossessions" : 14.6,
+      "inside50s" : 0.8,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.5,
+      "disposalEfficiency" : null,
+      "clangers" : 1.7,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 56.3,
+      "clearances" : {
+        "centreClearances" : 0.3,
+        "stoppageClearances" : 0.4,
+        "totalClearances" : 0.7
+      },
+      "rebound50s" : 3.3,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Sam",
+    "bio" : null,
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WesternBulldogs/Player Profiles/2015 - Profiles/DARLEY Sam.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-02-15T01:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 186,
+      "weightInKg" : 82,
+      "recruitedFrom" : "North Hobart (Tas)/Tasmania U18",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 2.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 188.0,
+      "handballs" : 113.0,
+      "disposals" : 301.0,
+      "marks" : 59.0,
+      "bounces" : 6.0,
+      "tackles" : 44.0,
+      "contestedPossessions" : 69.0,
+      "uncontestedPossessions" : 224.0,
+      "totalPossessions" : 293.0,
+      "inside50s" : 17.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 30.0,
+      "disposalEfficiency" : 76.7,
+      "clangers" : 35.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 1127.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 8.0,
+        "totalClearances" : 15.0
+      },
+      "rebound50s" : 66.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 11.5,
+            "handballs" : 7.0,
+            "disposals" : 18.5,
+            "marks" : 4.0,
+            "bounces" : 0.5,
+            "tackles" : 3.0,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 16.0,
+            "totalPossessions" : 19.5,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 71.5,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290765",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Darley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 23.0,
+            "handballs" : 14.0,
+            "disposals" : 37.0,
+            "marks" : 8.0,
+            "bounces" : 1.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 32.0,
+            "totalPossessions" : 39.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 67.6,
+            "clangers" : 4.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 143.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 43.2,
+            "ranking" : 597.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290765",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Darley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 71.1
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 5.6,
+            "disposals" : 13.6,
+            "marks" : 2.2,
+            "bounces" : 0.6,
+            "tackles" : 2.4,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 9.2,
+            "totalPossessions" : 12.8,
+            "inside50s" : 0.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.2,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 49.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290765",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Darley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 40.0,
+            "handballs" : 28.0,
+            "disposals" : 68.0,
+            "marks" : 11.0,
+            "bounces" : 3.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 18.0,
+            "uncontestedPossessions" : 46.0,
+            "totalPossessions" : 64.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 77.9,
+            "clangers" : 10.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 246.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 20.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 52.0,
+            "ranking" : 573.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290765",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Darley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 74.7
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.7,
+            "handballs" : 6.2,
+            "disposals" : 17.0,
+            "marks" : 2.0,
+            "bounces" : 0.2,
+            "tackles" : 2.0,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 11.7,
+            "totalPossessions" : 16.0,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 59.5,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290765",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Darley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 43.0,
+            "handballs" : 25.0,
+            "disposals" : 68.0,
+            "marks" : 8.0,
+            "bounces" : 1.0,
+            "tackles" : 8.0,
+            "contestedPossessions" : 17.0,
+            "uncontestedPossessions" : 47.0,
+            "totalPossessions" : 64.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 77.9,
+            "clangers" : 6.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 238.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 49.0,
+            "ranking" : 595.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290765",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Darley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 85.3
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.1,
+            "handballs" : 5.1,
+            "disposals" : 14.2,
+            "marks" : 3.6,
+            "bounces" : 0.1,
+            "tackles" : 2.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 11.0,
+            "totalPossessions" : 14.0,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 55.6,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 3.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290765",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Darley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 82.0,
+            "handballs" : 46.0,
+            "disposals" : 128.0,
+            "marks" : 32.0,
+            "bounces" : 1.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 27.0,
+            "uncontestedPossessions" : 99.0,
+            "totalPossessions" : 126.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 78.1,
+            "clangers" : 15.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 500.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 31.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290765",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Darley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 79.8
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 23.0,
+      "handballs" : 14.0,
+      "disposals" : 37.0,
+      "marks" : 8.0,
+      "bounces" : 1.0,
+      "tackles" : 6.0,
+      "contestedPossessions" : 7.0,
+      "uncontestedPossessions" : 32.0,
+      "totalPossessions" : 39.0,
+      "inside50s" : 3.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.0,
+      "disposalEfficiency" : 67.6,
+      "clangers" : 4.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 143.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 4.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 43.2,
+      "ranking" : 597.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I290765",
+        "playerName" : {
+          "givenName" : "Sam",
+          "surname" : "Darley"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T140",
+        "teamAbbr" : "WB",
+        "teamName" : "Western Bulldogs",
+        "teamNickname" : "Bulldogs"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 43.2,
+        "ranking" : 596,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 43.2,
+        "ranking" : 34,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 43.2,
+        "ranking" : 118,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 15.7,
+        "ranking" : 583,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 20
+  }
+}

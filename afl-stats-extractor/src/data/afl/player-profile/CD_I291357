@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291357",
+    "position" : "Centre Half Forward",
+    "surname" : "Rohan",
+    "jumperNumber" : 16,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.7,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 6.2,
+      "handballs" : 3.8,
+      "disposals" : 10.1,
+      "marks" : 3.0,
+      "bounces" : 0.6,
+      "tackles" : 2.3,
+      "contestedPossessions" : 4.3,
+      "uncontestedPossessions" : 6.0,
+      "totalPossessions" : 10.3,
+      "inside50s" : 2.1,
+      "marksInside50" : 0.6,
+      "contestedMarks" : 0.5,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.2,
+      "disposalEfficiency" : null,
+      "clangers" : 1.6,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 48.5,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.3,
+        "totalClearances" : 0.4
+      },
+      "rebound50s" : 0.8,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Gary",
+    "bio" : "<p><span style=\"font-family: arial,helvetica,sans-serif; font-size: small;\">The Swans speedster returned to his blistering best towards the end of last season in a new role in defence. </span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif; font-size: small;\">Returning to the side in round 16 against West Coast, he stayed there for the remainder of the season, capped by a career-best 23 touches in the preliminary final. </span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif; font-size: small;\">With a big pre-season under his belt, Rohan will be ready to continue his rise in 2015.</span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif; font-size: small;\"><strong>Draft history:</strong> 2009 NAB AFL Draft 1st round selection (Sydney) No. 6 overall.</span></p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/SydneySwans/Player Profiles/2015 Profiles/ROHAN Gary.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-06-07T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 189,
+      "weightInKg" : 88,
+      "recruitedFrom" : "Cobden/Geelong U18",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 42.0,
+      "behinds" : 25.0,
+      "superGoals" : null,
+      "kicks" : 374.0,
+      "handballs" : 230.0,
+      "disposals" : 604.0,
+      "marks" : 182.0,
+      "bounces" : 39.0,
+      "tackles" : 141.0,
+      "contestedPossessions" : 259.0,
+      "uncontestedPossessions" : 362.0,
+      "totalPossessions" : 621.0,
+      "inside50s" : 127.0,
+      "marksInside50" : 37.0,
+      "contestedMarks" : 31.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 135.0,
+      "disposalEfficiency" : 67.5,
+      "clangers" : 95.0,
+      "freesFor" : 45.0,
+      "freesAgainst" : 34.0,
+      "dreamTeamPoints" : 2912.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 24.0
+      },
+      "rebound50s" : 51.0,
+      "goalAssists" : 20.0,
+      "goalAccuracy" : 51.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 6.9,
+            "handballs" : 4.2,
+            "disposals" : 11.2,
+            "marks" : 4.3,
+            "bounces" : 0.2,
+            "tackles" : 2.1,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 7.1,
+            "totalPossessions" : 11.3,
+            "inside50s" : 2.6,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 54.1,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291357",
+            "playerName" : {
+              "givenName" : "Gary",
+              "surname" : "Rohan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 118.0,
+            "handballs" : 72.0,
+            "disposals" : 190.0,
+            "marks" : 73.0,
+            "bounces" : 3.0,
+            "tackles" : 36.0,
+            "contestedPossessions" : 71.0,
+            "uncontestedPossessions" : 121.0,
+            "totalPossessions" : 192.0,
+            "inside50s" : 44.0,
+            "marksInside50" : 12.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 68.9,
+            "clangers" : 31.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 920.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 56.5,
+            "ratingPoints" : 274.4,
+            "ranking" : 263.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291357",
+            "playerName" : {
+              "givenName" : "Gary",
+              "surname" : "Rohan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 67.1
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 6.4,
+            "handballs" : 4.3,
+            "disposals" : 10.7,
+            "marks" : 2.6,
+            "bounces" : 0.8,
+            "tackles" : 2.3,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 6.3,
+            "totalPossessions" : 10.9,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 47.7,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291357",
+            "playerName" : {
+              "givenName" : "Gary",
+              "surname" : "Rohan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 103.0,
+            "handballs" : 69.0,
+            "disposals" : 172.0,
+            "marks" : 42.0,
+            "bounces" : 13.0,
+            "tackles" : 37.0,
+            "contestedPossessions" : 74.0,
+            "uncontestedPossessions" : 101.0,
+            "totalPossessions" : 175.0,
+            "inside50s" : 38.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 66.0,
+            "disposalEfficiency" : 69.8,
+            "clangers" : 25.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 763.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 31.6,
+            "ratingPoints" : 163.6,
+            "ranking" : 412.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291357",
+            "playerName" : {
+              "givenName" : "Gary",
+              "surname" : "Rohan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 68.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 3.6,
+            "handballs" : 1.4,
+            "disposals" : 5.0,
+            "marks" : 2.4,
+            "bounces" : 0.2,
+            "tackles" : 2.2,
+            "contestedPossessions" : 1.6,
+            "uncontestedPossessions" : 3.6,
+            "totalPossessions" : 5.2,
+            "inside50s" : 1.2,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 0.8,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 35.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291357",
+            "playerName" : {
+              "givenName" : "Gary",
+              "surname" : "Rohan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 18.0,
+            "handballs" : 7.0,
+            "disposals" : 25.0,
+            "marks" : 12.0,
+            "bounces" : 1.0,
+            "tackles" : 11.0,
+            "contestedPossessions" : 8.0,
+            "uncontestedPossessions" : 18.0,
+            "totalPossessions" : 26.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 76.0,
+            "clangers" : 4.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 177.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 62.5,
+            "ratingPoints" : 52.7,
+            "ranking" : 578.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291357",
+            "playerName" : {
+              "givenName" : "Gary",
+              "surname" : "Rohan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 58.1
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 3.7,
+            "handballs" : 6.0,
+            "disposals" : 9.7,
+            "marks" : 2.0,
+            "bounces" : 0.2,
+            "tackles" : 3.7,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 5.5,
+            "totalPossessions" : 10.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 46.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291357",
+            "playerName" : {
+              "givenName" : "Gary",
+              "surname" : "Rohan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 15.0,
+            "handballs" : 24.0,
+            "disposals" : 39.0,
+            "marks" : 8.0,
+            "bounces" : 1.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 18.0,
+            "uncontestedPossessions" : 22.0,
+            "totalPossessions" : 40.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 69.2,
+            "clangers" : 7.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 187.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291357",
+            "playerName" : {
+              "givenName" : "Gary",
+              "surname" : "Rohan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 59.0
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 6.2,
+            "handballs" : 2.8,
+            "disposals" : 9.0,
+            "marks" : 2.1,
+            "bounces" : 1.2,
+            "tackles" : 2.1,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 4.6,
+            "totalPossessions" : 9.4,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 43.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291357",
+            "playerName" : {
+              "givenName" : "Gary",
+              "surname" : "Rohan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 56.0,
+            "handballs" : 25.0,
+            "disposals" : 81.0,
+            "marks" : 19.0,
+            "bounces" : 11.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 44.0,
+            "uncontestedPossessions" : 41.0,
+            "totalPossessions" : 85.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 58.0,
+            "clangers" : 14.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 393.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 53.3,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291357",
+            "playerName" : {
+              "givenName" : "Gary",
+              "surname" : "Rohan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 60.1
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.1,
+            "handballs" : 3.7,
+            "disposals" : 10.8,
+            "marks" : 3.1,
+            "bounces" : 1.1,
+            "tackles" : 2.6,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 6.6,
+            "totalPossessions" : 11.4,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 52.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291357",
+            "playerName" : {
+              "givenName" : "Gary",
+              "surname" : "Rohan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 64.0,
+            "handballs" : 33.0,
+            "disposals" : 97.0,
+            "marks" : 28.0,
+            "bounces" : 10.0,
+            "tackles" : 23.0,
+            "contestedPossessions" : 44.0,
+            "uncontestedPossessions" : 59.0,
+            "totalPossessions" : 103.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 66.0,
+            "clangers" : 14.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 472.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 77.8,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291357",
+            "playerName" : {
+              "givenName" : "Gary",
+              "surname" : "Rohan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 76.4
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 13.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 118.0,
+      "handballs" : 72.0,
+      "disposals" : 190.0,
+      "marks" : 73.0,
+      "bounces" : 3.0,
+      "tackles" : 36.0,
+      "contestedPossessions" : 71.0,
+      "uncontestedPossessions" : 121.0,
+      "totalPossessions" : 192.0,
+      "inside50s" : 44.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 31.0,
+      "disposalEfficiency" : 68.9,
+      "clangers" : 31.0,
+      "freesFor" : 8.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 920.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 5.0,
+        "totalClearances" : 8.0
+      },
+      "rebound50s" : 11.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 56.5,
+      "ratingPoints" : 274.4,
+      "ranking" : 263.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291357",
+        "playerName" : {
+          "givenName" : "Gary",
+          "surname" : "Rohan"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T160",
+        "teamAbbr" : "SYD",
+        "teamName" : "Sydney Swans",
+        "teamNickname" : "Swans"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 272.6,
+        "ranking" : 264,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 272.6,
+        "ranking" : 19,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 272.6,
+        "ranking" : 34,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 2.6,
+        "ranking" : 163,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 130.0,
+        "ranking" : 295,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 60
+  }
+}

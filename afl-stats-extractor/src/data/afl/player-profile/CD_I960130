@@ -1,0 +1,853 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960130",
+    "position" : "Left Back Pocket",
+    "surname" : "Buckley",
+    "jumperNumber" : 5,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Nathan",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1972-07-26T02:00:00.000+0000",
+      "draftYear" : "",
+      "heightInCm" : 186,
+      "weightInKg" : 92,
+      "recruitedFrom" : "Southern Dists(NT)/Port Adel (SANFL)/Bris",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 161.0,
+      "behinds" : 147.0,
+      "superGoals" : null,
+      "kicks" : 2764.0,
+      "handballs" : 1124.0,
+      "disposals" : 3888.0,
+      "marks" : 823.0,
+      "bounces" : 154.0,
+      "tackles" : 476.0,
+      "contestedPossessions" : 1569.0,
+      "uncontestedPossessions" : 2323.0,
+      "totalPossessions" : 3892.0,
+      "inside50s" : 900.0,
+      "marksInside50" : 127.0,
+      "contestedMarks" : 106.0,
+      "hitouts" : 58.0,
+      "onePercenters" : 268.0,
+      "disposalEfficiency" : 76.9,
+      "clangers" : 424.0,
+      "freesFor" : 189.0,
+      "freesAgainst" : 116.0,
+      "dreamTeamPoints" : 15925.0,
+      "clearances" : {
+        "centreClearances" : 353.0,
+        "stoppageClearances" : 340.0,
+        "totalClearances" : 693.0
+      },
+      "rebound50s" : 266.0,
+      "goalAssists" : 54.0,
+      "goalAccuracy" : 48.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 12.4,
+            "handballs" : 5.4,
+            "disposals" : 17.8,
+            "marks" : 5.6,
+            "bounces" : 1.2,
+            "tackles" : 3.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 11.6,
+            "totalPossessions" : 17.6,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 77.4,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960130",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Buckley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 62.0,
+            "handballs" : 27.0,
+            "disposals" : 89.0,
+            "marks" : 28.0,
+            "bounces" : 6.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 30.0,
+            "uncontestedPossessions" : 58.0,
+            "totalPossessions" : 88.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 75.3,
+            "clangers" : 12.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 387.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960130",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Buckley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 76.9
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 15.1,
+            "handballs" : 7.0,
+            "disposals" : 22.2,
+            "marks" : 7.3,
+            "bounces" : 1.4,
+            "tackles" : 2.8,
+            "contestedPossessions" : 7.5,
+            "uncontestedPossessions" : 14.4,
+            "totalPossessions" : 21.9,
+            "inside50s" : 4.0,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 100.1,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960130",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Buckley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 26.0,
+            "behinds" : 15.0,
+            "superGoals" : null,
+            "kicks" : 318.0,
+            "handballs" : 148.0,
+            "disposals" : 466.0,
+            "marks" : 154.0,
+            "bounces" : 30.0,
+            "tackles" : 59.0,
+            "contestedPossessions" : 157.0,
+            "uncontestedPossessions" : 302.0,
+            "totalPossessions" : 459.0,
+            "inside50s" : 85.0,
+            "marksInside50" : 25.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 77.0,
+            "clangers" : 46.0,
+            "freesFor" : 24.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 2102.0,
+            "clearances" : {
+              "centreClearances" : 23.0,
+              "stoppageClearances" : 18.0,
+              "totalClearances" : 41.0
+            },
+            "rebound50s" : 38.0,
+            "goalAssists" : 19.0,
+            "goalAccuracy" : 54.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960130",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Buckley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 82.5
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.8,
+            "behinds" : 1.3,
+            "superGoals" : null,
+            "kicks" : 13.5,
+            "handballs" : 7.4,
+            "disposals" : 20.9,
+            "marks" : 7.0,
+            "bounces" : 0.5,
+            "tackles" : 2.0,
+            "contestedPossessions" : 8.7,
+            "uncontestedPossessions" : 12.5,
+            "totalPossessions" : 21.3,
+            "inside50s" : 4.6,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.9,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.5,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 96.1,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960130",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Buckley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 20.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 149.0,
+            "handballs" : 81.0,
+            "disposals" : 230.0,
+            "marks" : 77.0,
+            "bounces" : 6.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 96.0,
+            "uncontestedPossessions" : 138.0,
+            "totalPossessions" : 234.0,
+            "inside50s" : 51.0,
+            "marksInside50" : 22.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 71.7,
+            "clangers" : 24.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 1057.0,
+            "clearances" : {
+              "centreClearances" : 14.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 22.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 51.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960130",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Buckley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 85.7
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 14.8,
+            "handballs" : 6.5,
+            "disposals" : 21.3,
+            "marks" : 5.0,
+            "bounces" : 0.2,
+            "tackles" : 3.2,
+            "contestedPossessions" : 7.9,
+            "uncontestedPossessions" : 13.3,
+            "totalPossessions" : 21.2,
+            "inside50s" : 5.7,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 90.8,
+            "clearances" : {
+              "centreClearances" : 1.8,
+              "stoppageClearances" : 1.9,
+              "totalClearances" : 3.7
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960130",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Buckley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 222.0,
+            "handballs" : 97.0,
+            "disposals" : 319.0,
+            "marks" : 75.0,
+            "bounces" : 3.0,
+            "tackles" : 48.0,
+            "contestedPossessions" : 118.0,
+            "uncontestedPossessions" : 200.0,
+            "totalPossessions" : 318.0,
+            "inside50s" : 85.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 75.9,
+            "clangers" : 35.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 1362.0,
+            "clearances" : {
+              "centreClearances" : 27.0,
+              "stoppageClearances" : 28.0,
+              "totalClearances" : 55.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960130",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Buckley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 89.6
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 19.1,
+            "handballs" : 8.0,
+            "disposals" : 27.1,
+            "marks" : 4.2,
+            "bounces" : 0.8,
+            "tackles" : 3.7,
+            "contestedPossessions" : 11.5,
+            "uncontestedPossessions" : 15.5,
+            "totalPossessions" : 27.0,
+            "inside50s" : 6.6,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.5,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 1.5,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 106.7,
+            "clearances" : {
+              "centreClearances" : 2.9,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 5.9
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960130",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Buckley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 22.0,
+            "behinds" : 23.0,
+            "superGoals" : null,
+            "kicks" : 458.0,
+            "handballs" : 192.0,
+            "disposals" : 650.0,
+            "marks" : 102.0,
+            "bounces" : 19.0,
+            "tackles" : 89.0,
+            "contestedPossessions" : 276.0,
+            "uncontestedPossessions" : 372.0,
+            "totalPossessions" : 648.0,
+            "inside50s" : 159.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 13.0,
+            "onePercenters" : 43.0,
+            "disposalEfficiency" : 78.0,
+            "clangers" : 60.0,
+            "freesFor" : 36.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 2561.0,
+            "clearances" : {
+              "centreClearances" : 70.0,
+              "stoppageClearances" : 71.0,
+              "totalClearances" : 141.0
+            },
+            "rebound50s" : 51.0,
+            "goalAssists" : 18.0,
+            "goalAccuracy" : 41.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960130",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Buckley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 95.3
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 16.7,
+            "handballs" : 6.3,
+            "disposals" : 23.0,
+            "marks" : 3.8,
+            "bounces" : 1.0,
+            "tackles" : 4.7,
+            "contestedPossessions" : 9.9,
+            "uncontestedPossessions" : 13.4,
+            "totalPossessions" : 23.3,
+            "inside50s" : 5.3,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.7,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 3.1,
+            "freesFor" : 1.4,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 96.5,
+            "clearances" : {
+              "centreClearances" : 1.9,
+              "stoppageClearances" : 2.6,
+              "totalClearances" : 4.5
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960130",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Buckley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 19.0,
+            "superGoals" : null,
+            "kicks" : 351.0,
+            "handballs" : 133.0,
+            "disposals" : 484.0,
+            "marks" : 79.0,
+            "bounces" : 21.0,
+            "tackles" : 98.0,
+            "contestedPossessions" : 208.0,
+            "uncontestedPossessions" : 281.0,
+            "totalPossessions" : 489.0,
+            "inside50s" : 112.0,
+            "marksInside50" : 14.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 15.0,
+            "onePercenters" : 45.0,
+            "disposalEfficiency" : 77.3,
+            "clangers" : 65.0,
+            "freesFor" : 30.0,
+            "freesAgainst" : 25.0,
+            "dreamTeamPoints" : 2027.0,
+            "clearances" : {
+              "centreClearances" : 39.0,
+              "stoppageClearances" : 55.0,
+              "totalClearances" : 94.0
+            },
+            "rebound50s" : 35.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 44.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960130",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Buckley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 18.4,
+            "handballs" : 7.9,
+            "disposals" : 26.3,
+            "marks" : 5.0,
+            "bounces" : 1.3,
+            "tackles" : 2.9,
+            "contestedPossessions" : 10.7,
+            "uncontestedPossessions" : 15.1,
+            "totalPossessions" : 25.8,
+            "inside50s" : 6.0,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.7,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 102.2,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 2.8,
+              "totalClearances" : 5.9
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960130",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Buckley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 21.0,
+            "superGoals" : null,
+            "kicks" : 368.0,
+            "handballs" : 158.0,
+            "disposals" : 526.0,
+            "marks" : 101.0,
+            "bounces" : 26.0,
+            "tackles" : 59.0,
+            "contestedPossessions" : 215.0,
+            "uncontestedPossessions" : 302.0,
+            "totalPossessions" : 517.0,
+            "inside50s" : 120.0,
+            "marksInside50" : 16.0,
+            "contestedMarks" : 16.0,
+            "hitouts" : 15.0,
+            "onePercenters" : 35.0,
+            "disposalEfficiency" : 78.5,
+            "clangers" : 52.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 2045.0,
+            "clearances" : {
+              "centreClearances" : 61.0,
+              "stoppageClearances" : 57.0,
+              "totalClearances" : 118.0
+            },
+            "rebound50s" : 35.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960130",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Buckley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 62.0,
+      "handballs" : 27.0,
+      "disposals" : 89.0,
+      "marks" : 28.0,
+      "bounces" : 6.0,
+      "tackles" : 15.0,
+      "contestedPossessions" : 30.0,
+      "uncontestedPossessions" : 58.0,
+      "totalPossessions" : 88.0,
+      "inside50s" : 14.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 10.0,
+      "disposalEfficiency" : 75.3,
+      "clangers" : 12.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 5.0,
+      "dreamTeamPoints" : 387.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 5.0,
+        "totalClearances" : 6.0
+      },
+      "rebound50s" : 7.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

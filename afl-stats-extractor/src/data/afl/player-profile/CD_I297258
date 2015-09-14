@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I297258",
+    "position" : "Centre",
+    "surname" : "Robertson",
+    "jumperNumber" : 18,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 7.2,
+      "handballs" : 6.5,
+      "disposals" : 13.8,
+      "marks" : 3.7,
+      "bounces" : 0.4,
+      "tackles" : 2.6,
+      "contestedPossessions" : 4.8,
+      "uncontestedPossessions" : 9.5,
+      "totalPossessions" : 14.3,
+      "inside50s" : 1.8,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : null,
+      "clangers" : 2.3,
+      "freesFor" : 0.5,
+      "freesAgainst" : 1.1,
+      "dreamTeamPoints" : 55.2,
+      "clearances" : {
+        "centreClearances" : 0.4,
+        "stoppageClearances" : 1.1,
+        "totalClearances" : 1.6
+      },
+      "rebound50s" : 1.4,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Nick",
+    "bio" : "<p>Nick Robertson is a medium-sized midfielder who is known for his aggression at the contest. He is a strongly built player who attacks the footy at every opportunity and is rarely beaten one-on-one. He was drafted to the Lions from Western Australia at the end of 2013 and looks set for a big AFL future in Brisbane.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2015 - Profiles/ROBERTSON Nick.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1995-06-03T02:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 188,
+      "weightInKg" : 90,
+      "recruitedFrom" : null,
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 4.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 145.0,
+      "handballs" : 131.0,
+      "disposals" : 276.0,
+      "marks" : 74.0,
+      "bounces" : 8.0,
+      "tackles" : 53.0,
+      "contestedPossessions" : 96.0,
+      "uncontestedPossessions" : 191.0,
+      "totalPossessions" : 287.0,
+      "inside50s" : 37.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 20.0,
+      "disposalEfficiency" : 72.8,
+      "clangers" : 46.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1105.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 32.0
+      },
+      "rebound50s" : 29.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 44.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 7.9,
+            "handballs" : 6.5,
+            "disposals" : 14.4,
+            "marks" : 4.2,
+            "bounces" : 0.5,
+            "tackles" : 1.6,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 10.7,
+            "totalPossessions" : 14.8,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 55.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I297258",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Robertson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 95.0,
+            "handballs" : 78.0,
+            "disposals" : 173.0,
+            "marks" : 50.0,
+            "bounces" : 6.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 50.0,
+            "uncontestedPossessions" : 128.0,
+            "totalPossessions" : 178.0,
+            "inside50s" : 21.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 74.0,
+            "clangers" : 29.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 664.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 57.1,
+            "ratingPoints" : 116.3,
+            "ranking" : 484.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I297258",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Robertson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 71.0
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.2,
+            "handballs" : 6.6,
+            "disposals" : 12.9,
+            "marks" : 3.0,
+            "bounces" : 0.2,
+            "tackles" : 4.2,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 7.9,
+            "totalPossessions" : 13.6,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 55.1,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 2.6
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I297258",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Robertson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 50.0,
+            "handballs" : 53.0,
+            "disposals" : 103.0,
+            "marks" : 24.0,
+            "bounces" : 2.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 46.0,
+            "uncontestedPossessions" : 63.0,
+            "totalPossessions" : 109.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 70.9,
+            "clangers" : 17.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 441.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 21.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 43.7,
+            "ranking" : 599.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I297258",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Robertson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 63.3
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 4.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 95.0,
+      "handballs" : 78.0,
+      "disposals" : 173.0,
+      "marks" : 50.0,
+      "bounces" : 6.0,
+      "tackles" : 19.0,
+      "contestedPossessions" : 50.0,
+      "uncontestedPossessions" : 128.0,
+      "totalPossessions" : 178.0,
+      "inside50s" : 21.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 12.0,
+      "disposalEfficiency" : 74.0,
+      "clangers" : 29.0,
+      "freesFor" : 7.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 664.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 11.0,
+        "totalClearances" : 11.0
+      },
+      "rebound50s" : 23.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 57.1,
+      "ratingPoints" : 116.3,
+      "ranking" : 484.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I297258",
+        "playerName" : {
+          "givenName" : "Nick",
+          "surname" : "Robertson"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 116.3,
+        "ranking" : 485,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 116.3,
+        "ranking" : 27,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 116.3,
+        "ranking" : 141,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 72.5,
+        "ranking" : 419,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 20
+  }
+}

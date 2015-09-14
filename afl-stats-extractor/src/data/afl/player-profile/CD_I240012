@@ -1,0 +1,991 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I240012",
+    "position" : "Left Half Forward",
+    "surname" : "McQualter",
+    "jumperNumber" : 10,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.4,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 5.6,
+      "handballs" : 7.2,
+      "disposals" : 12.9,
+      "marks" : 3.4,
+      "bounces" : 0.1,
+      "tackles" : 3.6,
+      "contestedPossessions" : 4.6,
+      "uncontestedPossessions" : 8.2,
+      "totalPossessions" : 12.9,
+      "inside50s" : 1.5,
+      "marksInside50" : 0.4,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.3,
+      "disposalEfficiency" : null,
+      "clangers" : 1.2,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.4,
+      "dreamTeamPoints" : 58.2,
+      "clearances" : {
+        "centreClearances" : 0.5,
+        "stoppageClearances" : 0.7,
+        "totalClearances" : 1.2
+      },
+      "rebound50s" : 0.5,
+      "goalAssists" : 0.6,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Andrew",
+    "bio" : "<p>Former Saint Andrew McQualter joins the GC SUNS rookie list for the 2012 season. McQualter has been recruited to play an important leadership role with the GC SUNS reserves team in NEAFL. He was drafted by the St Kilda Football Club in the 2004 NAB AFL Draft as a 1st round selection, pick 17 overall. McQualter played 89 games for the Saints including the clubs three Grand Final’s in recent years, he has played ten finals match shaving secured a spot in the successful St Kilda team. Previous AFL club: St Kilda (2005-11: 89 games, 37 goals). Draft history: 2004 NAB AFL Draft 1st round selection (St Kilda) No. 17 overall; 2008 Rookie Draft selection (St Kilda) No. 39; 2008 rookie elevation (St Kilda); 2012 Rookie Draft selection (Gold Coast) No. 20.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GoldCoastSuns/Images/McQualter Profile.jpg",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1986-06-09T02:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 179,
+      "weightInKg" : 74,
+      "recruitedFrom" : null,
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 39.0,
+      "behinds" : 21.0,
+      "superGoals" : null,
+      "kicks" : 529.0,
+      "handballs" : 681.0,
+      "disposals" : 1210.0,
+      "marks" : 317.0,
+      "bounces" : 10.0,
+      "tackles" : 340.0,
+      "contestedPossessions" : 437.0,
+      "uncontestedPossessions" : 775.0,
+      "totalPossessions" : 1212.0,
+      "inside50s" : 140.0,
+      "marksInside50" : 41.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 123.0,
+      "disposalEfficiency" : 77.4,
+      "clangers" : 111.0,
+      "freesFor" : 62.0,
+      "freesAgainst" : 34.0,
+      "dreamTeamPoints" : 5475.0,
+      "clearances" : {
+        "centreClearances" : 51.0,
+        "stoppageClearances" : 65.0,
+        "totalClearances" : 116.0
+      },
+      "rebound50s" : 51.0,
+      "goalAssists" : 57.0,
+      "goalAccuracy" : 57.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 7.8,
+            "disposals" : 16.8,
+            "marks" : 4.6,
+            "bounces" : 0.0,
+            "tackles" : 2.2,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 13.4,
+            "totalPossessions" : 17.0,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 66.4,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240012",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "McQualter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 45.0,
+            "handballs" : 39.0,
+            "disposals" : 84.0,
+            "marks" : 23.0,
+            "bounces" : 0.0,
+            "tackles" : 11.0,
+            "contestedPossessions" : 18.0,
+            "uncontestedPossessions" : 67.0,
+            "totalPossessions" : 85.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 81.0,
+            "clangers" : 8.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 332.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240012",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "McQualter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 76.0
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 5.8,
+            "disposals" : 10.8,
+            "marks" : 2.4,
+            "bounces" : 0.0,
+            "tackles" : 2.4,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 6.6,
+            "totalPossessions" : 11.2,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 43.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240012",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "McQualter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 25.0,
+            "handballs" : 29.0,
+            "disposals" : 54.0,
+            "marks" : 12.0,
+            "bounces" : 0.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 23.0,
+            "uncontestedPossessions" : 33.0,
+            "totalPossessions" : 56.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 83.3,
+            "clangers" : 7.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 216.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240012",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "McQualter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 55.6
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 5.4,
+            "handballs" : 8.0,
+            "disposals" : 13.4,
+            "marks" : 4.1,
+            "bounces" : 0.0,
+            "tackles" : 4.2,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 8.8,
+            "totalPossessions" : 13.4,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 63.3,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240012",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "McQualter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 134.0,
+            "handballs" : 200.0,
+            "disposals" : 334.0,
+            "marks" : 103.0,
+            "bounces" : 0.0,
+            "tackles" : 104.0,
+            "contestedPossessions" : 115.0,
+            "uncontestedPossessions" : 219.0,
+            "totalPossessions" : 334.0,
+            "inside50s" : 37.0,
+            "marksInside50" : 16.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 74.6,
+            "clangers" : 31.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 1582.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 17.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 17.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240012",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "McQualter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 75.0
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 5.1,
+            "handballs" : 9.2,
+            "disposals" : 14.4,
+            "marks" : 2.5,
+            "bounces" : 0.0,
+            "tackles" : 4.7,
+            "contestedPossessions" : 6.2,
+            "uncontestedPossessions" : 8.2,
+            "totalPossessions" : 14.4,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 65.6,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240012",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "McQualter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 22.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 123.0,
+            "handballs" : 222.0,
+            "disposals" : 345.0,
+            "marks" : 61.0,
+            "bounces" : 0.0,
+            "tackles" : 112.0,
+            "contestedPossessions" : 150.0,
+            "uncontestedPossessions" : 196.0,
+            "totalPossessions" : 346.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 37.0,
+            "disposalEfficiency" : 79.1,
+            "clangers" : 26.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1574.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 21.0,
+              "totalClearances" : 31.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 21.0,
+            "goalAccuracy" : 75.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240012",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "McQualter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 78.6
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.4,
+            "handballs" : 5.8,
+            "disposals" : 11.2,
+            "marks" : 3.2,
+            "bounces" : 0.0,
+            "tackles" : 3.4,
+            "contestedPossessions" : 3.3,
+            "uncontestedPossessions" : 7.7,
+            "totalPossessions" : 11.1,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 51.2,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240012",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "McQualter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 65.0,
+            "handballs" : 70.0,
+            "disposals" : 135.0,
+            "marks" : 39.0,
+            "bounces" : 0.0,
+            "tackles" : 41.0,
+            "contestedPossessions" : 40.0,
+            "uncontestedPossessions" : 93.0,
+            "totalPossessions" : 133.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 75.6,
+            "clangers" : 16.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 614.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 19.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240012",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "McQualter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 72.3
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 4.5,
+            "handballs" : 4.7,
+            "disposals" : 9.2,
+            "marks" : 2.2,
+            "bounces" : 0.2,
+            "tackles" : 2.0,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 5.3,
+            "totalPossessions" : 9.2,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 38.8,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240012",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "McQualter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 27.0,
+            "handballs" : 28.0,
+            "disposals" : 55.0,
+            "marks" : 13.0,
+            "bounces" : 1.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 23.0,
+            "uncontestedPossessions" : 32.0,
+            "totalPossessions" : 55.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 74.5,
+            "clangers" : 6.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 233.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240012",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "McQualter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 59.8
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.9,
+            "handballs" : 5.3,
+            "disposals" : 11.2,
+            "marks" : 4.7,
+            "bounces" : 0.7,
+            "tackles" : 2.9,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 7.6,
+            "totalPossessions" : 11.2,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 54.4,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240012",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "McQualter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 59.0,
+            "handballs" : 53.0,
+            "disposals" : 112.0,
+            "marks" : 47.0,
+            "bounces" : 7.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 36.0,
+            "uncontestedPossessions" : 76.0,
+            "totalPossessions" : 112.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 76.8,
+            "clangers" : 11.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 544.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240012",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "McQualter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 67.6
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.3,
+            "handballs" : 5.7,
+            "disposals" : 13.0,
+            "marks" : 2.7,
+            "bounces" : 0.3,
+            "tackles" : 2.7,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 8.4,
+            "totalPossessions" : 13.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 0.9,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.1,
+            "dreamTeamPoints" : 54.3,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240012",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "McQualter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 51.0,
+            "handballs" : 40.0,
+            "disposals" : 91.0,
+            "marks" : 19.0,
+            "bounces" : 2.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 32.0,
+            "uncontestedPossessions" : 59.0,
+            "totalPossessions" : 91.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 80.2,
+            "clangers" : 6.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 380.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240012",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "McQualter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 75.8
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 45.0,
+      "handballs" : 39.0,
+      "disposals" : 84.0,
+      "marks" : 23.0,
+      "bounces" : 0.0,
+      "tackles" : 11.0,
+      "contestedPossessions" : 18.0,
+      "uncontestedPossessions" : 67.0,
+      "totalPossessions" : 85.0,
+      "inside50s" : 7.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 3.0,
+      "disposalEfficiency" : 81.0,
+      "clangers" : 8.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 3.0,
+      "dreamTeamPoints" : 332.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 6.0
+      },
+      "rebound50s" : 5.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201201427",
+      "player" : {
+        "playerId" : "CD_I240012",
+        "playerName" : {
+          "givenName" : "Andrew",
+          "surname" : "McQualter"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1000",
+        "teamAbbr" : "GCFC",
+        "teamName" : "Gold Coast Suns",
+        "teamNickname" : "Suns"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 52.0,
+        "ranking" : 562,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 52.0,
+        "ranking" : 34,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 52.0,
+        "ranking" : 134,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 94
+  }
+}

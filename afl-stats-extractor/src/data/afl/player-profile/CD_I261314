@@ -1,0 +1,1001 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I261314",
+    "position" : "Centre Half Forward",
+    "surname" : "Myers",
+    "jumperNumber" : 23,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 10.4,
+      "handballs" : 7.3,
+      "disposals" : 17.7,
+      "marks" : 3.7,
+      "bounces" : 0.5,
+      "tackles" : 2.9,
+      "contestedPossessions" : 6.7,
+      "uncontestedPossessions" : 11.1,
+      "totalPossessions" : 17.8,
+      "inside50s" : 2.7,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.3,
+      "onePercenters" : 1.9,
+      "disposalEfficiency" : null,
+      "clangers" : 2.2,
+      "freesFor" : 0.3,
+      "freesAgainst" : 0.8,
+      "dreamTeamPoints" : 69.2,
+      "clearances" : {
+        "centreClearances" : 0.8,
+        "stoppageClearances" : 1.4,
+        "totalClearances" : 2.2
+      },
+      "rebound50s" : 1.9,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "David",
+    "bio" : "<p>As one of Essendon’s barometers, Myers’ best performances usually correlate with those of his team. A big-bodied, strong ball-winner, he has been deployed into the midfield where he<br>\nuses his size and booming left-foot kicking to get the ball going Essendon’s way. More responsibility was thrown Myers’ way during Jobe Watson’s injury-enforced lay-off, but it coincided with his most consistent patch of the season as an inside midfielder.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Essendon/Player Profiles/2015 - Profiles/MYERS David.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1989-06-30T02:00:00.000+0000",
+      "draftYear" : "2007",
+      "heightInCm" : 191,
+      "weightInKg" : 88,
+      "recruitedFrom" : "Perth (WA)",
+      "debutYear" : "2008"
+    },
+    "careerStats" : {
+      "goals" : 26.0,
+      "behinds" : 31.0,
+      "superGoals" : null,
+      "kicks" : 886.0,
+      "handballs" : 618.0,
+      "disposals" : 1504.0,
+      "marks" : 318.0,
+      "bounces" : 42.0,
+      "tackles" : 248.0,
+      "contestedPossessions" : 568.0,
+      "uncontestedPossessions" : 941.0,
+      "totalPossessions" : 1509.0,
+      "inside50s" : 232.0,
+      "marksInside50" : 14.0,
+      "contestedMarks" : 18.0,
+      "hitouts" : 25.0,
+      "onePercenters" : 161.0,
+      "disposalEfficiency" : 71.2,
+      "clangers" : 183.0,
+      "freesFor" : 28.0,
+      "freesAgainst" : 65.0,
+      "dreamTeamPoints" : 5885.0,
+      "clearances" : {
+        "centreClearances" : 70.0,
+        "stoppageClearances" : 117.0,
+        "totalClearances" : 187.0
+      },
+      "rebound50s" : 163.0,
+      "goalAssists" : 26.0,
+      "goalAccuracy" : 40.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 4.0,
+            "disposals" : 11.5,
+            "marks" : 2.5,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 6.5,
+            "totalPossessions" : 12.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 36.5,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.5
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261314",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Myers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 15.0,
+            "handballs" : 8.0,
+            "disposals" : 23.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 11.0,
+            "uncontestedPossessions" : 13.0,
+            "totalPossessions" : 24.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 73.9,
+            "clangers" : 6.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 73.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 220.6,
+            "ranking" : 337.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261314",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Myers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 23.0
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 11.6,
+            "handballs" : 9.3,
+            "disposals" : 20.9,
+            "marks" : 3.6,
+            "bounces" : 0.2,
+            "tackles" : 4.2,
+            "contestedPossessions" : 8.7,
+            "uncontestedPossessions" : 12.7,
+            "totalPossessions" : 21.4,
+            "inside50s" : 3.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 1.1,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 81.5,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 2.8,
+              "totalClearances" : 4.2
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261314",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Myers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 209.0,
+            "handballs" : 168.0,
+            "disposals" : 377.0,
+            "marks" : 64.0,
+            "bounces" : 4.0,
+            "tackles" : 75.0,
+            "contestedPossessions" : 157.0,
+            "uncontestedPossessions" : 229.0,
+            "totalPossessions" : 386.0,
+            "inside50s" : 59.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 19.0,
+            "onePercenters" : 44.0,
+            "disposalEfficiency" : 75.1,
+            "clangers" : 33.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1467.0,
+            "clearances" : {
+              "centreClearances" : 25.0,
+              "stoppageClearances" : 50.0,
+              "totalClearances" : 75.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 35.7,
+            "ratingPoints" : 376.9,
+            "ranking" : 127.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261314",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Myers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 79.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 7.3,
+            "disposals" : 18.3,
+            "marks" : 4.3,
+            "bounces" : 0.7,
+            "tackles" : 3.4,
+            "contestedPossessions" : 6.5,
+            "uncontestedPossessions" : 12.0,
+            "totalPossessions" : 18.5,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 76.6,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261314",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Myers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 220.0,
+            "handballs" : 147.0,
+            "disposals" : 367.0,
+            "marks" : 86.0,
+            "bounces" : 15.0,
+            "tackles" : 68.0,
+            "contestedPossessions" : 131.0,
+            "uncontestedPossessions" : 240.0,
+            "totalPossessions" : 371.0,
+            "inside50s" : 77.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 70.8,
+            "clangers" : 42.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1533.0,
+            "clearances" : {
+              "centreClearances" : 16.0,
+              "stoppageClearances" : 28.0,
+              "totalClearances" : 44.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 43.5,
+            "ratingPoints" : 282.6,
+            "ranking" : 251.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261314",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Myers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 75.2
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 11.3,
+            "handballs" : 6.0,
+            "disposals" : 17.3,
+            "marks" : 3.6,
+            "bounces" : 0.6,
+            "tackles" : 2.0,
+            "contestedPossessions" : 6.7,
+            "uncontestedPossessions" : 10.4,
+            "totalPossessions" : 17.1,
+            "inside50s" : 3.6,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 65.6,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 2.4
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261314",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Myers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 102.0,
+            "handballs" : 54.0,
+            "disposals" : 156.0,
+            "marks" : 32.0,
+            "bounces" : 5.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 60.0,
+            "uncontestedPossessions" : 94.0,
+            "totalPossessions" : 154.0,
+            "inside50s" : 32.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 64.7,
+            "clangers" : 22.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 590.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 22.0
+            },
+            "rebound50s" : 22.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 44.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261314",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Myers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 74.5
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 11.1,
+            "handballs" : 7.9,
+            "disposals" : 19.0,
+            "marks" : 4.0,
+            "bounces" : 0.5,
+            "tackles" : 2.2,
+            "contestedPossessions" : 8.0,
+            "uncontestedPossessions" : 10.8,
+            "totalPossessions" : 18.8,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.1,
+            "onePercenters" : 3.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 68.7,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261314",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Myers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 155.0,
+            "handballs" : 111.0,
+            "disposals" : 266.0,
+            "marks" : 56.0,
+            "bounces" : 7.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 112.0,
+            "uncontestedPossessions" : 151.0,
+            "totalPossessions" : 263.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 44.0,
+            "disposalEfficiency" : 70.7,
+            "clangers" : 36.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 962.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 22.0
+            },
+            "rebound50s" : 35.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261314",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Myers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 88.3
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 8.9,
+            "handballs" : 7.7,
+            "disposals" : 16.6,
+            "marks" : 3.4,
+            "bounces" : 0.4,
+            "tackles" : 3.0,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 11.2,
+            "totalPossessions" : 16.5,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.9,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 64.9,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261314",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Myers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 71.0,
+            "handballs" : 62.0,
+            "disposals" : 133.0,
+            "marks" : 27.0,
+            "bounces" : 3.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 42.0,
+            "uncontestedPossessions" : 90.0,
+            "totalPossessions" : 132.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 72.9,
+            "clangers" : 23.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 519.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261314",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Myers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 77.2
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 6.2,
+            "handballs" : 4.8,
+            "disposals" : 11.0,
+            "marks" : 3.2,
+            "bounces" : 0.5,
+            "tackles" : 1.3,
+            "contestedPossessions" : 2.8,
+            "uncontestedPossessions" : 7.8,
+            "totalPossessions" : 10.7,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 43.0,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261314",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Myers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 37.0,
+            "handballs" : 29.0,
+            "disposals" : 66.0,
+            "marks" : 19.0,
+            "bounces" : 3.0,
+            "tackles" : 8.0,
+            "contestedPossessions" : 17.0,
+            "uncontestedPossessions" : 47.0,
+            "totalPossessions" : 64.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 68.2,
+            "clangers" : 6.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 258.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261314",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Myers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 68.3
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.6,
+            "handballs" : 4.9,
+            "disposals" : 14.5,
+            "marks" : 3.6,
+            "bounces" : 0.6,
+            "tackles" : 3.0,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 9.6,
+            "totalPossessions" : 14.5,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 60.4,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261314",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Myers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 77.0,
+            "handballs" : 39.0,
+            "disposals" : 116.0,
+            "marks" : 29.0,
+            "bounces" : 5.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 39.0,
+            "uncontestedPossessions" : 77.0,
+            "totalPossessions" : 116.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 68.1,
+            "clangers" : 15.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 483.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261314",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Myers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 70.2
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 15.0,
+      "handballs" : 8.0,
+      "disposals" : 23.0,
+      "marks" : 5.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 11.0,
+      "uncontestedPossessions" : 13.0,
+      "totalPossessions" : 24.0,
+      "inside50s" : 4.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.0,
+      "disposalEfficiency" : 73.9,
+      "clangers" : 6.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 73.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 7.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 220.6,
+      "ranking" : 337.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I261314",
+        "playerName" : {
+          "givenName" : "David",
+          "surname" : "Myers"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T50",
+        "teamAbbr" : "ESS",
+        "teamName" : "Essendon",
+        "teamNickname" : "Bombers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 220.6,
+        "ranking" : 341,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 220.6,
+        "ranking" : 24,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 220.6,
+        "ranking" : 115,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 5.9,
+        "ranking" : 634,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2007"
+    },
+    "careerGamesPlayed" : 85
+  }
+}

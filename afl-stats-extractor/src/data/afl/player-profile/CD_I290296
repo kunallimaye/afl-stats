@@ -1,0 +1,579 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I290296",
+    "position" : "Left Back Pocket",
+    "surname" : "Crichton",
+    "jumperNumber" : 44,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 5.4,
+      "handballs" : 6.3,
+      "disposals" : 11.7,
+      "marks" : 2.3,
+      "bounces" : 0.3,
+      "tackles" : 2.9,
+      "contestedPossessions" : 3.3,
+      "uncontestedPossessions" : 8.6,
+      "totalPossessions" : 11.8,
+      "inside50s" : 0.8,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.6,
+      "disposalEfficiency" : null,
+      "clangers" : 1.2,
+      "freesFor" : 0.4,
+      "freesAgainst" : 0.4,
+      "dreamTeamPoints" : 47.6,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.6,
+        "totalClearances" : 0.8
+      },
+      "rebound50s" : 1.2,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jesse",
+    "bio" : "<p>Crichton’s fourth year of AFL is a big one. The Tasmanian received a lifeline after being re-listed in the Pre-Season Draft. He’s responded with a strong pre-season and must push hard for senior selection. He has bulked up a fair bit and is running well, highlighted by a personal best in his time trial.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Fremantle/Player Profiles/2013 - Profiles/CRICHTON Jesse.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-06-18T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 185,
+      "weightInKg" : 83,
+      "recruitedFrom" : "North Launceston/Tas U18",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 3.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 97.0,
+      "handballs" : 113.0,
+      "disposals" : 210.0,
+      "marks" : 42.0,
+      "bounces" : 5.0,
+      "tackles" : 53.0,
+      "contestedPossessions" : 59.0,
+      "uncontestedPossessions" : 154.0,
+      "totalPossessions" : 213.0,
+      "inside50s" : 14.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 29.0,
+      "disposalEfficiency" : 77.6,
+      "clangers" : 21.0,
+      "freesFor" : 7.0,
+      "freesAgainst" : 8.0,
+      "dreamTeamPoints" : 857.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 10.0,
+        "totalClearances" : 14.0
+      },
+      "rebound50s" : 21.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 60.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 5.0,
+            "disposals" : 15.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 15.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 75.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290296",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "Crichton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 5.0,
+            "disposals" : 15.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 15.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 86.7,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 75.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 37.6,
+            "ranking" : 621.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290296",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "Crichton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 97.8
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 7.2,
+            "disposals" : 12.2,
+            "marks" : 3.0,
+            "bounces" : 0.5,
+            "tackles" : 3.5,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 7.2,
+            "totalPossessions" : 12.5,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 51.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290296",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "Crichton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 20.0,
+            "handballs" : 29.0,
+            "disposals" : 49.0,
+            "marks" : 12.0,
+            "bounces" : 2.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 21.0,
+            "uncontestedPossessions" : 29.0,
+            "totalPossessions" : 50.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 69.4,
+            "clangers" : 9.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 205.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290296",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "Crichton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 74.6
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.1,
+            "handballs" : 5.3,
+            "disposals" : 10.4,
+            "marks" : 1.4,
+            "bounces" : 0.3,
+            "tackles" : 2.4,
+            "contestedPossessions" : 2.3,
+            "uncontestedPossessions" : 8.4,
+            "totalPossessions" : 10.7,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.1,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 39.3,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290296",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "Crichton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 36.0,
+            "handballs" : 37.0,
+            "disposals" : 73.0,
+            "marks" : 10.0,
+            "bounces" : 2.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 16.0,
+            "uncontestedPossessions" : 59.0,
+            "totalPossessions" : 75.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 71.2,
+            "clangers" : 8.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 275.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290296",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "Crichton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 68.1
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.2,
+            "handballs" : 7.0,
+            "disposals" : 12.2,
+            "marks" : 2.5,
+            "bounces" : 0.2,
+            "tackles" : 2.8,
+            "contestedPossessions" : 2.8,
+            "uncontestedPossessions" : 9.3,
+            "totalPossessions" : 12.2,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 0.7,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 50.3,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290296",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "Crichton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 31.0,
+            "handballs" : 42.0,
+            "disposals" : 73.0,
+            "marks" : 15.0,
+            "bounces" : 1.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 17.0,
+            "uncontestedPossessions" : 56.0,
+            "totalPossessions" : 73.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 87.7,
+            "clangers" : 4.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 302.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290296",
+            "playerName" : {
+              "givenName" : "Jesse",
+              "surname" : "Crichton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 77.1
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 10.0,
+      "handballs" : 5.0,
+      "disposals" : 15.0,
+      "marks" : 5.0,
+      "bounces" : 0.0,
+      "tackles" : 5.0,
+      "contestedPossessions" : 5.0,
+      "uncontestedPossessions" : 10.0,
+      "totalPossessions" : 15.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 6.0,
+      "disposalEfficiency" : 86.7,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 75.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 37.6,
+      "ranking" : 621.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201301427",
+      "player" : {
+        "playerId" : "CD_I290296",
+        "playerName" : {
+          "givenName" : "Jesse",
+          "surname" : "Crichton"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T60",
+        "teamAbbr" : "FRE",
+        "teamName" : "Fremantle",
+        "teamNickname" : "Dockers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 37.0,
+        "ranking" : 621,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 37.0,
+        "ranking" : 31,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 37.0,
+        "ranking" : 234,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 18
+  }
+}

@@ -1,0 +1,888 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I250211",
+    "position" : "Substitute",
+    "surname" : "Bower",
+    "jumperNumber" : 18,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 7.8,
+      "handballs" : 8.0,
+      "disposals" : 15.8,
+      "marks" : 5.2,
+      "bounces" : 1.3,
+      "tackles" : 1.8,
+      "contestedPossessions" : 4.0,
+      "uncontestedPossessions" : 11.5,
+      "totalPossessions" : 15.5,
+      "inside50s" : 0.9,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.4,
+      "hitouts" : 0.0,
+      "onePercenters" : 5.3,
+      "disposalEfficiency" : null,
+      "clangers" : 1.6,
+      "freesFor" : 0.4,
+      "freesAgainst" : 0.9,
+      "dreamTeamPoints" : 60.3,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.4,
+        "totalClearances" : 0.4
+      },
+      "rebound50s" : 2.5,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Paul",
+    "bio" : "<p>Managed ten senior appearances through the winter campaign, extending his games tally at Carlton to 70, but struggled to hold down a regular berth. Would be the first to admit season 2012 wasn’t what he’d hoped.&nbsp;<b><br>\n<br>\n</b><strong>Draft history:</strong> 2005 NAB AFL Draft 2nd round selection (Carlton) No. 20 overall.<br>\n<br>\n<strong>Twitter:</strong> <a href=\"http://twitter.com/PaulyB_18\">twitter.com/PaulyB_18</a></p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Carlton/Player Profiles/2012 - Profiles/bower_paul_o.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1988-01-09T01:00:00.000+0000",
+      "draftYear" : "2005",
+      "heightInCm" : 192,
+      "weightInKg" : 92,
+      "recruitedFrom" : "Peel Thunder (WA)",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 5.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 547.0,
+      "handballs" : 559.0,
+      "disposals" : 1106.0,
+      "marks" : 362.0,
+      "bounces" : 91.0,
+      "tackles" : 125.0,
+      "contestedPossessions" : 281.0,
+      "uncontestedPossessions" : 802.0,
+      "totalPossessions" : 1083.0,
+      "inside50s" : 64.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 31.0,
+      "hitouts" : 3.0,
+      "onePercenters" : 368.0,
+      "disposalEfficiency" : 82.4,
+      "clangers" : 114.0,
+      "freesFor" : 25.0,
+      "freesAgainst" : 61.0,
+      "dreamTeamPoints" : 4221.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 176.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 71.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.4,
+            "handballs" : 4.2,
+            "disposals" : 14.6,
+            "marks" : 6.0,
+            "bounces" : 2.2,
+            "tackles" : 2.2,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 10.1,
+            "totalPossessions" : 14.3,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 65.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250211",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Bower"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 104.0,
+            "handballs" : 42.0,
+            "disposals" : 146.0,
+            "marks" : 60.0,
+            "bounces" : 22.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 42.0,
+            "uncontestedPossessions" : 101.0,
+            "totalPossessions" : 143.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 67.0,
+            "disposalEfficiency" : 69.9,
+            "clangers" : 20.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 657.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250211",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Bower"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 91.2
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.3,
+            "handballs" : 2.3,
+            "disposals" : 6.7,
+            "marks" : 2.7,
+            "bounces" : 2.7,
+            "tackles" : 1.0,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 5.7,
+            "totalPossessions" : 6.7,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 27.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250211",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Bower"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 13.0,
+            "handballs" : 7.0,
+            "disposals" : 20.0,
+            "marks" : 8.0,
+            "bounces" : 8.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 17.0,
+            "totalPossessions" : 20.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 90.0,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 83.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250211",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Bower"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 48.1
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.6,
+            "handballs" : 10.2,
+            "disposals" : 16.8,
+            "marks" : 4.8,
+            "bounces" : 2.1,
+            "tackles" : 2.1,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 10.7,
+            "totalPossessions" : 16.2,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 61.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250211",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Bower"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 79.0,
+            "handballs" : 123.0,
+            "disposals" : 202.0,
+            "marks" : 58.0,
+            "bounces" : 25.0,
+            "tackles" : 25.0,
+            "contestedPossessions" : 66.0,
+            "uncontestedPossessions" : 129.0,
+            "totalPossessions" : 195.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 61.0,
+            "disposalEfficiency" : 84.7,
+            "clangers" : 17.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 735.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250211",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Bower"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 87.8
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 10.8,
+            "disposals" : 19.5,
+            "marks" : 5.8,
+            "bounces" : 0.4,
+            "tackles" : 1.9,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 14.5,
+            "totalPossessions" : 19.0,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 69.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 3.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250211",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Bower"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 183.0,
+            "handballs" : 226.0,
+            "disposals" : 409.0,
+            "marks" : 122.0,
+            "bounces" : 9.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 96.0,
+            "uncontestedPossessions" : 304.0,
+            "totalPossessions" : 400.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 142.0,
+            "disposalEfficiency" : 83.6,
+            "clangers" : 33.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 1466.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 65.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250211",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Bower"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 94.4
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.6,
+            "handballs" : 7.4,
+            "disposals" : 15.0,
+            "marks" : 5.1,
+            "bounces" : 1.2,
+            "tackles" : 1.3,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 11.3,
+            "totalPossessions" : 14.8,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.3,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 55.6,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250211",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Bower"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 91.0,
+            "handballs" : 89.0,
+            "disposals" : 180.0,
+            "marks" : 61.0,
+            "bounces" : 15.0,
+            "tackles" : 16.0,
+            "contestedPossessions" : 42.0,
+            "uncontestedPossessions" : 136.0,
+            "totalPossessions" : 178.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 46.0,
+            "disposalEfficiency" : 85.6,
+            "clangers" : 21.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 667.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 29.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250211",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Bower"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 90.4
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.3,
+            "handballs" : 6.6,
+            "disposals" : 12.9,
+            "marks" : 4.5,
+            "bounces" : 1.0,
+            "tackles" : 1.8,
+            "contestedPossessions" : 2.9,
+            "uncontestedPossessions" : 10.1,
+            "totalPossessions" : 13.0,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.2,
+            "onePercenters" : 3.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 52.3,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250211",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Bower"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 63.0,
+            "handballs" : 66.0,
+            "disposals" : 129.0,
+            "marks" : 45.0,
+            "bounces" : 10.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 29.0,
+            "uncontestedPossessions" : 101.0,
+            "totalPossessions" : 130.0,
+            "inside50s" : 11.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 82.9,
+            "clangers" : 15.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 523.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250211",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Bower"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 77.0
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 3.0,
+            "disposals" : 10.0,
+            "marks" : 4.0,
+            "bounces" : 1.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 1.5,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 8.5,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.5,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 45.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 3.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250211",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Bower"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 14.0,
+            "handballs" : 6.0,
+            "disposals" : 20.0,
+            "marks" : 8.0,
+            "bounces" : 2.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 14.0,
+            "totalPossessions" : 17.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 85.0,
+            "clangers" : 5.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 90.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250211",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Bower"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 81.1
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 104.0,
+      "handballs" : 42.0,
+      "disposals" : 146.0,
+      "marks" : 60.0,
+      "bounces" : 22.0,
+      "tackles" : 22.0,
+      "contestedPossessions" : 42.0,
+      "uncontestedPossessions" : 101.0,
+      "totalPossessions" : 143.0,
+      "inside50s" : 12.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 67.0,
+      "disposalEfficiency" : 69.9,
+      "clangers" : 20.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 7.0,
+      "dreamTeamPoints" : 657.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 25.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 100.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201201427",
+      "player" : {
+        "playerId" : "CD_I250211",
+        "playerName" : {
+          "givenName" : "Paul",
+          "surname" : "Bower"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T30",
+        "teamAbbr" : "CARL",
+        "teamName" : "Carlton",
+        "teamNickname" : "Blues"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 91.0,
+        "ranking" : 494,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 91.0,
+        "ranking" : 28,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 91.0,
+        "ranking" : 163,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 70
+  }
+}

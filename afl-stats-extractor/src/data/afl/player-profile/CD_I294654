@@ -1,0 +1,486 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I294654",
+    "position" : "Right Half Forward",
+    "surname" : "Stewart",
+    "jumperNumber" : 36,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.1,
+      "behinds" : 1.1,
+      "superGoals" : null,
+      "kicks" : 6.1,
+      "handballs" : 3.7,
+      "disposals" : 9.8,
+      "marks" : 3.1,
+      "bounces" : 0.2,
+      "tackles" : 1.7,
+      "contestedPossessions" : 3.6,
+      "uncontestedPossessions" : 6.2,
+      "totalPossessions" : 9.8,
+      "inside50s" : 2.1,
+      "marksInside50" : 1.1,
+      "contestedMarks" : 0.6,
+      "hitouts" : 1.1,
+      "onePercenters" : 1.1,
+      "disposalEfficiency" : null,
+      "clangers" : 2.4,
+      "freesFor" : 0.5,
+      "freesAgainst" : 1.2,
+      "dreamTeamPoints" : 46.9,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.2,
+        "totalClearances" : 0.2
+      },
+      "rebound50s" : 0.2,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "James",
+    "bio" : "<p><strong>Junior Clubs: </strong>Glen Iris<strong><br /> Debut: </strong>2013<strong><br /> Recruited From:</strong> Glen Iris/Scotch College/Sandringham U18<br /> <strong>Brownlow Votes: </strong>-<br /><strong>Community Ambassador: </strong>Tuggernanong Hawks</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2015 - Profiles/STEWART James.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1994-03-04T01:00:00.000+0000",
+      "draftYear" : "2012",
+      "heightInCm" : 198,
+      "weightInKg" : 88,
+      "recruitedFrom" : "Glen Iris (Vic)/Scotch College (Vic)/Sandringham U18",
+      "debutYear" : "2013"
+    },
+    "careerStats" : {
+      "goals" : 18.0,
+      "behinds" : 18.0,
+      "superGoals" : null,
+      "kicks" : 103.0,
+      "handballs" : 63.0,
+      "disposals" : 166.0,
+      "marks" : 52.0,
+      "bounces" : 4.0,
+      "tackles" : 29.0,
+      "contestedPossessions" : 61.0,
+      "uncontestedPossessions" : 106.0,
+      "totalPossessions" : 167.0,
+      "inside50s" : 36.0,
+      "marksInside50" : 19.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 19.0,
+      "onePercenters" : 19.0,
+      "disposalEfficiency" : 60.8,
+      "clangers" : 41.0,
+      "freesFor" : 8.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 797.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 3.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 47.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 1.1,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 4.0,
+            "disposals" : 10.0,
+            "marks" : 3.2,
+            "bounces" : 0.3,
+            "tackles" : 1.9,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 5.8,
+            "totalPossessions" : 9.9,
+            "inside50s" : 2.1,
+            "marksInside50" : 1.3,
+            "contestedMarks" : 0.8,
+            "hitouts" : 1.5,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 50.1,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294654",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Stewart"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 78.0,
+            "handballs" : 52.0,
+            "disposals" : 130.0,
+            "marks" : 42.0,
+            "bounces" : 4.0,
+            "tackles" : 25.0,
+            "contestedPossessions" : 53.0,
+            "uncontestedPossessions" : 76.0,
+            "totalPossessions" : 129.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 17.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 19.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 61.5,
+            "clangers" : 30.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 651.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 48.4,
+            "ratingPoints" : 84.8,
+            "ranking" : 516.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294654",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Stewart"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 78.0
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.3,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 3.3,
+            "disposals" : 11.3,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 9.7,
+            "totalPossessions" : 11.7,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 0.3,
+            "freesAgainst" : 1.7,
+            "dreamTeamPoints" : 46.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294654",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Stewart"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 24.0,
+            "handballs" : 10.0,
+            "disposals" : 34.0,
+            "marks" : 9.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 29.0,
+            "totalPossessions" : 35.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 61.8,
+            "clangers" : 8.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 139.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : -2.8,
+            "ranking" : 710.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294654",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Stewart"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 78.4
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 1.0,
+            "handballs" : 1.0,
+            "disposals" : 2.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 1.0,
+            "totalPossessions" : 3.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 7.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294654",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Stewart"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 1.0,
+            "handballs" : 1.0,
+            "disposals" : 2.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 1.0,
+            "totalPossessions" : 3.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 3.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 7.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : -0.2,
+            "ranking" : 712.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294654",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Stewart"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 49.3
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 15.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 78.0,
+      "handballs" : 52.0,
+      "disposals" : 130.0,
+      "marks" : 42.0,
+      "bounces" : 4.0,
+      "tackles" : 25.0,
+      "contestedPossessions" : 53.0,
+      "uncontestedPossessions" : 76.0,
+      "totalPossessions" : 129.0,
+      "inside50s" : 27.0,
+      "marksInside50" : 17.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 19.0,
+      "onePercenters" : 15.0,
+      "disposalEfficiency" : 61.5,
+      "clangers" : 30.0,
+      "freesFor" : 6.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 651.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 3.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 48.4,
+      "ratingPoints" : 84.8,
+      "ranking" : 516.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I294654",
+        "playerName" : {
+          "givenName" : "James",
+          "surname" : "Stewart"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 93.5,
+        "ranking" : 511,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 93.5,
+        "ranking" : 30,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 93.5,
+        "ranking" : 49,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 80.8,
+        "ranking" : 399,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2012"
+    },
+    "careerGamesPlayed" : 17
+  }
+}

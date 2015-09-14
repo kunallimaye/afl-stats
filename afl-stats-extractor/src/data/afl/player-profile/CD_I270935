@@ -1,0 +1,898 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I270935",
+    "position" : "Right Back Pocket",
+    "surname" : "Hurley",
+    "jumperNumber" : 18,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.9,
+      "behinds" : 0.6,
+      "superGoals" : null,
+      "kicks" : 10.4,
+      "handballs" : 6.0,
+      "disposals" : 16.4,
+      "marks" : 5.7,
+      "bounces" : 0.2,
+      "tackles" : 1.0,
+      "contestedPossessions" : 5.7,
+      "uncontestedPossessions" : 10.3,
+      "totalPossessions" : 16.1,
+      "inside50s" : 1.9,
+      "marksInside50" : 1.1,
+      "contestedMarks" : 0.9,
+      "hitouts" : 0.1,
+      "onePercenters" : 3.6,
+      "disposalEfficiency" : null,
+      "clangers" : 1.7,
+      "freesFor" : 0.8,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 69.4,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.2,
+        "totalClearances" : 0.2
+      },
+      "rebound50s" : 2.3,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Michael",
+    "bio" : "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: small;\">Hurley enjoyed the most productive and injury-free season of his career in 2014, playing 21 games. His switch to the backline helped on that front and he settled into a key defnsive role, where he used his power, aggression and smarts to dominate opponents. Towards the end of the season, his confidence grew, and he began taking the game on more and delivering the ball well. Hurley seems well placed for a big 2015.</span></p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Essendon/Player Profiles/2015 - Profiles/HURLEY Michael.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1990-06-01T02:00:00.000+0000",
+      "draftYear" : "2008",
+      "heightInCm" : 193,
+      "weightInKg" : 92,
+      "recruitedFrom" : "Macleod/Northern U18",
+      "debutYear" : "2009"
+    },
+    "careerStats" : {
+      "goals" : 105.0,
+      "behinds" : 76.0,
+      "superGoals" : null,
+      "kicks" : 1240.0,
+      "handballs" : 709.0,
+      "disposals" : 1949.0,
+      "marks" : 678.0,
+      "bounces" : 28.0,
+      "tackles" : 122.0,
+      "contestedPossessions" : 683.0,
+      "uncontestedPossessions" : 1229.0,
+      "totalPossessions" : 1912.0,
+      "inside50s" : 232.0,
+      "marksInside50" : 129.0,
+      "contestedMarks" : 113.0,
+      "hitouts" : 9.0,
+      "onePercenters" : 429.0,
+      "disposalEfficiency" : 74.9,
+      "clangers" : 206.0,
+      "freesFor" : 96.0,
+      "freesAgainst" : 70.0,
+      "dreamTeamPoints" : 8261.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 25.0,
+        "totalClearances" : 27.0
+      },
+      "rebound50s" : 268.0,
+      "goalAssists" : 57.0,
+      "goalAccuracy" : 51.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 15.8,
+            "handballs" : 5.5,
+            "disposals" : 21.3,
+            "marks" : 6.9,
+            "bounces" : 0.2,
+            "tackles" : 1.1,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 14.2,
+            "totalPossessions" : 19.8,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 83.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 5.6,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270935",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Hurley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 301.0,
+            "handballs" : 104.0,
+            "disposals" : 405.0,
+            "marks" : 131.0,
+            "bounces" : 4.0,
+            "tackles" : 20.0,
+            "contestedPossessions" : 108.0,
+            "uncontestedPossessions" : 269.0,
+            "totalPossessions" : 377.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 16.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 102.0,
+            "disposalEfficiency" : 77.3,
+            "clangers" : 43.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1579.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 107.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 397.3,
+            "ranking" : 94.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270935",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Hurley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 94.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 12.3,
+            "handballs" : 7.2,
+            "disposals" : 19.5,
+            "marks" : 6.1,
+            "bounces" : 0.4,
+            "tackles" : 1.2,
+            "contestedPossessions" : 6.1,
+            "uncontestedPossessions" : 12.5,
+            "totalPossessions" : 18.6,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 73.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 3.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270935",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Hurley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 258.0,
+            "handballs" : 152.0,
+            "disposals" : 410.0,
+            "marks" : 128.0,
+            "bounces" : 8.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 129.0,
+            "uncontestedPossessions" : 262.0,
+            "totalPossessions" : 391.0,
+            "inside50s" : 33.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 16.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 110.0,
+            "disposalEfficiency" : 81.5,
+            "clangers" : 47.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1542.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 67.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 361.9,
+            "ranking" : 148.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270935",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Hurley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 92.8
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.5,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 8.1,
+            "handballs" : 4.6,
+            "disposals" : 12.7,
+            "marks" : 5.1,
+            "bounces" : 0.1,
+            "tackles" : 0.4,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 7.3,
+            "totalPossessions" : 13.0,
+            "inside50s" : 2.5,
+            "marksInside50" : 2.3,
+            "contestedMarks" : 0.9,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 59.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 1.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270935",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Hurley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 24.0,
+            "behinds" : 16.0,
+            "superGoals" : null,
+            "kicks" : 129.0,
+            "handballs" : 74.0,
+            "disposals" : 203.0,
+            "marks" : 81.0,
+            "bounces" : 1.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 91.0,
+            "uncontestedPossessions" : 117.0,
+            "totalPossessions" : 208.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 37.0,
+            "contestedMarks" : 15.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 70.0,
+            "clangers" : 25.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 956.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 18.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 280.5,
+            "ranking" : 256.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270935",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Hurley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 81.8
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.6,
+            "behinds" : 1.3,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 5.4,
+            "disposals" : 13.7,
+            "marks" : 5.2,
+            "bounces" : 0.0,
+            "tackles" : 0.8,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 8.2,
+            "totalPossessions" : 14.1,
+            "inside50s" : 2.9,
+            "marksInside50" : 2.2,
+            "contestedMarks" : 1.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 65.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270935",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Hurley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 26.0,
+            "behinds" : 21.0,
+            "superGoals" : null,
+            "kicks" : 132.0,
+            "handballs" : 87.0,
+            "disposals" : 219.0,
+            "marks" : 84.0,
+            "bounces" : 0.0,
+            "tackles" : 13.0,
+            "contestedPossessions" : 93.0,
+            "uncontestedPossessions" : 132.0,
+            "totalPossessions" : 225.0,
+            "inside50s" : 46.0,
+            "marksInside50" : 36.0,
+            "contestedMarks" : 18.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 64.4,
+            "clangers" : 28.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 1046.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 49.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270935",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Hurley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 84.6
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.5,
+            "behinds" : 1.2,
+            "superGoals" : null,
+            "kicks" : 8.9,
+            "handballs" : 5.5,
+            "disposals" : 14.4,
+            "marks" : 5.2,
+            "bounces" : 0.2,
+            "tackles" : 1.3,
+            "contestedPossessions" : 6.4,
+            "uncontestedPossessions" : 8.2,
+            "totalPossessions" : 14.6,
+            "inside50s" : 2.7,
+            "marksInside50" : 1.6,
+            "contestedMarks" : 1.3,
+            "hitouts" : 0.3,
+            "onePercenters" : 3.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 69.6,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270935",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Hurley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 27.0,
+            "behinds" : 22.0,
+            "superGoals" : null,
+            "kicks" : 161.0,
+            "handballs" : 99.0,
+            "disposals" : 260.0,
+            "marks" : 94.0,
+            "bounces" : 3.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 116.0,
+            "uncontestedPossessions" : 147.0,
+            "totalPossessions" : 263.0,
+            "inside50s" : 48.0,
+            "marksInside50" : 28.0,
+            "contestedMarks" : 23.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 68.0,
+            "disposalEfficiency" : 73.5,
+            "clangers" : 19.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 1253.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 50.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270935",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Hurley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 89.3
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 9.3,
+            "handballs" : 6.9,
+            "disposals" : 16.2,
+            "marks" : 5.2,
+            "bounces" : 0.3,
+            "tackles" : 0.9,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 10.9,
+            "totalPossessions" : 16.0,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 63.8,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270935",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Hurley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 176.0,
+            "handballs" : 132.0,
+            "disposals" : 308.0,
+            "marks" : 98.0,
+            "bounces" : 5.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 97.0,
+            "uncontestedPossessions" : 207.0,
+            "totalPossessions" : 304.0,
+            "inside50s" : 35.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 71.0,
+            "disposalEfficiency" : 74.7,
+            "clangers" : 33.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1212.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 51.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270935",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Hurley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 90.0
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 8.3,
+            "handballs" : 6.1,
+            "disposals" : 14.4,
+            "marks" : 6.2,
+            "bounces" : 0.7,
+            "tackles" : 1.5,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 9.5,
+            "totalPossessions" : 14.4,
+            "inside50s" : 1.3,
+            "marksInside50" : 1.5,
+            "contestedMarks" : 1.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 67.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270935",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Hurley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 83.0,
+            "handballs" : 61.0,
+            "disposals" : 144.0,
+            "marks" : 62.0,
+            "bounces" : 7.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 49.0,
+            "uncontestedPossessions" : 95.0,
+            "totalPossessions" : 144.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 15.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 75.7,
+            "clangers" : 11.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 673.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 62.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270935",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Hurley"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 88.3
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 301.0,
+      "handballs" : 104.0,
+      "disposals" : 405.0,
+      "marks" : 131.0,
+      "bounces" : 4.0,
+      "tackles" : 20.0,
+      "contestedPossessions" : 108.0,
+      "uncontestedPossessions" : 269.0,
+      "totalPossessions" : 377.0,
+      "inside50s" : 17.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 16.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 102.0,
+      "disposalEfficiency" : 77.3,
+      "clangers" : 43.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1579.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 107.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : 397.3,
+      "ranking" : 94.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I270935",
+        "playerName" : {
+          "givenName" : "Michael",
+          "surname" : "Hurley"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T50",
+        "teamAbbr" : "ESS",
+        "teamName" : "Essendon",
+        "teamNickname" : "Bombers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 403.2,
+        "ranking" : 89,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 403.2,
+        "ranking" : 3,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 403.2,
+        "ranking" : 3,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 205.5,
+        "ranking" : 142,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2008"
+    },
+    "careerGamesPlayed" : 119
+  }
+}

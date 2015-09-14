@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I296269",
+    "position" : "Centre Half Back",
+    "surname" : "Gardiner",
+    "jumperNumber" : 27,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 5.4,
+      "handballs" : 5.4,
+      "disposals" : 10.7,
+      "marks" : 3.3,
+      "bounces" : 0.0,
+      "tackles" : 1.9,
+      "contestedPossessions" : 3.6,
+      "uncontestedPossessions" : 7.1,
+      "totalPossessions" : 10.7,
+      "inside50s" : 0.6,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 5.2,
+      "disposalEfficiency" : null,
+      "clangers" : 2.0,
+      "freesFor" : 0.7,
+      "freesAgainst" : 1.2,
+      "dreamTeamPoints" : 42.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.2,
+        "totalClearances" : 0.3
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Darcy",
+    "bio" : "<p>After proving himself a \"competitive beast\" at junior level, key backman Darcy Gardiner arrived in Brisbane eager to learn from one of the great defenders of the modern era, Justin Leppitsch. He is a 191cm full-back who is being groomed to eventually replace Daniel Merrett as the Lions' full back in the future. &nbsp;&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2015 - Profiles/GARDINER Darcy.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1995-09-22T02:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 191,
+      "weightInKg" : 85,
+      "recruitedFrom" : null,
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 3.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 134.0,
+      "handballs" : 134.0,
+      "disposals" : 268.0,
+      "marks" : 83.0,
+      "bounces" : 1.0,
+      "tackles" : 47.0,
+      "contestedPossessions" : 90.0,
+      "uncontestedPossessions" : 177.0,
+      "totalPossessions" : 267.0,
+      "inside50s" : 15.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 130.0,
+      "disposalEfficiency" : 75.4,
+      "clangers" : 50.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 31.0,
+      "dreamTeamPoints" : 1051.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 6.0,
+        "totalClearances" : 7.0
+      },
+      "rebound50s" : 50.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 60.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.2,
+            "handballs" : 4.2,
+            "disposals" : 9.5,
+            "marks" : 2.7,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 3.1,
+            "uncontestedPossessions" : 6.4,
+            "totalPossessions" : 9.5,
+            "inside50s" : 0.4,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 0.7,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 36.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296269",
+            "playerName" : {
+              "givenName" : "Darcy",
+              "surname" : "Gardiner"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 42.0,
+            "handballs" : 34.0,
+            "disposals" : 76.0,
+            "marks" : 22.0,
+            "bounces" : 0.0,
+            "tackles" : 16.0,
+            "contestedPossessions" : 25.0,
+            "uncontestedPossessions" : 51.0,
+            "totalPossessions" : 76.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 48.0,
+            "disposalEfficiency" : 72.4,
+            "clangers" : 22.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 288.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 17.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 146.5,
+            "ranking" : 441.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296269",
+            "playerName" : {
+              "givenName" : "Darcy",
+              "surname" : "Gardiner"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 75.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.4,
+            "handballs" : 5.9,
+            "disposals" : 11.3,
+            "marks" : 3.6,
+            "bounces" : 0.1,
+            "tackles" : 1.8,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 7.4,
+            "totalPossessions" : 11.2,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 4.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 44.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296269",
+            "playerName" : {
+              "givenName" : "Darcy",
+              "surname" : "Gardiner"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 92.0,
+            "handballs" : 100.0,
+            "disposals" : 192.0,
+            "marks" : 61.0,
+            "bounces" : 1.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 65.0,
+            "uncontestedPossessions" : 126.0,
+            "totalPossessions" : 191.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 82.0,
+            "disposalEfficiency" : 76.6,
+            "clangers" : 28.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 763.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 101.4,
+            "ranking" : 496.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296269",
+            "playerName" : {
+              "givenName" : "Darcy",
+              "surname" : "Gardiner"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 82.1
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 42.0,
+      "handballs" : 34.0,
+      "disposals" : 76.0,
+      "marks" : 22.0,
+      "bounces" : 0.0,
+      "tackles" : 16.0,
+      "contestedPossessions" : 25.0,
+      "uncontestedPossessions" : 51.0,
+      "totalPossessions" : 76.0,
+      "inside50s" : 3.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 48.0,
+      "disposalEfficiency" : 72.4,
+      "clangers" : 22.0,
+      "freesFor" : 6.0,
+      "freesAgainst" : 16.0,
+      "dreamTeamPoints" : 288.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 17.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 146.5,
+      "ranking" : 441.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I296269",
+        "playerName" : {
+          "givenName" : "Darcy",
+          "surname" : "Gardiner"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 146.5,
+        "ranking" : 441,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 146.5,
+        "ranking" : 23,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 146.5,
+        "ranking" : 51,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 37.2,
+        "ranking" : 518,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 25
+  }
+}

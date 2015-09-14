@@ -1,0 +1,956 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I210082",
+    "position" : "Rover",
+    "surname" : "Peverill",
+    "jumperNumber" : 11,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Damien",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1979-07-12T02:00:00.000+0000",
+      "draftYear" : "2001",
+      "heightInCm" : 183,
+      "weightInKg" : 80,
+      "recruitedFrom" : "Keilor Park/Calder U18/Coburg/Ess VFL",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 32.0,
+      "behinds" : 33.0,
+      "superGoals" : null,
+      "kicks" : 1446.0,
+      "handballs" : 1376.0,
+      "disposals" : 2822.0,
+      "marks" : 670.0,
+      "bounces" : 109.0,
+      "tackles" : 422.0,
+      "contestedPossessions" : 1068.0,
+      "uncontestedPossessions" : 1724.0,
+      "totalPossessions" : 2792.0,
+      "inside50s" : 383.0,
+      "marksInside50" : 29.0,
+      "contestedMarks" : 34.0,
+      "hitouts" : 20.0,
+      "onePercenters" : 248.0,
+      "disposalEfficiency" : 78.3,
+      "clangers" : 242.0,
+      "freesFor" : 130.0,
+      "freesAgainst" : 77.0,
+      "dreamTeamPoints" : 10932.0,
+      "clearances" : {
+        "centreClearances" : 185.0,
+        "stoppageClearances" : 225.0,
+        "totalClearances" : 410.0
+      },
+      "rebound50s" : 249.0,
+      "goalAssists" : 40.0,
+      "goalAccuracy" : 45.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 10.1,
+            "handballs" : 11.4,
+            "disposals" : 21.5,
+            "marks" : 5.0,
+            "bounces" : 1.0,
+            "tackles" : 3.2,
+            "contestedPossessions" : 7.1,
+            "uncontestedPossessions" : 14.2,
+            "totalPossessions" : 21.3,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 80.5,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210082",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Peverill"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 101.0,
+            "handballs" : 114.0,
+            "disposals" : 215.0,
+            "marks" : 50.0,
+            "bounces" : 10.0,
+            "tackles" : 32.0,
+            "contestedPossessions" : 71.0,
+            "uncontestedPossessions" : 142.0,
+            "totalPossessions" : 213.0,
+            "inside50s" : 21.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 79.5,
+            "clangers" : 17.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 805.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 22.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210082",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Peverill"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 82.8
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 11.8,
+            "handballs" : 13.1,
+            "disposals" : 24.9,
+            "marks" : 6.4,
+            "bounces" : 1.3,
+            "tackles" : 2.4,
+            "contestedPossessions" : 8.4,
+            "uncontestedPossessions" : 16.6,
+            "totalPossessions" : 25.0,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 90.4,
+            "clearances" : {
+              "centreClearances" : 2.2,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 3.6
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210082",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Peverill"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 225.0,
+            "handballs" : 249.0,
+            "disposals" : 474.0,
+            "marks" : 121.0,
+            "bounces" : 24.0,
+            "tackles" : 45.0,
+            "contestedPossessions" : 160.0,
+            "uncontestedPossessions" : 315.0,
+            "totalPossessions" : 475.0,
+            "inside50s" : 53.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 73.8,
+            "clangers" : 48.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1717.0,
+            "clearances" : {
+              "centreClearances" : 41.0,
+              "stoppageClearances" : 27.0,
+              "totalClearances" : 68.0
+            },
+            "rebound50s" : 46.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 54.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210082",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Peverill"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 84.3
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 11.4,
+            "handballs" : 9.2,
+            "disposals" : 20.6,
+            "marks" : 5.5,
+            "bounces" : 1.2,
+            "tackles" : 1.6,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 13.1,
+            "totalPossessions" : 20.1,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 76.8,
+            "clearances" : {
+              "centreClearances" : 1.6,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 2.8
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210082",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Peverill"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 193.0,
+            "handballs" : 157.0,
+            "disposals" : 350.0,
+            "marks" : 94.0,
+            "bounces" : 21.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 119.0,
+            "uncontestedPossessions" : 223.0,
+            "totalPossessions" : 342.0,
+            "inside50s" : 41.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 79.4,
+            "clangers" : 27.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 1306.0,
+            "clearances" : {
+              "centreClearances" : 27.0,
+              "stoppageClearances" : 21.0,
+              "totalClearances" : 48.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210082",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Peverill"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 72.1
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 10.4,
+            "handballs" : 8.8,
+            "disposals" : 19.2,
+            "marks" : 4.2,
+            "bounces" : 0.6,
+            "tackles" : 2.4,
+            "contestedPossessions" : 7.3,
+            "uncontestedPossessions" : 11.8,
+            "totalPossessions" : 19.0,
+            "inside50s" : 2.6,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 72.0,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210082",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Peverill"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 218.0,
+            "handballs" : 185.0,
+            "disposals" : 403.0,
+            "marks" : 89.0,
+            "bounces" : 12.0,
+            "tackles" : 50.0,
+            "contestedPossessions" : 153.0,
+            "uncontestedPossessions" : 247.0,
+            "totalPossessions" : 400.0,
+            "inside50s" : 55.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 40.0,
+            "disposalEfficiency" : 75.9,
+            "clangers" : 38.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1511.0,
+            "clearances" : {
+              "centreClearances" : 27.0,
+              "stoppageClearances" : 35.0,
+              "totalClearances" : 62.0
+            },
+            "rebound50s" : 34.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 36.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210082",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Peverill"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 87.3
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 7.9,
+            "disposals" : 17.9,
+            "marks" : 4.8,
+            "bounces" : 1.0,
+            "tackles" : 4.3,
+            "contestedPossessions" : 7.2,
+            "uncontestedPossessions" : 10.4,
+            "totalPossessions" : 17.7,
+            "inside50s" : 3.3,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 78.9,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 2.5
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210082",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Peverill"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 240.0,
+            "handballs" : 190.0,
+            "disposals" : 430.0,
+            "marks" : 116.0,
+            "bounces" : 23.0,
+            "tackles" : 103.0,
+            "contestedPossessions" : 174.0,
+            "uncontestedPossessions" : 250.0,
+            "totalPossessions" : 424.0,
+            "inside50s" : 79.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 51.0,
+            "disposalEfficiency" : 76.0,
+            "clangers" : 40.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1893.0,
+            "clearances" : {
+              "centreClearances" : 23.0,
+              "stoppageClearances" : 37.0,
+              "totalClearances" : 60.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 35.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210082",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Peverill"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 96.3
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 8.8,
+            "disposals" : 16.8,
+            "marks" : 3.9,
+            "bounces" : 0.3,
+            "tackles" : 2.5,
+            "contestedPossessions" : 7.1,
+            "uncontestedPossessions" : 9.5,
+            "totalPossessions" : 16.7,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.2,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 64.0,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 2.1,
+              "totalClearances" : 2.8
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210082",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Peverill"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 183.0,
+            "handballs" : 203.0,
+            "disposals" : 386.0,
+            "marks" : 90.0,
+            "bounces" : 7.0,
+            "tackles" : 57.0,
+            "contestedPossessions" : 164.0,
+            "uncontestedPossessions" : 219.0,
+            "totalPossessions" : 383.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 47.0,
+            "disposalEfficiency" : 82.9,
+            "clangers" : 29.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 1473.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 48.0,
+              "totalClearances" : 65.0
+            },
+            "rebound50s" : 34.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210082",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Peverill"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 88.3
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 9.1,
+            "handballs" : 10.2,
+            "disposals" : 19.4,
+            "marks" : 3.7,
+            "bounces" : 0.5,
+            "tackles" : 3.2,
+            "contestedPossessions" : 7.6,
+            "uncontestedPossessions" : 11.7,
+            "totalPossessions" : 19.2,
+            "inside50s" : 2.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 73.1,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 2.9
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210082",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Peverill"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 192.0,
+            "handballs" : 215.0,
+            "disposals" : 407.0,
+            "marks" : 77.0,
+            "bounces" : 11.0,
+            "tackles" : 67.0,
+            "contestedPossessions" : 159.0,
+            "uncontestedPossessions" : 245.0,
+            "totalPossessions" : 404.0,
+            "inside50s" : 60.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 39.0,
+            "disposalEfficiency" : 80.8,
+            "clangers" : 29.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1536.0,
+            "clearances" : {
+              "centreClearances" : 29.0,
+              "stoppageClearances" : 32.0,
+              "totalClearances" : 61.0
+            },
+            "rebound50s" : 43.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 38.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210082",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Peverill"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 10.4,
+            "handballs" : 7.0,
+            "disposals" : 17.4,
+            "marks" : 3.7,
+            "bounces" : 0.1,
+            "tackles" : 4.4,
+            "contestedPossessions" : 7.6,
+            "uncontestedPossessions" : 9.2,
+            "totalPossessions" : 16.8,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 1.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 76.8,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.7
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210082",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Peverill"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 94.0,
+            "handballs" : 63.0,
+            "disposals" : 157.0,
+            "marks" : 33.0,
+            "bounces" : 1.0,
+            "tackles" : 40.0,
+            "contestedPossessions" : 68.0,
+            "uncontestedPossessions" : 83.0,
+            "totalPossessions" : 151.0,
+            "inside50s" : 34.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 82.2,
+            "clangers" : 14.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 691.0,
+            "clearances" : {
+              "centreClearances" : 11.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 24.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210082",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Peverill"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 101.0,
+      "handballs" : 114.0,
+      "disposals" : 215.0,
+      "marks" : 50.0,
+      "bounces" : 10.0,
+      "tackles" : 32.0,
+      "contestedPossessions" : 71.0,
+      "uncontestedPossessions" : 142.0,
+      "totalPossessions" : 213.0,
+      "inside50s" : 21.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 17.0,
+      "disposalEfficiency" : 79.5,
+      "clangers" : 17.0,
+      "freesFor" : 10.0,
+      "freesAgainst" : 7.0,
+      "dreamTeamPoints" : 805.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 12.0,
+        "totalClearances" : 22.0
+      },
+      "rebound50s" : 23.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

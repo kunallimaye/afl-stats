@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280877",
+    "position" : "Left Half Forward",
+    "surname" : "Butcher",
+    "jumperNumber" : 11,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.3,
+      "behinds" : 0.6,
+      "superGoals" : null,
+      "kicks" : 5.0,
+      "handballs" : 3.4,
+      "disposals" : 8.4,
+      "marks" : 3.1,
+      "bounces" : 0.1,
+      "tackles" : 1.6,
+      "contestedPossessions" : 4.1,
+      "uncontestedPossessions" : 4.0,
+      "totalPossessions" : 8.1,
+      "inside50s" : 1.3,
+      "marksInside50" : 1.5,
+      "contestedMarks" : 1.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.1,
+      "disposalEfficiency" : null,
+      "clangers" : 1.5,
+      "freesFor" : 0.8,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 45.3,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.1,
+        "totalClearances" : 0.1
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "John",
+    "bio" : "<p>Played the opening three games of the 2014 season for the Power, but dropped out and did not return. His marking and attack at the contest impressed coaches at SANFL level, but his inaccuracy by foot remains a major sticking point in Butcher&rsquo;s career. A bout of viral meningitis ruled him out of three games late in the year.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/PortAdelaide/Player Profiles/2015 profiles/BUTCHER John.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-07-03T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 197,
+      "weightInKg" : 94,
+      "recruitedFrom" : "Maffra/Gippsland U18",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 36.0,
+      "behinds" : 17.0,
+      "superGoals" : null,
+      "kicks" : 141.0,
+      "handballs" : 95.0,
+      "disposals" : 236.0,
+      "marks" : 88.0,
+      "bounces" : 2.0,
+      "tackles" : 46.0,
+      "contestedPossessions" : 115.0,
+      "uncontestedPossessions" : 112.0,
+      "totalPossessions" : 227.0,
+      "inside50s" : 36.0,
+      "marksInside50" : 43.0,
+      "contestedMarks" : 30.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 30.0,
+      "disposalEfficiency" : 69.1,
+      "clangers" : 42.0,
+      "freesFor" : 23.0,
+      "freesAgainst" : 16.0,
+      "dreamTeamPoints" : 1269.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 15.0,
+      "goalAccuracy" : 49.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 6.4,
+            "handballs" : 2.8,
+            "disposals" : 9.2,
+            "marks" : 4.4,
+            "bounces" : 0.2,
+            "tackles" : 1.0,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 4.8,
+            "totalPossessions" : 8.4,
+            "inside50s" : 1.0,
+            "marksInside50" : 2.4,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 43.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280877",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Butcher"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 32.0,
+            "handballs" : 14.0,
+            "disposals" : 46.0,
+            "marks" : 22.0,
+            "bounces" : 1.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 18.0,
+            "uncontestedPossessions" : 24.0,
+            "totalPossessions" : 42.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 12.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 60.9,
+            "clangers" : 10.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 216.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : 32.6,
+            "ranking" : 618.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280877",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Butcher"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 90.2
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 4.0,
+            "disposals" : 11.0,
+            "marks" : 4.3,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 5.3,
+            "totalPossessions" : 10.3,
+            "inside50s" : 2.7,
+            "marksInside50" : 1.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 1.3,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 53.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280877",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Butcher"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 21.0,
+            "handballs" : 12.0,
+            "disposals" : 33.0,
+            "marks" : 13.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 15.0,
+            "uncontestedPossessions" : 16.0,
+            "totalPossessions" : 31.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 66.7,
+            "clangers" : 8.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 159.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 22.2,
+            "ratingPoints" : 50.3,
+            "ranking" : 586.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280877",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Butcher"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 76.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.1,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 4.1,
+            "handballs" : 4.2,
+            "disposals" : 8.4,
+            "marks" : 2.6,
+            "bounces" : 0.0,
+            "tackles" : 1.1,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 4.1,
+            "totalPossessions" : 8.0,
+            "inside50s" : 0.7,
+            "marksInside50" : 1.5,
+            "contestedMarks" : 0.9,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 0.9,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.1,
+            "dreamTeamPoints" : 41.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280877",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Butcher"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 33.0,
+            "handballs" : 34.0,
+            "disposals" : 67.0,
+            "marks" : 21.0,
+            "bounces" : 0.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 31.0,
+            "uncontestedPossessions" : 33.0,
+            "totalPossessions" : 64.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 12.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 68.7,
+            "clangers" : 7.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 328.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 45.0,
+            "ratingPoints" : 90.1,
+            "ranking" : 509.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280877",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Butcher"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 73.4
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.4,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 4.5,
+            "handballs" : 2.9,
+            "disposals" : 7.4,
+            "marks" : 1.7,
+            "bounces" : 0.1,
+            "tackles" : 1.9,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 3.1,
+            "totalPossessions" : 7.1,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 40.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280877",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Butcher"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 36.0,
+            "handballs" : 23.0,
+            "disposals" : 59.0,
+            "marks" : 14.0,
+            "bounces" : 1.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 32.0,
+            "uncontestedPossessions" : 25.0,
+            "totalPossessions" : 57.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 71.2,
+            "clangers" : 12.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 320.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 61.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280877",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Butcher"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 83.2
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.7,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 4.7,
+            "handballs" : 3.0,
+            "disposals" : 7.7,
+            "marks" : 4.5,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 3.5,
+            "totalPossessions" : 8.2,
+            "inside50s" : 1.2,
+            "marksInside50" : 2.7,
+            "contestedMarks" : 2.7,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 61.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280877",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Butcher"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 19.0,
+            "handballs" : 12.0,
+            "disposals" : 31.0,
+            "marks" : 18.0,
+            "bounces" : 0.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 19.0,
+            "uncontestedPossessions" : 14.0,
+            "totalPossessions" : 33.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 80.6,
+            "clangers" : 5.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 246.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 78.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280877",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Butcher"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 84.7
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280877",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Butcher"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280877",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Butcher"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 3.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 32.0,
+      "handballs" : 14.0,
+      "disposals" : 46.0,
+      "marks" : 22.0,
+      "bounces" : 1.0,
+      "tackles" : 5.0,
+      "contestedPossessions" : 18.0,
+      "uncontestedPossessions" : 24.0,
+      "totalPossessions" : 42.0,
+      "inside50s" : 5.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 4.0,
+      "disposalEfficiency" : 60.9,
+      "clangers" : 10.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 6.0,
+      "dreamTeamPoints" : 216.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 25.0,
+      "ratingPoints" : 32.6,
+      "ranking" : 618.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280877",
+        "playerName" : {
+          "givenName" : "John",
+          "surname" : "Butcher"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T110",
+        "teamAbbr" : "PORT",
+        "teamName" : "Port Adelaide",
+        "teamNickname" : "Power"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 30.9,
+        "ranking" : 622,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 30.9,
+        "ranking" : 35,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 30.9,
+        "ranking" : 59,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 15.5,
+        "ranking" : 584,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 28
+  }
+}

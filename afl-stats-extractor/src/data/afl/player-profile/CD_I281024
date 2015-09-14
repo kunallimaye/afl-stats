@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I281024",
+    "position" : "Left Wing",
+    "surname" : "Weller",
+    "jumperNumber" : 44,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 7.0,
+      "handballs" : 8.1,
+      "disposals" : 15.2,
+      "marks" : 3.1,
+      "bounces" : 0.2,
+      "tackles" : 3.7,
+      "contestedPossessions" : 5.6,
+      "uncontestedPossessions" : 9.5,
+      "totalPossessions" : 15.2,
+      "inside50s" : 1.7,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.2,
+      "onePercenters" : 1.4,
+      "disposalEfficiency" : null,
+      "clangers" : 1.9,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.8,
+      "dreamTeamPoints" : 62.0,
+      "clearances" : {
+        "centreClearances" : 0.6,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.5
+      },
+      "rebound50s" : 1.5,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Maverick",
+    "bio" : "<p>A hard-running midfielder, Weller was the No.20 selection in last year’s Rookie Draft after being delisted by the Gold Coast at season’s end.</p>\n\n<p>A member of the Suns inaugural squad, he played 32 career games but could only muster four in 2013 following a broken scapula.</p>\n\n<p>His most productive match for the season was his last for the club, a 27-disposal performance against GWS in round 23.</p>\n\n<p>Weller trained with the Saints prior to the Rookie Draft and made a big impression. He hails from the same town as fellow rookie Eli Templeton.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/StKilda/Player Profiles/2015 - Profiles/WELLER Maverick.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-02-13T01:00:00.000+0000",
+      "draftYear" : "2014",
+      "heightInCm" : 182,
+      "weightInKg" : 87,
+      "recruitedFrom" : "Burnie Dockers/Tas U18",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 18.0,
+      "behinds" : 24.0,
+      "superGoals" : null,
+      "kicks" : 479.0,
+      "handballs" : 554.0,
+      "disposals" : 1033.0,
+      "marks" : 212.0,
+      "bounces" : 12.0,
+      "tackles" : 251.0,
+      "contestedPossessions" : 382.0,
+      "uncontestedPossessions" : 649.0,
+      "totalPossessions" : 1031.0,
+      "inside50s" : 115.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 15.0,
+      "onePercenters" : 93.0,
+      "disposalEfficiency" : 69.9,
+      "clangers" : 132.0,
+      "freesFor" : 49.0,
+      "freesAgainst" : 56.0,
+      "dreamTeamPoints" : 4213.0,
+      "clearances" : {
+        "centreClearances" : 38.0,
+        "stoppageClearances" : 65.0,
+        "totalClearances" : 103.0
+      },
+      "rebound50s" : 101.0,
+      "goalAssists" : 16.0,
+      "goalAccuracy" : 37.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 8.7,
+            "disposals" : 16.9,
+            "marks" : 3.3,
+            "bounces" : 0.2,
+            "tackles" : 5.0,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 9.9,
+            "totalPossessions" : 16.9,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.5,
+            "onePercenters" : 0.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 74.9,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281024",
+            "playerName" : {
+              "givenName" : "Maverick",
+              "surname" : "Weller"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 164.0,
+            "handballs" : 175.0,
+            "disposals" : 339.0,
+            "marks" : 67.0,
+            "bounces" : 5.0,
+            "tackles" : 100.0,
+            "contestedPossessions" : 140.0,
+            "uncontestedPossessions" : 199.0,
+            "totalPossessions" : 339.0,
+            "inside50s" : 44.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 11.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 69.3,
+            "clangers" : 47.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1499.0,
+            "clearances" : {
+              "centreClearances" : 16.0,
+              "stoppageClearances" : 21.0,
+              "totalClearances" : 37.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 46.2,
+            "ratingPoints" : 273.5,
+            "ranking" : 264.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281024",
+            "playerName" : {
+              "givenName" : "Maverick",
+              "surname" : "Weller"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 86.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 6.9,
+            "handballs" : 8.1,
+            "disposals" : 14.9,
+            "marks" : 2.5,
+            "bounces" : 0.2,
+            "tackles" : 4.6,
+            "contestedPossessions" : 6.4,
+            "uncontestedPossessions" : 8.8,
+            "totalPossessions" : 15.2,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 62.9,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.4
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281024",
+            "playerName" : {
+              "givenName" : "Maverick",
+              "surname" : "Weller"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 110.0,
+            "handballs" : 129.0,
+            "disposals" : 239.0,
+            "marks" : 40.0,
+            "bounces" : 3.0,
+            "tackles" : 74.0,
+            "contestedPossessions" : 102.0,
+            "uncontestedPossessions" : 141.0,
+            "totalPossessions" : 243.0,
+            "inside50s" : 35.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 65.3,
+            "clangers" : 29.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1006.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 22.0,
+              "totalClearances" : 39.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 27.3,
+            "ratingPoints" : 115.4,
+            "ranking" : 477.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281024",
+            "playerName" : {
+              "givenName" : "Maverick",
+              "surname" : "Weller"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 75.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.5,
+            "handballs" : 8.7,
+            "disposals" : 17.2,
+            "marks" : 5.5,
+            "bounces" : 0.0,
+            "tackles" : 2.7,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 13.7,
+            "totalPossessions" : 17.2,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 69.0,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281024",
+            "playerName" : {
+              "givenName" : "Maverick",
+              "surname" : "Weller"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 34.0,
+            "handballs" : 35.0,
+            "disposals" : 69.0,
+            "marks" : 22.0,
+            "bounces" : 0.0,
+            "tackles" : 11.0,
+            "contestedPossessions" : 14.0,
+            "uncontestedPossessions" : 55.0,
+            "totalPossessions" : 69.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 71.0,
+            "clangers" : 8.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 276.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 82.8,
+            "ranking" : 530.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281024",
+            "playerName" : {
+              "givenName" : "Maverick",
+              "surname" : "Weller"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 80.9
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.4,
+            "handballs" : 7.7,
+            "disposals" : 14.1,
+            "marks" : 3.6,
+            "bounces" : 0.1,
+            "tackles" : 2.2,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 9.8,
+            "totalPossessions" : 14.1,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 52.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281024",
+            "playerName" : {
+              "givenName" : "Maverick",
+              "surname" : "Weller"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 83.0,
+            "handballs" : 100.0,
+            "disposals" : 183.0,
+            "marks" : 47.0,
+            "bounces" : 1.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 55.0,
+            "uncontestedPossessions" : 128.0,
+            "totalPossessions" : 183.0,
+            "inside50s" : 18.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 77.0,
+            "clangers" : 24.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 682.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 28.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281024",
+            "playerName" : {
+              "givenName" : "Maverick",
+              "surname" : "Weller"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 93.4
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.9,
+            "handballs" : 7.7,
+            "disposals" : 13.5,
+            "marks" : 2.4,
+            "bounces" : 0.2,
+            "tackles" : 2.5,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 8.4,
+            "totalPossessions" : 13.1,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 50.0,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281024",
+            "playerName" : {
+              "givenName" : "Maverick",
+              "surname" : "Weller"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 88.0,
+            "handballs" : 115.0,
+            "disposals" : 203.0,
+            "marks" : 36.0,
+            "bounces" : 3.0,
+            "tackles" : 37.0,
+            "contestedPossessions" : 71.0,
+            "uncontestedPossessions" : 126.0,
+            "totalPossessions" : 197.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 37.0,
+            "disposalEfficiency" : 69.5,
+            "clangers" : 24.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 750.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281024",
+            "playerName" : {
+              "givenName" : "Maverick",
+              "surname" : "Weller"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 83.9
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 12.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 164.0,
+      "handballs" : 175.0,
+      "disposals" : 339.0,
+      "marks" : 67.0,
+      "bounces" : 5.0,
+      "tackles" : 100.0,
+      "contestedPossessions" : 140.0,
+      "uncontestedPossessions" : 199.0,
+      "totalPossessions" : 339.0,
+      "inside50s" : 44.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 11.0,
+      "onePercenters" : 8.0,
+      "disposalEfficiency" : 69.3,
+      "clangers" : 47.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1499.0,
+      "clearances" : {
+        "centreClearances" : 16.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 37.0
+      },
+      "rebound50s" : 24.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 46.2,
+      "ratingPoints" : 273.5,
+      "ranking" : 264.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I281024",
+        "playerName" : {
+          "givenName" : "Maverick",
+          "surname" : "Weller"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T130",
+        "teamAbbr" : "STK",
+        "teamName" : "St Kilda",
+        "teamNickname" : "Saints"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 277.7,
+        "ranking" : 258,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 277.7,
+        "ranking" : 9,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 277.7,
+        "ranking" : 102,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 176.3,
+        "ranking" : 191,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 68
+  }
+}

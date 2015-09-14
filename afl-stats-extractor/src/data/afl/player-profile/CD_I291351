@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291351",
+    "position" : "Left Half Forward",
+    "surname" : "Gunston",
+    "jumperNumber" : 19,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 2.1,
+      "behinds" : 1.1,
+      "superGoals" : null,
+      "kicks" : 9.5,
+      "handballs" : 5.0,
+      "disposals" : 14.5,
+      "marks" : 5.7,
+      "bounces" : 0.1,
+      "tackles" : 2.0,
+      "contestedPossessions" : 5.3,
+      "uncontestedPossessions" : 9.3,
+      "totalPossessions" : 14.6,
+      "inside50s" : 2.0,
+      "marksInside50" : 1.9,
+      "contestedMarks" : 0.9,
+      "hitouts" : 0.1,
+      "onePercenters" : 1.5,
+      "disposalEfficiency" : null,
+      "clangers" : 1.3,
+      "freesFor" : 0.8,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 76.6,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.4,
+        "totalClearances" : 0.5
+      },
+      "rebound50s" : 0.5,
+      "goalAssists" : 0.7,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jack",
+    "bio" : "<p>Another outstanding season from Gunston, who booted 58 goals and continued his rise to become one of the premier forwards in the AFL. Blessed with elite fitness levels and an excellent football brain, Gunston can also run through the midfield and, on occasion, park himself in the backline. Gunston is an excellent contested mark and his set-shot kicking for goal is elite, with a 68.2 conversion rate last year. Unlucky not to win All-Australian selection in 2014, but his time will surely come.</p>\n<p><strong>Draft history:</strong> 2009 NAB AFL Draft 2nd round selection (Adelaide) no. 29 overall; 2011 NAb AFL Draft traded by Adelaide for selection no. 24, no. 46 and no. 64.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Hawthorn/Player Profiles/2015 - Profiles/GUNSTON Jack.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-10-16T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 193,
+      "weightInKg" : 84,
+      "recruitedFrom" : "Beaumaris/Haileybury College/Sandringham U18",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 216.0,
+      "behinds" : 110.0,
+      "superGoals" : null,
+      "kicks" : 969.0,
+      "handballs" : 506.0,
+      "disposals" : 1475.0,
+      "marks" : 577.0,
+      "bounces" : 9.0,
+      "tackles" : 202.0,
+      "contestedPossessions" : 539.0,
+      "uncontestedPossessions" : 950.0,
+      "totalPossessions" : 1489.0,
+      "inside50s" : 200.0,
+      "marksInside50" : 198.0,
+      "contestedMarks" : 89.0,
+      "hitouts" : 9.0,
+      "onePercenters" : 154.0,
+      "disposalEfficiency" : 74.1,
+      "clangers" : 128.0,
+      "freesFor" : 79.0,
+      "freesAgainst" : 47.0,
+      "dreamTeamPoints" : 7811.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 40.0,
+        "totalClearances" : 49.0
+      },
+      "rebound50s" : 48.0,
+      "goalAssists" : 72.0,
+      "goalAccuracy" : 60.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.3,
+            "behinds" : 1.4,
+            "superGoals" : null,
+            "kicks" : 11.4,
+            "handballs" : 5.0,
+            "disposals" : 16.5,
+            "marks" : 7.3,
+            "bounces" : 0.1,
+            "tackles" : 2.2,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 11.1,
+            "totalPossessions" : 16.5,
+            "inside50s" : 2.6,
+            "marksInside50" : 2.4,
+            "contestedMarks" : 1.2,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 90.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291351",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Gunston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 53.0,
+            "behinds" : 33.0,
+            "superGoals" : null,
+            "kicks" : 263.0,
+            "handballs" : 116.0,
+            "disposals" : 379.0,
+            "marks" : 169.0,
+            "bounces" : 2.0,
+            "tackles" : 50.0,
+            "contestedPossessions" : 124.0,
+            "uncontestedPossessions" : 256.0,
+            "totalPossessions" : 380.0,
+            "inside50s" : 59.0,
+            "marksInside50" : 55.0,
+            "contestedMarks" : 28.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 42.0,
+            "disposalEfficiency" : 74.7,
+            "clangers" : 27.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 2079.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 19.0,
+            "goalAccuracy" : 54.1,
+            "ratingPoints" : 469.5,
+            "ranking" : 44.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291351",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Gunston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 89.9
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.5,
+            "behinds" : 1.2,
+            "superGoals" : null,
+            "kicks" : 10.3,
+            "handballs" : 5.7,
+            "disposals" : 16.1,
+            "marks" : 6.0,
+            "bounces" : 0.0,
+            "tackles" : 1.8,
+            "contestedPossessions" : 6.3,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 16.2,
+            "inside50s" : 2.2,
+            "marksInside50" : 2.2,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 82.8,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291351",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Gunston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 58.0,
+            "behinds" : 27.0,
+            "superGoals" : null,
+            "kicks" : 238.0,
+            "handballs" : 132.0,
+            "disposals" : 370.0,
+            "marks" : 137.0,
+            "bounces" : 1.0,
+            "tackles" : 41.0,
+            "contestedPossessions" : 144.0,
+            "uncontestedPossessions" : 229.0,
+            "totalPossessions" : 373.0,
+            "inside50s" : 51.0,
+            "marksInside50" : 51.0,
+            "contestedMarks" : 22.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 50.0,
+            "disposalEfficiency" : 74.6,
+            "clangers" : 41.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1904.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 21.0,
+            "goalAccuracy" : 63.7,
+            "ratingPoints" : 450.0,
+            "ranking" : 57.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291351",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Gunston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 88.4
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 9.9,
+            "handballs" : 5.5,
+            "disposals" : 15.4,
+            "marks" : 5.6,
+            "bounces" : 0.2,
+            "tackles" : 2.5,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 15.6,
+            "inside50s" : 1.9,
+            "marksInside50" : 1.6,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 79.7,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291351",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Gunston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 46.0,
+            "behinds" : 17.0,
+            "superGoals" : null,
+            "kicks" : 228.0,
+            "handballs" : 127.0,
+            "disposals" : 355.0,
+            "marks" : 128.0,
+            "bounces" : 5.0,
+            "tackles" : 57.0,
+            "contestedPossessions" : 128.0,
+            "uncontestedPossessions" : 230.0,
+            "totalPossessions" : 358.0,
+            "inside50s" : 44.0,
+            "marksInside50" : 36.0,
+            "contestedMarks" : 19.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 75.2,
+            "clangers" : 23.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 1834.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 71.9,
+            "ratingPoints" : 396.9,
+            "ranking" : 96.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291351",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Gunston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 82.8
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.1,
+            "behinds" : 1.2,
+            "superGoals" : null,
+            "kicks" : 7.3,
+            "handballs" : 4.6,
+            "disposals" : 11.9,
+            "marks" : 4.1,
+            "bounces" : 0.1,
+            "tackles" : 1.5,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 7.4,
+            "totalPossessions" : 12.1,
+            "inside50s" : 1.5,
+            "marksInside50" : 1.5,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 62.1,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291351",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Gunston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 39.0,
+            "behinds" : 22.0,
+            "superGoals" : null,
+            "kicks" : 139.0,
+            "handballs" : 87.0,
+            "disposals" : 226.0,
+            "marks" : 78.0,
+            "bounces" : 1.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 89.0,
+            "uncontestedPossessions" : 140.0,
+            "totalPossessions" : 229.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 28.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 71.2,
+            "clangers" : 22.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1179.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 14.0,
+            "goalAccuracy" : 59.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291351",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Gunston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 75.9
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.6,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 3.2,
+            "disposals" : 10.7,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 7.1,
+            "totalPossessions" : 11.0,
+            "inside50s" : 0.8,
+            "marksInside50" : 2.2,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 61.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291351",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Gunston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 19.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 90.0,
+            "handballs" : 39.0,
+            "disposals" : 129.0,
+            "marks" : 60.0,
+            "bounces" : 0.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 47.0,
+            "uncontestedPossessions" : 85.0,
+            "totalPossessions" : 132.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 27.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 72.1,
+            "clangers" : 14.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 736.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 54.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291351",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Gunston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 78.3
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 2.5,
+            "disposals" : 8.0,
+            "marks" : 2.5,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 8.5,
+            "inside50s" : 3.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 0.5,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 39.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291351",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Gunston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 5.0,
+            "disposals" : 16.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 17.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 75.0,
+            "clangers" : 1.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 79.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291351",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Gunston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 61.4
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 53.0,
+      "behinds" : 33.0,
+      "superGoals" : null,
+      "kicks" : 263.0,
+      "handballs" : 116.0,
+      "disposals" : 379.0,
+      "marks" : 169.0,
+      "bounces" : 2.0,
+      "tackles" : 50.0,
+      "contestedPossessions" : 124.0,
+      "uncontestedPossessions" : 256.0,
+      "totalPossessions" : 380.0,
+      "inside50s" : 59.0,
+      "marksInside50" : 55.0,
+      "contestedMarks" : 28.0,
+      "hitouts" : 7.0,
+      "onePercenters" : 42.0,
+      "disposalEfficiency" : 74.7,
+      "clangers" : 27.0,
+      "freesFor" : 23.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 2079.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 9.0,
+        "totalClearances" : 10.0
+      },
+      "rebound50s" : 13.0,
+      "goalAssists" : 19.0,
+      "goalAccuracy" : 54.1,
+      "ratingPoints" : 469.5,
+      "ranking" : 44.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291351",
+        "playerName" : {
+          "givenName" : "Jack",
+          "surname" : "Gunston"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T80",
+        "teamAbbr" : "HAW",
+        "teamName" : "Hawthorn",
+        "teamNickname" : "Hawks"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 462.2,
+        "ranking" : 45,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 462.2,
+        "ranking" : 6,
+        "ratingType" : "TEAM",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 462.2,
+        "ranking" : 3,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 5.8,
+        "ranking" : 130,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 295.8,
+        "ranking" : 27,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 102
+  }
+}

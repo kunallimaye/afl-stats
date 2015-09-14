@@ -1,0 +1,750 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I970071",
+    "position" : "Interchange",
+    "surname" : "Powell",
+    "jumperNumber" : 17,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Stephen",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1976-09-07T02:00:00.000+0000",
+      "draftYear" : "1996",
+      "heightInCm" : 181,
+      "weightInKg" : 84,
+      "recruitedFrom" : "St Kevins/Central U18/WSB/Melb",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 89.0,
+      "behinds" : 67.0,
+      "superGoals" : null,
+      "kicks" : 1412.0,
+      "handballs" : 1109.0,
+      "disposals" : 2521.0,
+      "marks" : 528.0,
+      "bounces" : 40.0,
+      "tackles" : 267.0,
+      "contestedPossessions" : 906.0,
+      "uncontestedPossessions" : 1623.0,
+      "totalPossessions" : 2529.0,
+      "inside50s" : 579.0,
+      "marksInside50" : 71.0,
+      "contestedMarks" : 22.0,
+      "hitouts" : 5.0,
+      "onePercenters" : 137.0,
+      "disposalEfficiency" : 75.5,
+      "clangers" : 313.0,
+      "freesFor" : 91.0,
+      "freesAgainst" : 102.0,
+      "dreamTeamPoints" : 9497.0,
+      "clearances" : {
+        "centreClearances" : 208.0,
+        "stoppageClearances" : 243.0,
+        "totalClearances" : 451.0
+      },
+      "rebound50s" : 179.0,
+      "goalAssists" : 32.0,
+      "goalAccuracy" : 50.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 6.7,
+            "disposals" : 13.7,
+            "marks" : 3.6,
+            "bounces" : 0.1,
+            "tackles" : 2.9,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 8.6,
+            "totalPossessions" : 13.8,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 54.0,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970071",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Powell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 70.0,
+            "handballs" : 67.0,
+            "disposals" : 137.0,
+            "marks" : 36.0,
+            "bounces" : 1.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 52.0,
+            "uncontestedPossessions" : 86.0,
+            "totalPossessions" : 138.0,
+            "inside50s" : 32.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 70.1,
+            "clangers" : 26.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 540.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 20.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970071",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Powell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 56.5
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 9.3,
+            "disposals" : 16.5,
+            "marks" : 3.1,
+            "bounces" : 0.2,
+            "tackles" : 2.9,
+            "contestedPossessions" : 7.1,
+            "uncontestedPossessions" : 9.4,
+            "totalPossessions" : 16.5,
+            "inside50s" : 2.6,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 61.3,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970071",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Powell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 115.0,
+            "handballs" : 149.0,
+            "disposals" : 264.0,
+            "marks" : 50.0,
+            "bounces" : 4.0,
+            "tackles" : 46.0,
+            "contestedPossessions" : 114.0,
+            "uncontestedPossessions" : 150.0,
+            "totalPossessions" : 264.0,
+            "inside50s" : 41.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 69.7,
+            "clangers" : 33.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 981.0,
+            "clearances" : {
+              "centreClearances" : 20.0,
+              "stoppageClearances" : 28.0,
+              "totalClearances" : 48.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 36.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970071",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Powell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 60.7
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 9.9,
+            "handballs" : 7.3,
+            "disposals" : 17.2,
+            "marks" : 3.2,
+            "bounces" : 0.2,
+            "tackles" : 2.9,
+            "contestedPossessions" : 7.2,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 17.3,
+            "inside50s" : 4.6,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 67.3,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.9
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970071",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Powell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 199.0,
+            "handballs" : 146.0,
+            "disposals" : 345.0,
+            "marks" : 65.0,
+            "bounces" : 5.0,
+            "tackles" : 58.0,
+            "contestedPossessions" : 145.0,
+            "uncontestedPossessions" : 201.0,
+            "totalPossessions" : 346.0,
+            "inside50s" : 92.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 74.2,
+            "clangers" : 40.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1346.0,
+            "clearances" : {
+              "centreClearances" : 26.0,
+              "stoppageClearances" : 33.0,
+              "totalClearances" : 59.0
+            },
+            "rebound50s" : 26.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 47.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970071",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Powell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 67.8
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 11.6,
+            "handballs" : 9.2,
+            "disposals" : 20.8,
+            "marks" : 5.3,
+            "bounces" : 0.4,
+            "tackles" : 2.0,
+            "contestedPossessions" : 7.7,
+            "uncontestedPossessions" : 13.1,
+            "totalPossessions" : 20.8,
+            "inside50s" : 4.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 81.0,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 1.9,
+              "totalClearances" : 3.2
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970071",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Powell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 256.0,
+            "handballs" : 202.0,
+            "disposals" : 458.0,
+            "marks" : 117.0,
+            "bounces" : 8.0,
+            "tackles" : 45.0,
+            "contestedPossessions" : 169.0,
+            "uncontestedPossessions" : 288.0,
+            "totalPossessions" : 457.0,
+            "inside50s" : 98.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 76.2,
+            "clangers" : 53.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1783.0,
+            "clearances" : {
+              "centreClearances" : 29.0,
+              "stoppageClearances" : 42.0,
+              "totalClearances" : 71.0
+            },
+            "rebound50s" : 39.0,
+            "goalAssists" : 15.0,
+            "goalAccuracy" : 51.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970071",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Powell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 78.5
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 9.7,
+            "handballs" : 7.7,
+            "disposals" : 17.4,
+            "marks" : 3.1,
+            "bounces" : 0.3,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 12.1,
+            "totalPossessions" : 17.8,
+            "inside50s" : 4.2,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 63.7,
+            "clearances" : {
+              "centreClearances" : 1.8,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 3.3
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970071",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Powell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 184.0,
+            "handballs" : 147.0,
+            "disposals" : 331.0,
+            "marks" : 59.0,
+            "bounces" : 6.0,
+            "tackles" : 32.0,
+            "contestedPossessions" : 108.0,
+            "uncontestedPossessions" : 230.0,
+            "totalPossessions" : 338.0,
+            "inside50s" : 79.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 74.6,
+            "clangers" : 31.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1210.0,
+            "clearances" : {
+              "centreClearances" : 34.0,
+              "stoppageClearances" : 29.0,
+              "totalClearances" : 63.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 45.8,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970071",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Powell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970071",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Powell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970071",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Powell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 70.0,
+      "handballs" : 67.0,
+      "disposals" : 137.0,
+      "marks" : 36.0,
+      "bounces" : 1.0,
+      "tackles" : 29.0,
+      "contestedPossessions" : 52.0,
+      "uncontestedPossessions" : 86.0,
+      "totalPossessions" : 138.0,
+      "inside50s" : 32.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 7.0,
+      "disposalEfficiency" : 70.1,
+      "clangers" : 26.0,
+      "freesFor" : 8.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 540.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 12.0,
+        "totalClearances" : 20.0
+      },
+      "rebound50s" : 5.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

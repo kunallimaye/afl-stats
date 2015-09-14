@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280747",
+    "position" : "Centre Half Forward",
+    "surname" : "Griffiths",
+    "jumperNumber" : 24,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.7,
+      "superGoals" : null,
+      "kicks" : 5.3,
+      "handballs" : 3.1,
+      "disposals" : 8.4,
+      "marks" : 3.5,
+      "bounces" : 0.0,
+      "tackles" : 1.8,
+      "contestedPossessions" : 4.0,
+      "uncontestedPossessions" : 4.6,
+      "totalPossessions" : 8.6,
+      "inside50s" : 1.9,
+      "marksInside50" : 0.7,
+      "contestedMarks" : 1.0,
+      "hitouts" : 4.2,
+      "onePercenters" : 2.5,
+      "disposalEfficiency" : null,
+      "clangers" : 1.5,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.9,
+      "dreamTeamPoints" : 46.3,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.2,
+        "totalClearances" : 0.4
+      },
+      "rebound50s" : 0.3,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Ben",
+    "bio" : "<p>After reinvigorating his career as a key defender in 2012, Griffiths managed only one AFL game in 2013. The 200cm Tiger spent the majority of the year in the VFL where he was used both forward and in defence. A booming kick who can open up space on his opponent, Richmond is keen for him to cement himself as a tall forward.<br>\n<b><br>\nDraft history:</b> 2009 NAB AFL Draft 2nd round selection (Richmond) No. 19 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Richmond/Player Profiles/2015 - Profiles/GRIFFITHS Ben.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-09-17T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 200,
+      "weightInKg" : 102,
+      "recruitedFrom" : "Blackburn/Eastern U18",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 28.0,
+      "behinds" : 33.0,
+      "superGoals" : null,
+      "kicks" : 253.0,
+      "handballs" : 151.0,
+      "disposals" : 404.0,
+      "marks" : 170.0,
+      "bounces" : 1.0,
+      "tackles" : 87.0,
+      "contestedPossessions" : 190.0,
+      "uncontestedPossessions" : 223.0,
+      "totalPossessions" : 413.0,
+      "inside50s" : 90.0,
+      "marksInside50" : 34.0,
+      "contestedMarks" : 50.0,
+      "hitouts" : 203.0,
+      "onePercenters" : 119.0,
+      "disposalEfficiency" : 74.5,
+      "clangers" : 70.0,
+      "freesFor" : 29.0,
+      "freesAgainst" : 43.0,
+      "dreamTeamPoints" : 2223.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 10.0,
+        "totalClearances" : 20.0
+      },
+      "rebound50s" : 15.0,
+      "goalAssists" : 15.0,
+      "goalAccuracy" : 38.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 1.1,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 3.2,
+            "disposals" : 9.7,
+            "marks" : 4.5,
+            "bounces" : 0.0,
+            "tackles" : 1.8,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 5.8,
+            "totalPossessions" : 10.1,
+            "inside50s" : 2.5,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 0.9,
+            "hitouts" : 5.5,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 57.4,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280747",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Griffiths"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 85.0,
+            "handballs" : 41.0,
+            "disposals" : 126.0,
+            "marks" : 59.0,
+            "bounces" : 0.0,
+            "tackles" : 23.0,
+            "contestedPossessions" : 56.0,
+            "uncontestedPossessions" : 75.0,
+            "totalPossessions" : 131.0,
+            "inside50s" : 32.0,
+            "marksInside50" : 15.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 72.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 69.0,
+            "clangers" : 21.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 746.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : 191.7,
+            "ranking" : 376.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280747",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Griffiths"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 76.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 6.3,
+            "handballs" : 2.7,
+            "disposals" : 9.0,
+            "marks" : 4.4,
+            "bounces" : 0.0,
+            "tackles" : 2.7,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 4.4,
+            "totalPossessions" : 9.5,
+            "inside50s" : 2.3,
+            "marksInside50" : 1.1,
+            "contestedMarks" : 1.6,
+            "hitouts" : 7.5,
+            "onePercenters" : 2.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 57.9,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280747",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Griffiths"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 15.0,
+            "superGoals" : null,
+            "kicks" : 101.0,
+            "handballs" : 43.0,
+            "disposals" : 144.0,
+            "marks" : 71.0,
+            "bounces" : 0.0,
+            "tackles" : 44.0,
+            "contestedPossessions" : 81.0,
+            "uncontestedPossessions" : 71.0,
+            "totalPossessions" : 152.0,
+            "inside50s" : 37.0,
+            "marksInside50" : 17.0,
+            "contestedMarks" : 25.0,
+            "hitouts" : 120.0,
+            "onePercenters" : 41.0,
+            "disposalEfficiency" : 72.9,
+            "clangers" : 34.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 926.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : 127.8,
+            "ranking" : 459.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280747",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Griffiths"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 87.8
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 3.0,
+            "disposals" : 6.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 6.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 32.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280747",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Griffiths"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 3.0,
+            "disposals" : 6.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 6.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 100.0,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 32.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 64.2,
+            "ranking" : 562.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280747",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Griffiths"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 97.3
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.6,
+            "handballs" : 4.7,
+            "disposals" : 9.2,
+            "marks" : 2.3,
+            "bounces" : 0.1,
+            "tackles" : 1.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 5.9,
+            "totalPossessions" : 8.9,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 4.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 32.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280747",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Griffiths"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 41.0,
+            "handballs" : 42.0,
+            "disposals" : 83.0,
+            "marks" : 21.0,
+            "bounces" : 1.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 27.0,
+            "uncontestedPossessions" : 53.0,
+            "totalPossessions" : 80.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 39.0,
+            "disposalEfficiency" : 86.7,
+            "clangers" : 9.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 292.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280747",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Griffiths"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 72.5
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 3.7,
+            "handballs" : 2.7,
+            "disposals" : 6.5,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 0.7,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 3.5,
+            "totalPossessions" : 6.5,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 1.5,
+            "hitouts" : 2.5,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 0.7,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 31.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280747",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Griffiths"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 15.0,
+            "handballs" : 11.0,
+            "disposals" : 26.0,
+            "marks" : 12.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 12.0,
+            "uncontestedPossessions" : 14.0,
+            "totalPossessions" : 26.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 10.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 61.5,
+            "clangers" : 3.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 127.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280747",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Griffiths"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 65.7
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 1.6,
+            "handballs" : 2.2,
+            "disposals" : 3.8,
+            "marks" : 0.8,
+            "bounces" : 0.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 2.4,
+            "uncontestedPossessions" : 1.2,
+            "totalPossessions" : 3.6,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 0.4,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 20.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280747",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Griffiths"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 11.0,
+            "disposals" : 19.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 12.0,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 18.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 78.9,
+            "clangers" : 2.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 100.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280747",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Griffiths"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 64.7
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 12.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 85.0,
+      "handballs" : 41.0,
+      "disposals" : 126.0,
+      "marks" : 59.0,
+      "bounces" : 0.0,
+      "tackles" : 23.0,
+      "contestedPossessions" : 56.0,
+      "uncontestedPossessions" : 75.0,
+      "totalPossessions" : 131.0,
+      "inside50s" : 32.0,
+      "marksInside50" : 15.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 72.0,
+      "onePercenters" : 25.0,
+      "disposalEfficiency" : 69.0,
+      "clangers" : 21.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 746.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 6.0
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 37.5,
+      "ratingPoints" : 191.7,
+      "ranking" : 376.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280747",
+        "playerName" : {
+          "givenName" : "Ben",
+          "surname" : "Griffiths"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T120",
+        "teamAbbr" : "RICH",
+        "teamName" : "Richmond",
+        "teamNickname" : "Tigers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 190.2,
+        "ranking" : 380,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 190.2,
+        "ranking" : 20,
+        "ratingType" : "TEAM",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 190.2,
+        "ranking" : 38,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : -1.6,
+        "ranking" : 176,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 64.6,
+        "ranking" : 441,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 48
+  }
+}

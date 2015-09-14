@@ -1,0 +1,486 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I293035",
+    "position" : "Right Half Forward",
+    "surname" : "Broomhead",
+    "jumperNumber" : 29,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.8,
+      "behinds" : 0.5,
+      "superGoals" : null,
+      "kicks" : 7.4,
+      "handballs" : 6.4,
+      "disposals" : 13.8,
+      "marks" : 1.9,
+      "bounces" : 0.1,
+      "tackles" : 3.1,
+      "contestedPossessions" : 6.1,
+      "uncontestedPossessions" : 7.7,
+      "totalPossessions" : 13.8,
+      "inside50s" : 2.2,
+      "marksInside50" : 0.4,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.4,
+      "disposalEfficiency" : null,
+      "clangers" : 1.3,
+      "freesFor" : 0.3,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 57.4,
+      "clearances" : {
+        "centreClearances" : 0.7,
+        "stoppageClearances" : 1.2,
+        "totalClearances" : 1.8
+      },
+      "rebound50s" : 0.6,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Tim",
+    "bio" : "<p>A medium midfielder who does everything with a touch of class. Broomhead made up for a delayed start to his first season on the list with some outstanding performances in the VFL mid-year and twelve months later was quickly cementing himself in Collingwood's first choice side. Broomhead is the sort of player who will be seen burrowing into a pack on hands and knees only to be found by a teammate metres in the clear moments later. He boasts excellent speed, vision and composure with the ball and will be looking to kick on again in 2015.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Collingwood/Player Profiles/2015 - Profiles/BROOMHEAD Tim.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1994-03-22T02:00:00.000+0000",
+      "draftYear" : "2012",
+      "heightInCm" : 184,
+      "weightInKg" : 77,
+      "recruitedFrom" : "Port District (SA)/Port Adelaide (SANFL)",
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 16.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 141.0,
+      "handballs" : 122.0,
+      "disposals" : 263.0,
+      "marks" : 37.0,
+      "bounces" : 2.0,
+      "tackles" : 58.0,
+      "contestedPossessions" : 116.0,
+      "uncontestedPossessions" : 146.0,
+      "totalPossessions" : 262.0,
+      "inside50s" : 41.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 8.0,
+      "disposalEfficiency" : 71.5,
+      "clangers" : 25.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 1090.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 35.0
+      },
+      "rebound50s" : 12.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 57.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 7.4,
+            "handballs" : 7.2,
+            "disposals" : 14.5,
+            "marks" : 1.5,
+            "bounces" : 0.0,
+            "tackles" : 3.5,
+            "contestedPossessions" : 6.7,
+            "uncontestedPossessions" : 7.9,
+            "totalPossessions" : 14.6,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 58.0,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 2.6
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293035",
+            "playerName" : {
+              "givenName" : "Tim",
+              "surname" : "Broomhead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 81.0,
+            "handballs" : 79.0,
+            "disposals" : 160.0,
+            "marks" : 16.0,
+            "bounces" : 0.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 74.0,
+            "uncontestedPossessions" : 87.0,
+            "totalPossessions" : 161.0,
+            "inside50s" : 24.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 72.5,
+            "clangers" : 17.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 638.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 17.0,
+              "totalClearances" : 29.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 58.3,
+            "ratingPoints" : 179.8,
+            "ranking" : 390.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293035",
+            "playerName" : {
+              "givenName" : "Tim",
+              "surname" : "Broomhead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 73.0
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.1,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 5.4,
+            "disposals" : 12.9,
+            "marks" : 2.6,
+            "bounces" : 0.2,
+            "tackles" : 2.4,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 7.4,
+            "totalPossessions" : 12.6,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.1,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 56.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293035",
+            "playerName" : {
+              "givenName" : "Tim",
+              "surname" : "Broomhead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 60.0,
+            "handballs" : 43.0,
+            "disposals" : 103.0,
+            "marks" : 21.0,
+            "bounces" : 2.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 42.0,
+            "uncontestedPossessions" : 59.0,
+            "totalPossessions" : 101.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 69.9,
+            "clangers" : 8.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 452.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 56.2,
+            "ratingPoints" : 65.6,
+            "ranking" : 548.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293035",
+            "playerName" : {
+              "givenName" : "Tim",
+              "surname" : "Broomhead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 77.4
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293035",
+            "playerName" : {
+              "givenName" : "Tim",
+              "surname" : "Broomhead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293035",
+            "playerName" : {
+              "givenName" : "Tim",
+              "surname" : "Broomhead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 7.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 81.0,
+      "handballs" : 79.0,
+      "disposals" : 160.0,
+      "marks" : 16.0,
+      "bounces" : 0.0,
+      "tackles" : 39.0,
+      "contestedPossessions" : 74.0,
+      "uncontestedPossessions" : 87.0,
+      "totalPossessions" : 161.0,
+      "inside50s" : 24.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 4.0,
+      "disposalEfficiency" : 72.5,
+      "clangers" : 17.0,
+      "freesFor" : 4.0,
+      "freesAgainst" : 6.0,
+      "dreamTeamPoints" : 638.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 17.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 5.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 58.3,
+      "ratingPoints" : 179.8,
+      "ranking" : 390.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I293035",
+        "playerName" : {
+          "givenName" : "Tim",
+          "surname" : "Broomhead"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T40",
+        "teamAbbr" : "COLL",
+        "teamName" : "Collingwood",
+        "teamNickname" : "Magpies"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 179.8,
+        "ranking" : 393,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 179.8,
+        "ranking" : 22,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 179.8,
+        "ranking" : 28,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 103.6,
+        "ranking" : 357,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2012"
+    },
+    "careerGamesPlayed" : 19
+  }
+}

@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I290832",
+    "position" : "Left Half Forward",
+    "surname" : "Swallow",
+    "jumperNumber" : 24,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.5,
+      "behinds" : 0.5,
+      "superGoals" : null,
+      "kicks" : 11.3,
+      "handballs" : 9.2,
+      "disposals" : 20.5,
+      "marks" : 2.8,
+      "bounces" : 0.7,
+      "tackles" : 4.3,
+      "contestedPossessions" : 9.8,
+      "uncontestedPossessions" : 10.6,
+      "totalPossessions" : 20.3,
+      "inside50s" : 3.6,
+      "marksInside50" : 0.3,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.5,
+      "onePercenters" : 1.6,
+      "disposalEfficiency" : null,
+      "clangers" : 2.7,
+      "freesFor" : 0.8,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 79.8,
+      "clearances" : {
+        "centreClearances" : 1.3,
+        "stoppageClearances" : 2.5,
+        "totalClearances" : 3.8
+      },
+      "rebound50s" : 1.5,
+      "goalAssists" : 0.6,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "David",
+    "bio" : "<p>A fantastic season for the former No. 1 draft pick, winning  his first best and fairest.</p>\n<p>Swallow jumped from the blocks in the opening month and never looked back, averaging 23 disposals and ranking in the top 20 in the AFL for contested possessions (250) and top 30 for clearances (110).</p>\n<p>One of  the most combative players in the League, Swallow avoided injury and played all 22 games for the first time in his career.</p>\n<p>While his fearless approach has never been questioned, Swallow also improved his ball use in 2014. A fit Gary Ablett and the addition of Mitch Hallahan should ease the burden on Swallow and see him improve again this season.</p>\n<p>The 22-year-old has signed on for another three seasons and continues to grow as a leader at Metricon Stadium.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GoldCoastSuns/Player Profiles/2015 - Profiles/SWALLOW David.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-11-19T01:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 186,
+      "weightInKg" : 86,
+      "recruitedFrom" : "East Fremantle (WA)",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 39.0,
+      "behinds" : 40.0,
+      "superGoals" : null,
+      "kicks" : 891.0,
+      "handballs" : 725.0,
+      "disposals" : 1616.0,
+      "marks" : 223.0,
+      "bounces" : 57.0,
+      "tackles" : 340.0,
+      "contestedPossessions" : 771.0,
+      "uncontestedPossessions" : 835.0,
+      "totalPossessions" : 1606.0,
+      "inside50s" : 287.0,
+      "marksInside50" : 24.0,
+      "contestedMarks" : 22.0,
+      "hitouts" : 40.0,
+      "onePercenters" : 128.0,
+      "disposalEfficiency" : 66.2,
+      "clangers" : 215.0,
+      "freesFor" : 66.0,
+      "freesAgainst" : 76.0,
+      "dreamTeamPoints" : 6304.0,
+      "clearances" : {
+        "centreClearances" : 102.0,
+        "stoppageClearances" : 195.0,
+        "totalClearances" : 297.0
+      },
+      "rebound50s" : 117.0,
+      "goalAssists" : 46.0,
+      "goalAccuracy" : 39.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 11.7,
+            "handballs" : 7.7,
+            "disposals" : 19.3,
+            "marks" : 2.7,
+            "bounces" : 0.5,
+            "tackles" : 5.8,
+            "contestedPossessions" : 9.7,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 18.7,
+            "inside50s" : 4.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.8,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 84.0,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 4.2,
+              "totalClearances" : 5.3
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290832",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Swallow"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 70.0,
+            "handballs" : 46.0,
+            "disposals" : 116.0,
+            "marks" : 16.0,
+            "bounces" : 3.0,
+            "tackles" : 35.0,
+            "contestedPossessions" : 58.0,
+            "uncontestedPossessions" : 54.0,
+            "totalPossessions" : 112.0,
+            "inside50s" : 26.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 63.8,
+            "clangers" : 18.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 504.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 25.0,
+              "totalClearances" : 32.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : 356.0,
+            "ranking" : 146.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290832",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Swallow"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 78.7
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 13.0,
+            "handballs" : 10.3,
+            "disposals" : 23.3,
+            "marks" : 3.0,
+            "bounces" : 0.5,
+            "tackles" : 5.4,
+            "contestedPossessions" : 11.4,
+            "uncontestedPossessions" : 11.7,
+            "totalPossessions" : 23.1,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.2,
+            "hitouts" : 1.3,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 3.2,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 93.8,
+            "clearances" : {
+              "centreClearances" : 1.7,
+              "stoppageClearances" : 3.3,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290832",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Swallow"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 20.0,
+            "superGoals" : null,
+            "kicks" : 287.0,
+            "handballs" : 226.0,
+            "disposals" : 513.0,
+            "marks" : 67.0,
+            "bounces" : 11.0,
+            "tackles" : 118.0,
+            "contestedPossessions" : 250.0,
+            "uncontestedPossessions" : 258.0,
+            "totalPossessions" : 508.0,
+            "inside50s" : 88.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 29.0,
+            "onePercenters" : 37.0,
+            "disposalEfficiency" : 65.9,
+            "clangers" : 70.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 28.0,
+            "dreamTeamPoints" : 2064.0,
+            "clearances" : {
+              "centreClearances" : 38.0,
+              "stoppageClearances" : 72.0,
+              "totalClearances" : 110.0
+            },
+            "rebound50s" : 34.0,
+            "goalAssists" : 14.0,
+            "goalAccuracy" : 38.5,
+            "ratingPoints" : 412.1,
+            "ranking" : 93.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290832",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Swallow"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 77.5
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 10.8,
+            "handballs" : 8.4,
+            "disposals" : 19.3,
+            "marks" : 2.6,
+            "bounces" : 0.8,
+            "tackles" : 3.4,
+            "contestedPossessions" : 8.5,
+            "uncontestedPossessions" : 10.7,
+            "totalPossessions" : 19.2,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 69.6,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.3
+            },
+            "rebound50s" : 2.6,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290832",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Swallow"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 195.0,
+            "handballs" : 152.0,
+            "disposals" : 347.0,
+            "marks" : 47.0,
+            "bounces" : 15.0,
+            "tackles" : 61.0,
+            "contestedPossessions" : 153.0,
+            "uncontestedPossessions" : 192.0,
+            "totalPossessions" : 345.0,
+            "inside50s" : 51.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 70.3,
+            "clangers" : 43.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1252.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 29.0,
+              "totalClearances" : 41.0
+            },
+            "rebound50s" : 46.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : 318.3,
+            "ranking" : 211.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290832",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Swallow"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 81.0
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 10.9,
+            "handballs" : 8.0,
+            "disposals" : 18.9,
+            "marks" : 2.6,
+            "bounces" : 0.6,
+            "tackles" : 3.6,
+            "contestedPossessions" : 9.4,
+            "uncontestedPossessions" : 9.5,
+            "totalPossessions" : 18.9,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 74.1,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 2.3,
+              "totalClearances" : 3.1
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290832",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Swallow"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 131.0,
+            "handballs" : 96.0,
+            "disposals" : 227.0,
+            "marks" : 31.0,
+            "bounces" : 7.0,
+            "tackles" : 43.0,
+            "contestedPossessions" : 113.0,
+            "uncontestedPossessions" : 114.0,
+            "totalPossessions" : 227.0,
+            "inside50s" : 38.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 63.9,
+            "clangers" : 32.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 889.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 28.0,
+              "totalClearances" : 37.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290832",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Swallow"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 69.0
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 9.9,
+            "handballs" : 9.8,
+            "disposals" : 19.7,
+            "marks" : 3.0,
+            "bounces" : 1.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 9.8,
+            "uncontestedPossessions" : 10.3,
+            "totalPossessions" : 20.1,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 76.0,
+            "clearances" : {
+              "centreClearances" : 1.7,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.7
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290832",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Swallow"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 208.0,
+            "handballs" : 205.0,
+            "disposals" : 413.0,
+            "marks" : 62.0,
+            "bounces" : 21.0,
+            "tackles" : 83.0,
+            "contestedPossessions" : 205.0,
+            "uncontestedPossessions" : 217.0,
+            "totalPossessions" : 422.0,
+            "inside50s" : 84.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 47.0,
+            "disposalEfficiency" : 64.9,
+            "clangers" : 52.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1595.0,
+            "clearances" : {
+              "centreClearances" : 36.0,
+              "stoppageClearances" : 41.0,
+              "totalClearances" : 77.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 14.0,
+            "goalAccuracy" : 36.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290832",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Swallow"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 72.5
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 70.0,
+      "handballs" : 46.0,
+      "disposals" : 116.0,
+      "marks" : 16.0,
+      "bounces" : 3.0,
+      "tackles" : 35.0,
+      "contestedPossessions" : 58.0,
+      "uncontestedPossessions" : 54.0,
+      "totalPossessions" : 112.0,
+      "inside50s" : 26.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 5.0,
+      "onePercenters" : 5.0,
+      "disposalEfficiency" : 63.8,
+      "clangers" : 18.0,
+      "freesFor" : 7.0,
+      "freesAgainst" : 4.0,
+      "dreamTeamPoints" : 504.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 25.0,
+        "totalClearances" : 32.0
+      },
+      "rebound50s" : 13.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 40.0,
+      "ratingPoints" : 356.0,
+      "ranking" : 146.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I290832",
+        "playerName" : {
+          "givenName" : "David",
+          "surname" : "Swallow"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1000",
+        "teamAbbr" : "GCFC",
+        "teamName" : "Gold Coast Suns",
+        "teamNickname" : "Suns"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 356.0,
+        "ranking" : 148,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 356.0,
+        "ranking" : 7,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 356.0,
+        "ranking" : 71,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 74.0,
+        "ranking" : 416,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 79
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I297990",
+    "position" : "Interchange",
+    "surname" : "Vandenberg",
+    "jumperNumber" : 37,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.4,
+      "behinds" : 0.9,
+      "superGoals" : null,
+      "kicks" : 10.2,
+      "handballs" : 6.6,
+      "disposals" : 16.8,
+      "marks" : 3.1,
+      "bounces" : 0.1,
+      "tackles" : 5.0,
+      "contestedPossessions" : 8.1,
+      "uncontestedPossessions" : 8.6,
+      "totalPossessions" : 16.6,
+      "inside50s" : 3.6,
+      "marksInside50" : 0.6,
+      "contestedMarks" : 0.5,
+      "hitouts" : 0.1,
+      "onePercenters" : 0.7,
+      "disposalEfficiency" : null,
+      "clangers" : 2.5,
+      "freesFor" : 0.4,
+      "freesAgainst" : 0.9,
+      "dreamTeamPoints" : 73.9,
+      "clearances" : {
+        "centreClearances" : 0.7,
+        "stoppageClearances" : 2.2,
+        "totalClearances" : 2.9
+      },
+      "rebound50s" : 1.2,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Aaron",
+    "bio" : "<p>The 22-year-old averaged 32 possessions for Canberra club Ainslie in the NEAFL in 2014 including a 56-possession performance against Eastlake, and collected his second consecutive best and fairest. Originally from Tathra, he was a member of the club’s 2011 premiership team. He has been in rehab due to a shoulder problem, but will be ready to play when the season starts.<br>\n<b><br>\nDraft history:</b> 2015 Rookie Draft selection (Melbourne) No. 2.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Melbourne/Player Profiles/2015 - Profiles/VANDENBERG Aaron.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-03-03T02:00:00.000+0000",
+      "draftYear" : "2014",
+      "heightInCm" : 188,
+      "weightInKg" : 90,
+      "recruitedFrom" : null,
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 5.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 143.0,
+      "handballs" : 92.0,
+      "disposals" : 235.0,
+      "marks" : 44.0,
+      "bounces" : 1.0,
+      "tackles" : 70.0,
+      "contestedPossessions" : 113.0,
+      "uncontestedPossessions" : 120.0,
+      "totalPossessions" : 233.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 10.0,
+      "disposalEfficiency" : 58.3,
+      "clangers" : 35.0,
+      "freesFor" : 6.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 1035.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 31.0,
+        "totalClearances" : 41.0
+      },
+      "rebound50s" : 17.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 23.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 10.2,
+            "handballs" : 6.6,
+            "disposals" : 16.8,
+            "marks" : 3.1,
+            "bounces" : 0.1,
+            "tackles" : 5.0,
+            "contestedPossessions" : 8.1,
+            "uncontestedPossessions" : 8.6,
+            "totalPossessions" : 16.6,
+            "inside50s" : 3.6,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 73.9,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 2.2,
+              "totalClearances" : 2.9
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I297990",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Vandenberg"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 143.0,
+            "handballs" : 92.0,
+            "disposals" : 235.0,
+            "marks" : 44.0,
+            "bounces" : 1.0,
+            "tackles" : 70.0,
+            "contestedPossessions" : 113.0,
+            "uncontestedPossessions" : 120.0,
+            "totalPossessions" : 233.0,
+            "inside50s" : 50.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 58.3,
+            "clangers" : 35.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1035.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 31.0,
+              "totalClearances" : 41.0
+            },
+            "rebound50s" : 17.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 23.8,
+            "ratingPoints" : 121.5,
+            "ranking" : 478.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I297990",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Vandenberg"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 75.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 5.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 143.0,
+      "handballs" : 92.0,
+      "disposals" : 235.0,
+      "marks" : 44.0,
+      "bounces" : 1.0,
+      "tackles" : 70.0,
+      "contestedPossessions" : 113.0,
+      "uncontestedPossessions" : 120.0,
+      "totalPossessions" : 233.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 10.0,
+      "disposalEfficiency" : 58.3,
+      "clangers" : 35.0,
+      "freesFor" : 6.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 1035.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 31.0,
+        "totalClearances" : 41.0
+      },
+      "rebound50s" : 17.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 23.8,
+      "ratingPoints" : 121.5,
+      "ranking" : 478.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I297990",
+        "playerName" : {
+          "givenName" : "Aaron",
+          "surname" : "Vandenberg"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T90",
+        "teamAbbr" : "MELB",
+        "teamName" : "Melbourne",
+        "teamNickname" : "Demons"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 121.5,
+        "ranking" : 475,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 121.5,
+        "ranking" : 27,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 121.5,
+        "ranking" : 39,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 121.5,
+        "ranking" : 311,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2014"
+    },
+    "careerGamesPlayed" : 14
+  }
+}

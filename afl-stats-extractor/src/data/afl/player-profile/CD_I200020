@@ -1,0 +1,1403 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I200020",
+    "position" : "Full Forward",
+    "surname" : "Fraser",
+    "jumperNumber" : 17,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.8,
+      "behinds" : 0.6,
+      "superGoals" : null,
+      "kicks" : 8.7,
+      "handballs" : 5.4,
+      "disposals" : 14.1,
+      "marks" : 4.6,
+      "bounces" : 0.2,
+      "tackles" : 2.0,
+      "contestedPossessions" : 6.7,
+      "uncontestedPossessions" : 7.5,
+      "totalPossessions" : 14.2,
+      "inside50s" : 2.5,
+      "marksInside50" : 0.9,
+      "contestedMarks" : 0.7,
+      "hitouts" : 11.8,
+      "onePercenters" : 1.4,
+      "disposalEfficiency" : null,
+      "clangers" : 2.1,
+      "freesFor" : 1.5,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 74.6,
+      "clearances" : {
+        "centreClearances" : 1.1,
+        "stoppageClearances" : 1.9,
+        "totalClearances" : 3.0
+      },
+      "rebound50s" : 0.7,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Josh",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1982-01-05T01:00:00.000+0000",
+      "draftYear" : "1999",
+      "heightInCm" : 202,
+      "weightInKg" : 100,
+      "recruitedFrom" : "Mansfield/Murray U18/Collingwood",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 168.0,
+      "behinds" : 139.0,
+      "superGoals" : null,
+      "kicks" : 1903.0,
+      "handballs" : 1175.0,
+      "disposals" : 3078.0,
+      "marks" : 1013.0,
+      "bounces" : 40.0,
+      "tackles" : 446.0,
+      "contestedPossessions" : 1463.0,
+      "uncontestedPossessions" : 1639.0,
+      "totalPossessions" : 3102.0,
+      "inside50s" : 550.0,
+      "marksInside50" : 187.0,
+      "contestedMarks" : 163.0,
+      "hitouts" : 2576.0,
+      "onePercenters" : 308.0,
+      "disposalEfficiency" : 74.2,
+      "clangers" : 454.0,
+      "freesFor" : 328.0,
+      "freesAgainst" : 221.0,
+      "dreamTeamPoints" : 16270.0,
+      "clearances" : {
+        "centreClearances" : 234.0,
+        "stoppageClearances" : 423.0,
+        "totalClearances" : 657.0
+      },
+      "rebound50s" : 162.0,
+      "goalAssists" : 54.0,
+      "goalAccuracy" : 50.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 7.0,
+            "disposals" : 16.0,
+            "marks" : 1.5,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 9.5,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 15.5,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.5,
+            "hitouts" : 15.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 4.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 63.5,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.5,
+              "totalClearances" : 4.5
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 18.0,
+            "handballs" : 14.0,
+            "disposals" : 32.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 19.0,
+            "uncontestedPossessions" : 12.0,
+            "totalPossessions" : 31.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 30.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 53.1,
+            "clangers" : 8.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 127.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 82.1
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 8.1,
+            "handballs" : 6.7,
+            "disposals" : 14.8,
+            "marks" : 3.7,
+            "bounces" : 0.1,
+            "tackles" : 1.9,
+            "contestedPossessions" : 6.7,
+            "uncontestedPossessions" : 7.8,
+            "totalPossessions" : 14.5,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.6,
+            "hitouts" : 13.3,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.4,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 71.9,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.9,
+              "totalClearances" : 2.7
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 129.0,
+            "handballs" : 108.0,
+            "disposals" : 237.0,
+            "marks" : 59.0,
+            "bounces" : 2.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 107.0,
+            "uncontestedPossessions" : 125.0,
+            "totalPossessions" : 232.0,
+            "inside50s" : 37.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 213.0,
+            "onePercenters" : 29.0,
+            "disposalEfficiency" : 67.5,
+            "clangers" : 38.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 1151.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 30.0,
+              "totalClearances" : 43.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 46.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 83.0
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 5.8,
+            "handballs" : 4.4,
+            "disposals" : 10.2,
+            "marks" : 3.1,
+            "bounces" : 0.2,
+            "tackles" : 2.0,
+            "contestedPossessions" : 5.3,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 10.3,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.4,
+            "hitouts" : 10.1,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.1,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 54.7,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 52.0,
+            "handballs" : 40.0,
+            "disposals" : 92.0,
+            "marks" : 28.0,
+            "bounces" : 2.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 48.0,
+            "uncontestedPossessions" : 45.0,
+            "totalPossessions" : 93.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 91.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 60.9,
+            "clangers" : 22.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 492.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 41.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 60.5
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 9.5,
+            "handballs" : 8.3,
+            "disposals" : 17.8,
+            "marks" : 4.8,
+            "bounces" : 0.2,
+            "tackles" : 2.0,
+            "contestedPossessions" : 6.6,
+            "uncontestedPossessions" : 11.2,
+            "totalPossessions" : 17.8,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.6,
+            "hitouts" : 16.9,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.6,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 86.0,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 2.6,
+              "totalClearances" : 3.5
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 162.0,
+            "handballs" : 141.0,
+            "disposals" : 303.0,
+            "marks" : 82.0,
+            "bounces" : 3.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 112.0,
+            "uncontestedPossessions" : 190.0,
+            "totalPossessions" : 302.0,
+            "inside50s" : 38.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 287.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 73.9,
+            "clangers" : 38.0,
+            "freesFor" : 28.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1462.0,
+            "clearances" : {
+              "centreClearances" : 14.0,
+              "stoppageClearances" : 45.0,
+              "totalClearances" : 59.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 44.4,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 75.3
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 6.1,
+            "disposals" : 14.3,
+            "marks" : 5.1,
+            "bounces" : 0.2,
+            "tackles" : 1.8,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 9.3,
+            "totalPossessions" : 14.4,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.4,
+            "hitouts" : 15.2,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.3,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 77.4,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.4
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 148.0,
+            "handballs" : 110.0,
+            "disposals" : 258.0,
+            "marks" : 92.0,
+            "bounces" : 4.0,
+            "tackles" : 33.0,
+            "contestedPossessions" : 92.0,
+            "uncontestedPossessions" : 167.0,
+            "totalPossessions" : 259.0,
+            "inside50s" : 36.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 274.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 76.4,
+            "clangers" : 31.0,
+            "freesFor" : 24.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1394.0,
+            "clearances" : {
+              "centreClearances" : 14.0,
+              "stoppageClearances" : 29.0,
+              "totalClearances" : 43.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 70.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 64.0
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 9.7,
+            "handballs" : 4.3,
+            "disposals" : 14.0,
+            "marks" : 5.8,
+            "bounces" : 0.1,
+            "tackles" : 1.8,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 9.1,
+            "totalPossessions" : 14.2,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.5,
+            "hitouts" : 14.9,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 1.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 79.6,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.6
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 195.0,
+            "handballs" : 86.0,
+            "disposals" : 281.0,
+            "marks" : 116.0,
+            "bounces" : 2.0,
+            "tackles" : 37.0,
+            "contestedPossessions" : 102.0,
+            "uncontestedPossessions" : 183.0,
+            "totalPossessions" : 285.0,
+            "inside50s" : 44.0,
+            "marksInside50" : 15.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 298.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 74.0,
+            "clangers" : 42.0,
+            "freesFor" : 32.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1593.0,
+            "clearances" : {
+              "centreClearances" : 19.0,
+              "stoppageClearances" : 33.0,
+              "totalClearances" : 52.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 72.2
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 10.4,
+            "handballs" : 6.9,
+            "disposals" : 17.3,
+            "marks" : 7.4,
+            "bounces" : 0.6,
+            "tackles" : 2.2,
+            "contestedPossessions" : 6.7,
+            "uncontestedPossessions" : 10.7,
+            "totalPossessions" : 17.5,
+            "inside50s" : 3.0,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 0.7,
+            "hitouts" : 14.8,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 1.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 94.9,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 2.7
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 16.0,
+            "behinds" : 20.0,
+            "superGoals" : null,
+            "kicks" : 240.0,
+            "handballs" : 158.0,
+            "disposals" : 398.0,
+            "marks" : 170.0,
+            "bounces" : 14.0,
+            "tackles" : 50.0,
+            "contestedPossessions" : 155.0,
+            "uncontestedPossessions" : 247.0,
+            "totalPossessions" : 402.0,
+            "inside50s" : 68.0,
+            "marksInside50" : 28.0,
+            "contestedMarks" : 16.0,
+            "hitouts" : 341.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 73.6,
+            "clangers" : 49.0,
+            "freesFor" : 34.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 2183.0,
+            "clearances" : {
+              "centreClearances" : 30.0,
+              "stoppageClearances" : 31.0,
+              "totalClearances" : 61.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 15.0,
+            "goalAccuracy" : 41.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 82.5
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 4.8,
+            "handballs" : 3.4,
+            "disposals" : 8.2,
+            "marks" : 2.4,
+            "bounces" : 0.4,
+            "tackles" : 0.8,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 4.2,
+            "totalPossessions" : 7.8,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.4,
+            "hitouts" : 8.2,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 42.6,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 24.0,
+            "handballs" : 17.0,
+            "disposals" : 41.0,
+            "marks" : 12.0,
+            "bounces" : 2.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 18.0,
+            "uncontestedPossessions" : 21.0,
+            "totalPossessions" : 39.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 41.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 70.7,
+            "clangers" : 9.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 213.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 63.2
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 10.8,
+            "handballs" : 4.5,
+            "disposals" : 15.3,
+            "marks" : 5.3,
+            "bounces" : 0.1,
+            "tackles" : 2.4,
+            "contestedPossessions" : 8.6,
+            "uncontestedPossessions" : 6.5,
+            "totalPossessions" : 15.1,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 1.2,
+            "hitouts" : 13.1,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 1.9,
+            "freesAgainst" : 1.6,
+            "dreamTeamPoints" : 83.7,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 2.3,
+              "totalClearances" : 3.8
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 17.0,
+            "superGoals" : null,
+            "kicks" : 194.0,
+            "handballs" : 81.0,
+            "disposals" : 275.0,
+            "marks" : 95.0,
+            "bounces" : 2.0,
+            "tackles" : 43.0,
+            "contestedPossessions" : 154.0,
+            "uncontestedPossessions" : 117.0,
+            "totalPossessions" : 271.0,
+            "inside50s" : 72.0,
+            "marksInside50" : 14.0,
+            "contestedMarks" : 21.0,
+            "hitouts" : 236.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 74.2,
+            "clangers" : 46.0,
+            "freesFor" : 35.0,
+            "freesAgainst" : 28.0,
+            "dreamTeamPoints" : 1507.0,
+            "clearances" : {
+              "centreClearances" : 27.0,
+              "stoppageClearances" : 42.0,
+              "totalClearances" : 69.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 47.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 90.7
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 9.5,
+            "handballs" : 5.3,
+            "disposals" : 14.8,
+            "marks" : 4.6,
+            "bounces" : 0.1,
+            "tackles" : 2.6,
+            "contestedPossessions" : 8.2,
+            "uncontestedPossessions" : 6.6,
+            "totalPossessions" : 14.8,
+            "inside50s" : 2.5,
+            "marksInside50" : 1.3,
+            "contestedMarks" : 1.0,
+            "hitouts" : 13.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 81.3,
+            "clearances" : {
+              "centreClearances" : 1.7,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.7
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 20.0,
+            "behinds" : 16.0,
+            "superGoals" : null,
+            "kicks" : 218.0,
+            "handballs" : 122.0,
+            "disposals" : 340.0,
+            "marks" : 106.0,
+            "bounces" : 2.0,
+            "tackles" : 60.0,
+            "contestedPossessions" : 189.0,
+            "uncontestedPossessions" : 152.0,
+            "totalPossessions" : 341.0,
+            "inside50s" : 57.0,
+            "marksInside50" : 31.0,
+            "contestedMarks" : 22.0,
+            "hitouts" : 300.0,
+            "onePercenters" : 40.0,
+            "disposalEfficiency" : 74.7,
+            "clangers" : 53.0,
+            "freesFor" : 45.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 1871.0,
+            "clearances" : {
+              "centreClearances" : 38.0,
+              "stoppageClearances" : 70.0,
+              "totalClearances" : 108.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 47.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 84.4
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.5,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 7.4,
+            "handballs" : 3.4,
+            "disposals" : 10.8,
+            "marks" : 3.3,
+            "bounces" : 0.0,
+            "tackles" : 1.9,
+            "contestedPossessions" : 6.4,
+            "uncontestedPossessions" : 4.7,
+            "totalPossessions" : 11.1,
+            "inside50s" : 2.5,
+            "marksInside50" : 1.3,
+            "contestedMarks" : 0.9,
+            "hitouts" : 5.8,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 61.4,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 2.3
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 37.0,
+            "behinds" : 23.0,
+            "superGoals" : null,
+            "kicks" : 185.0,
+            "handballs" : 84.0,
+            "disposals" : 269.0,
+            "marks" : 83.0,
+            "bounces" : 0.0,
+            "tackles" : 48.0,
+            "contestedPossessions" : 160.0,
+            "uncontestedPossessions" : 118.0,
+            "totalPossessions" : 278.0,
+            "inside50s" : 63.0,
+            "marksInside50" : 33.0,
+            "contestedMarks" : 22.0,
+            "hitouts" : 146.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 75.8,
+            "clangers" : 34.0,
+            "freesFor" : 34.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1535.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 46.0,
+              "totalClearances" : 58.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 56.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 9.3,
+            "handballs" : 5.7,
+            "disposals" : 15.0,
+            "marks" : 4.8,
+            "bounces" : 0.1,
+            "tackles" : 2.2,
+            "contestedPossessions" : 8.2,
+            "uncontestedPossessions" : 7.3,
+            "totalPossessions" : 15.5,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 1.1,
+            "hitouts" : 6.4,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 74.8,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 1.9,
+              "totalClearances" : 3.2
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 21.0,
+            "behinds" : 16.0,
+            "superGoals" : null,
+            "kicks" : 196.0,
+            "handballs" : 120.0,
+            "disposals" : 316.0,
+            "marks" : 100.0,
+            "bounces" : 3.0,
+            "tackles" : 47.0,
+            "contestedPossessions" : 173.0,
+            "uncontestedPossessions" : 153.0,
+            "totalPossessions" : 326.0,
+            "inside50s" : 64.0,
+            "marksInside50" : 15.0,
+            "contestedMarks" : 24.0,
+            "hitouts" : 134.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 79.7,
+            "clangers" : 41.0,
+            "freesFor" : 29.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1570.0,
+            "clearances" : {
+              "centreClearances" : 29.0,
+              "stoppageClearances" : 39.0,
+              "totalClearances" : 68.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 56.8,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200020",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Fraser"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 18.0,
+      "handballs" : 14.0,
+      "disposals" : 32.0,
+      "marks" : 3.0,
+      "bounces" : 0.0,
+      "tackles" : 2.0,
+      "contestedPossessions" : 19.0,
+      "uncontestedPossessions" : 12.0,
+      "totalPossessions" : 31.0,
+      "inside50s" : 1.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 30.0,
+      "onePercenters" : 4.0,
+      "disposalEfficiency" : 53.1,
+      "clangers" : 8.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 2.0,
+      "dreamTeamPoints" : 127.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 7.0,
+        "totalClearances" : 9.0
+      },
+      "rebound50s" : 4.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201201427",
+      "player" : {
+        "playerId" : "CD_I200020",
+        "playerName" : {
+          "givenName" : "Josh",
+          "surname" : "Fraser"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1000",
+        "teamAbbr" : "GCFC",
+        "teamName" : "Gold Coast Suns",
+        "teamNickname" : "Suns"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 135.0,
+        "ranking" : 425,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 135.0,
+        "ranking" : 23,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 135.0,
+        "ranking" : 28,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 218
+  }
+}

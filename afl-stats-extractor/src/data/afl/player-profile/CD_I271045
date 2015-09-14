@@ -1,0 +1,898 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I271045",
+    "position" : "Ruck",
+    "surname" : "Naitanui",
+    "jumperNumber" : 9,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.7,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 4.7,
+      "handballs" : 7.4,
+      "disposals" : 12.2,
+      "marks" : 1.9,
+      "bounces" : 0.3,
+      "tackles" : 3.6,
+      "contestedPossessions" : 9.1,
+      "uncontestedPossessions" : 3.2,
+      "totalPossessions" : 12.4,
+      "inside50s" : 2.2,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 1.2,
+      "hitouts" : 22.9,
+      "onePercenters" : 2.9,
+      "disposalEfficiency" : null,
+      "clangers" : 2.0,
+      "freesFor" : 1.5,
+      "freesAgainst" : 1.1,
+      "dreamTeamPoints" : 74.8,
+      "clearances" : {
+        "centreClearances" : 1.6,
+        "stoppageClearances" : 1.9,
+        "totalClearances" : 3.5
+      },
+      "rebound50s" : 0.6,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Nic",
+    "bio" : "<p>After another pre-season where he was carefully monitored, Naitanui showed glimpses of his 2012 form without returning &nbsp;&nbsp;to his absolute peak fitness. The star ruckman averaged 22 hit-outs across 20 games following the groin troubles of 2013. Finished third at the club for clearances (66) and contested possessions (188) and fifth in tackles (77), which is incredible given his size and role. Was set for his first full pre-season in three years. &nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WestCoastEagles/Player Profiles/2015 - Profiles/NAITANUI Nic.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1990-05-04T02:00:00.000+0000",
+      "draftYear" : "2008",
+      "heightInCm" : 201,
+      "weightInKg" : 107,
+      "recruitedFrom" : "Swan Districts (WA)",
+      "debutYear" : "2009"
+    },
+    "careerStats" : {
+      "goals" : 88.0,
+      "behinds" : 58.0,
+      "superGoals" : null,
+      "kicks" : 609.0,
+      "handballs" : 961.0,
+      "disposals" : 1570.0,
+      "marks" : 244.0,
+      "bounces" : 37.0,
+      "tackles" : 468.0,
+      "contestedPossessions" : 1176.0,
+      "uncontestedPossessions" : 419.0,
+      "totalPossessions" : 1595.0,
+      "inside50s" : 281.0,
+      "marksInside50" : 66.0,
+      "contestedMarks" : 155.0,
+      "hitouts" : 2951.0,
+      "onePercenters" : 379.0,
+      "disposalEfficiency" : 67.0,
+      "clangers" : 261.0,
+      "freesFor" : 190.0,
+      "freesAgainst" : 145.0,
+      "dreamTeamPoints" : 9645.0,
+      "clearances" : {
+        "centreClearances" : 212.0,
+        "stoppageClearances" : 239.0,
+        "totalClearances" : 451.0
+      },
+      "rebound50s" : 77.0,
+      "goalAssists" : 46.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 5.9,
+            "handballs" : 6.2,
+            "disposals" : 12.0,
+            "marks" : 1.5,
+            "bounces" : 0.0,
+            "tackles" : 3.6,
+            "contestedPossessions" : 9.1,
+            "uncontestedPossessions" : 3.2,
+            "totalPossessions" : 12.3,
+            "inside50s" : 2.7,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 1.0,
+            "hitouts" : 34.1,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 1.9,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 87.9,
+            "clearances" : {
+              "centreClearances" : 1.9,
+              "stoppageClearances" : 2.1,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271045",
+            "playerName" : {
+              "givenName" : "Nic",
+              "surname" : "Naitanui"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 123.0,
+            "handballs" : 130.0,
+            "disposals" : 253.0,
+            "marks" : 31.0,
+            "bounces" : 1.0,
+            "tackles" : 76.0,
+            "contestedPossessions" : 191.0,
+            "uncontestedPossessions" : 67.0,
+            "totalPossessions" : 258.0,
+            "inside50s" : 56.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 21.0,
+            "hitouts" : 716.0,
+            "onePercenters" : 56.0,
+            "disposalEfficiency" : 63.6,
+            "clangers" : 32.0,
+            "freesFor" : 40.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1845.0,
+            "clearances" : {
+              "centreClearances" : 39.0,
+              "stoppageClearances" : 45.0,
+              "totalClearances" : 84.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 51.5,
+            "ratingPoints" : 558.8,
+            "ranking" : 8.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271045",
+            "playerName" : {
+              "givenName" : "Nic",
+              "surname" : "Naitanui"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 75.7
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 4.2,
+            "handballs" : 8.2,
+            "disposals" : 12.4,
+            "marks" : 1.5,
+            "bounces" : 0.1,
+            "tackles" : 3.8,
+            "contestedPossessions" : 9.4,
+            "uncontestedPossessions" : 3.6,
+            "totalPossessions" : 13.0,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.9,
+            "hitouts" : 21.9,
+            "onePercenters" : 3.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 72.9,
+            "clearances" : {
+              "centreClearances" : 1.8,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 3.3
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271045",
+            "playerName" : {
+              "givenName" : "Nic",
+              "surname" : "Naitanui"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 85.0,
+            "handballs" : 164.0,
+            "disposals" : 249.0,
+            "marks" : 31.0,
+            "bounces" : 2.0,
+            "tackles" : 77.0,
+            "contestedPossessions" : 188.0,
+            "uncontestedPossessions" : 72.0,
+            "totalPossessions" : 260.0,
+            "inside50s" : 36.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 18.0,
+            "hitouts" : 438.0,
+            "onePercenters" : 68.0,
+            "disposalEfficiency" : 67.1,
+            "clangers" : 44.0,
+            "freesFor" : 29.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1458.0,
+            "clearances" : {
+              "centreClearances" : 37.0,
+              "stoppageClearances" : 30.0,
+              "totalClearances" : 67.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : 450.6,
+            "ranking" : 55.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271045",
+            "playerName" : {
+              "givenName" : "Nic",
+              "surname" : "Naitanui"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 77.3
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 5.1,
+            "handballs" : 6.5,
+            "disposals" : 11.5,
+            "marks" : 2.3,
+            "bounces" : 0.4,
+            "tackles" : 3.5,
+            "contestedPossessions" : 8.5,
+            "uncontestedPossessions" : 3.4,
+            "totalPossessions" : 11.9,
+            "inside50s" : 2.7,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 1.5,
+            "hitouts" : 25.4,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.3,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 77.5,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 3.3
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271045",
+            "playerName" : {
+              "givenName" : "Nic",
+              "surname" : "Naitanui"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 56.0,
+            "handballs" : 71.0,
+            "disposals" : 127.0,
+            "marks" : 25.0,
+            "bounces" : 4.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 94.0,
+            "uncontestedPossessions" : 37.0,
+            "totalPossessions" : 131.0,
+            "inside50s" : 30.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 17.0,
+            "hitouts" : 279.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 67.7,
+            "clangers" : 20.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 852.0,
+            "clearances" : {
+              "centreClearances" : 16.0,
+              "stoppageClearances" : 20.0,
+              "totalClearances" : 36.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 72.7,
+            "ratingPoints" : 559.0,
+            "ranking" : 13.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271045",
+            "playerName" : {
+              "givenName" : "Nic",
+              "surname" : "Naitanui"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 71.6
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.1,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 5.3,
+            "handballs" : 7.8,
+            "disposals" : 13.0,
+            "marks" : 3.0,
+            "bounces" : 0.4,
+            "tackles" : 3.4,
+            "contestedPossessions" : 10.3,
+            "uncontestedPossessions" : 3.1,
+            "totalPossessions" : 13.4,
+            "inside50s" : 2.5,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 24.7,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 84.5,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271045",
+            "playerName" : {
+              "givenName" : "Nic",
+              "surname" : "Naitanui"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 24.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 116.0,
+            "handballs" : 171.0,
+            "disposals" : 287.0,
+            "marks" : 66.0,
+            "bounces" : 9.0,
+            "tackles" : 75.0,
+            "contestedPossessions" : 227.0,
+            "uncontestedPossessions" : 68.0,
+            "totalPossessions" : 295.0,
+            "inside50s" : 55.0,
+            "marksInside50" : 23.0,
+            "contestedMarks" : 45.0,
+            "hitouts" : 543.0,
+            "onePercenters" : 61.0,
+            "disposalEfficiency" : 70.7,
+            "clangers" : 38.0,
+            "freesFor" : 31.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1860.0,
+            "clearances" : {
+              "centreClearances" : 25.0,
+              "stoppageClearances" : 40.0,
+              "totalClearances" : 65.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 57.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271045",
+            "playerName" : {
+              "givenName" : "Nic",
+              "surname" : "Naitanui"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 82.2
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 5.2,
+            "handballs" : 7.8,
+            "disposals" : 13.0,
+            "marks" : 2.2,
+            "bounces" : 0.4,
+            "tackles" : 3.8,
+            "contestedPossessions" : 9.7,
+            "uncontestedPossessions" : 3.1,
+            "totalPossessions" : 12.8,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 1.4,
+            "hitouts" : 19.9,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.7,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 75.6,
+            "clearances" : {
+              "centreClearances" : 1.8,
+              "stoppageClearances" : 2.1,
+              "totalClearances" : 3.9
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271045",
+            "playerName" : {
+              "givenName" : "Nic",
+              "surname" : "Naitanui"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 18.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 120.0,
+            "handballs" : 179.0,
+            "disposals" : 299.0,
+            "marks" : 50.0,
+            "bounces" : 10.0,
+            "tackles" : 88.0,
+            "contestedPossessions" : 222.0,
+            "uncontestedPossessions" : 72.0,
+            "totalPossessions" : 294.0,
+            "inside50s" : 44.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 32.0,
+            "hitouts" : 457.0,
+            "onePercenters" : 91.0,
+            "disposalEfficiency" : 68.6,
+            "clangers" : 55.0,
+            "freesFor" : 39.0,
+            "freesAgainst" : 32.0,
+            "dreamTeamPoints" : 1738.0,
+            "clearances" : {
+              "centreClearances" : 42.0,
+              "stoppageClearances" : 48.0,
+              "totalClearances" : 90.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 43.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271045",
+            "playerName" : {
+              "givenName" : "Nic",
+              "surname" : "Naitanui"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 78.8
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 4.3,
+            "handballs" : 7.4,
+            "disposals" : 11.7,
+            "marks" : 1.4,
+            "bounces" : 0.3,
+            "tackles" : 3.4,
+            "contestedPossessions" : 8.6,
+            "uncontestedPossessions" : 3.2,
+            "totalPossessions" : 11.8,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.8,
+            "hitouts" : 16.6,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.5,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 62.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 2.1,
+              "totalClearances" : 4.1
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271045",
+            "playerName" : {
+              "givenName" : "Nic",
+              "surname" : "Naitanui"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 94.0,
+            "handballs" : 163.0,
+            "disposals" : 257.0,
+            "marks" : 31.0,
+            "bounces" : 6.0,
+            "tackles" : 74.0,
+            "contestedPossessions" : 189.0,
+            "uncontestedPossessions" : 70.0,
+            "totalPossessions" : 259.0,
+            "inside50s" : 49.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 17.0,
+            "hitouts" : 366.0,
+            "onePercenters" : 52.0,
+            "disposalEfficiency" : 64.2,
+            "clangers" : 49.0,
+            "freesFor" : 33.0,
+            "freesAgainst" : 32.0,
+            "dreamTeamPoints" : 1363.0,
+            "clearances" : {
+              "centreClearances" : 44.0,
+              "stoppageClearances" : 46.0,
+              "totalClearances" : 90.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 40.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271045",
+            "playerName" : {
+              "givenName" : "Nic",
+              "surname" : "Naitanui"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 70.5
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 1.5,
+            "handballs" : 8.3,
+            "disposals" : 9.8,
+            "marks" : 1.0,
+            "bounces" : 0.5,
+            "tackles" : 3.9,
+            "contestedPossessions" : 6.5,
+            "uncontestedPossessions" : 3.3,
+            "totalPossessions" : 9.8,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.5,
+            "hitouts" : 15.2,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 52.9,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.9
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271045",
+            "playerName" : {
+              "givenName" : "Nic",
+              "surname" : "Naitanui"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 15.0,
+            "handballs" : 83.0,
+            "disposals" : 98.0,
+            "marks" : 10.0,
+            "bounces" : 5.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 65.0,
+            "uncontestedPossessions" : 33.0,
+            "totalPossessions" : 98.0,
+            "inside50s" : 11.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 152.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 66.3,
+            "clangers" : 23.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 529.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 19.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I271045",
+            "playerName" : {
+              "givenName" : "Nic",
+              "surname" : "Naitanui"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 71.3
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 17.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 123.0,
+      "handballs" : 130.0,
+      "disposals" : 253.0,
+      "marks" : 31.0,
+      "bounces" : 1.0,
+      "tackles" : 76.0,
+      "contestedPossessions" : 191.0,
+      "uncontestedPossessions" : 67.0,
+      "totalPossessions" : 258.0,
+      "inside50s" : 56.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 21.0,
+      "hitouts" : 716.0,
+      "onePercenters" : 56.0,
+      "disposalEfficiency" : 63.6,
+      "clangers" : 32.0,
+      "freesFor" : 40.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1845.0,
+      "clearances" : {
+        "centreClearances" : 39.0,
+        "stoppageClearances" : 45.0,
+        "totalClearances" : 84.0
+      },
+      "rebound50s" : 14.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 51.5,
+      "ratingPoints" : 558.8,
+      "ranking" : 8.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I271045",
+        "playerName" : {
+          "givenName" : "Nic",
+          "surname" : "Naitanui"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T150",
+        "teamAbbr" : "WCE",
+        "teamName" : "West Coast Eagles",
+        "teamNickname" : "Eagles"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 562.8,
+        "ranking" : 8,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 562.8,
+        "ranking" : 1,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 562.8,
+        "ranking" : 2,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 15.0,
+        "ranking" : 25,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 347.8,
+        "ranking" : 8,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2008"
+    },
+    "careerGamesPlayed" : 129
+  }
+}

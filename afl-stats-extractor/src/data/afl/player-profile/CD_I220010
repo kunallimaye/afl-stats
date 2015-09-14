@@ -1,0 +1,1619 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I220010",
+    "position" : "Centre Half Back",
+    "surname" : "Boyd",
+    "jumperNumber" : 5,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 13.2,
+      "handballs" : 11.8,
+      "disposals" : 24.9,
+      "marks" : 4.9,
+      "bounces" : 0.9,
+      "tackles" : 3.5,
+      "contestedPossessions" : 9.5,
+      "uncontestedPossessions" : 15.3,
+      "totalPossessions" : 24.8,
+      "inside50s" : 3.4,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.4,
+      "onePercenters" : 1.5,
+      "disposalEfficiency" : null,
+      "clangers" : 2.7,
+      "freesFor" : 0.9,
+      "freesAgainst" : 0.8,
+      "dreamTeamPoints" : 93.1,
+      "clearances" : {
+        "centreClearances" : 1.8,
+        "stoppageClearances" : 2.3,
+        "totalClearances" : 4.1
+      },
+      "rebound50s" : 2.3,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Matthew",
+    "bio" : "<p>Forging a career as one of the league&rsquo;s leading possessions winners, Matthew Boyd&rsquo;s undying persistence has seen him rise from the Bulldogs rookie list in 2002 to become part of the competition&rsquo;s elite. Hard working and reliable, Boyd was appointed captain of the Bulldogs ahead of the 2011 season. After being initially overlooked in the traditional draft, the Frankston recruit earned plaudits in the VFL which led to him being selected in the 2001 AFL Rookie Draft with the Bulldogs&rsquo; selection no. 23.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WesternBulldogs/Player Profiles/2015 - Profiles/BOYD Matthew.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1982-08-27T02:00:00.000+0000",
+      "draftYear" : "2003",
+      "heightInCm" : 184,
+      "weightInKg" : 88,
+      "recruitedFrom" : "Narre Warren/Dandenong U18/Frankston",
+      "debutYear" : "2003"
+    },
+    "careerStats" : {
+      "goals" : 83.0,
+      "behinds" : 76.0,
+      "superGoals" : null,
+      "kicks" : 3395.0,
+      "handballs" : 3034.0,
+      "disposals" : 6429.0,
+      "marks" : 1273.0,
+      "bounces" : 222.0,
+      "tackles" : 914.0,
+      "contestedPossessions" : 2441.0,
+      "uncontestedPossessions" : 3947.0,
+      "totalPossessions" : 6388.0,
+      "inside50s" : 879.0,
+      "marksInside50" : 55.0,
+      "contestedMarks" : 56.0,
+      "hitouts" : 96.0,
+      "onePercenters" : 387.0,
+      "disposalEfficiency" : 70.8,
+      "clangers" : 702.0,
+      "freesFor" : 224.0,
+      "freesAgainst" : 202.0,
+      "dreamTeamPoints" : 24016.0,
+      "clearances" : {
+        "centreClearances" : 457.0,
+        "stoppageClearances" : 604.0,
+        "totalClearances" : 1061.0
+      },
+      "rebound50s" : 589.0,
+      "goalAssists" : 126.0,
+      "goalAccuracy" : 43.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 16.9,
+            "handballs" : 10.3,
+            "disposals" : 27.2,
+            "marks" : 7.8,
+            "bounces" : 1.1,
+            "tackles" : 2.1,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 18.7,
+            "totalPossessions" : 25.7,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 103.0,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 4.4,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 321.0,
+            "handballs" : 195.0,
+            "disposals" : 516.0,
+            "marks" : 148.0,
+            "bounces" : 20.0,
+            "tackles" : 40.0,
+            "contestedPossessions" : 133.0,
+            "uncontestedPossessions" : 356.0,
+            "totalPossessions" : 489.0,
+            "inside50s" : 45.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 79.1,
+            "clangers" : 47.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1957.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 20.0,
+              "totalClearances" : 29.0
+            },
+            "rebound50s" : 84.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 14.3,
+            "ratingPoints" : 423.5,
+            "ranking" : 75.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 83.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 13.1,
+            "handballs" : 13.1,
+            "disposals" : 26.2,
+            "marks" : 3.6,
+            "bounces" : 0.5,
+            "tackles" : 4.3,
+            "contestedPossessions" : 11.3,
+            "uncontestedPossessions" : 14.7,
+            "totalPossessions" : 25.9,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 95.4,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 3.2,
+              "totalClearances" : 4.7
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 249.0,
+            "handballs" : 249.0,
+            "disposals" : 498.0,
+            "marks" : 69.0,
+            "bounces" : 10.0,
+            "tackles" : 82.0,
+            "contestedPossessions" : 214.0,
+            "uncontestedPossessions" : 279.0,
+            "totalPossessions" : 493.0,
+            "inside50s" : 60.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 66.5,
+            "clangers" : 46.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1813.0,
+            "clearances" : {
+              "centreClearances" : 28.0,
+              "stoppageClearances" : 61.0,
+              "totalClearances" : 89.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 30.4,
+            "ratingPoints" : 401.0,
+            "ranking" : 106.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 87.4
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 15.1,
+            "handballs" : 14.3,
+            "disposals" : 29.4,
+            "marks" : 4.7,
+            "bounces" : 0.5,
+            "tackles" : 3.9,
+            "contestedPossessions" : 12.1,
+            "uncontestedPossessions" : 17.4,
+            "totalPossessions" : 29.5,
+            "inside50s" : 4.4,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.4,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.6,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 103.9,
+            "clearances" : {
+              "centreClearances" : 2.5,
+              "stoppageClearances" : 2.9,
+              "totalClearances" : 5.5
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 196.0,
+            "handballs" : 186.0,
+            "disposals" : 382.0,
+            "marks" : 61.0,
+            "bounces" : 7.0,
+            "tackles" : 51.0,
+            "contestedPossessions" : 157.0,
+            "uncontestedPossessions" : 226.0,
+            "totalPossessions" : 383.0,
+            "inside50s" : 57.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 67.5,
+            "clangers" : 47.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1351.0,
+            "clearances" : {
+              "centreClearances" : 33.0,
+              "stoppageClearances" : 38.0,
+              "totalClearances" : 71.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 485.1,
+            "ranking" : 28.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 83.2
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 17.0,
+            "handballs" : 15.8,
+            "disposals" : 32.8,
+            "marks" : 5.1,
+            "bounces" : 0.4,
+            "tackles" : 4.0,
+            "contestedPossessions" : 14.0,
+            "uncontestedPossessions" : 18.7,
+            "totalPossessions" : 32.7,
+            "inside50s" : 4.5,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.8,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 3.4,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 115.2,
+            "clearances" : {
+              "centreClearances" : 2.4,
+              "stoppageClearances" : 3.9,
+              "totalClearances" : 6.3
+            },
+            "rebound50s" : 2.8,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 374.0,
+            "handballs" : 347.0,
+            "disposals" : 721.0,
+            "marks" : 112.0,
+            "bounces" : 9.0,
+            "tackles" : 87.0,
+            "contestedPossessions" : 308.0,
+            "uncontestedPossessions" : 412.0,
+            "totalPossessions" : 720.0,
+            "inside50s" : 98.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 17.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 66.3,
+            "clangers" : 74.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 2535.0,
+            "clearances" : {
+              "centreClearances" : 53.0,
+              "stoppageClearances" : 86.0,
+              "totalClearances" : 139.0
+            },
+            "rebound50s" : 62.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 27.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 91.0
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 18.1,
+            "handballs" : 13.8,
+            "disposals" : 31.9,
+            "marks" : 3.9,
+            "bounces" : 0.2,
+            "tackles" : 5.1,
+            "contestedPossessions" : 15.5,
+            "uncontestedPossessions" : 17.2,
+            "totalPossessions" : 32.6,
+            "inside50s" : 5.2,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.6,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 3.5,
+            "freesFor" : 1.8,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 116.0,
+            "clearances" : {
+              "centreClearances" : 2.3,
+              "stoppageClearances" : 4.7,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 3.4,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 398.0,
+            "handballs" : 303.0,
+            "disposals" : 701.0,
+            "marks" : 85.0,
+            "bounces" : 5.0,
+            "tackles" : 113.0,
+            "contestedPossessions" : 340.0,
+            "uncontestedPossessions" : 378.0,
+            "totalPossessions" : 718.0,
+            "inside50s" : 115.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 13.0,
+            "onePercenters" : 33.0,
+            "disposalEfficiency" : 61.8,
+            "clangers" : 76.0,
+            "freesFor" : 39.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 2552.0,
+            "clearances" : {
+              "centreClearances" : 50.0,
+              "stoppageClearances" : 104.0,
+              "totalClearances" : 154.0
+            },
+            "rebound50s" : 75.0,
+            "goalAssists" : 23.0,
+            "goalAccuracy" : 42.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 88.1
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 17.1,
+            "handballs" : 13.2,
+            "disposals" : 30.3,
+            "marks" : 4.7,
+            "bounces" : 0.4,
+            "tackles" : 4.6,
+            "contestedPossessions" : 13.3,
+            "uncontestedPossessions" : 16.8,
+            "totalPossessions" : 30.0,
+            "inside50s" : 4.2,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.9,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 3.7,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 112.3,
+            "clearances" : {
+              "centreClearances" : 2.8,
+              "stoppageClearances" : 3.7,
+              "totalClearances" : 6.6
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 393.0,
+            "handballs" : 304.0,
+            "disposals" : 697.0,
+            "marks" : 107.0,
+            "bounces" : 9.0,
+            "tackles" : 106.0,
+            "contestedPossessions" : 305.0,
+            "uncontestedPossessions" : 386.0,
+            "totalPossessions" : 691.0,
+            "inside50s" : 97.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 20.0,
+            "onePercenters" : 39.0,
+            "disposalEfficiency" : 64.1,
+            "clangers" : 85.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 2584.0,
+            "clearances" : {
+              "centreClearances" : 65.0,
+              "stoppageClearances" : 86.0,
+              "totalClearances" : 151.0
+            },
+            "rebound50s" : 51.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 38.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 88.6
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 13.1,
+            "handballs" : 15.8,
+            "disposals" : 28.9,
+            "marks" : 4.8,
+            "bounces" : 0.8,
+            "tackles" : 3.6,
+            "contestedPossessions" : 11.2,
+            "uncontestedPossessions" : 17.8,
+            "totalPossessions" : 29.0,
+            "inside50s" : 3.7,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.6,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 103.2,
+            "clearances" : {
+              "centreClearances" : 2.9,
+              "stoppageClearances" : 2.7,
+              "totalClearances" : 5.6
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 328.0,
+            "handballs" : 394.0,
+            "disposals" : 722.0,
+            "marks" : 120.0,
+            "bounces" : 20.0,
+            "tackles" : 90.0,
+            "contestedPossessions" : 280.0,
+            "uncontestedPossessions" : 445.0,
+            "totalPossessions" : 725.0,
+            "inside50s" : 92.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 14.0,
+            "onePercenters" : 41.0,
+            "disposalEfficiency" : 69.4,
+            "clangers" : 63.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 2580.0,
+            "clearances" : {
+              "centreClearances" : 73.0,
+              "stoppageClearances" : 68.0,
+              "totalClearances" : 141.0
+            },
+            "rebound50s" : 44.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 68.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 88.0
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 12.6,
+            "handballs" : 12.5,
+            "disposals" : 25.1,
+            "marks" : 5.3,
+            "bounces" : 0.9,
+            "tackles" : 3.8,
+            "contestedPossessions" : 8.5,
+            "uncontestedPossessions" : 16.8,
+            "totalPossessions" : 25.3,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 3.1,
+            "freesFor" : 1.2,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 93.2,
+            "clearances" : {
+              "centreClearances" : 1.8,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 3.6
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 315.0,
+            "handballs" : 313.0,
+            "disposals" : 628.0,
+            "marks" : 133.0,
+            "bounces" : 22.0,
+            "tackles" : 94.0,
+            "contestedPossessions" : 213.0,
+            "uncontestedPossessions" : 419.0,
+            "totalPossessions" : 632.0,
+            "inside50s" : 69.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 72.6,
+            "clangers" : 77.0,
+            "freesFor" : 30.0,
+            "freesAgainst" : 30.0,
+            "dreamTeamPoints" : 2329.0,
+            "clearances" : {
+              "centreClearances" : 46.0,
+              "stoppageClearances" : 44.0,
+              "totalClearances" : 90.0
+            },
+            "rebound50s" : 51.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 31.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 87.1
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 13.4,
+            "handballs" : 11.4,
+            "disposals" : 24.8,
+            "marks" : 6.2,
+            "bounces" : 2.0,
+            "tackles" : 3.5,
+            "contestedPossessions" : 7.5,
+            "uncontestedPossessions" : 16.8,
+            "totalPossessions" : 24.4,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 3.2,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 96.7,
+            "clearances" : {
+              "centreClearances" : 2.1,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 3.9
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 295.0,
+            "handballs" : 250.0,
+            "disposals" : 545.0,
+            "marks" : 137.0,
+            "bounces" : 43.0,
+            "tackles" : 77.0,
+            "contestedPossessions" : 166.0,
+            "uncontestedPossessions" : 370.0,
+            "totalPossessions" : 536.0,
+            "inside50s" : 83.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 29.0,
+            "disposalEfficiency" : 74.3,
+            "clangers" : 70.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 25.0,
+            "dreamTeamPoints" : 2127.0,
+            "clearances" : {
+              "centreClearances" : 46.0,
+              "stoppageClearances" : 39.0,
+              "totalClearances" : 85.0
+            },
+            "rebound50s" : 53.0,
+            "goalAssists" : 15.0,
+            "goalAccuracy" : 52.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 89.7
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 10.2,
+            "handballs" : 9.7,
+            "disposals" : 19.9,
+            "marks" : 5.5,
+            "bounces" : 2.2,
+            "tackles" : 3.7,
+            "contestedPossessions" : 6.4,
+            "uncontestedPossessions" : 13.2,
+            "totalPossessions" : 19.6,
+            "inside50s" : 3.5,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 81.8,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 2.6
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 245.0,
+            "handballs" : 233.0,
+            "disposals" : 478.0,
+            "marks" : 132.0,
+            "bounces" : 52.0,
+            "tackles" : 89.0,
+            "contestedPossessions" : 153.0,
+            "uncontestedPossessions" : 318.0,
+            "totalPossessions" : 471.0,
+            "inside50s" : 83.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 80.5,
+            "clangers" : 52.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 1964.0,
+            "clearances" : {
+              "centreClearances" : 37.0,
+              "stoppageClearances" : 26.0,
+              "totalClearances" : 63.0
+            },
+            "rebound50s" : 44.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 64.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 79.0
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 7.1,
+            "handballs" : 6.4,
+            "disposals" : 13.5,
+            "marks" : 3.9,
+            "bounces" : 0.7,
+            "tackles" : 2.1,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 9.5,
+            "totalPossessions" : 13.2,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 54.2,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 120.0,
+            "handballs" : 109.0,
+            "disposals" : 229.0,
+            "marks" : 66.0,
+            "bounces" : 12.0,
+            "tackles" : 35.0,
+            "contestedPossessions" : 63.0,
+            "uncontestedPossessions" : 162.0,
+            "totalPossessions" : 225.0,
+            "inside50s" : 43.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 83.0,
+            "clangers" : 24.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 922.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 19.0
+            },
+            "rebound50s" : 28.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 55.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 64.7
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 6.3,
+            "disposals" : 13.4,
+            "marks" : 4.8,
+            "bounces" : 0.7,
+            "tackles" : 2.2,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 8.7,
+            "totalPossessions" : 13.8,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 56.7,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 136.0,
+            "handballs" : 119.0,
+            "disposals" : 255.0,
+            "marks" : 91.0,
+            "bounces" : 13.0,
+            "tackles" : 41.0,
+            "contestedPossessions" : 97.0,
+            "uncontestedPossessions" : 165.0,
+            "totalPossessions" : 262.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 37.0,
+            "disposalEfficiency" : 82.0,
+            "clangers" : 30.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1078.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 17.0,
+              "totalClearances" : 21.0
+            },
+            "rebound50s" : 43.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 83.3
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 3.1,
+            "handballs" : 4.0,
+            "disposals" : 7.1,
+            "marks" : 1.5,
+            "bounces" : 0.0,
+            "tackles" : 1.1,
+            "contestedPossessions" : 3.2,
+            "uncontestedPossessions" : 3.9,
+            "totalPossessions" : 7.1,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 28.0,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 25.0,
+            "handballs" : 32.0,
+            "disposals" : 57.0,
+            "marks" : 12.0,
+            "bounces" : 0.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 26.0,
+            "uncontestedPossessions" : 31.0,
+            "totalPossessions" : 57.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 82.5,
+            "clangers" : 11.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 224.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 50.4
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220010",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Boyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 321.0,
+      "handballs" : 195.0,
+      "disposals" : 516.0,
+      "marks" : 148.0,
+      "bounces" : 20.0,
+      "tackles" : 40.0,
+      "contestedPossessions" : 133.0,
+      "uncontestedPossessions" : 356.0,
+      "totalPossessions" : 489.0,
+      "inside50s" : 45.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 3.0,
+      "onePercenters" : 30.0,
+      "disposalEfficiency" : 79.1,
+      "clangers" : 47.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 1957.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 84.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 14.3,
+      "ratingPoints" : 423.5,
+      "ranking" : 75.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I220010",
+        "playerName" : {
+          "givenName" : "Matthew",
+          "surname" : "Boyd"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T140",
+        "teamAbbr" : "WB",
+        "teamName" : "Western Bulldogs",
+        "teamNickname" : "Bulldogs"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 412.8,
+        "ranking" : 82,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 412.8,
+        "ranking" : 6,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 412.8,
+        "ranking" : 6,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.4,
+        "ranking" : 172,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 218.2,
+        "ranking" : 116,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2001"
+    },
+    "careerGamesPlayed" : 258
+  }
+}

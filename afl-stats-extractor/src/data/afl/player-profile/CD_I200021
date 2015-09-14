@@ -1,0 +1,1506 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I200021",
+    "position" : "Centre",
+    "surname" : "Johnson",
+    "jumperNumber" : 26,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 11.6,
+      "handballs" : 6.0,
+      "disposals" : 17.6,
+      "marks" : 4.0,
+      "bounces" : 0.9,
+      "tackles" : 1.9,
+      "contestedPossessions" : 4.5,
+      "uncontestedPossessions" : 12.9,
+      "totalPossessions" : 17.3,
+      "inside50s" : 3.1,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.3,
+      "disposalEfficiency" : null,
+      "clangers" : 1.9,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 67.1,
+      "clearances" : {
+        "centreClearances" : 0.4,
+        "stoppageClearances" : 0.9,
+        "totalClearances" : 1.2
+      },
+      "rebound50s" : 2.7,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Ben",
+    "bio" : "<p>Johnson is the most experienced Collingwood player on the 2012 list, having played 224 matches for the club over 12 seasons. He has been remarkably consistent, playing most of his footy at half back as well as taking turns in the midfield, on the wing and as a tagging back pocket. His long, weaving runs have been a feature of his play, as is his left foot. Johnson's awkward kicking style raised eyebrows in his early years, but over time has proven itself to be more accurate than most. Has long been a leader at the club and has a great record in big matches. Played in all five Grand Finals (and three pre-season Grand Finals) in the Mick Malthouse era, and was standing Stephen Milne in the dying minutes of the drawn Grand Final in 2010. On the veterans list in 2012.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Collingwood/Player Profiles/2013 - Profile/JOHNSON Ben.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1981-04-05T02:00:00.000+0000",
+      "draftYear" : "1999",
+      "heightInCm" : 183,
+      "weightInKg" : 85,
+      "recruitedFrom" : "St Marys (VMFL)/Preston U18",
+      "debutYear" : "2000"
+    },
+    "careerStats" : {
+      "goals" : 70.0,
+      "behinds" : 75.0,
+      "superGoals" : null,
+      "kicks" : 2723.0,
+      "handballs" : 1410.0,
+      "disposals" : 4133.0,
+      "marks" : 929.0,
+      "bounces" : 209.0,
+      "tackles" : 442.0,
+      "contestedPossessions" : 1050.0,
+      "uncontestedPossessions" : 3026.0,
+      "totalPossessions" : 4076.0,
+      "inside50s" : 718.0,
+      "marksInside50" : 39.0,
+      "contestedMarks" : 20.0,
+      "hitouts" : 3.0,
+      "onePercenters" : 303.0,
+      "disposalEfficiency" : 76.5,
+      "clangers" : 454.0,
+      "freesFor" : 161.0,
+      "freesAgainst" : 146.0,
+      "dreamTeamPoints" : 15765.0,
+      "clearances" : {
+        "centreClearances" : 86.0,
+        "stoppageClearances" : 207.0,
+        "totalClearances" : 293.0
+      },
+      "rebound50s" : 641.0,
+      "goalAssists" : 94.0,
+      "goalAccuracy" : 43.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.7,
+            "handballs" : 6.3,
+            "disposals" : 16.0,
+            "marks" : 2.0,
+            "bounces" : 0.3,
+            "tackles" : 4.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 9.7,
+            "totalPossessions" : 13.7,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 60.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 5.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 29.0,
+            "handballs" : 19.0,
+            "disposals" : 48.0,
+            "marks" : 6.0,
+            "bounces" : 1.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 12.0,
+            "uncontestedPossessions" : 29.0,
+            "totalPossessions" : 41.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 70.8,
+            "clangers" : 7.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 182.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 17.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 80.9,
+            "ranking" : 526.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 69.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 12.9,
+            "handballs" : 5.6,
+            "disposals" : 18.5,
+            "marks" : 3.4,
+            "bounces" : 0.7,
+            "tackles" : 1.7,
+            "contestedPossessions" : 3.2,
+            "uncontestedPossessions" : 13.2,
+            "totalPossessions" : 16.5,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 67.0,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 3.6,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 103.0,
+            "handballs" : 45.0,
+            "disposals" : 148.0,
+            "marks" : 27.0,
+            "bounces" : 6.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 26.0,
+            "uncontestedPossessions" : 106.0,
+            "totalPossessions" : 132.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 70.9,
+            "clangers" : 21.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 536.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 29.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 75.8
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 14.0,
+            "handballs" : 8.5,
+            "disposals" : 22.5,
+            "marks" : 3.6,
+            "bounces" : 1.2,
+            "tackles" : 2.2,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 17.1,
+            "totalPossessions" : 21.9,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 80.6,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 3.4,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 224.0,
+            "handballs" : 136.0,
+            "disposals" : 360.0,
+            "marks" : 57.0,
+            "bounces" : 19.0,
+            "tackles" : 35.0,
+            "contestedPossessions" : 78.0,
+            "uncontestedPossessions" : 273.0,
+            "totalPossessions" : 351.0,
+            "inside50s" : 61.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 70.6,
+            "clangers" : 31.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 1289.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 19.0
+            },
+            "rebound50s" : 54.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 79.1
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 13.9,
+            "handballs" : 7.3,
+            "disposals" : 21.2,
+            "marks" : 4.3,
+            "bounces" : 1.7,
+            "tackles" : 2.2,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 16.7,
+            "totalPossessions" : 20.3,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 78.7,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 3.3,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 320.0,
+            "handballs" : 167.0,
+            "disposals" : 487.0,
+            "marks" : 98.0,
+            "bounces" : 40.0,
+            "tackles" : 51.0,
+            "contestedPossessions" : 85.0,
+            "uncontestedPossessions" : 383.0,
+            "totalPossessions" : 468.0,
+            "inside50s" : 64.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 29.0,
+            "disposalEfficiency" : 78.0,
+            "clangers" : 42.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1810.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 19.0
+            },
+            "rebound50s" : 77.0,
+            "goalAssists" : 17.0,
+            "goalAccuracy" : 43.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 79.9
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 11.6,
+            "handballs" : 8.9,
+            "disposals" : 20.5,
+            "marks" : 3.2,
+            "bounces" : 2.1,
+            "tackles" : 1.6,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 16.1,
+            "totalPossessions" : 19.9,
+            "inside50s" : 3.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 69.2,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 162.0,
+            "handballs" : 125.0,
+            "disposals" : 287.0,
+            "marks" : 45.0,
+            "bounces" : 29.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 53.0,
+            "uncontestedPossessions" : 225.0,
+            "totalPossessions" : 278.0,
+            "inside50s" : 51.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 74.2,
+            "clangers" : 23.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 969.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 21.0
+            },
+            "rebound50s" : 38.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 62.5,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 73.1
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 11.7,
+            "handballs" : 5.7,
+            "disposals" : 17.4,
+            "marks" : 5.2,
+            "bounces" : 1.1,
+            "tackles" : 1.9,
+            "contestedPossessions" : 3.1,
+            "uncontestedPossessions" : 13.9,
+            "totalPossessions" : 17.0,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 70.4,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 187.0,
+            "handballs" : 91.0,
+            "disposals" : 278.0,
+            "marks" : 83.0,
+            "bounces" : 18.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 49.0,
+            "uncontestedPossessions" : 223.0,
+            "totalPossessions" : 272.0,
+            "inside50s" : 54.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 75.2,
+            "clangers" : 31.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1126.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 12.0
+            },
+            "rebound50s" : 37.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 53.8,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 78.8
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 13.5,
+            "handballs" : 4.8,
+            "disposals" : 18.3,
+            "marks" : 4.4,
+            "bounces" : 0.7,
+            "tackles" : 2.1,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 13.5,
+            "totalPossessions" : 18.2,
+            "inside50s" : 4.3,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 73.8,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 257.0,
+            "handballs" : 91.0,
+            "disposals" : 348.0,
+            "marks" : 83.0,
+            "bounces" : 14.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 89.0,
+            "uncontestedPossessions" : 257.0,
+            "totalPossessions" : 346.0,
+            "inside50s" : 81.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 74.4,
+            "clangers" : 35.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1402.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 26.0
+            },
+            "rebound50s" : 40.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 55.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 79.1
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 16.3,
+            "handballs" : 6.8,
+            "disposals" : 23.1,
+            "marks" : 6.1,
+            "bounces" : 1.1,
+            "tackles" : 2.8,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 18.2,
+            "totalPossessions" : 23.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 93.7,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 2.6,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 374.0,
+            "handballs" : 157.0,
+            "disposals" : 531.0,
+            "marks" : 141.0,
+            "bounces" : 26.0,
+            "tackles" : 64.0,
+            "contestedPossessions" : 111.0,
+            "uncontestedPossessions" : 418.0,
+            "totalPossessions" : 529.0,
+            "inside50s" : 116.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 76.6,
+            "clangers" : 60.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 2156.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 23.0,
+              "totalClearances" : 32.0
+            },
+            "rebound50s" : 60.0,
+            "goalAssists" : 19.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 87.3
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 12.7,
+            "handballs" : 5.0,
+            "disposals" : 17.7,
+            "marks" : 3.9,
+            "bounces" : 0.4,
+            "tackles" : 1.8,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 11.7,
+            "totalPossessions" : 17.7,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 66.2,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.3
+            },
+            "rebound50s" : 2.8,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 165.0,
+            "handballs" : 65.0,
+            "disposals" : 230.0,
+            "marks" : 51.0,
+            "bounces" : 5.0,
+            "tackles" : 23.0,
+            "contestedPossessions" : 78.0,
+            "uncontestedPossessions" : 152.0,
+            "totalPossessions" : 230.0,
+            "inside50s" : 44.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 78.3,
+            "clangers" : 26.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 861.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 18.0,
+              "totalClearances" : 30.0
+            },
+            "rebound50s" : 36.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 83.5
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 11.7,
+            "handballs" : 5.5,
+            "disposals" : 17.2,
+            "marks" : 4.2,
+            "bounces" : 1.0,
+            "tackles" : 1.4,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 12.0,
+            "totalPossessions" : 17.2,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 64.7,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 3.1,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 258.0,
+            "handballs" : 121.0,
+            "disposals" : 379.0,
+            "marks" : 93.0,
+            "bounces" : 21.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 115.0,
+            "uncontestedPossessions" : 263.0,
+            "totalPossessions" : 378.0,
+            "inside50s" : 70.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 29.0,
+            "disposalEfficiency" : 76.0,
+            "clangers" : 43.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1423.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 23.0,
+              "totalClearances" : 33.0
+            },
+            "rebound50s" : 69.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 28.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 89.0
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.2,
+            "handballs" : 5.8,
+            "disposals" : 15.0,
+            "marks" : 3.6,
+            "bounces" : 0.2,
+            "tackles" : 1.8,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 10.3,
+            "totalPossessions" : 15.2,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 58.6,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 230.0,
+            "handballs" : 144.0,
+            "disposals" : 374.0,
+            "marks" : 91.0,
+            "bounces" : 6.0,
+            "tackles" : 46.0,
+            "contestedPossessions" : 121.0,
+            "uncontestedPossessions" : 258.0,
+            "totalPossessions" : 379.0,
+            "inside50s" : 52.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 42.0,
+            "disposalEfficiency" : 81.0,
+            "clangers" : 34.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 1466.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 24.0,
+              "totalClearances" : 27.0
+            },
+            "rebound50s" : 68.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 54.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 98.2
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 8.6,
+            "handballs" : 5.1,
+            "disposals" : 13.7,
+            "marks" : 3.2,
+            "bounces" : 0.5,
+            "tackles" : 1.8,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 8.9,
+            "totalPossessions" : 14.0,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 52.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 3.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 197.0,
+            "handballs" : 118.0,
+            "disposals" : 315.0,
+            "marks" : 73.0,
+            "bounces" : 11.0,
+            "tackles" : 42.0,
+            "contestedPossessions" : 119.0,
+            "uncontestedPossessions" : 204.0,
+            "totalPossessions" : 323.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 41.0,
+            "disposalEfficiency" : 81.3,
+            "clangers" : 51.0,
+            "freesFor" : 22.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1201.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 26.0,
+              "totalClearances" : 31.0
+            },
+            "rebound50s" : 75.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 11.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 7.3,
+            "handballs" : 4.4,
+            "disposals" : 11.7,
+            "marks" : 2.2,
+            "bounces" : 0.4,
+            "tackles" : 1.4,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 8.2,
+            "totalPossessions" : 11.7,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 43.9,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 117.0,
+            "handballs" : 71.0,
+            "disposals" : 188.0,
+            "marks" : 36.0,
+            "bounces" : 7.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 57.0,
+            "uncontestedPossessions" : 131.0,
+            "totalPossessions" : 188.0,
+            "inside50s" : 36.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 76.6,
+            "clangers" : 25.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 702.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 18.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 27.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200021",
+            "playerName" : {
+              "givenName" : "Ben L.",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 29.0,
+      "handballs" : 19.0,
+      "disposals" : 48.0,
+      "marks" : 6.0,
+      "bounces" : 1.0,
+      "tackles" : 12.0,
+      "contestedPossessions" : 12.0,
+      "uncontestedPossessions" : 29.0,
+      "totalPossessions" : 41.0,
+      "inside50s" : 4.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 9.0,
+      "disposalEfficiency" : 70.8,
+      "clangers" : 7.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 4.0,
+      "dreamTeamPoints" : 182.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 17.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 80.9,
+      "ranking" : 526.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201301427",
+      "player" : {
+        "playerId" : "CD_I200021",
+        "playerName" : {
+          "givenName" : "Ben",
+          "surname" : "Johnson"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T40",
+        "teamAbbr" : "COLL",
+        "teamName" : "Collingwood",
+        "teamNickname" : "Magpies"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 63.0,
+        "ranking" : 562,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 63.0,
+        "ranking" : 34,
+        "ratingType" : "TEAM",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 63.0,
+        "ranking" : 177,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 235
+  }
+}

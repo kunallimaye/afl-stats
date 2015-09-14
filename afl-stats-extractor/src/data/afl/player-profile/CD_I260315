@@ -1,0 +1,888 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I260315",
+    "position" : "Right Half Forward",
+    "surname" : "Anthony",
+    "jumperNumber" : 22,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.6,
+      "behinds" : 0.7,
+      "superGoals" : null,
+      "kicks" : 5.9,
+      "handballs" : 3.9,
+      "disposals" : 9.7,
+      "marks" : 4.5,
+      "bounces" : 0.1,
+      "tackles" : 2.0,
+      "contestedPossessions" : 3.9,
+      "uncontestedPossessions" : 5.7,
+      "totalPossessions" : 9.6,
+      "inside50s" : 1.4,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 0.9,
+      "hitouts" : 0.1,
+      "onePercenters" : 1.8,
+      "disposalEfficiency" : null,
+      "clangers" : 1.9,
+      "freesFor" : 0.6,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 55.1,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.1,
+        "totalClearances" : 0.2
+      },
+      "rebound50s" : 0.3,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "John",
+    "bio" : null,
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Fremantle/Player Profiles/2012 - Profiles/anthony_jack_o.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1988-01-19T01:00:00.000+0000",
+      "draftYear" : "2005",
+      "heightInCm" : 192,
+      "weightInKg" : 94,
+      "recruitedFrom" : "Diamond Creek/Northern U18/Collingwood",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 83.0,
+      "behinds" : 38.0,
+      "superGoals" : null,
+      "kicks" : 300.0,
+      "handballs" : 197.0,
+      "disposals" : 497.0,
+      "marks" : 227.0,
+      "bounces" : 6.0,
+      "tackles" : 104.0,
+      "contestedPossessions" : 201.0,
+      "uncontestedPossessions" : 289.0,
+      "totalPossessions" : 490.0,
+      "inside50s" : 69.0,
+      "marksInside50" : 100.0,
+      "contestedMarks" : 45.0,
+      "hitouts" : 7.0,
+      "onePercenters" : 90.0,
+      "disposalEfficiency" : 71.2,
+      "clangers" : 97.0,
+      "freesFor" : 32.0,
+      "freesAgainst" : 52.0,
+      "dreamTeamPoints" : 2810.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 7.0,
+        "totalClearances" : 9.0
+      },
+      "rebound50s" : 16.0,
+      "goalAssists" : 26.0,
+      "goalAccuracy" : 63.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 4.2,
+            "handballs" : 3.2,
+            "disposals" : 7.5,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 3.7,
+            "totalPossessions" : 7.5,
+            "inside50s" : 0.2,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 35.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260315",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Anthony"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 17.0,
+            "handballs" : 13.0,
+            "disposals" : 30.0,
+            "marks" : 12.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 15.0,
+            "uncontestedPossessions" : 15.0,
+            "totalPossessions" : 30.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 70.0,
+            "clangers" : 5.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 143.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260315",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Anthony"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 66.2
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 3.5,
+            "disposals" : 9.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 4.7,
+            "totalPossessions" : 8.7,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.2,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 36.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260315",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Anthony"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 22.0,
+            "handballs" : 14.0,
+            "disposals" : 36.0,
+            "marks" : 12.0,
+            "bounces" : 0.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 16.0,
+            "uncontestedPossessions" : 19.0,
+            "totalPossessions" : 35.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 72.2,
+            "clangers" : 9.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 144.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260315",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Anthony"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 87.8
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 5.1,
+            "handballs" : 5.7,
+            "disposals" : 10.9,
+            "marks" : 3.4,
+            "bounces" : 0.1,
+            "tackles" : 3.4,
+            "contestedPossessions" : 5.3,
+            "uncontestedPossessions" : 5.4,
+            "totalPossessions" : 10.7,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 52.7,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260315",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Anthony"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 36.0,
+            "handballs" : 40.0,
+            "disposals" : 76.0,
+            "marks" : 24.0,
+            "bounces" : 1.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 37.0,
+            "uncontestedPossessions" : 38.0,
+            "totalPossessions" : 75.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 72.4,
+            "clangers" : 14.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 369.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 55.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260315",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Anthony"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 81.6
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.1,
+            "behinds" : 1.2,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 4.2,
+            "disposals" : 10.8,
+            "marks" : 5.4,
+            "bounces" : 0.2,
+            "tackles" : 2.1,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 6.4,
+            "totalPossessions" : 10.7,
+            "inside50s" : 1.4,
+            "marksInside50" : 2.7,
+            "contestedMarks" : 1.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 64.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260315",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Anthony"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 50.0,
+            "behinds" : 28.0,
+            "superGoals" : null,
+            "kicks" : 157.0,
+            "handballs" : 102.0,
+            "disposals" : 259.0,
+            "marks" : 129.0,
+            "bounces" : 5.0,
+            "tackles" : 50.0,
+            "contestedPossessions" : 103.0,
+            "uncontestedPossessions" : 153.0,
+            "totalPossessions" : 256.0,
+            "inside50s" : 34.0,
+            "marksInside50" : 66.0,
+            "contestedMarks" : 28.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 48.0,
+            "disposalEfficiency" : 69.5,
+            "clangers" : 44.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 1545.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 62.5,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260315",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Anthony"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 85.7
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.1,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 5.7,
+            "handballs" : 2.3,
+            "disposals" : 8.0,
+            "marks" : 4.2,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 2.5,
+            "uncontestedPossessions" : 5.3,
+            "totalPossessions" : 7.8,
+            "inside50s" : 1.4,
+            "marksInside50" : 1.8,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 50.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260315",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Anthony"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 25.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 68.0,
+            "handballs" : 28.0,
+            "disposals" : 96.0,
+            "marks" : 50.0,
+            "bounces" : 0.0,
+            "tackles" : 20.0,
+            "contestedPossessions" : 30.0,
+            "uncontestedPossessions" : 64.0,
+            "totalPossessions" : 94.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 22.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 75.0,
+            "clangers" : 25.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 609.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 75.8,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260315",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Anthony"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 84.3
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260315",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Anthony"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260315",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Anthony"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260315",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Anthony"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260315",
+            "playerName" : {
+              "givenName" : "John",
+              "surname" : "Anthony"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 3.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 17.0,
+      "handballs" : 13.0,
+      "disposals" : 30.0,
+      "marks" : 12.0,
+      "bounces" : 0.0,
+      "tackles" : 4.0,
+      "contestedPossessions" : 15.0,
+      "uncontestedPossessions" : 15.0,
+      "totalPossessions" : 30.0,
+      "inside50s" : 1.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : 70.0,
+      "clangers" : 5.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 2.0,
+      "dreamTeamPoints" : 143.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201201427",
+      "player" : {
+        "playerId" : "CD_I260315",
+        "playerName" : {
+          "givenName" : "John",
+          "surname" : "Anthony"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T60",
+        "teamAbbr" : "FRE",
+        "teamName" : "Fremantle",
+        "teamNickname" : "Dockers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 33.0,
+        "ranking" : 609,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 33.0,
+        "ranking" : 34,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 33.0,
+        "ranking" : 146,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 51
+  }
+}

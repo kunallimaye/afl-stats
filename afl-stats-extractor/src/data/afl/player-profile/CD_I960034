@@ -1,0 +1,750 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960034",
+    "position" : "Right Wing",
+    "surname" : "Hart",
+    "jumperNumber" : 34,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Ben",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1974-07-09T02:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 190,
+      "weightInKg" : 83,
+      "recruitedFrom" : "North Adelaide (SA) ",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 14.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 1615.0,
+      "handballs" : 589.0,
+      "disposals" : 2204.0,
+      "marks" : 620.0,
+      "bounces" : 82.0,
+      "tackles" : 243.0,
+      "contestedPossessions" : 746.0,
+      "uncontestedPossessions" : 1354.0,
+      "totalPossessions" : 2100.0,
+      "inside50s" : 230.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 75.0,
+      "hitouts" : 28.0,
+      "onePercenters" : 374.0,
+      "disposalEfficiency" : 84.6,
+      "clangers" : 272.0,
+      "freesFor" : 84.0,
+      "freesAgainst" : 92.0,
+      "dreamTeamPoints" : 8788.0,
+      "clearances" : {
+        "centreClearances" : 18.0,
+        "stoppageClearances" : 89.0,
+        "totalClearances" : 107.0
+      },
+      "rebound50s" : 565.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 45.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.1,
+            "handballs" : 4.5,
+            "disposals" : 14.6,
+            "marks" : 5.8,
+            "bounces" : 0.2,
+            "tackles" : 0.9,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 10.3,
+            "totalPossessions" : 14.5,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.2,
+            "onePercenters" : 3.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 58.9,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960034",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Hart"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 131.0,
+            "handballs" : 59.0,
+            "disposals" : 190.0,
+            "marks" : 76.0,
+            "bounces" : 3.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 55.0,
+            "uncontestedPossessions" : 134.0,
+            "totalPossessions" : 189.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 41.0,
+            "disposalEfficiency" : 84.2,
+            "clangers" : 21.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 766.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 31.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960034",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Hart"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 74.7
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.8,
+            "handballs" : 5.0,
+            "disposals" : 14.8,
+            "marks" : 3.9,
+            "bounces" : 0.9,
+            "tackles" : 1.6,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 9.8,
+            "totalPossessions" : 14.0,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 57.0,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960034",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Hart"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 215.0,
+            "handballs" : 111.0,
+            "disposals" : 326.0,
+            "marks" : 85.0,
+            "bounces" : 20.0,
+            "tackles" : 35.0,
+            "contestedPossessions" : 93.0,
+            "uncontestedPossessions" : 215.0,
+            "totalPossessions" : 308.0,
+            "inside50s" : 30.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 74.0,
+            "disposalEfficiency" : 83.7,
+            "clangers" : 35.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1254.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 87.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960034",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Hart"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 89.3
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.5,
+            "handballs" : 3.5,
+            "disposals" : 13.0,
+            "marks" : 4.8,
+            "bounces" : 0.2,
+            "tackles" : 1.0,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 8.3,
+            "totalPossessions" : 12.0,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 52.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 3.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960034",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Hart"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 57.0,
+            "handballs" : 21.0,
+            "disposals" : 78.0,
+            "marks" : 29.0,
+            "bounces" : 1.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 22.0,
+            "uncontestedPossessions" : 50.0,
+            "totalPossessions" : 72.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 80.8,
+            "clangers" : 14.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 316.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 20.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960034",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Hart"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 74.5
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 10.3,
+            "handballs" : 3.8,
+            "disposals" : 14.1,
+            "marks" : 3.5,
+            "bounces" : 0.4,
+            "tackles" : 2.2,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 8.3,
+            "totalPossessions" : 13.2,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 57.1,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960034",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Hart"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 217.0,
+            "handballs" : 80.0,
+            "disposals" : 297.0,
+            "marks" : 73.0,
+            "bounces" : 8.0,
+            "tackles" : 46.0,
+            "contestedPossessions" : 103.0,
+            "uncontestedPossessions" : 175.0,
+            "totalPossessions" : 278.0,
+            "inside50s" : 31.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 78.0,
+            "disposalEfficiency" : 81.8,
+            "clangers" : 28.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1199.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 18.0,
+              "totalClearances" : 22.0
+            },
+            "rebound50s" : 85.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960034",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Hart"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 96.6
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 12.0,
+            "handballs" : 3.9,
+            "disposals" : 15.9,
+            "marks" : 4.4,
+            "bounces" : 1.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.4,
+            "uncontestedPossessions" : 10.6,
+            "totalPossessions" : 15.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.2,
+            "onePercenters" : 3.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 63.6,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 4.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960034",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Hart"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 301.0,
+            "handballs" : 97.0,
+            "disposals" : 398.0,
+            "marks" : 110.0,
+            "bounces" : 26.0,
+            "tackles" : 43.0,
+            "contestedPossessions" : 111.0,
+            "uncontestedPossessions" : 264.0,
+            "totalPossessions" : 375.0,
+            "inside50s" : 50.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 82.0,
+            "disposalEfficiency" : 86.9,
+            "clangers" : 38.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1590.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 21.0,
+              "totalClearances" : 26.0
+            },
+            "rebound50s" : 105.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 28.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960034",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Hart"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 11.6,
+            "handballs" : 3.3,
+            "disposals" : 14.9,
+            "marks" : 3.5,
+            "bounces" : 0.3,
+            "tackles" : 2.1,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 8.6,
+            "totalPossessions" : 14.2,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 60.5,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960034",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Hart"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 256.0,
+            "handballs" : 72.0,
+            "disposals" : 328.0,
+            "marks" : 78.0,
+            "bounces" : 6.0,
+            "tackles" : 47.0,
+            "contestedPossessions" : 123.0,
+            "uncontestedPossessions" : 189.0,
+            "totalPossessions" : 312.0,
+            "inside50s" : 44.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 83.5,
+            "clangers" : 42.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1331.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 17.0,
+              "totalClearances" : 21.0
+            },
+            "rebound50s" : 89.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960034",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Hart"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 131.0,
+      "handballs" : 59.0,
+      "disposals" : 190.0,
+      "marks" : 76.0,
+      "bounces" : 3.0,
+      "tackles" : 12.0,
+      "contestedPossessions" : 55.0,
+      "uncontestedPossessions" : 134.0,
+      "totalPossessions" : 189.0,
+      "inside50s" : 9.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 2.0,
+      "onePercenters" : 41.0,
+      "disposalEfficiency" : 84.2,
+      "clangers" : 21.0,
+      "freesFor" : 4.0,
+      "freesAgainst" : 9.0,
+      "dreamTeamPoints" : 766.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 31.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

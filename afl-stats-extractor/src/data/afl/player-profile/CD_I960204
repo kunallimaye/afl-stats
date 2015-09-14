@@ -1,0 +1,544 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960204",
+    "position" : "Left Wing",
+    "surname" : "Hardwick",
+    "jumperNumber" : 11,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Damien",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1972-08-18T02:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 180,
+      "weightInKg" : 82,
+      "recruitedFrom" : "Upwey-Tecoma/North Melb Reserves/Springvale/Essendon",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 2.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 1135.0,
+      "handballs" : 753.0,
+      "disposals" : 1888.0,
+      "marks" : 343.0,
+      "bounces" : 42.0,
+      "tackles" : 246.0,
+      "contestedPossessions" : 814.0,
+      "uncontestedPossessions" : 1060.0,
+      "totalPossessions" : 1874.0,
+      "inside50s" : 134.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 28.0,
+      "hitouts" : 6.0,
+      "onePercenters" : 137.0,
+      "disposalEfficiency" : 84.6,
+      "clangers" : 229.0,
+      "freesFor" : 143.0,
+      "freesAgainst" : 92.0,
+      "dreamTeamPoints" : 6813.0,
+      "clearances" : {
+        "centreClearances" : 45.0,
+        "stoppageClearances" : 128.0,
+        "totalClearances" : 173.0
+      },
+      "rebound50s" : 362.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 25.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.7,
+            "handballs" : 6.1,
+            "disposals" : 11.9,
+            "marks" : 2.4,
+            "bounces" : 0.2,
+            "tackles" : 1.9,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 7.5,
+            "totalPossessions" : 12.1,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 44.4,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960204",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Hardwick"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 80.0,
+            "handballs" : 86.0,
+            "disposals" : 166.0,
+            "marks" : 34.0,
+            "bounces" : 3.0,
+            "tackles" : 27.0,
+            "contestedPossessions" : 65.0,
+            "uncontestedPossessions" : 105.0,
+            "totalPossessions" : 170.0,
+            "inside50s" : 21.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 81.9,
+            "clangers" : 14.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 622.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 18.0,
+              "totalClearances" : 31.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960204",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Hardwick"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 38.8
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.7,
+            "handballs" : 5.5,
+            "disposals" : 13.2,
+            "marks" : 2.8,
+            "bounces" : 0.3,
+            "tackles" : 2.1,
+            "contestedPossessions" : 5.3,
+            "uncontestedPossessions" : 7.7,
+            "totalPossessions" : 13.0,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 50.0,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960204",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Hardwick"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 154.0,
+            "handballs" : 111.0,
+            "disposals" : 265.0,
+            "marks" : 57.0,
+            "bounces" : 6.0,
+            "tackles" : 42.0,
+            "contestedPossessions" : 107.0,
+            "uncontestedPossessions" : 154.0,
+            "totalPossessions" : 261.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 39.0,
+            "disposalEfficiency" : 84.9,
+            "clangers" : 32.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1000.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 19.0,
+              "totalClearances" : 24.0
+            },
+            "rebound50s" : 48.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960204",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Hardwick"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 74.2
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.1,
+            "handballs" : 6.0,
+            "disposals" : 15.1,
+            "marks" : 2.9,
+            "bounces" : 0.2,
+            "tackles" : 2.5,
+            "contestedPossessions" : 6.4,
+            "uncontestedPossessions" : 8.7,
+            "totalPossessions" : 15.2,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 1.7,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 58.0,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960204",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Hardwick"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 182.0,
+            "handballs" : 121.0,
+            "disposals" : 303.0,
+            "marks" : 58.0,
+            "bounces" : 4.0,
+            "tackles" : 50.0,
+            "contestedPossessions" : 129.0,
+            "uncontestedPossessions" : 175.0,
+            "totalPossessions" : 304.0,
+            "inside50s" : 18.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 87.1,
+            "clangers" : 30.0,
+            "freesFor" : 34.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1160.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 16.0,
+              "totalClearances" : 24.0
+            },
+            "rebound50s" : 55.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960204",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Hardwick"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.7,
+            "handballs" : 7.4,
+            "disposals" : 17.0,
+            "marks" : 3.4,
+            "bounces" : 0.7,
+            "tackles" : 2.0,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 9.7,
+            "totalPossessions" : 16.7,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 60.6,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960204",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Hardwick"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 203.0,
+            "handballs" : 155.0,
+            "disposals" : 358.0,
+            "marks" : 72.0,
+            "bounces" : 14.0,
+            "tackles" : 41.0,
+            "contestedPossessions" : 148.0,
+            "uncontestedPossessions" : 203.0,
+            "totalPossessions" : 351.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 86.9,
+            "clangers" : 43.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1273.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 22.0,
+              "totalClearances" : 31.0
+            },
+            "rebound50s" : 83.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960204",
+            "playerName" : {
+              "givenName" : "Damien",
+              "surname" : "Hardwick"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 80.0,
+      "handballs" : 86.0,
+      "disposals" : 166.0,
+      "marks" : 34.0,
+      "bounces" : 3.0,
+      "tackles" : 27.0,
+      "contestedPossessions" : 65.0,
+      "uncontestedPossessions" : 105.0,
+      "totalPossessions" : 170.0,
+      "inside50s" : 21.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 2.0,
+      "onePercenters" : 12.0,
+      "disposalEfficiency" : 81.9,
+      "clangers" : 14.0,
+      "freesFor" : 16.0,
+      "freesAgainst" : 8.0,
+      "dreamTeamPoints" : 622.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 13.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

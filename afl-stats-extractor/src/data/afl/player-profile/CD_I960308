@@ -1,0 +1,441 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960308",
+    "position" : "Full Forward",
+    "surname" : "Hunter",
+    "jumperNumber" : 32,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Kingsley",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1975-05-27T02:00:00.000+0000",
+      "draftYear" : "",
+      "heightInCm" : 191,
+      "weightInKg" : 102,
+      "recruitedFrom" : "",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 29.0,
+      "behinds" : 17.0,
+      "superGoals" : null,
+      "kicks" : 462.0,
+      "handballs" : 212.0,
+      "disposals" : 674.0,
+      "marks" : 240.0,
+      "bounces" : 64.0,
+      "tackles" : 38.0,
+      "contestedPossessions" : 233.0,
+      "uncontestedPossessions" : 417.0,
+      "totalPossessions" : 650.0,
+      "inside50s" : 66.0,
+      "marksInside50" : 36.0,
+      "contestedMarks" : 33.0,
+      "hitouts" : 6.0,
+      "onePercenters" : 99.0,
+      "disposalEfficiency" : 83.5,
+      "clangers" : 98.0,
+      "freesFor" : 24.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 2846.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 17.0,
+        "totalClearances" : 24.0
+      },
+      "rebound50s" : 140.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 60.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.5,
+            "handballs" : 2.5,
+            "disposals" : 6.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 2.5,
+            "uncontestedPossessions" : 3.0,
+            "totalPossessions" : 5.5,
+            "inside50s" : 0.5,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.5,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 25.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960308",
+            "playerName" : {
+              "givenName" : "Kingsley",
+              "surname" : "Hunter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 5.0,
+            "disposals" : 12.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 11.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 91.7,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 50.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960308",
+            "playerName" : {
+              "givenName" : "Kingsley",
+              "surname" : "Hunter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 57.9
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.7,
+            "handballs" : 3.9,
+            "disposals" : 10.6,
+            "marks" : 3.8,
+            "bounces" : 0.7,
+            "tackles" : 0.6,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 6.8,
+            "totalPossessions" : 10.6,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 42.8,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960308",
+            "playerName" : {
+              "givenName" : "Kingsley",
+              "surname" : "Hunter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 127.0,
+            "handballs" : 75.0,
+            "disposals" : 202.0,
+            "marks" : 73.0,
+            "bounces" : 14.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 72.0,
+            "uncontestedPossessions" : 130.0,
+            "totalPossessions" : 202.0,
+            "inside50s" : 20.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 52.0,
+            "disposalEfficiency" : 83.7,
+            "clangers" : 29.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 814.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 38.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960308",
+            "playerName" : {
+              "givenName" : "Kingsley",
+              "surname" : "Hunter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 3.8,
+            "disposals" : 12.0,
+            "marks" : 4.8,
+            "bounces" : 1.1,
+            "tackles" : 0.7,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 7.6,
+            "totalPossessions" : 11.4,
+            "inside50s" : 1.4,
+            "marksInside50" : 1.1,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 55.3,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960308",
+            "playerName" : {
+              "givenName" : "Kingsley",
+              "surname" : "Hunter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 20.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 173.0,
+            "handballs" : 80.0,
+            "disposals" : 253.0,
+            "marks" : 101.0,
+            "bounces" : 23.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 80.0,
+            "uncontestedPossessions" : 159.0,
+            "totalPossessions" : 239.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 23.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 83.0,
+            "clangers" : 34.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 1161.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 42.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 64.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960308",
+            "playerName" : {
+              "givenName" : "Kingsley",
+              "surname" : "Hunter"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 7.0,
+      "handballs" : 5.0,
+      "disposals" : 12.0,
+      "marks" : 4.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 5.0,
+      "uncontestedPossessions" : 6.0,
+      "totalPossessions" : 11.0,
+      "inside50s" : 1.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 4.0,
+      "disposalEfficiency" : 91.7,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 50.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

@@ -1,0 +1,853 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I250662",
+    "position" : "Centre Half Back",
+    "surname" : "Thursfield",
+    "jumperNumber" : 2,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Will",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1986-04-19T02:00:00.000+0000",
+      "draftYear" : "2005",
+      "heightInCm" : 192,
+      "weightInKg" : 86,
+      "recruitedFrom" : "Ormond/Sandringham U18",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 0.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 298.0,
+      "handballs" : 406.0,
+      "disposals" : 704.0,
+      "marks" : 235.0,
+      "bounces" : 23.0,
+      "tackles" : 112.0,
+      "contestedPossessions" : 215.0,
+      "uncontestedPossessions" : 477.0,
+      "totalPossessions" : 692.0,
+      "inside50s" : 20.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 27.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 459.0,
+      "disposalEfficiency" : 88.4,
+      "clangers" : 104.0,
+      "freesFor" : 36.0,
+      "freesAgainst" : 75.0,
+      "dreamTeamPoints" : 2675.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 6.0,
+        "totalClearances" : 7.0
+      },
+      "rebound50s" : 116.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.3,
+            "handballs" : 4.7,
+            "disposals" : 10.0,
+            "marks" : 3.8,
+            "bounces" : 0.0,
+            "tackles" : 2.3,
+            "contestedPossessions" : 3.2,
+            "uncontestedPossessions" : 6.5,
+            "totalPossessions" : 9.7,
+            "inside50s" : 0.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.3,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 42.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250662",
+            "playerName" : {
+              "givenName" : "Will",
+              "surname" : "Thursfield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 53.0,
+            "handballs" : 47.0,
+            "disposals" : 100.0,
+            "marks" : 38.0,
+            "bounces" : 0.0,
+            "tackles" : 23.0,
+            "contestedPossessions" : 32.0,
+            "uncontestedPossessions" : 65.0,
+            "totalPossessions" : 97.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 50.0,
+            "disposalEfficiency" : 90.0,
+            "clangers" : 16.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 423.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250662",
+            "playerName" : {
+              "givenName" : "Will",
+              "surname" : "Thursfield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 88.0
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 4.4,
+            "handballs" : 5.4,
+            "disposals" : 9.9,
+            "marks" : 3.1,
+            "bounces" : 0.1,
+            "tackles" : 1.7,
+            "contestedPossessions" : 2.9,
+            "uncontestedPossessions" : 6.9,
+            "totalPossessions" : 9.7,
+            "inside50s" : 0.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 38.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250662",
+            "playerName" : {
+              "givenName" : "Will",
+              "surname" : "Thursfield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 62.0,
+            "handballs" : 76.0,
+            "disposals" : 138.0,
+            "marks" : 43.0,
+            "bounces" : 2.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 40.0,
+            "uncontestedPossessions" : 96.0,
+            "totalPossessions" : 136.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 84.0,
+            "disposalEfficiency" : 84.8,
+            "clangers" : 19.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 542.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250662",
+            "playerName" : {
+              "givenName" : "Will",
+              "surname" : "Thursfield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 86.3
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.8,
+            "handballs" : 4.6,
+            "disposals" : 7.4,
+            "marks" : 2.3,
+            "bounces" : 0.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 2.6,
+            "uncontestedPossessions" : 4.8,
+            "totalPossessions" : 7.4,
+            "inside50s" : 0.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.1,
+            "disposalEfficiency" : null,
+            "clangers" : 0.9,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 28.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250662",
+            "playerName" : {
+              "givenName" : "Will",
+              "surname" : "Thursfield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 36.0,
+            "handballs" : 60.0,
+            "disposals" : 96.0,
+            "marks" : 30.0,
+            "bounces" : 0.0,
+            "tackles" : 16.0,
+            "contestedPossessions" : 34.0,
+            "uncontestedPossessions" : 62.0,
+            "totalPossessions" : 96.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 66.0,
+            "disposalEfficiency" : 85.4,
+            "clangers" : 12.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 367.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250662",
+            "playerName" : {
+              "givenName" : "Will",
+              "surname" : "Thursfield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 83.3
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.6,
+            "handballs" : 6.0,
+            "disposals" : 9.6,
+            "marks" : 3.3,
+            "bounces" : 0.4,
+            "tackles" : 1.2,
+            "contestedPossessions" : 2.1,
+            "uncontestedPossessions" : 7.3,
+            "totalPossessions" : 9.4,
+            "inside50s" : 0.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 33.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250662",
+            "playerName" : {
+              "givenName" : "Will",
+              "surname" : "Thursfield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 64.0,
+            "handballs" : 108.0,
+            "disposals" : 172.0,
+            "marks" : 59.0,
+            "bounces" : 7.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 38.0,
+            "uncontestedPossessions" : 132.0,
+            "totalPossessions" : 170.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 105.0,
+            "disposalEfficiency" : 89.0,
+            "clangers" : 32.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 24.0,
+            "dreamTeamPoints" : 609.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250662",
+            "playerName" : {
+              "givenName" : "Will",
+              "surname" : "Thursfield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 93.5
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.9,
+            "handballs" : 5.4,
+            "disposals" : 9.3,
+            "marks" : 3.3,
+            "bounces" : 0.9,
+            "tackles" : 1.3,
+            "contestedPossessions" : 2.7,
+            "uncontestedPossessions" : 6.3,
+            "totalPossessions" : 9.0,
+            "inside50s" : 0.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 7.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 35.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250662",
+            "playerName" : {
+              "givenName" : "Will",
+              "surname" : "Thursfield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 58.0,
+            "handballs" : 81.0,
+            "disposals" : 139.0,
+            "marks" : 50.0,
+            "bounces" : 13.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 40.0,
+            "uncontestedPossessions" : 95.0,
+            "totalPossessions" : 135.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 119.0,
+            "disposalEfficiency" : 94.2,
+            "clangers" : 17.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 530.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250662",
+            "playerName" : {
+              "givenName" : "Will",
+              "surname" : "Thursfield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 96.1
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 1.0,
+            "handballs" : 1.0,
+            "disposals" : 2.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 2.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 14.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250662",
+            "playerName" : {
+              "givenName" : "Will",
+              "surname" : "Thursfield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 1.0,
+            "handballs" : 1.0,
+            "disposals" : 2.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 2.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 50.0,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 14.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250662",
+            "playerName" : {
+              "givenName" : "Will",
+              "surname" : "Thursfield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 79.1
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 5.5,
+            "disposals" : 9.5,
+            "marks" : 2.5,
+            "bounces" : 0.2,
+            "tackles" : 0.8,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 4.5,
+            "totalPossessions" : 9.3,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 31.7,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250662",
+            "playerName" : {
+              "givenName" : "Will",
+              "surname" : "Thursfield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 24.0,
+            "handballs" : 33.0,
+            "disposals" : 57.0,
+            "marks" : 15.0,
+            "bounces" : 1.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 29.0,
+            "uncontestedPossessions" : 27.0,
+            "totalPossessions" : 56.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 84.2,
+            "clangers" : 7.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 190.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250662",
+            "playerName" : {
+              "givenName" : "Will",
+              "surname" : "Thursfield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 86.7
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 53.0,
+      "handballs" : 47.0,
+      "disposals" : 100.0,
+      "marks" : 38.0,
+      "bounces" : 0.0,
+      "tackles" : 23.0,
+      "contestedPossessions" : 32.0,
+      "uncontestedPossessions" : 65.0,
+      "totalPossessions" : 97.0,
+      "inside50s" : 4.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 50.0,
+      "disposalEfficiency" : 90.0,
+      "clangers" : 16.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 423.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 13.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 0.0,
+      "ranking" : 0.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

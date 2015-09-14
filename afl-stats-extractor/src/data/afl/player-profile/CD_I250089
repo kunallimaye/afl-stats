@@ -1,0 +1,1310 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I250089",
+    "position" : "Rover",
+    "surname" : "Lewis",
+    "jumperNumber" : 3,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 12.1,
+      "handballs" : 11.4,
+      "disposals" : 23.5,
+      "marks" : 5.8,
+      "bounces" : 0.2,
+      "tackles" : 2.7,
+      "contestedPossessions" : 8.7,
+      "uncontestedPossessions" : 14.9,
+      "totalPossessions" : 23.6,
+      "inside50s" : 3.7,
+      "marksInside50" : 0.6,
+      "contestedMarks" : 0.3,
+      "hitouts" : 1.6,
+      "onePercenters" : 1.4,
+      "disposalEfficiency" : null,
+      "clangers" : 2.7,
+      "freesFor" : 1.1,
+      "freesAgainst" : 1.1,
+      "dreamTeamPoints" : 90.4,
+      "clearances" : {
+        "centreClearances" : 1.7,
+        "stoppageClearances" : 2.1,
+        "totalClearances" : 3.9
+      },
+      "rebound50s" : 1.4,
+      "goalAssists" : 0.7,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jordan",
+    "bio" : "<p>Went from very good to great in 2014 with a brilliant season in the midfield. Led the Hawks for handballs, was second for handball receives, inside 50s and hard-ball gets and his average disposals jumped from 21.8 to 27.8. His versatility remains a key, with his ability to play inside or outside and to go forward and kick an important goal. Stamped himself as the likely next captain of Hawthorn with some brilliant work in big games and enjoyed an outstanding September, with his form in the Grand Final elite. Earned All-Australian selection for the first time.</p>\n<p><strong>Draft history:</strong> 2004 NAB AFL Draft 1st round selection (Hawthorn) No. 7 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Hawthorn/Player Profiles/2015 - Profiles/LEWIS Jordan.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1986-04-24T02:00:00.000+0000",
+      "draftYear" : "2004",
+      "heightInCm" : 186,
+      "weightInKg" : 88,
+      "recruitedFrom" : "Warrnambool/Geelong U18",
+      "debutYear" : "2005"
+    },
+    "careerStats" : {
+      "goals" : 131.0,
+      "behinds" : 74.0,
+      "superGoals" : null,
+      "kicks" : 2868.0,
+      "handballs" : 2703.0,
+      "disposals" : 5571.0,
+      "marks" : 1365.0,
+      "bounces" : 57.0,
+      "tackles" : 642.0,
+      "contestedPossessions" : 2056.0,
+      "uncontestedPossessions" : 3528.0,
+      "totalPossessions" : 5584.0,
+      "inside50s" : 873.0,
+      "marksInside50" : 134.0,
+      "contestedMarks" : 75.0,
+      "hitouts" : 380.0,
+      "onePercenters" : 327.0,
+      "disposalEfficiency" : 73.9,
+      "clangers" : 629.0,
+      "freesFor" : 254.0,
+      "freesAgainst" : 249.0,
+      "dreamTeamPoints" : 21420.0,
+      "clearances" : {
+        "centreClearances" : 414.0,
+        "stoppageClearances" : 503.0,
+        "totalClearances" : 917.0
+      },
+      "rebound50s" : 338.0,
+      "goalAssists" : 165.0,
+      "goalAccuracy" : 51.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 15.7,
+            "handballs" : 14.0,
+            "disposals" : 29.8,
+            "marks" : 6.3,
+            "bounces" : 0.0,
+            "tackles" : 3.1,
+            "contestedPossessions" : 9.9,
+            "uncontestedPossessions" : 19.6,
+            "totalPossessions" : 29.5,
+            "inside50s" : 4.7,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.0,
+            "hitouts" : 2.6,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 3.5,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 109.8,
+            "clearances" : {
+              "centreClearances" : 1.8,
+              "stoppageClearances" : 2.8,
+              "totalClearances" : 4.7
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 315.0,
+            "handballs" : 281.0,
+            "disposals" : 596.0,
+            "marks" : 127.0,
+            "bounces" : 1.0,
+            "tackles" : 63.0,
+            "contestedPossessions" : 198.0,
+            "uncontestedPossessions" : 392.0,
+            "totalPossessions" : 590.0,
+            "inside50s" : 94.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 52.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 70.5,
+            "clangers" : 71.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 2196.0,
+            "clearances" : {
+              "centreClearances" : 37.0,
+              "stoppageClearances" : 57.0,
+              "totalClearances" : 94.0
+            },
+            "rebound50s" : 45.0,
+            "goalAssists" : 18.0,
+            "goalAccuracy" : 35.0,
+            "ratingPoints" : 470.9,
+            "ranking" : 42.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 87.1
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 14.1,
+            "handballs" : 13.7,
+            "disposals" : 27.8,
+            "marks" : 5.7,
+            "bounces" : 0.2,
+            "tackles" : 3.8,
+            "contestedPossessions" : 10.7,
+            "uncontestedPossessions" : 17.0,
+            "totalPossessions" : 27.7,
+            "inside50s" : 3.7,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.2,
+            "hitouts" : 3.4,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 109.1,
+            "clearances" : {
+              "centreClearances" : 2.4,
+              "stoppageClearances" : 3.3,
+              "totalClearances" : 5.7
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 338.0,
+            "handballs" : 330.0,
+            "disposals" : 668.0,
+            "marks" : 136.0,
+            "bounces" : 4.0,
+            "tackles" : 92.0,
+            "contestedPossessions" : 256.0,
+            "uncontestedPossessions" : 408.0,
+            "totalPossessions" : 664.0,
+            "inside50s" : 89.0,
+            "marksInside50" : 16.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 81.0,
+            "onePercenters" : 38.0,
+            "disposalEfficiency" : 73.8,
+            "clangers" : 58.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 2618.0,
+            "clearances" : {
+              "centreClearances" : 58.0,
+              "stoppageClearances" : 79.0,
+              "totalClearances" : 137.0
+            },
+            "rebound50s" : 39.0,
+            "goalAssists" : 14.0,
+            "goalAccuracy" : 54.8,
+            "ratingPoints" : 481.3,
+            "ranking" : 30.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 85.5
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 11.7,
+            "handballs" : 10.2,
+            "disposals" : 21.9,
+            "marks" : 4.8,
+            "bounces" : 0.1,
+            "tackles" : 3.8,
+            "contestedPossessions" : 9.1,
+            "uncontestedPossessions" : 12.7,
+            "totalPossessions" : 21.8,
+            "inside50s" : 4.2,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.1,
+            "hitouts" : 2.9,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 91.7,
+            "clearances" : {
+              "centreClearances" : 1.9,
+              "stoppageClearances" : 2.2,
+              "totalClearances" : 4.1
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 281.0,
+            "handballs" : 244.0,
+            "disposals" : 525.0,
+            "marks" : 116.0,
+            "bounces" : 3.0,
+            "tackles" : 91.0,
+            "contestedPossessions" : 218.0,
+            "uncontestedPossessions" : 306.0,
+            "totalPossessions" : 524.0,
+            "inside50s" : 102.0,
+            "marksInside50" : 18.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 69.0,
+            "onePercenters" : 37.0,
+            "disposalEfficiency" : 73.1,
+            "clangers" : 55.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 2202.0,
+            "clearances" : {
+              "centreClearances" : 46.0,
+              "stoppageClearances" : 53.0,
+              "totalClearances" : 99.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 20.0,
+            "goalAccuracy" : 54.8,
+            "ratingPoints" : 434.3,
+            "ranking" : 65.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 86.8
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 11.2,
+            "disposals" : 22.3,
+            "marks" : 4.9,
+            "bounces" : 0.1,
+            "tackles" : 3.0,
+            "contestedPossessions" : 9.4,
+            "uncontestedPossessions" : 13.2,
+            "totalPossessions" : 22.6,
+            "inside50s" : 3.7,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.3,
+            "hitouts" : 2.3,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 90.8,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 1.9,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 27.0,
+            "behinds" : 15.0,
+            "superGoals" : null,
+            "kicks" : 243.0,
+            "handballs" : 247.0,
+            "disposals" : 490.0,
+            "marks" : 108.0,
+            "bounces" : 2.0,
+            "tackles" : 67.0,
+            "contestedPossessions" : 207.0,
+            "uncontestedPossessions" : 291.0,
+            "totalPossessions" : 498.0,
+            "inside50s" : 81.0,
+            "marksInside50" : 15.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 51.0,
+            "onePercenters" : 43.0,
+            "disposalEfficiency" : 73.7,
+            "clangers" : 50.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 1998.0,
+            "clearances" : {
+              "centreClearances" : 45.0,
+              "stoppageClearances" : 42.0,
+              "totalClearances" : 87.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 19.0,
+            "goalAccuracy" : 51.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 87.4
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 12.1,
+            "handballs" : 10.4,
+            "disposals" : 22.5,
+            "marks" : 5.6,
+            "bounces" : 0.1,
+            "tackles" : 3.1,
+            "contestedPossessions" : 8.9,
+            "uncontestedPossessions" : 13.9,
+            "totalPossessions" : 22.8,
+            "inside50s" : 4.4,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.3,
+            "hitouts" : 3.4,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.9,
+            "freesFor" : 1.4,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 90.6,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 2.2,
+              "totalClearances" : 3.5
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 267.0,
+            "handballs" : 228.0,
+            "disposals" : 495.0,
+            "marks" : 123.0,
+            "bounces" : 3.0,
+            "tackles" : 68.0,
+            "contestedPossessions" : 196.0,
+            "uncontestedPossessions" : 306.0,
+            "totalPossessions" : 502.0,
+            "inside50s" : 96.0,
+            "marksInside50" : 14.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 75.0,
+            "onePercenters" : 32.0,
+            "disposalEfficiency" : 70.9,
+            "clangers" : 64.0,
+            "freesFor" : 30.0,
+            "freesAgainst" : 30.0,
+            "dreamTeamPoints" : 1993.0,
+            "clearances" : {
+              "centreClearances" : 27.0,
+              "stoppageClearances" : 49.0,
+              "totalClearances" : 76.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 23.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 85.9
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 11.8,
+            "handballs" : 10.1,
+            "disposals" : 21.9,
+            "marks" : 5.9,
+            "bounces" : 0.1,
+            "tackles" : 2.7,
+            "contestedPossessions" : 8.2,
+            "uncontestedPossessions" : 13.9,
+            "totalPossessions" : 22.1,
+            "inside50s" : 3.7,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.4,
+            "hitouts" : 1.1,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.1,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 87.7,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 2.1,
+              "totalClearances" : 3.3
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 272.0,
+            "handballs" : 232.0,
+            "disposals" : 504.0,
+            "marks" : 136.0,
+            "bounces" : 3.0,
+            "tackles" : 62.0,
+            "contestedPossessions" : 188.0,
+            "uncontestedPossessions" : 320.0,
+            "totalPossessions" : 508.0,
+            "inside50s" : 85.0,
+            "marksInside50" : 12.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 25.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 70.0,
+            "clangers" : 56.0,
+            "freesFor" : 25.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 2017.0,
+            "clearances" : {
+              "centreClearances" : 29.0,
+              "stoppageClearances" : 48.0,
+              "totalClearances" : 77.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 81.4
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 12.8,
+            "handballs" : 13.4,
+            "disposals" : 26.2,
+            "marks" : 5.9,
+            "bounces" : 0.4,
+            "tackles" : 2.4,
+            "contestedPossessions" : 8.9,
+            "uncontestedPossessions" : 17.1,
+            "totalPossessions" : 25.9,
+            "inside50s" : 3.6,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.7,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 3.3,
+            "freesFor" : 1.5,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 93.7,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 2.3,
+              "totalClearances" : 3.5
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 243.0,
+            "handballs" : 255.0,
+            "disposals" : 498.0,
+            "marks" : 113.0,
+            "bounces" : 8.0,
+            "tackles" : 45.0,
+            "contestedPossessions" : 169.0,
+            "uncontestedPossessions" : 324.0,
+            "totalPossessions" : 493.0,
+            "inside50s" : 69.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 13.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 71.1,
+            "clangers" : 62.0,
+            "freesFor" : 29.0,
+            "freesAgainst" : 27.0,
+            "dreamTeamPoints" : 1780.0,
+            "clearances" : {
+              "centreClearances" : 23.0,
+              "stoppageClearances" : 43.0,
+              "totalClearances" : 66.0
+            },
+            "rebound50s" : 37.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 85.6
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 11.6,
+            "handballs" : 13.4,
+            "disposals" : 25.0,
+            "marks" : 6.3,
+            "bounces" : 0.7,
+            "tackles" : 1.2,
+            "contestedPossessions" : 8.6,
+            "uncontestedPossessions" : 16.5,
+            "totalPossessions" : 25.1,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.6,
+            "dreamTeamPoints" : 83.7,
+            "clearances" : {
+              "centreClearances" : 2.4,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 4.1
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 232.0,
+            "handballs" : 268.0,
+            "disposals" : 500.0,
+            "marks" : 127.0,
+            "bounces" : 15.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 173.0,
+            "uncontestedPossessions" : 330.0,
+            "totalPossessions" : 503.0,
+            "inside50s" : 76.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 35.0,
+            "disposalEfficiency" : 77.2,
+            "clangers" : 61.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 32.0,
+            "dreamTeamPoints" : 1675.0,
+            "clearances" : {
+              "centreClearances" : 48.0,
+              "stoppageClearances" : 35.0,
+              "totalClearances" : 83.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 14.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 81.0
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 12.9,
+            "handballs" : 11.9,
+            "disposals" : 24.8,
+            "marks" : 7.3,
+            "bounces" : 0.3,
+            "tackles" : 2.2,
+            "contestedPossessions" : 8.6,
+            "uncontestedPossessions" : 16.4,
+            "totalPossessions" : 25.0,
+            "inside50s" : 4.1,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.8,
+            "freesFor" : 1.5,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 95.6,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 3.6
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 310.0,
+            "handballs" : 285.0,
+            "disposals" : 595.0,
+            "marks" : 176.0,
+            "bounces" : 7.0,
+            "tackles" : 52.0,
+            "contestedPossessions" : 207.0,
+            "uncontestedPossessions" : 394.0,
+            "totalPossessions" : 601.0,
+            "inside50s" : 99.0,
+            "marksInside50" : 18.0,
+            "contestedMarks" : 14.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 33.0,
+            "disposalEfficiency" : 77.5,
+            "clangers" : 68.0,
+            "freesFor" : 35.0,
+            "freesAgainst" : 24.0,
+            "dreamTeamPoints" : 2295.0,
+            "clearances" : {
+              "centreClearances" : 47.0,
+              "stoppageClearances" : 40.0,
+              "totalClearances" : 87.0
+            },
+            "rebound50s" : 32.0,
+            "goalAssists" : 18.0,
+            "goalAccuracy" : 51.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 88.1
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 10.8,
+            "handballs" : 8.8,
+            "disposals" : 19.6,
+            "marks" : 5.8,
+            "bounces" : 0.1,
+            "tackles" : 1.9,
+            "contestedPossessions" : 7.2,
+            "uncontestedPossessions" : 12.5,
+            "totalPossessions" : 19.7,
+            "inside50s" : 2.7,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 74.7,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 3.3
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 216.0,
+            "handballs" : 177.0,
+            "disposals" : 393.0,
+            "marks" : 117.0,
+            "bounces" : 2.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 145.0,
+            "uncontestedPossessions" : 250.0,
+            "totalPossessions" : 395.0,
+            "inside50s" : 54.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 76.8,
+            "clangers" : 45.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 1495.0,
+            "clearances" : {
+              "centreClearances" : 31.0,
+              "stoppageClearances" : 36.0,
+              "totalClearances" : 67.0
+            },
+            "rebound50s" : 32.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 62.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 72.2
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.9,
+            "handballs" : 8.2,
+            "disposals" : 16.2,
+            "marks" : 4.5,
+            "bounces" : 0.5,
+            "tackles" : 2.1,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 10.9,
+            "totalPossessions" : 16.4,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 60.6,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 2.3
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 151.0,
+            "handballs" : 156.0,
+            "disposals" : 307.0,
+            "marks" : 86.0,
+            "bounces" : 9.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 104.0,
+            "uncontestedPossessions" : 207.0,
+            "totalPossessions" : 311.0,
+            "inside50s" : 28.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 80.5,
+            "clangers" : 39.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 1151.0,
+            "clearances" : {
+              "centreClearances" : 23.0,
+              "stoppageClearances" : 21.0,
+              "totalClearances" : 44.0
+            },
+            "rebound50s" : 35.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250089",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Lewis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 69.4
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 7.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 315.0,
+      "handballs" : 281.0,
+      "disposals" : 596.0,
+      "marks" : 127.0,
+      "bounces" : 1.0,
+      "tackles" : 63.0,
+      "contestedPossessions" : 198.0,
+      "uncontestedPossessions" : 392.0,
+      "totalPossessions" : 590.0,
+      "inside50s" : 94.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 52.0,
+      "onePercenters" : 27.0,
+      "disposalEfficiency" : 70.5,
+      "clangers" : 71.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 2196.0,
+      "clearances" : {
+        "centreClearances" : 37.0,
+        "stoppageClearances" : 57.0,
+        "totalClearances" : 94.0
+      },
+      "rebound50s" : 45.0,
+      "goalAssists" : 18.0,
+      "goalAccuracy" : 35.0,
+      "ratingPoints" : 470.9,
+      "ranking" : 42.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I250089",
+        "playerName" : {
+          "givenName" : "Jordan",
+          "surname" : "Lewis"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T80",
+        "teamAbbr" : "HAW",
+        "teamName" : "Hawthorn",
+        "teamNickname" : "Hawks"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 465.1,
+        "ranking" : 43,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 465.1,
+        "ranking" : 5,
+        "ratingType" : "TEAM",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 465.1,
+        "ranking" : 26,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 5.9,
+        "ranking" : 129,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 213.3,
+        "ranking" : 125,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2004"
+    },
+    "careerGamesPlayed" : 237
+  }
+}

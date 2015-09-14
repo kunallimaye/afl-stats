@@ -1,0 +1,785 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I260104",
+    "position" : "Interchange",
+    "surname" : "Collins",
+    "jumperNumber" : 16,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.8,
+      "behinds" : 0.5,
+      "superGoals" : null,
+      "kicks" : 8.2,
+      "handballs" : 7.8,
+      "disposals" : 16.0,
+      "marks" : 3.8,
+      "bounces" : 0.3,
+      "tackles" : 3.3,
+      "contestedPossessions" : 4.8,
+      "uncontestedPossessions" : 11.1,
+      "totalPossessions" : 16.0,
+      "inside50s" : 2.7,
+      "marksInside50" : 0.6,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.1,
+      "onePercenters" : 1.2,
+      "disposalEfficiency" : null,
+      "clangers" : 2.7,
+      "freesFor" : 0.6,
+      "freesAgainst" : 1.1,
+      "dreamTeamPoints" : 67.7,
+      "clearances" : {
+        "centreClearances" : 0.3,
+        "stoppageClearances" : 1.1,
+        "totalClearances" : 1.4
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Andrew",
+    "bio" : "<p>The Carlton brainstrust called on Andrew Collins on nine occasions through 2012 and caught glimpses of the former Richmond utility’s capabilities. Where he fits in the 2013 working model&nbsp; shapes as one of the more intriguing scenarios of the impending season.<br>\n<br>\n<strong>Draft history:</strong> 2006 NAB AFL Draft 5th round selection (Richmond) No. 73 overall; 2010 NAB AFL Draft traded by Richmond for Shaun Grigg.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Carlton/Player Profiles/2013 - Profiles/COLLINS Andrew.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1988-11-17T01:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 187,
+      "weightInKg" : 83,
+      "recruitedFrom" : "Sandhurst/Bendigo U18/Richmond",
+      "debutYear" : "2009"
+    },
+    "careerStats" : {
+      "goals" : 29.0,
+      "behinds" : 19.0,
+      "superGoals" : null,
+      "kicks" : 297.0,
+      "handballs" : 280.0,
+      "disposals" : 577.0,
+      "marks" : 136.0,
+      "bounces" : 11.0,
+      "tackles" : 120.0,
+      "contestedPossessions" : 174.0,
+      "uncontestedPossessions" : 401.0,
+      "totalPossessions" : 575.0,
+      "inside50s" : 99.0,
+      "marksInside50" : 22.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 4.0,
+      "onePercenters" : 42.0,
+      "disposalEfficiency" : 69.5,
+      "clangers" : 96.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 40.0,
+      "dreamTeamPoints" : 2438.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 39.0,
+        "totalClearances" : 50.0
+      },
+      "rebound50s" : 37.0,
+      "goalAssists" : 10.0,
+      "goalAccuracy" : 51.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260104",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Collins"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 59.8,
+            "ranking" : 569.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260104",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Collins"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 9.8,
+            "handballs" : 6.3,
+            "disposals" : 16.1,
+            "marks" : 3.3,
+            "bounces" : 0.1,
+            "tackles" : 3.3,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 10.7,
+            "totalPossessions" : 16.1,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 3.2,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 66.9,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 1.9
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260104",
+            "playerName" : {
+              "givenName" : "Andrew D.",
+              "surname" : "Collins"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 88.0,
+            "handballs" : 57.0,
+            "disposals" : 145.0,
+            "marks" : 30.0,
+            "bounces" : 1.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 49.0,
+            "uncontestedPossessions" : 96.0,
+            "totalPossessions" : 145.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 64.1,
+            "clangers" : 29.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 602.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 17.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260104",
+            "playerName" : {
+              "givenName" : "Andrew D.",
+              "surname" : "Collins"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 68.8
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.5,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 3.5,
+            "disposals" : 9.0,
+            "marks" : 5.5,
+            "bounces" : 0.5,
+            "tackles" : 2.5,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 9.0,
+            "inside50s" : 2.5,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 4.5,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 47.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260104",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Collins"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 7.0,
+            "disposals" : 18.0,
+            "marks" : 11.0,
+            "bounces" : 1.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 16.0,
+            "totalPossessions" : 18.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 44.4,
+            "clangers" : 9.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 94.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260104",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Collins"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 53.9
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 7.7,
+            "handballs" : 7.1,
+            "disposals" : 14.9,
+            "marks" : 3.4,
+            "bounces" : 0.2,
+            "tackles" : 3.7,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 9.2,
+            "totalPossessions" : 14.6,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 66.2,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260104",
+            "playerName" : {
+              "givenName" : "Andrew D.",
+              "surname" : "Collins"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 116.0,
+            "handballs" : 107.0,
+            "disposals" : 223.0,
+            "marks" : 51.0,
+            "bounces" : 3.0,
+            "tackles" : 56.0,
+            "contestedPossessions" : 81.0,
+            "uncontestedPossessions" : 138.0,
+            "totalPossessions" : 219.0,
+            "inside50s" : 38.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 70.0,
+            "clangers" : 39.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 993.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 19.0,
+              "totalClearances" : 20.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 53.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260104",
+            "playerName" : {
+              "givenName" : "Andrew D.",
+              "surname" : "Collins"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 80.3
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 10.9,
+            "disposals" : 19.1,
+            "marks" : 4.4,
+            "bounces" : 0.6,
+            "tackles" : 2.9,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 15.1,
+            "totalPossessions" : 19.3,
+            "inside50s" : 2.9,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 74.9,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260104",
+            "playerName" : {
+              "givenName" : "Andrew D.",
+              "surname" : "Collins"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 82.0,
+            "handballs" : 109.0,
+            "disposals" : 191.0,
+            "marks" : 44.0,
+            "bounces" : 6.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 42.0,
+            "uncontestedPossessions" : 151.0,
+            "totalPossessions" : 193.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 75.4,
+            "clangers" : 19.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 749.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 72.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260104",
+            "playerName" : {
+              "givenName" : "Andrew D.",
+              "surname" : "Collins"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 71.1
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260104",
+            "playerName" : {
+              "givenName" : "Andrew D.",
+              "surname" : "Collins"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260104",
+            "playerName" : {
+              "givenName" : "Andrew D.",
+              "surname" : "Collins"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : 0.0,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 59.8,
+      "ranking" : 569.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201301427",
+      "player" : {
+        "playerId" : "CD_I260104",
+        "playerName" : {
+          "givenName" : "Andrew",
+          "surname" : "Collins"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T30",
+        "teamAbbr" : "CARL",
+        "teamName" : "Carlton",
+        "teamNickname" : "Blues"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 59.0,
+        "ranking" : 569,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 59.0,
+        "ranking" : 33,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 59.0,
+        "ranking" : 130,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 36
+  }
+}

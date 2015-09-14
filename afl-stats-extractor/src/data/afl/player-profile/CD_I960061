@@ -1,0 +1,338 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960061",
+    "position" : "Left Back Pocket",
+    "surname" : "Bartlett",
+    "jumperNumber" : 18,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Trent",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1976-11-26T01:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 189,
+      "weightInKg" : 95,
+      "recruitedFrom" : null,
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 37.0,
+      "behinds" : 25.0,
+      "superGoals" : null,
+      "kicks" : 176.0,
+      "handballs" : 134.0,
+      "disposals" : 310.0,
+      "marks" : 125.0,
+      "bounces" : 3.0,
+      "tackles" : 27.0,
+      "contestedPossessions" : 178.0,
+      "uncontestedPossessions" : 138.0,
+      "totalPossessions" : 316.0,
+      "inside50s" : 47.0,
+      "marksInside50" : 51.0,
+      "contestedMarks" : 40.0,
+      "hitouts" : 13.0,
+      "onePercenters" : 51.0,
+      "disposalEfficiency" : 77.1,
+      "clangers" : 83.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 41.0,
+      "dreamTeamPoints" : 1431.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 22.0
+      },
+      "rebound50s" : 20.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 59.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 4.8,
+            "handballs" : 3.8,
+            "disposals" : 8.7,
+            "marks" : 3.0,
+            "bounces" : 0.3,
+            "tackles" : 1.5,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 3.3,
+            "totalPossessions" : 8.3,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 36.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960061",
+            "playerName" : {
+              "givenName" : "Trent",
+              "surname" : "Bartlett"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 29.0,
+            "handballs" : 23.0,
+            "disposals" : 52.0,
+            "marks" : 18.0,
+            "bounces" : 2.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 30.0,
+            "uncontestedPossessions" : 20.0,
+            "totalPossessions" : 50.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 84.6,
+            "clangers" : 9.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 218.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960061",
+            "playerName" : {
+              "givenName" : "Trent",
+              "surname" : "Bartlett"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 2.4,
+            "handballs" : 2.2,
+            "disposals" : 4.6,
+            "marks" : 1.9,
+            "bounces" : 0.0,
+            "tackles" : 0.5,
+            "contestedPossessions" : 2.6,
+            "uncontestedPossessions" : 1.9,
+            "totalPossessions" : 4.5,
+            "inside50s" : 0.5,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 22.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960061",
+            "playerName" : {
+              "givenName" : "Trent",
+              "surname" : "Bartlett"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 36.0,
+            "handballs" : 33.0,
+            "disposals" : 69.0,
+            "marks" : 28.0,
+            "bounces" : 0.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 39.0,
+            "uncontestedPossessions" : 29.0,
+            "totalPossessions" : 68.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 18.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 73.9,
+            "clangers" : 18.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 342.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 61.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960061",
+            "playerName" : {
+              "givenName" : "Trent",
+              "surname" : "Bartlett"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 29.0,
+      "handballs" : 23.0,
+      "disposals" : 52.0,
+      "marks" : 18.0,
+      "bounces" : 2.0,
+      "tackles" : 9.0,
+      "contestedPossessions" : 30.0,
+      "uncontestedPossessions" : 20.0,
+      "totalPossessions" : 50.0,
+      "inside50s" : 3.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 20.0,
+      "disposalEfficiency" : 84.6,
+      "clangers" : 9.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 5.0,
+      "dreamTeamPoints" : 218.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 6.0,
+        "totalClearances" : 6.0
+      },
+      "rebound50s" : 11.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280471",
+    "position" : "Right Back Pocket",
+    "surname" : "Stratton",
+    "jumperNumber" : 24,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 7.2,
+      "handballs" : 5.5,
+      "disposals" : 12.8,
+      "marks" : 4.3,
+      "bounces" : 0.4,
+      "tackles" : 2.8,
+      "contestedPossessions" : 4.1,
+      "uncontestedPossessions" : 8.6,
+      "totalPossessions" : 12.7,
+      "inside50s" : 1.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.6,
+      "hitouts" : 0.0,
+      "onePercenters" : 5.4,
+      "disposalEfficiency" : null,
+      "clangers" : 1.6,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 55.3,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.2,
+        "totalClearances" : 0.3
+      },
+      "rebound50s" : 1.7,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Ben",
+    "bio" : "<p>Stratton struggled for continuity with ankle, back and calf injuries keeping him out for parts of the season, but he is such a key member of the backline the Hawks were happy not to rush him back and he repaid the faith with an excellent finals series. Stratton remains unappreciated outside Hawthorn, but his ability to play tall and short, his reading of the play, his contested marking and his consistent output makes him one of the first picked every week. <br /><br /> <strong>Draft history:</strong> 2009 NAB AFL Draft 3rd round selection (Hawthorn) No. 46 overall.</p>\n<p>&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Hawthorn/Player Profiles/2015 - Profiles/STRATTON Ben.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1989-03-01T01:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 189,
+      "weightInKg" : 91,
+      "recruitedFrom" : "East Perth (WA)",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 1.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 825.0,
+      "handballs" : 629.0,
+      "disposals" : 1454.0,
+      "marks" : 487.0,
+      "bounces" : 46.0,
+      "tackles" : 321.0,
+      "contestedPossessions" : 471.0,
+      "uncontestedPossessions" : 978.0,
+      "totalPossessions" : 1449.0,
+      "inside50s" : 114.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 63.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 610.0,
+      "disposalEfficiency" : 80.1,
+      "clangers" : 185.0,
+      "freesFor" : 66.0,
+      "freesAgainst" : 85.0,
+      "dreamTeamPoints" : 6299.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 34.0
+      },
+      "rebound50s" : 197.0,
+      "goalAssists" : 11.0,
+      "goalAccuracy" : 14.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.2,
+            "handballs" : 4.4,
+            "disposals" : 10.6,
+            "marks" : 3.5,
+            "bounces" : 0.1,
+            "tackles" : 3.0,
+            "contestedPossessions" : 3.1,
+            "uncontestedPossessions" : 7.8,
+            "totalPossessions" : 10.9,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 48.9,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280471",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Stratton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 137.0,
+            "handballs" : 97.0,
+            "disposals" : 234.0,
+            "marks" : 76.0,
+            "bounces" : 3.0,
+            "tackles" : 67.0,
+            "contestedPossessions" : 68.0,
+            "uncontestedPossessions" : 172.0,
+            "totalPossessions" : 240.0,
+            "inside50s" : 25.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 123.0,
+            "disposalEfficiency" : 80.3,
+            "clangers" : 32.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1075.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 270.4,
+            "ranking" : 269.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280471",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Stratton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 93.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 6.5,
+            "disposals" : 13.1,
+            "marks" : 3.9,
+            "bounces" : 0.7,
+            "tackles" : 3.1,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 12.9,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 54.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280471",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Stratton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 98.0,
+            "handballs" : 98.0,
+            "disposals" : 196.0,
+            "marks" : 59.0,
+            "bounces" : 11.0,
+            "tackles" : 46.0,
+            "contestedPossessions" : 73.0,
+            "uncontestedPossessions" : 120.0,
+            "totalPossessions" : 193.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 81.0,
+            "disposalEfficiency" : 84.7,
+            "clangers" : 24.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 813.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 26.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 303.2,
+            "ranking" : 228.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280471",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Stratton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 88.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.7,
+            "handballs" : 7.0,
+            "disposals" : 14.7,
+            "marks" : 4.9,
+            "bounces" : 0.5,
+            "tackles" : 3.0,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 9.9,
+            "totalPossessions" : 14.5,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 61.9,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280471",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Stratton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 192.0,
+            "handballs" : 175.0,
+            "disposals" : 367.0,
+            "marks" : 123.0,
+            "bounces" : 12.0,
+            "tackles" : 74.0,
+            "contestedPossessions" : 114.0,
+            "uncontestedPossessions" : 248.0,
+            "totalPossessions" : 362.0,
+            "inside50s" : 30.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 15.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 140.0,
+            "disposalEfficiency" : 77.7,
+            "clangers" : 49.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1547.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 39.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 302.7,
+            "ranking" : 222.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280471",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Stratton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 91.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 4.7,
+            "disposals" : 11.7,
+            "marks" : 3.9,
+            "bounces" : 0.4,
+            "tackles" : 2.8,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 7.5,
+            "totalPossessions" : 11.7,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 52.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280471",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Stratton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 175.0,
+            "handballs" : 118.0,
+            "disposals" : 293.0,
+            "marks" : 97.0,
+            "bounces" : 11.0,
+            "tackles" : 70.0,
+            "contestedPossessions" : 105.0,
+            "uncontestedPossessions" : 188.0,
+            "totalPossessions" : 293.0,
+            "inside50s" : 24.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 126.0,
+            "disposalEfficiency" : 81.6,
+            "clangers" : 35.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1302.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 41.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280471",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Stratton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 91.4
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 5.7,
+            "disposals" : 12.2,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 3.5,
+            "contestedPossessions" : 2.2,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 11.2,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 6.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.2,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 54.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280471",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Stratton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 39.0,
+            "handballs" : 34.0,
+            "disposals" : 73.0,
+            "marks" : 24.0,
+            "bounces" : 0.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 13.0,
+            "uncontestedPossessions" : 54.0,
+            "totalPossessions" : 67.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 38.0,
+            "disposalEfficiency" : 84.9,
+            "clangers" : 10.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 325.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280471",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Stratton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 83.5
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.8,
+            "handballs" : 5.1,
+            "disposals" : 13.9,
+            "marks" : 5.1,
+            "bounces" : 0.4,
+            "tackles" : 2.0,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 9.3,
+            "totalPossessions" : 14.0,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 58.9,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280471",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Stratton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 184.0,
+            "handballs" : 107.0,
+            "disposals" : 291.0,
+            "marks" : 108.0,
+            "bounces" : 9.0,
+            "tackles" : 43.0,
+            "contestedPossessions" : 98.0,
+            "uncontestedPossessions" : 196.0,
+            "totalPossessions" : 294.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 21.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 102.0,
+            "disposalEfficiency" : 77.0,
+            "clangers" : 35.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1237.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 46.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280471",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Stratton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 96.7
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 137.0,
+      "handballs" : 97.0,
+      "disposals" : 234.0,
+      "marks" : 76.0,
+      "bounces" : 3.0,
+      "tackles" : 67.0,
+      "contestedPossessions" : 68.0,
+      "uncontestedPossessions" : 172.0,
+      "totalPossessions" : 240.0,
+      "inside50s" : 25.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 123.0,
+      "disposalEfficiency" : 80.3,
+      "clangers" : 32.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 1075.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 5.0
+      },
+      "rebound50s" : 33.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 270.4,
+      "ranking" : 269.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280471",
+        "playerName" : {
+          "givenName" : "Ben",
+          "surname" : "Stratton"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T80",
+        "teamAbbr" : "HAW",
+        "teamName" : "Hawthorn",
+        "teamNickname" : "Hawks"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 270.8,
+        "ranking" : 269,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 270.8,
+        "ranking" : 21,
+        "ratingType" : "TEAM",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 270.8,
+        "ranking" : 46,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 7.5,
+        "ranking" : 99,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 142.4,
+        "ranking" : 266,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 114
+  }
+}

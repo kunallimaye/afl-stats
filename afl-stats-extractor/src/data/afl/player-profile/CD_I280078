@@ -1,0 +1,898 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280078",
+    "position" : "Rover",
+    "surname" : "Shuey",
+    "jumperNumber" : 13,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.9,
+      "behinds" : 0.7,
+      "superGoals" : null,
+      "kicks" : 12.4,
+      "handballs" : 9.9,
+      "disposals" : 22.3,
+      "marks" : 3.4,
+      "bounces" : 1.1,
+      "tackles" : 4.4,
+      "contestedPossessions" : 9.7,
+      "uncontestedPossessions" : 12.7,
+      "totalPossessions" : 22.4,
+      "inside50s" : 4.2,
+      "marksInside50" : 0.3,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.1,
+      "onePercenters" : 1.3,
+      "disposalEfficiency" : null,
+      "clangers" : 2.5,
+      "freesFor" : 1.7,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 89.5,
+      "clearances" : {
+        "centreClearances" : 2.1,
+        "stoppageClearances" : 3.0,
+        "totalClearances" : 5.0
+      },
+      "rebound50s" : 1.3,
+      "goalAssists" : 0.8,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Luke",
+    "bio" : "<p>Returned to his line-breaking, damaging best in 2014 after injury curtailed his 2013 campaign. The young midfielder was second at the club for contested possessions (2013) and clearances (109) and first for inside 50s (88). He averaged 24 disposals, kicked 17 goals and finished third in the best and fairest.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WestCoastEagles/Player Profiles/2015 - Profiles/SHUEY Luke.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1990-06-02T02:00:00.000+0000",
+      "draftYear" : "2008",
+      "heightInCm" : 183,
+      "weightInKg" : 88,
+      "recruitedFrom" : "Bulleen-Templestowe/Marcellin College/Oakleigh U18",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 96.0,
+      "behinds" : 81.0,
+      "superGoals" : null,
+      "kicks" : 1352.0,
+      "handballs" : 1080.0,
+      "disposals" : 2432.0,
+      "marks" : 368.0,
+      "bounces" : 124.0,
+      "tackles" : 476.0,
+      "contestedPossessions" : 1062.0,
+      "uncontestedPossessions" : 1381.0,
+      "totalPossessions" : 2443.0,
+      "inside50s" : 457.0,
+      "marksInside50" : 32.0,
+      "contestedMarks" : 15.0,
+      "hitouts" : 8.0,
+      "onePercenters" : 142.0,
+      "disposalEfficiency" : 72.7,
+      "clangers" : 273.0,
+      "freesFor" : 181.0,
+      "freesAgainst" : 106.0,
+      "dreamTeamPoints" : 9752.0,
+      "clearances" : {
+        "centreClearances" : 225.0,
+        "stoppageClearances" : 325.0,
+        "totalClearances" : 550.0
+      },
+      "rebound50s" : 146.0,
+      "goalAssists" : 86.0,
+      "goalAccuracy" : 48.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 11.2,
+            "handballs" : 13.0,
+            "disposals" : 24.2,
+            "marks" : 3.4,
+            "bounces" : 0.5,
+            "tackles" : 5.0,
+            "contestedPossessions" : 10.4,
+            "uncontestedPossessions" : 14.0,
+            "totalPossessions" : 24.4,
+            "inside50s" : 4.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 1.4,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 93.9,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280078",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Shuey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 21.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 257.0,
+            "handballs" : 299.0,
+            "disposals" : 556.0,
+            "marks" : 79.0,
+            "bounces" : 12.0,
+            "tackles" : 114.0,
+            "contestedPossessions" : 240.0,
+            "uncontestedPossessions" : 322.0,
+            "totalPossessions" : 562.0,
+            "inside50s" : 97.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 73.6,
+            "clangers" : 63.0,
+            "freesFor" : 33.0,
+            "freesAgainst" : 26.0,
+            "dreamTeamPoints" : 2159.0,
+            "clearances" : {
+              "centreClearances" : 70.0,
+              "stoppageClearances" : 69.0,
+              "totalClearances" : 139.0
+            },
+            "rebound50s" : 17.0,
+            "goalAssists" : 23.0,
+            "goalAccuracy" : 56.8,
+            "ratingPoints" : 501.2,
+            "ranking" : 23.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280078",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Shuey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 81.1
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 12.4,
+            "handballs" : 11.7,
+            "disposals" : 24.2,
+            "marks" : 3.7,
+            "bounces" : 1.1,
+            "tackles" : 4.0,
+            "contestedPossessions" : 10.6,
+            "uncontestedPossessions" : 13.3,
+            "totalPossessions" : 23.9,
+            "inside50s" : 4.4,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.6,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 92.9,
+            "clearances" : {
+              "centreClearances" : 2.6,
+              "stoppageClearances" : 2.9,
+              "totalClearances" : 5.5
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280078",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Shuey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 249.0,
+            "handballs" : 235.0,
+            "disposals" : 484.0,
+            "marks" : 74.0,
+            "bounces" : 23.0,
+            "tackles" : 80.0,
+            "contestedPossessions" : 213.0,
+            "uncontestedPossessions" : 266.0,
+            "totalPossessions" : 479.0,
+            "inside50s" : 88.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 37.0,
+            "disposalEfficiency" : 72.1,
+            "clangers" : 48.0,
+            "freesFor" : 32.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1858.0,
+            "clearances" : {
+              "centreClearances" : 52.0,
+              "stoppageClearances" : 59.0,
+              "totalClearances" : 111.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 16.0,
+            "goalAccuracy" : 51.5,
+            "ratingPoints" : 468.4,
+            "ranking" : 41.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280078",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Shuey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 80.2
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 12.7,
+            "handballs" : 8.8,
+            "disposals" : 21.5,
+            "marks" : 3.4,
+            "bounces" : 1.1,
+            "tackles" : 4.8,
+            "contestedPossessions" : 8.6,
+            "uncontestedPossessions" : 12.4,
+            "totalPossessions" : 21.0,
+            "inside50s" : 3.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 88.4,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 3.1,
+              "totalClearances" : 4.4
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280078",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Shuey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 178.0,
+            "handballs" : 123.0,
+            "disposals" : 301.0,
+            "marks" : 48.0,
+            "bounces" : 16.0,
+            "tackles" : 67.0,
+            "contestedPossessions" : 120.0,
+            "uncontestedPossessions" : 174.0,
+            "totalPossessions" : 294.0,
+            "inside50s" : 55.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 70.4,
+            "clangers" : 36.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1238.0,
+            "clearances" : {
+              "centreClearances" : 18.0,
+              "stoppageClearances" : 43.0,
+              "totalClearances" : 61.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 39.1,
+            "ratingPoints" : 461.2,
+            "ranking" : 46.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280078",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Shuey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 76.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 13.6,
+            "handballs" : 9.4,
+            "disposals" : 23.0,
+            "marks" : 3.9,
+            "bounces" : 2.0,
+            "tackles" : 4.2,
+            "contestedPossessions" : 9.9,
+            "uncontestedPossessions" : 13.4,
+            "totalPossessions" : 23.3,
+            "inside50s" : 4.2,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 2.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 94.2,
+            "clearances" : {
+              "centreClearances" : 2.5,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 5.5
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280078",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Shuey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 19.0,
+            "behinds" : 22.0,
+            "superGoals" : null,
+            "kicks" : 286.0,
+            "handballs" : 197.0,
+            "disposals" : 483.0,
+            "marks" : 82.0,
+            "bounces" : 42.0,
+            "tackles" : 89.0,
+            "contestedPossessions" : 208.0,
+            "uncontestedPossessions" : 281.0,
+            "totalPossessions" : 489.0,
+            "inside50s" : 88.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 76.4,
+            "clangers" : 52.0,
+            "freesFor" : 54.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 1978.0,
+            "clearances" : {
+              "centreClearances" : 52.0,
+              "stoppageClearances" : 63.0,
+              "totalClearances" : 115.0
+            },
+            "rebound50s" : 37.0,
+            "goalAssists" : 14.0,
+            "goalAccuracy" : 44.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280078",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Shuey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 83.5
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 12.9,
+            "handballs" : 7.2,
+            "disposals" : 20.1,
+            "marks" : 2.6,
+            "bounces" : 1.0,
+            "tackles" : 4.2,
+            "contestedPossessions" : 10.3,
+            "uncontestedPossessions" : 10.8,
+            "totalPossessions" : 21.1,
+            "inside50s" : 4.7,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 82.8,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 3.3,
+              "totalClearances" : 4.6
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280078",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Shuey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 24.0,
+            "behinds" : 22.0,
+            "superGoals" : null,
+            "kicks" : 323.0,
+            "handballs" : 179.0,
+            "disposals" : 502.0,
+            "marks" : 65.0,
+            "bounces" : 24.0,
+            "tackles" : 104.0,
+            "contestedPossessions" : 257.0,
+            "uncontestedPossessions" : 270.0,
+            "totalPossessions" : 527.0,
+            "inside50s" : 117.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 70.3,
+            "clangers" : 59.0,
+            "freesFor" : 40.0,
+            "freesAgainst" : 25.0,
+            "dreamTeamPoints" : 2069.0,
+            "clearances" : {
+              "centreClearances" : 31.0,
+              "stoppageClearances" : 83.0,
+              "totalClearances" : 114.0
+            },
+            "rebound50s" : 35.0,
+            "goalAssists" : 21.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280078",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Shuey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 79.2
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 9.8,
+            "handballs" : 7.8,
+            "disposals" : 17.7,
+            "marks" : 3.3,
+            "bounces" : 1.2,
+            "tackles" : 3.7,
+            "contestedPossessions" : 6.2,
+            "uncontestedPossessions" : 11.3,
+            "totalPossessions" : 17.5,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 75.0,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280078",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Shuey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 59.0,
+            "handballs" : 47.0,
+            "disposals" : 106.0,
+            "marks" : 20.0,
+            "bounces" : 7.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 37.0,
+            "uncontestedPossessions" : 68.0,
+            "totalPossessions" : 105.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 69.8,
+            "clangers" : 15.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 450.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 46.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280078",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Shuey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 77.6
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280078",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Shuey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280078",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Shuey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 21.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 257.0,
+      "handballs" : 299.0,
+      "disposals" : 556.0,
+      "marks" : 79.0,
+      "bounces" : 12.0,
+      "tackles" : 114.0,
+      "contestedPossessions" : 240.0,
+      "uncontestedPossessions" : 322.0,
+      "totalPossessions" : 562.0,
+      "inside50s" : 97.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 5.0,
+      "onePercenters" : 25.0,
+      "disposalEfficiency" : 73.6,
+      "clangers" : 63.0,
+      "freesFor" : 33.0,
+      "freesAgainst" : 26.0,
+      "dreamTeamPoints" : 2159.0,
+      "clearances" : {
+        "centreClearances" : 70.0,
+        "stoppageClearances" : 69.0,
+        "totalClearances" : 139.0
+      },
+      "rebound50s" : 17.0,
+      "goalAssists" : 23.0,
+      "goalAccuracy" : 56.8,
+      "ratingPoints" : 501.2,
+      "ranking" : 23.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280078",
+        "playerName" : {
+          "givenName" : "Luke",
+          "surname" : "Shuey"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T150",
+        "teamAbbr" : "WCE",
+        "teamName" : "West Coast Eagles",
+        "teamNickname" : "Eagles"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 498.1,
+        "ranking" : 22,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 498.1,
+        "ranking" : 3,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 498.1,
+        "ranking" : 11,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 9.5,
+        "ranking" : 73,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 316.0,
+        "ranking" : 15,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2008"
+    },
+    "careerGamesPlayed" : 109
+  }
+}

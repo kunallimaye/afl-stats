@@ -1,0 +1,1001 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I261297",
+    "position" : "Left Back Pocket",
+    "surname" : "Grimes",
+    "jumperNumber" : 31,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 11.7,
+      "handballs" : 8.4,
+      "disposals" : 20.1,
+      "marks" : 5.7,
+      "bounces" : 0.8,
+      "tackles" : 2.9,
+      "contestedPossessions" : 5.9,
+      "uncontestedPossessions" : 13.7,
+      "totalPossessions" : 19.6,
+      "inside50s" : 1.6,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.4,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.0,
+      "disposalEfficiency" : null,
+      "clangers" : 1.9,
+      "freesFor" : 0.9,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 80.7,
+      "clearances" : {
+        "centreClearances" : 0.3,
+        "stoppageClearances" : 0.9,
+        "totalClearances" : 1.3
+      },
+      "rebound50s" : 3.3,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jack",
+    "bio" : "<p>Consistent without being outstanding for most of the season across half-back, Grimes played his best game in round four when Melbourne defeated Carlton. A hamstring injury plagued him for the last five rounds, with his only game in that time being an unsuccessful return in round 21. Courageous, team-oriented and reliable, he plays his best football when winning one-on-ones and running off his opponent. Has decided to stand down as co-captain to concentrate on his game.<br>\n<br>\n<b>Player honours:</b> 2nd best and fairest 2012; NAB AFL Rising Star nominee 2009; co-captain 2012-14.<br>\n<br>\n<b>Brownlow Medal:</b> career votes 9.<br>\n<br>\n<b>Draft history: </b>2007 NAB AFL Draft 1st round selection (Melbourne) No. 14 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Melbourne/Player Profiles/2015 - Profiles/GRIMES Jack.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1989-05-11T02:00:00.000+0000",
+      "draftYear" : "2007",
+      "heightInCm" : 187,
+      "weightInKg" : 82,
+      "recruitedFrom" : "Hurstbridge/Northern U18",
+      "debutYear" : "2008"
+    },
+    "careerStats" : {
+      "goals" : 11.0,
+      "behinds" : 17.0,
+      "superGoals" : null,
+      "kicks" : 1148.0,
+      "handballs" : 819.0,
+      "disposals" : 1967.0,
+      "marks" : 556.0,
+      "bounces" : 82.0,
+      "tackles" : 284.0,
+      "contestedPossessions" : 575.0,
+      "uncontestedPossessions" : 1342.0,
+      "totalPossessions" : 1917.0,
+      "inside50s" : 158.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 42.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 194.0,
+      "disposalEfficiency" : 76.3,
+      "clangers" : 189.0,
+      "freesFor" : 87.0,
+      "freesAgainst" : 50.0,
+      "dreamTeamPoints" : 7906.0,
+      "clearances" : {
+        "centreClearances" : 33.0,
+        "stoppageClearances" : 90.0,
+        "totalClearances" : 123.0
+      },
+      "rebound50s" : 323.0,
+      "goalAssists" : 24.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 11.1,
+            "handballs" : 8.7,
+            "disposals" : 19.8,
+            "marks" : 5.8,
+            "bounces" : 0.3,
+            "tackles" : 2.4,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 15.4,
+            "totalPossessions" : 19.9,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 78.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 3.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261297",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 133.0,
+            "handballs" : 105.0,
+            "disposals" : 238.0,
+            "marks" : 70.0,
+            "bounces" : 4.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 54.0,
+            "uncontestedPossessions" : 185.0,
+            "totalPossessions" : 239.0,
+            "inside50s" : 22.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 81.5,
+            "clangers" : 23.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 936.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 41.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : 236.9,
+            "ranking" : 312.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261297",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 80.7
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 9.9,
+            "handballs" : 8.7,
+            "disposals" : 18.6,
+            "marks" : 4.8,
+            "bounces" : 0.3,
+            "tackles" : 2.2,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 12.8,
+            "totalPossessions" : 17.8,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 70.6,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 2.8,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261297",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 178.0,
+            "handballs" : 157.0,
+            "disposals" : 335.0,
+            "marks" : 86.0,
+            "bounces" : 6.0,
+            "tackles" : 40.0,
+            "contestedPossessions" : 89.0,
+            "uncontestedPossessions" : 231.0,
+            "totalPossessions" : 320.0,
+            "inside50s" : 19.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 44.0,
+            "disposalEfficiency" : 77.9,
+            "clangers" : 30.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 1271.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 50.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : 239.3,
+            "ranking" : 317.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261297",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 88.4
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 8.3,
+            "disposals" : 18.3,
+            "marks" : 4.6,
+            "bounces" : 1.2,
+            "tackles" : 4.2,
+            "contestedPossessions" : 6.6,
+            "uncontestedPossessions" : 11.8,
+            "totalPossessions" : 18.4,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 76.8,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 2.3
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261297",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 150.0,
+            "handballs" : 124.0,
+            "disposals" : 274.0,
+            "marks" : 69.0,
+            "bounces" : 18.0,
+            "tackles" : 63.0,
+            "contestedPossessions" : 99.0,
+            "uncontestedPossessions" : 177.0,
+            "totalPossessions" : 276.0,
+            "inside50s" : 22.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 74.5,
+            "clangers" : 26.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1152.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 27.0,
+              "totalClearances" : 35.0
+            },
+            "rebound50s" : 36.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 16.7,
+            "ratingPoints" : 284.3,
+            "ranking" : 249.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261297",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 81.3
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 14.3,
+            "handballs" : 7.9,
+            "disposals" : 22.2,
+            "marks" : 5.8,
+            "bounces" : 1.1,
+            "tackles" : 3.9,
+            "contestedPossessions" : 6.9,
+            "uncontestedPossessions" : 14.7,
+            "totalPossessions" : 21.6,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 92.0,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 3.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261297",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 301.0,
+            "handballs" : 166.0,
+            "disposals" : 467.0,
+            "marks" : 122.0,
+            "bounces" : 24.0,
+            "tackles" : 81.0,
+            "contestedPossessions" : 144.0,
+            "uncontestedPossessions" : 309.0,
+            "totalPossessions" : 453.0,
+            "inside50s" : 59.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 71.9,
+            "clangers" : 47.0,
+            "freesFor" : 22.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 1932.0,
+            "clearances" : {
+              "centreClearances" : 14.0,
+              "stoppageClearances" : 28.0,
+              "totalClearances" : 42.0
+            },
+            "rebound50s" : 67.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 12.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261297",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 82.9
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 11.3,
+            "handballs" : 7.7,
+            "disposals" : 19.0,
+            "marks" : 5.3,
+            "bounces" : 0.2,
+            "tackles" : 1.8,
+            "contestedPossessions" : 6.5,
+            "uncontestedPossessions" : 11.5,
+            "totalPossessions" : 18.0,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 74.0,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 5.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261297",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 68.0,
+            "handballs" : 46.0,
+            "disposals" : 114.0,
+            "marks" : 32.0,
+            "bounces" : 1.0,
+            "tackles" : 11.0,
+            "contestedPossessions" : 39.0,
+            "uncontestedPossessions" : 69.0,
+            "totalPossessions" : 108.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 74.6,
+            "clangers" : 13.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 444.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 32.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261297",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 77.2
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 12.9,
+            "handballs" : 8.9,
+            "disposals" : 21.8,
+            "marks" : 5.8,
+            "bounces" : 1.9,
+            "tackles" : 2.3,
+            "contestedPossessions" : 6.4,
+            "uncontestedPossessions" : 14.6,
+            "totalPossessions" : 21.0,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 81.9,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261297",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 181.0,
+            "handballs" : 124.0,
+            "disposals" : 305.0,
+            "marks" : 81.0,
+            "bounces" : 26.0,
+            "tackles" : 32.0,
+            "contestedPossessions" : 89.0,
+            "uncontestedPossessions" : 205.0,
+            "totalPossessions" : 294.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 14.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 35.0,
+            "disposalEfficiency" : 74.8,
+            "clangers" : 32.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 1147.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 56.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261297",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 84.6
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 12.2,
+            "handballs" : 8.4,
+            "disposals" : 20.5,
+            "marks" : 8.5,
+            "bounces" : 0.3,
+            "tackles" : 2.2,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 14.4,
+            "totalPossessions" : 19.8,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.9,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.1,
+            "dreamTeamPoints" : 89.3,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 3.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261297",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 134.0,
+            "handballs" : 92.0,
+            "disposals" : 226.0,
+            "marks" : 94.0,
+            "bounces" : 3.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 60.0,
+            "uncontestedPossessions" : 158.0,
+            "totalPossessions" : 218.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 81.4,
+            "clangers" : 18.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 982.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 41.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261297",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 83.3
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 5.0,
+            "disposals" : 8.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 9.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 42.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261297",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 5.0,
+            "disposals" : 8.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 9.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 87.5,
+            "clangers" : 0.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 42.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261297",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 56.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 3.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 133.0,
+      "handballs" : 105.0,
+      "disposals" : 238.0,
+      "marks" : 70.0,
+      "bounces" : 4.0,
+      "tackles" : 29.0,
+      "contestedPossessions" : 54.0,
+      "uncontestedPossessions" : 185.0,
+      "totalPossessions" : 239.0,
+      "inside50s" : 22.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 19.0,
+      "disposalEfficiency" : 81.5,
+      "clangers" : 23.0,
+      "freesFor" : 10.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 936.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 9.0,
+        "totalClearances" : 9.0
+      },
+      "rebound50s" : 41.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 42.9,
+      "ratingPoints" : 236.9,
+      "ranking" : 312.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I261297",
+        "playerName" : {
+          "givenName" : "Jack",
+          "surname" : "Grimes"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T90",
+        "teamAbbr" : "MELB",
+        "teamName" : "Melbourne",
+        "teamNickname" : "Demons"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 231.1,
+        "ranking" : 326,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 231.1,
+        "ranking" : 17,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 231.1,
+        "ranking" : 63,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 99.7,
+        "ranking" : 368,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2007"
+    },
+    "careerGamesPlayed" : 98
+  }
+}

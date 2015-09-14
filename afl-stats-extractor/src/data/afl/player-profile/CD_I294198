@@ -1,0 +1,476 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I294198",
+    "position" : "Interchange",
+    "surname" : "Ledger",
+    "jumperNumber" : 15,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.5,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 6.7,
+      "handballs" : 6.1,
+      "disposals" : 12.9,
+      "marks" : 2.1,
+      "bounces" : 0.5,
+      "tackles" : 1.7,
+      "contestedPossessions" : 4.2,
+      "uncontestedPossessions" : 8.7,
+      "totalPossessions" : 13.0,
+      "inside50s" : 2.5,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : null,
+      "clangers" : 2.0,
+      "freesFor" : 0.6,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 46.5,
+      "clearances" : {
+        "centreClearances" : 0.5,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.5
+      },
+      "rebound50s" : 0.7,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Tom",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-03-17T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 178,
+      "weightInKg" : 79,
+      "recruitedFrom" : "Claremont (WA)",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 4.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 54.0,
+      "handballs" : 49.0,
+      "disposals" : 103.0,
+      "marks" : 17.0,
+      "bounces" : 4.0,
+      "tackles" : 14.0,
+      "contestedPossessions" : 34.0,
+      "uncontestedPossessions" : 70.0,
+      "totalPossessions" : 104.0,
+      "inside50s" : 20.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 8.0,
+      "disposalEfficiency" : 68.0,
+      "clangers" : 16.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 8.0,
+      "dreamTeamPoints" : 372.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 8.0,
+        "totalClearances" : 12.0
+      },
+      "rebound50s" : 6.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 80.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 9.5,
+            "disposals" : 17.0,
+            "marks" : 4.0,
+            "bounces" : 0.5,
+            "tackles" : 3.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 13.5,
+            "totalPossessions" : 16.5,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 72.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294198",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Ledger"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 15.0,
+            "handballs" : 19.0,
+            "disposals" : 34.0,
+            "marks" : 8.0,
+            "bounces" : 1.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 27.0,
+            "totalPossessions" : 33.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 70.6,
+            "clangers" : 2.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 144.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 40.0,
+            "ranking" : 620.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294198",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Ledger"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 48.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 6.2,
+            "disposals" : 13.2,
+            "marks" : 1.2,
+            "bounces" : 0.7,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 8.7,
+            "totalPossessions" : 13.7,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 40.5,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294198",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Ledger"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 28.0,
+            "handballs" : 25.0,
+            "disposals" : 53.0,
+            "marks" : 5.0,
+            "bounces" : 3.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 20.0,
+            "uncontestedPossessions" : 35.0,
+            "totalPossessions" : 55.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 67.9,
+            "clangers" : 10.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 162.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294198",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Ledger"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 50.8
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 2.5,
+            "disposals" : 8.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 0.5,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 8.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 33.0,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294198",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Ledger"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 5.0,
+            "disposals" : 16.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 8.0,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 16.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 62.5,
+            "clangers" : 4.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 66.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294198",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Ledger"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 25.9
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 15.0,
+      "handballs" : 19.0,
+      "disposals" : 34.0,
+      "marks" : 8.0,
+      "bounces" : 1.0,
+      "tackles" : 6.0,
+      "contestedPossessions" : 6.0,
+      "uncontestedPossessions" : 27.0,
+      "totalPossessions" : 33.0,
+      "inside50s" : 6.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.0,
+      "disposalEfficiency" : 70.6,
+      "clangers" : 2.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 144.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 100.0,
+      "ratingPoints" : 40.0,
+      "ranking" : 620.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201301427",
+      "player" : {
+        "playerId" : "CD_I294198",
+        "playerName" : {
+          "givenName" : "Tom",
+          "surname" : "Ledger"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T130",
+        "teamAbbr" : "STK",
+        "teamName" : "St Kilda",
+        "teamNickname" : "Saints"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 39.0,
+        "ranking" : 615,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 39.0,
+        "ranking" : 37,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 39.0,
+        "ranking" : 233,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 8
+  }
+}

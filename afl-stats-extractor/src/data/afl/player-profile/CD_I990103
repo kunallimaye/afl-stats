@@ -1,0 +1,647 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I990103",
+    "position" : "Ruck",
+    "surname" : "Poulton",
+    "jumperNumber" : 27,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jared",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1977-04-21T02:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 182,
+      "weightInKg" : 87,
+      "recruitedFrom" : "Port Adelaide (SANFL)",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 20.0,
+      "behinds" : 16.0,
+      "superGoals" : null,
+      "kicks" : 721.0,
+      "handballs" : 250.0,
+      "disposals" : 971.0,
+      "marks" : 290.0,
+      "bounces" : 41.0,
+      "tackles" : 114.0,
+      "contestedPossessions" : 373.0,
+      "uncontestedPossessions" : 598.0,
+      "totalPossessions" : 971.0,
+      "inside50s" : 115.0,
+      "marksInside50" : 16.0,
+      "contestedMarks" : 31.0,
+      "hitouts" : 25.0,
+      "onePercenters" : 109.0,
+      "disposalEfficiency" : 77.2,
+      "clangers" : 120.0,
+      "freesFor" : 35.0,
+      "freesAgainst" : 33.0,
+      "dreamTeamPoints" : 4086.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 46.0,
+        "totalClearances" : 53.0
+      },
+      "rebound50s" : 185.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 54.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 1.0,
+            "disposals" : 4.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 4.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 20.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990103",
+            "playerName" : {
+              "givenName" : "Jared",
+              "surname" : "Poulton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 1.0,
+            "disposals" : 4.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 4.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 100.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 20.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990103",
+            "playerName" : {
+              "givenName" : "Jared",
+              "surname" : "Poulton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 45.0
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 4.4,
+            "disposals" : 11.4,
+            "marks" : 2.9,
+            "bounces" : 0.4,
+            "tackles" : 1.6,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 7.8,
+            "totalPossessions" : 11.3,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 45.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990103",
+            "playerName" : {
+              "givenName" : "Jared",
+              "surname" : "Poulton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 98.0,
+            "handballs" : 62.0,
+            "disposals" : 160.0,
+            "marks" : 41.0,
+            "bounces" : 5.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 49.0,
+            "uncontestedPossessions" : 109.0,
+            "totalPossessions" : 158.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 75.0,
+            "clangers" : 18.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 642.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 35.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990103",
+            "playerName" : {
+              "givenName" : "Jared",
+              "surname" : "Poulton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 69.7
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.9,
+            "handballs" : 3.1,
+            "disposals" : 11.1,
+            "marks" : 3.8,
+            "bounces" : 0.5,
+            "tackles" : 1.3,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 10.6,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 0.9,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 46.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990103",
+            "playerName" : {
+              "givenName" : "Jared",
+              "surname" : "Poulton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 119.0,
+            "handballs" : 47.0,
+            "disposals" : 166.0,
+            "marks" : 57.0,
+            "bounces" : 8.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 54.0,
+            "uncontestedPossessions" : 105.0,
+            "totalPossessions" : 159.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 80.1,
+            "clangers" : 13.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 696.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 32.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990103",
+            "playerName" : {
+              "givenName" : "Jared",
+              "surname" : "Poulton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 62.3
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 2.6,
+            "disposals" : 11.2,
+            "marks" : 4.2,
+            "bounces" : 0.7,
+            "tackles" : 1.3,
+            "contestedPossessions" : 3.4,
+            "uncontestedPossessions" : 7.7,
+            "totalPossessions" : 11.1,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 50.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990103",
+            "playerName" : {
+              "givenName" : "Jared",
+              "surname" : "Poulton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 208.0,
+            "handballs" : 62.0,
+            "disposals" : 270.0,
+            "marks" : 101.0,
+            "bounces" : 16.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 82.0,
+            "uncontestedPossessions" : 184.0,
+            "totalPossessions" : 266.0,
+            "inside50s" : 37.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 8.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 73.3,
+            "clangers" : 29.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 1222.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 18.0,
+              "totalClearances" : 20.0
+            },
+            "rebound50s" : 45.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 53.8,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990103",
+            "playerName" : {
+              "givenName" : "Jared",
+              "surname" : "Poulton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.4,
+            "handballs" : 2.2,
+            "disposals" : 7.6,
+            "marks" : 2.0,
+            "bounces" : 0.1,
+            "tackles" : 1.1,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 3.5,
+            "totalPossessions" : 7.4,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.5,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.5,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.1,
+            "dreamTeamPoints" : 33.6,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990103",
+            "playerName" : {
+              "givenName" : "Jared",
+              "surname" : "Poulton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 43.0,
+            "handballs" : 18.0,
+            "disposals" : 61.0,
+            "marks" : 16.0,
+            "bounces" : 1.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 31.0,
+            "uncontestedPossessions" : 28.0,
+            "totalPossessions" : 59.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 82.0,
+            "clangers" : 4.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 269.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 75.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990103",
+            "playerName" : {
+              "givenName" : "Jared",
+              "surname" : "Poulton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 3.0,
+      "handballs" : 1.0,
+      "disposals" : 4.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 2.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 4.0,
+      "totalPossessions" : 4.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 2.0,
+      "disposalEfficiency" : 100.0,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 20.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

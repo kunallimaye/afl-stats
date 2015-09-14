@@ -1,0 +1,1722 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I200045",
+    "position" : "Full Back",
+    "surname" : "McPharlin",
+    "jumperNumber" : 18,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.4,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 9.1,
+      "handballs" : 5.0,
+      "disposals" : 14.1,
+      "marks" : 6.6,
+      "bounces" : 0.7,
+      "tackles" : 1.4,
+      "contestedPossessions" : 4.9,
+      "uncontestedPossessions" : 8.9,
+      "totalPossessions" : 13.8,
+      "inside50s" : 0.8,
+      "marksInside50" : 0.6,
+      "contestedMarks" : 1.3,
+      "hitouts" : 0.3,
+      "onePercenters" : 3.4,
+      "disposalEfficiency" : null,
+      "clangers" : 2.0,
+      "freesFor" : 0.6,
+      "freesAgainst" : 1.1,
+      "dreamTeamPoints" : 63.2,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.2,
+        "totalClearances" : 0.2
+      },
+      "rebound50s" : 2.6,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Luke",
+    "bio" : "<p><strong>Outlook:</strong> One of the best AFL defenders of the past decade, McPharlin is close to the end of his career. He&rsquo;s decided to play on in 2015, which is bad news for the AFL&rsquo;s elite power forwards.<br /><br /><strong>What the coach says (Michael Prior): </strong>Has been sensational this pre-season. Had injury concerns toward the end of last year but he hasn&rsquo;t missed a beat. We&rsquo;re very pleased with where Luke is at.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Fremantle/Player Profiles/2015 - Profiles/McPHARLIN Luke.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1981-12-01T01:00:00.000+0000",
+      "draftYear" : "1999",
+      "heightInCm" : 192,
+      "weightInKg" : 90,
+      "recruitedFrom" : "Attadale (WA)/East Fremantle (WAFL)/Hawthorn",
+      "debutYear" : "2000"
+    },
+    "careerStats" : {
+      "goals" : 115.0,
+      "behinds" : 72.0,
+      "superGoals" : null,
+      "kicks" : 2326.0,
+      "handballs" : 1287.0,
+      "disposals" : 3613.0,
+      "marks" : 1677.0,
+      "bounces" : 172.0,
+      "tackles" : 362.0,
+      "contestedPossessions" : 1260.0,
+      "uncontestedPossessions" : 2273.0,
+      "totalPossessions" : 3533.0,
+      "inside50s" : 216.0,
+      "marksInside50" : 143.0,
+      "contestedMarks" : 343.0,
+      "hitouts" : 68.0,
+      "onePercenters" : 871.0,
+      "disposalEfficiency" : 82.4,
+      "clangers" : 500.0,
+      "freesFor" : 159.0,
+      "freesAgainst" : 279.0,
+      "dreamTeamPoints" : 16183.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 52.0,
+        "totalClearances" : 59.0
+      },
+      "rebound50s" : 657.0,
+      "goalAssists" : 32.0,
+      "goalAccuracy" : 56.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.4,
+            "handballs" : 6.3,
+            "disposals" : 15.7,
+            "marks" : 6.9,
+            "bounces" : 0.1,
+            "tackles" : 0.9,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 11.4,
+            "totalPossessions" : 15.2,
+            "inside50s" : 0.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.1,
+            "hitouts" : 0.3,
+            "onePercenters" : 4.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 64.0,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 169.0,
+            "handballs" : 114.0,
+            "disposals" : 283.0,
+            "marks" : 124.0,
+            "bounces" : 1.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 67.0,
+            "uncontestedPossessions" : 206.0,
+            "totalPossessions" : 273.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 19.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 73.0,
+            "disposalEfficiency" : 83.4,
+            "clangers" : 28.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1152.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 54.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 214.3,
+            "ranking" : 345.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 92.4
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.2,
+            "handballs" : 6.1,
+            "disposals" : 16.2,
+            "marks" : 7.2,
+            "bounces" : 0.6,
+            "tackles" : 0.9,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 11.2,
+            "totalPossessions" : 15.2,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.1,
+            "onePercenters" : 4.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 64.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 3.8,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 132.0,
+            "handballs" : 79.0,
+            "disposals" : 211.0,
+            "marks" : 93.0,
+            "bounces" : 8.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 52.0,
+            "uncontestedPossessions" : 146.0,
+            "totalPossessions" : 198.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 55.0,
+            "disposalEfficiency" : 85.3,
+            "clangers" : 29.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 842.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 50.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 176.7,
+            "ranking" : 387.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 90.7
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 12.2,
+            "handballs" : 4.4,
+            "disposals" : 16.6,
+            "marks" : 8.6,
+            "bounces" : 0.8,
+            "tackles" : 1.3,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 12.1,
+            "totalPossessions" : 16.2,
+            "inside50s" : 0.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.3,
+            "onePercenters" : 4.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.3,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 73.6,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 4.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 195.0,
+            "handballs" : 71.0,
+            "disposals" : 266.0,
+            "marks" : 137.0,
+            "bounces" : 13.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 67.0,
+            "uncontestedPossessions" : 193.0,
+            "totalPossessions" : 260.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 67.0,
+            "disposalEfficiency" : 79.3,
+            "clangers" : 36.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1178.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 74.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 219.5,
+            "ranking" : 331.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 86.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 5.7,
+            "disposals" : 16.6,
+            "marks" : 8.1,
+            "bounces" : 1.1,
+            "tackles" : 1.3,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 11.8,
+            "totalPossessions" : 16.5,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 1.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 72.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 3.1,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 230.0,
+            "handballs" : 119.0,
+            "disposals" : 349.0,
+            "marks" : 171.0,
+            "bounces" : 23.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 99.0,
+            "uncontestedPossessions" : 248.0,
+            "totalPossessions" : 347.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 26.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 79.0,
+            "disposalEfficiency" : 86.5,
+            "clangers" : 36.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1514.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 65.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 96.1
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.5,
+            "handballs" : 5.8,
+            "disposals" : 15.3,
+            "marks" : 6.4,
+            "bounces" : 0.6,
+            "tackles" : 1.8,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 8.7,
+            "totalPossessions" : 14.5,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.4,
+            "hitouts" : 0.2,
+            "onePercenters" : 3.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 63.9,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 3.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 191.0,
+            "handballs" : 116.0,
+            "disposals" : 307.0,
+            "marks" : 129.0,
+            "bounces" : 12.0,
+            "tackles" : 36.0,
+            "contestedPossessions" : 117.0,
+            "uncontestedPossessions" : 174.0,
+            "totalPossessions" : 291.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 29.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 64.0,
+            "disposalEfficiency" : 79.2,
+            "clangers" : 49.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 27.0,
+            "dreamTeamPoints" : 1279.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 65.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 93.2
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.1,
+            "handballs" : 6.8,
+            "disposals" : 14.9,
+            "marks" : 5.7,
+            "bounces" : 0.9,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 9.4,
+            "totalPossessions" : 14.4,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 1.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 60.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 138.0,
+            "handballs" : 116.0,
+            "disposals" : 254.0,
+            "marks" : 97.0,
+            "bounces" : 15.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 85.0,
+            "uncontestedPossessions" : 159.0,
+            "totalPossessions" : 244.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 23.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 73.0,
+            "disposalEfficiency" : 81.9,
+            "clangers" : 27.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1022.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 46.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 90.9
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.1,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 8.3,
+            "handballs" : 5.0,
+            "disposals" : 13.3,
+            "marks" : 5.7,
+            "bounces" : 0.6,
+            "tackles" : 1.3,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 7.8,
+            "totalPossessions" : 12.9,
+            "inside50s" : 1.7,
+            "marksInside50" : 1.3,
+            "contestedMarks" : 0.9,
+            "hitouts" : 0.7,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 63.0,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 20.0,
+            "behinds" : 18.0,
+            "superGoals" : null,
+            "kicks" : 150.0,
+            "handballs" : 90.0,
+            "disposals" : 240.0,
+            "marks" : 102.0,
+            "bounces" : 11.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 93.0,
+            "uncontestedPossessions" : 140.0,
+            "totalPossessions" : 233.0,
+            "inside50s" : 30.0,
+            "marksInside50" : 24.0,
+            "contestedMarks" : 17.0,
+            "hitouts" : 13.0,
+            "onePercenters" : 39.0,
+            "disposalEfficiency" : 69.2,
+            "clangers" : 41.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1134.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 47.6,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 91.3
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 9.6,
+            "handballs" : 5.2,
+            "disposals" : 14.8,
+            "marks" : 7.1,
+            "bounces" : 1.3,
+            "tackles" : 1.5,
+            "contestedPossessions" : 5.3,
+            "uncontestedPossessions" : 9.4,
+            "totalPossessions" : 14.7,
+            "inside50s" : 1.4,
+            "marksInside50" : 1.1,
+            "contestedMarks" : 1.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 70.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 21.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 192.0,
+            "handballs" : 105.0,
+            "disposals" : 297.0,
+            "marks" : 142.0,
+            "bounces" : 27.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 106.0,
+            "uncontestedPossessions" : 188.0,
+            "totalPossessions" : 294.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 23.0,
+            "contestedMarks" : 28.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 68.0,
+            "disposalEfficiency" : 75.1,
+            "clangers" : 37.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 1419.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 44.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 95.4
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 5.9,
+            "disposals" : 14.1,
+            "marks" : 7.2,
+            "bounces" : 0.8,
+            "tackles" : 1.8,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 14.1,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 1.2,
+            "hitouts" : 0.7,
+            "onePercenters" : 4.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 65.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 173.0,
+            "handballs" : 124.0,
+            "disposals" : 297.0,
+            "marks" : 152.0,
+            "bounces" : 16.0,
+            "tackles" : 38.0,
+            "contestedPossessions" : 107.0,
+            "uncontestedPossessions" : 189.0,
+            "totalPossessions" : 296.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 26.0,
+            "hitouts" : 14.0,
+            "onePercenters" : 91.0,
+            "disposalEfficiency" : 89.2,
+            "clangers" : 40.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 25.0,
+            "dreamTeamPoints" : 1379.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 50.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 88.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 95.7
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 8.4,
+            "handballs" : 2.8,
+            "disposals" : 11.2,
+            "marks" : 6.5,
+            "bounces" : 0.3,
+            "tackles" : 1.2,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 7.1,
+            "totalPossessions" : 10.9,
+            "inside50s" : 0.8,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 1.4,
+            "hitouts" : 0.3,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 56.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 184.0,
+            "handballs" : 62.0,
+            "disposals" : 246.0,
+            "marks" : 144.0,
+            "bounces" : 7.0,
+            "tackles" : 27.0,
+            "contestedPossessions" : 83.0,
+            "uncontestedPossessions" : 156.0,
+            "totalPossessions" : 239.0,
+            "inside50s" : 18.0,
+            "marksInside50" : 26.0,
+            "contestedMarks" : 30.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 55.0,
+            "disposalEfficiency" : 84.1,
+            "clangers" : 44.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 29.0,
+            "dreamTeamPoints" : 1242.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 32.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 57.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 88.0
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.8,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 7.6,
+            "handballs" : 2.9,
+            "disposals" : 10.5,
+            "marks" : 5.5,
+            "bounces" : 0.3,
+            "tackles" : 1.3,
+            "contestedPossessions" : 5.3,
+            "uncontestedPossessions" : 5.5,
+            "totalPossessions" : 10.8,
+            "inside50s" : 1.2,
+            "marksInside50" : 1.9,
+            "contestedMarks" : 1.8,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.2,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 59.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 34.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 144.0,
+            "handballs" : 56.0,
+            "disposals" : 200.0,
+            "marks" : 104.0,
+            "bounces" : 5.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 100.0,
+            "uncontestedPossessions" : 105.0,
+            "totalPossessions" : 205.0,
+            "inside50s" : 22.0,
+            "marksInside50" : 37.0,
+            "contestedMarks" : 34.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 43.0,
+            "disposalEfficiency" : 84.5,
+            "clangers" : 38.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 1124.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 70.8,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 92.8
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 10.8,
+            "handballs" : 4.6,
+            "disposals" : 15.4,
+            "marks" : 6.6,
+            "bounces" : 0.9,
+            "tackles" : 1.7,
+            "contestedPossessions" : 6.1,
+            "uncontestedPossessions" : 8.7,
+            "totalPossessions" : 14.9,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 1.9,
+            "hitouts" : 0.4,
+            "onePercenters" : 4.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 68.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 3.4,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 173.0,
+            "handballs" : 73.0,
+            "disposals" : 246.0,
+            "marks" : 106.0,
+            "bounces" : 15.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 98.0,
+            "uncontestedPossessions" : 140.0,
+            "totalPossessions" : 238.0,
+            "inside50s" : 20.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 30.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 67.0,
+            "disposalEfficiency" : 82.9,
+            "clangers" : 31.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1089.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 54.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 80.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 91.9
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 5.3,
+            "disposals" : 14.3,
+            "marks" : 6.4,
+            "bounces" : 1.1,
+            "tackles" : 2.1,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 8.2,
+            "totalPossessions" : 14.0,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 2.1,
+            "hitouts" : 0.2,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 63.6,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 3.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 108.0,
+            "handballs" : 64.0,
+            "disposals" : 172.0,
+            "marks" : 77.0,
+            "bounces" : 13.0,
+            "tackles" : 25.0,
+            "contestedPossessions" : 69.0,
+            "uncontestedPossessions" : 99.0,
+            "totalPossessions" : 168.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 25.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 86.6,
+            "clangers" : 19.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 763.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 39.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 85.2
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 8.4,
+            "handballs" : 5.3,
+            "disposals" : 13.6,
+            "marks" : 5.3,
+            "bounces" : 0.5,
+            "tackles" : 1.7,
+            "contestedPossessions" : 6.1,
+            "uncontestedPossessions" : 7.8,
+            "totalPossessions" : 13.9,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 1.9,
+            "hitouts" : 0.5,
+            "onePercenters" : 4.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 60.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 3.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 92.0,
+            "handballs" : 58.0,
+            "disposals" : 150.0,
+            "marks" : 58.0,
+            "bounces" : 6.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 67.0,
+            "uncontestedPossessions" : 86.0,
+            "totalPossessions" : 153.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 21.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 50.0,
+            "disposalEfficiency" : 87.3,
+            "clangers" : 22.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 664.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 34.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 63.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 4.1,
+            "disposals" : 9.6,
+            "marks" : 4.4,
+            "bounces" : 0.0,
+            "tackles" : 0.5,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 4.7,
+            "totalPossessions" : 9.6,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 1.6,
+            "hitouts" : 0.4,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.2,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 38.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 44.0,
+            "handballs" : 33.0,
+            "disposals" : 77.0,
+            "marks" : 35.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 39.0,
+            "uncontestedPossessions" : 38.0,
+            "totalPossessions" : 77.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 79.2,
+            "clangers" : 21.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 311.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200045",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "McPharlin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 169.0,
+      "handballs" : 114.0,
+      "disposals" : 283.0,
+      "marks" : 124.0,
+      "bounces" : 1.0,
+      "tackles" : 17.0,
+      "contestedPossessions" : 67.0,
+      "uncontestedPossessions" : 206.0,
+      "totalPossessions" : 273.0,
+      "inside50s" : 4.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 19.0,
+      "hitouts" : 5.0,
+      "onePercenters" : 73.0,
+      "disposalEfficiency" : 83.4,
+      "clangers" : 28.0,
+      "freesFor" : 8.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1152.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 3.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 54.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 214.3,
+      "ranking" : 345.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I200045",
+        "playerName" : {
+          "givenName" : "Luke",
+          "surname" : "McPharlin"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T60",
+        "teamAbbr" : "FRE",
+        "teamName" : "Fremantle",
+        "teamNickname" : "Dockers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 210.0,
+        "ranking" : 353,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 210.0,
+        "ranking" : 21,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 210.0,
+        "ranking" : 39,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 111.6,
+        "ranking" : 337,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "1999"
+    },
+    "careerGamesPlayed" : 256
+  }
+}

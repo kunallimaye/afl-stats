@@ -1,0 +1,1001 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280763",
+    "position" : "Ruck",
+    "surname" : "Martin",
+    "jumperNumber" : 12,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.4,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 8.4,
+      "handballs" : 7.7,
+      "disposals" : 16.1,
+      "marks" : 4.6,
+      "bounces" : 0.2,
+      "tackles" : 1.8,
+      "contestedPossessions" : 7.2,
+      "uncontestedPossessions" : 8.9,
+      "totalPossessions" : 16.1,
+      "inside50s" : 2.3,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.9,
+      "hitouts" : 16.8,
+      "onePercenters" : 2.2,
+      "disposalEfficiency" : null,
+      "clangers" : 2.4,
+      "freesFor" : 1.2,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 79.0,
+      "clearances" : {
+        "centreClearances" : 0.9,
+        "stoppageClearances" : 1.5,
+        "totalClearances" : 2.4
+      },
+      "rebound50s" : 1.2,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Stefan",
+    "bio" : "<p>A former basketballer, Stefan Martin is a tall and athletic utility who was traded from Melbourne to Brisbane during the 2012 Exchange Period. At 197cm, he adds a great deal of flexibility to the side as he can play in the ruck, up forward, or down back.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2015 - Profiles/MARTIN Stefan.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1986-11-17T01:00:00.000+0000",
+      "draftYear" : "2008",
+      "heightInCm" : 197,
+      "weightInKg" : 100,
+      "recruitedFrom" : "Old Haileybury/Sandringham",
+      "debutYear" : "2008"
+    },
+    "careerStats" : {
+      "goals" : 33.0,
+      "behinds" : 28.0,
+      "superGoals" : null,
+      "kicks" : 791.0,
+      "handballs" : 723.0,
+      "disposals" : 1514.0,
+      "marks" : 434.0,
+      "bounces" : 18.0,
+      "tackles" : 167.0,
+      "contestedPossessions" : 675.0,
+      "uncontestedPossessions" : 837.0,
+      "totalPossessions" : 1512.0,
+      "inside50s" : 216.0,
+      "marksInside50" : 51.0,
+      "contestedMarks" : 82.0,
+      "hitouts" : 1583.0,
+      "onePercenters" : 211.0,
+      "disposalEfficiency" : 68.5,
+      "clangers" : 225.0,
+      "freesFor" : 110.0,
+      "freesAgainst" : 93.0,
+      "dreamTeamPoints" : 7429.0,
+      "clearances" : {
+        "centreClearances" : 88.0,
+        "stoppageClearances" : 140.0,
+        "totalClearances" : 228.0
+      },
+      "rebound50s" : 113.0,
+      "goalAssists" : 33.0,
+      "goalAccuracy" : 39.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 11.9,
+            "handballs" : 9.7,
+            "disposals" : 21.6,
+            "marks" : 6.4,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 9.9,
+            "uncontestedPossessions" : 11.4,
+            "totalPossessions" : 21.4,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 1.0,
+            "hitouts" : 32.5,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 3.9,
+            "freesFor" : 1.7,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 114.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 2.6,
+              "totalClearances" : 4.6
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280763",
+            "playerName" : {
+              "givenName" : "Stefan",
+              "surname" : "Martin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 238.0,
+            "handballs" : 195.0,
+            "disposals" : 433.0,
+            "marks" : 128.0,
+            "bounces" : 0.0,
+            "tackles" : 40.0,
+            "contestedPossessions" : 199.0,
+            "uncontestedPossessions" : 229.0,
+            "totalPossessions" : 428.0,
+            "inside50s" : 69.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 20.0,
+            "hitouts" : 650.0,
+            "onePercenters" : 32.0,
+            "disposalEfficiency" : 65.6,
+            "clangers" : 78.0,
+            "freesFor" : 34.0,
+            "freesAgainst" : 30.0,
+            "dreamTeamPoints" : 2281.0,
+            "clearances" : {
+              "centreClearances" : 40.0,
+              "stoppageClearances" : 53.0,
+              "totalClearances" : 93.0
+            },
+            "rebound50s" : 28.0,
+            "goalAssists" : 14.0,
+            "goalAccuracy" : 26.3,
+            "ratingPoints" : 350.2,
+            "ranking" : 154.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280763",
+            "playerName" : {
+              "givenName" : "Stefan",
+              "surname" : "Martin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 91.2
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 10.2,
+            "handballs" : 12.2,
+            "disposals" : 22.5,
+            "marks" : 5.7,
+            "bounces" : 0.2,
+            "tackles" : 3.2,
+            "contestedPossessions" : 9.3,
+            "uncontestedPossessions" : 13.0,
+            "totalPossessions" : 22.3,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.7,
+            "hitouts" : 28.2,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 3.3,
+            "freesFor" : 1.4,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 112.4,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 2.4,
+              "totalClearances" : 3.8
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280763",
+            "playerName" : {
+              "givenName" : "Stefan",
+              "surname" : "Martin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 123.0,
+            "handballs" : 147.0,
+            "disposals" : 270.0,
+            "marks" : 69.0,
+            "bounces" : 3.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 112.0,
+            "uncontestedPossessions" : 156.0,
+            "totalPossessions" : 268.0,
+            "inside50s" : 41.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 338.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 64.1,
+            "clangers" : 40.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1349.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 29.0,
+              "totalClearances" : 46.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 12.5,
+            "ratingPoints" : 143.6,
+            "ranking" : 436.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280763",
+            "playerName" : {
+              "givenName" : "Stefan",
+              "surname" : "Martin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 87.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 3.8,
+            "handballs" : 3.6,
+            "disposals" : 7.4,
+            "marks" : 2.2,
+            "bounces" : 0.2,
+            "tackles" : 1.6,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 2.6,
+            "totalPossessions" : 7.6,
+            "inside50s" : 1.2,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 1.0,
+            "hitouts" : 8.6,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 44.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280763",
+            "playerName" : {
+              "givenName" : "Stefan",
+              "surname" : "Martin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 19.0,
+            "handballs" : 18.0,
+            "disposals" : 37.0,
+            "marks" : 11.0,
+            "bounces" : 1.0,
+            "tackles" : 8.0,
+            "contestedPossessions" : 25.0,
+            "uncontestedPossessions" : 13.0,
+            "totalPossessions" : 38.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 43.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 62.2,
+            "clangers" : 9.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 221.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 111.6,
+            "ranking" : 472.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280763",
+            "playerName" : {
+              "givenName" : "Stefan",
+              "surname" : "Martin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 77.9
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.9,
+            "handballs" : 6.0,
+            "disposals" : 13.9,
+            "marks" : 4.4,
+            "bounces" : 0.1,
+            "tackles" : 1.9,
+            "contestedPossessions" : 6.3,
+            "uncontestedPossessions" : 6.9,
+            "totalPossessions" : 13.1,
+            "inside50s" : 2.9,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 1.3,
+            "hitouts" : 14.3,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 76.9,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280763",
+            "playerName" : {
+              "givenName" : "Stefan",
+              "surname" : "Martin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 55.0,
+            "handballs" : 42.0,
+            "disposals" : 97.0,
+            "marks" : 31.0,
+            "bounces" : 1.0,
+            "tackles" : 13.0,
+            "contestedPossessions" : 44.0,
+            "uncontestedPossessions" : 48.0,
+            "totalPossessions" : 92.0,
+            "inside50s" : 20.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 100.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 68.0,
+            "clangers" : 10.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 538.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 70.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280763",
+            "playerName" : {
+              "givenName" : "Stefan",
+              "surname" : "Martin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 78.6
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 10.7,
+            "handballs" : 6.6,
+            "disposals" : 17.3,
+            "marks" : 4.6,
+            "bounces" : 0.6,
+            "tackles" : 2.0,
+            "contestedPossessions" : 7.8,
+            "uncontestedPossessions" : 10.3,
+            "totalPossessions" : 18.0,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.9,
+            "hitouts" : 15.0,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.3,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 82.7,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.4
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280763",
+            "playerName" : {
+              "givenName" : "Stefan",
+              "surname" : "Martin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 225.0,
+            "handballs" : 139.0,
+            "disposals" : 364.0,
+            "marks" : 96.0,
+            "bounces" : 12.0,
+            "tackles" : 42.0,
+            "contestedPossessions" : 163.0,
+            "uncontestedPossessions" : 216.0,
+            "totalPossessions" : 379.0,
+            "inside50s" : 58.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 18.0,
+            "hitouts" : 314.0,
+            "onePercenters" : 46.0,
+            "disposalEfficiency" : 67.6,
+            "clangers" : 51.0,
+            "freesFor" : 27.0,
+            "freesAgainst" : 26.0,
+            "dreamTeamPoints" : 1736.0,
+            "clearances" : {
+              "centreClearances" : 18.0,
+              "stoppageClearances" : 33.0,
+              "totalClearances" : 51.0
+            },
+            "rebound50s" : 31.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280763",
+            "playerName" : {
+              "givenName" : "Stefan",
+              "surname" : "Martin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 79.9
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 5.0,
+            "disposals" : 9.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 4.5,
+            "totalPossessions" : 8.5,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 9.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 35.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280763",
+            "playerName" : {
+              "givenName" : "Stefan",
+              "surname" : "Martin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 10.0,
+            "disposals" : 18.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 8.0,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 17.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 18.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 66.7,
+            "clangers" : 6.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 70.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280763",
+            "playerName" : {
+              "givenName" : "Stefan",
+              "surname" : "Martin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 69.4
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 5.9,
+            "disposals" : 9.9,
+            "marks" : 3.1,
+            "bounces" : 0.1,
+            "tackles" : 1.2,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 5.8,
+            "totalPossessions" : 10.1,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.7,
+            "hitouts" : 6.0,
+            "onePercenters" : 3.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 45.1,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280763",
+            "playerName" : {
+              "givenName" : "Stefan",
+              "surname" : "Martin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 76.0,
+            "handballs" : 113.0,
+            "disposals" : 189.0,
+            "marks" : 59.0,
+            "bounces" : 1.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 81.0,
+            "uncontestedPossessions" : 111.0,
+            "totalPossessions" : 192.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 15.0,
+            "contestedMarks" : 14.0,
+            "hitouts" : 114.0,
+            "onePercenters" : 61.0,
+            "disposalEfficiency" : 75.7,
+            "clangers" : 21.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 856.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280763",
+            "playerName" : {
+              "givenName" : "Stefan",
+              "surname" : "Martin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 82.3
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.9,
+            "handballs" : 7.4,
+            "disposals" : 13.2,
+            "marks" : 4.5,
+            "bounces" : 0.0,
+            "tackles" : 0.4,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 6.9,
+            "totalPossessions" : 12.9,
+            "inside50s" : 0.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.9,
+            "hitouts" : 0.7,
+            "onePercenters" : 4.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 47.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280763",
+            "playerName" : {
+              "givenName" : "Stefan",
+              "surname" : "Martin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 47.0,
+            "handballs" : 59.0,
+            "disposals" : 106.0,
+            "marks" : 36.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 48.0,
+            "uncontestedPossessions" : 55.0,
+            "totalPossessions" : 103.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 35.0,
+            "disposalEfficiency" : 84.9,
+            "clangers" : 10.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 378.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 20.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280763",
+            "playerName" : {
+              "givenName" : "Stefan",
+              "surname" : "Martin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 89.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 5.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 238.0,
+      "handballs" : 195.0,
+      "disposals" : 433.0,
+      "marks" : 128.0,
+      "bounces" : 0.0,
+      "tackles" : 40.0,
+      "contestedPossessions" : 199.0,
+      "uncontestedPossessions" : 229.0,
+      "totalPossessions" : 428.0,
+      "inside50s" : 69.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 20.0,
+      "hitouts" : 650.0,
+      "onePercenters" : 32.0,
+      "disposalEfficiency" : 65.6,
+      "clangers" : 78.0,
+      "freesFor" : 34.0,
+      "freesAgainst" : 30.0,
+      "dreamTeamPoints" : 2281.0,
+      "clearances" : {
+        "centreClearances" : 40.0,
+        "stoppageClearances" : 53.0,
+        "totalClearances" : 93.0
+      },
+      "rebound50s" : 28.0,
+      "goalAssists" : 14.0,
+      "goalAccuracy" : 26.3,
+      "ratingPoints" : 350.2,
+      "ranking" : 154.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280763",
+        "playerName" : {
+          "givenName" : "Stefan",
+          "surname" : "Martin"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 368.5,
+        "ranking" : 133,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 368.5,
+        "ranking" : 6,
+        "ratingType" : "TEAM",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 368.5,
+        "ranking" : 9,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 246.8,
+        "ranking" : 74,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2007"
+    },
+    "careerGamesPlayed" : 94
+  }
+}

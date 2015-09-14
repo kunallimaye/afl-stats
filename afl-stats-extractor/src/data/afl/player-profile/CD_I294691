@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I294691",
+    "position" : "Left Wing",
+    "surname" : "Bell",
+    "jumperNumber" : 28,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.7,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 11.0,
+      "handballs" : 6.5,
+      "disposals" : 17.5,
+      "marks" : 3.5,
+      "bounces" : 0.4,
+      "tackles" : 3.8,
+      "contestedPossessions" : 7.2,
+      "uncontestedPossessions" : 10.3,
+      "totalPossessions" : 17.5,
+      "inside50s" : 3.7,
+      "marksInside50" : 0.4,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.4,
+      "onePercenters" : 1.4,
+      "disposalEfficiency" : null,
+      "clangers" : 2.7,
+      "freesFor" : 0.4,
+      "freesAgainst" : 0.8,
+      "dreamTeamPoints" : 74.7,
+      "clearances" : {
+        "centreClearances" : 0.8,
+        "stoppageClearances" : 1.8,
+        "totalClearances" : 2.6
+      },
+      "rebound50s" : 1.5,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Tom",
+    "bio" : "<p>Tom Bell played 13 games in 2014 &ndash; including the last eight &ndash; as he continued to improve.</p>\n<p>A big-bodied midfielder with a huge tank, the highlight of Bell&rsquo;s 2014 season came in the Round 20 win over Gold Coast, where he amassed 19 disposals and booted four goals to earn his first Brownlow Medal vote.</p>\n<p>The Queenslander will be looking to become a more permanent fixture in Carlton&rsquo;s line-up in 2015.</p>\n<p><strong>Draft history: </strong>2012 Rookie Draft selection (Carlton) No.14.<br /> <br /> <strong>Twitter:</strong> <a href=\"http://twitter.com/thomasbell91\" target=\"_blank\">@thomasbell91<br /> </a><strong>Instagram:</strong> <a href=\"http://instagram.com/thomasbell1\" target=\"_blank\">thomasbell1</a></p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Carlton/Player Profiles/2015 - Profiles/BELL Tom.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-06-13T02:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 187,
+      "weightInKg" : 98,
+      "recruitedFrom" : "Templestowe (Vic)/Morningside (Qld)",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 36.0,
+      "behinds" : 22.0,
+      "superGoals" : null,
+      "kicks" : 559.0,
+      "handballs" : 331.0,
+      "disposals" : 890.0,
+      "marks" : 181.0,
+      "bounces" : 18.0,
+      "tackles" : 194.0,
+      "contestedPossessions" : 368.0,
+      "uncontestedPossessions" : 526.0,
+      "totalPossessions" : 894.0,
+      "inside50s" : 190.0,
+      "marksInside50" : 22.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 18.0,
+      "onePercenters" : 69.0,
+      "disposalEfficiency" : 66.0,
+      "clangers" : 138.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 42.0,
+      "dreamTeamPoints" : 3809.0,
+      "clearances" : {
+        "centreClearances" : 41.0,
+        "stoppageClearances" : 94.0,
+        "totalClearances" : 135.0
+      },
+      "rebound50s" : 75.0,
+      "goalAssists" : 22.0,
+      "goalAccuracy" : 46.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 13.4,
+            "handballs" : 7.7,
+            "disposals" : 21.1,
+            "marks" : 4.4,
+            "bounces" : 0.5,
+            "tackles" : 4.0,
+            "contestedPossessions" : 7.4,
+            "uncontestedPossessions" : 13.6,
+            "totalPossessions" : 21.0,
+            "inside50s" : 4.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.7,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 88.8,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.5
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294691",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Bell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 295.0,
+            "handballs" : 170.0,
+            "disposals" : 465.0,
+            "marks" : 97.0,
+            "bounces" : 10.0,
+            "tackles" : 87.0,
+            "contestedPossessions" : 163.0,
+            "uncontestedPossessions" : 300.0,
+            "totalPossessions" : 463.0,
+            "inside50s" : 100.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 16.0,
+            "onePercenters" : 29.0,
+            "disposalEfficiency" : 69.2,
+            "clangers" : 67.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1954.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 43.0,
+              "totalClearances" : 56.0
+            },
+            "rebound50s" : 37.0,
+            "goalAssists" : 17.0,
+            "goalAccuracy" : 43.6,
+            "ratingPoints" : 373.4,
+            "ranking" : 123.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294691",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Bell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 85.9
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.3,
+            "handballs" : 5.0,
+            "disposals" : 14.3,
+            "marks" : 3.7,
+            "bounces" : 0.2,
+            "tackles" : 3.5,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 8.7,
+            "totalPossessions" : 14.5,
+            "inside50s" : 3.3,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 67.4,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294691",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Bell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 121.0,
+            "handballs" : 65.0,
+            "disposals" : 186.0,
+            "marks" : 48.0,
+            "bounces" : 3.0,
+            "tackles" : 46.0,
+            "contestedPossessions" : 76.0,
+            "uncontestedPossessions" : 113.0,
+            "totalPossessions" : 189.0,
+            "inside50s" : 43.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 63.4,
+            "clangers" : 27.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 876.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 18.0,
+              "totalClearances" : 22.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 57.9,
+            "ratingPoints" : 195.5,
+            "ranking" : 364.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294691",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Bell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 73.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 8.4,
+            "handballs" : 6.6,
+            "disposals" : 15.0,
+            "marks" : 1.9,
+            "bounces" : 0.3,
+            "tackles" : 3.4,
+            "contestedPossessions" : 8.2,
+            "uncontestedPossessions" : 7.2,
+            "totalPossessions" : 15.4,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 3.1,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 57.8,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294691",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Bell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 76.0,
+            "handballs" : 59.0,
+            "disposals" : 135.0,
+            "marks" : 17.0,
+            "bounces" : 3.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 74.0,
+            "uncontestedPossessions" : 65.0,
+            "totalPossessions" : 139.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 60.7,
+            "clangers" : 28.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 520.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 27.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 36.4,
+            "ratingPoints" : 144.8,
+            "ranking" : 425.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294691",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Bell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 67.0
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 9.6,
+            "handballs" : 5.3,
+            "disposals" : 14.9,
+            "marks" : 2.7,
+            "bounces" : 0.3,
+            "tackles" : 4.3,
+            "contestedPossessions" : 7.9,
+            "uncontestedPossessions" : 6.9,
+            "totalPossessions" : 14.7,
+            "inside50s" : 2.9,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 65.6,
+            "clearances" : {
+              "centreClearances" : 1.7,
+              "stoppageClearances" : 2.6,
+              "totalClearances" : 4.3
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294691",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Bell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 67.0,
+            "handballs" : 37.0,
+            "disposals" : 104.0,
+            "marks" : 19.0,
+            "bounces" : 2.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 55.0,
+            "uncontestedPossessions" : 48.0,
+            "totalPossessions" : 103.0,
+            "inside50s" : 20.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 62.5,
+            "clangers" : 16.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 459.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 18.0,
+              "totalClearances" : 30.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 44.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294691",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Bell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 66.2
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 17.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 295.0,
+      "handballs" : 170.0,
+      "disposals" : 465.0,
+      "marks" : 97.0,
+      "bounces" : 10.0,
+      "tackles" : 87.0,
+      "contestedPossessions" : 163.0,
+      "uncontestedPossessions" : 300.0,
+      "totalPossessions" : 463.0,
+      "inside50s" : 100.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 16.0,
+      "onePercenters" : 29.0,
+      "disposalEfficiency" : 69.2,
+      "clangers" : 67.0,
+      "freesFor" : 9.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1954.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 43.0,
+        "totalClearances" : 56.0
+      },
+      "rebound50s" : 37.0,
+      "goalAssists" : 17.0,
+      "goalAccuracy" : 43.6,
+      "ratingPoints" : 373.4,
+      "ranking" : 123.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I294691",
+        "playerName" : {
+          "givenName" : "Tom",
+          "surname" : "Bell"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T30",
+        "teamAbbr" : "CARL",
+        "teamName" : "Carlton",
+        "teamNickname" : "Blues"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 380.2,
+        "ranking" : 118,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 380.2,
+        "ranking" : 5,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 380.2,
+        "ranking" : 14,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 256.0,
+        "ranking" : 64,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 51
+  }
+}

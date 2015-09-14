@@ -1,0 +1,1104 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I250338",
+    "position" : "Right Back Pocket",
+    "surname" : "Smith",
+    "jumperNumber" : 40,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 7.6,
+      "handballs" : 6.8,
+      "disposals" : 14.4,
+      "marks" : 3.4,
+      "bounces" : 0.1,
+      "tackles" : 3.1,
+      "contestedPossessions" : 5.3,
+      "uncontestedPossessions" : 9.1,
+      "totalPossessions" : 14.4,
+      "inside50s" : 1.0,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.0,
+      "onePercenters" : 3.1,
+      "disposalEfficiency" : null,
+      "clangers" : 1.2,
+      "freesFor" : 0.9,
+      "freesAgainst" : 0.4,
+      "dreamTeamPoints" : 58.8,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.6,
+        "totalClearances" : 0.7
+      },
+      "rebound50s" : 2.1,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Nick",
+    "bio" : "<p>Respected within the Swans&rsquo; organisation for several years, the no-fuss defender finally earned accolades from the greater AFL community with another outstanding performance in 2014.</p>\n<p>Playing 23 games, Smith averaged 16 touches, four marks and three tackles and ended the season with a well-deserved place in the All-Australian team for the first time.<br /> <br /> <strong>Draft history:</strong> 2008 rookie elevation (Sydney).</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/SydneySwans/Player Profiles/2015 Profiles/SMITH Nick.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1988-06-12T02:00:00.000+0000",
+      "draftYear" : "2008",
+      "heightInCm" : 183,
+      "weightInKg" : 82,
+      "recruitedFrom" : "Ashburton United/Scotch College/Oakleigh U18",
+      "debutYear" : "2008"
+    },
+    "careerStats" : {
+      "goals" : 9.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 1070.0,
+      "handballs" : 955.0,
+      "disposals" : 2025.0,
+      "marks" : 477.0,
+      "bounces" : 19.0,
+      "tackles" : 436.0,
+      "contestedPossessions" : 751.0,
+      "uncontestedPossessions" : 1281.0,
+      "totalPossessions" : 2032.0,
+      "inside50s" : 148.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 45.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 440.0,
+      "disposalEfficiency" : 77.5,
+      "clangers" : 173.0,
+      "freesFor" : 124.0,
+      "freesAgainst" : 63.0,
+      "dreamTeamPoints" : 8292.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 79.0,
+        "totalClearances" : 93.0
+      },
+      "rebound50s" : 295.0,
+      "goalAssists" : 25.0,
+      "goalAccuracy" : 47.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.6,
+            "handballs" : 6.8,
+            "disposals" : 16.4,
+            "marks" : 5.1,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 4.4,
+            "uncontestedPossessions" : 11.7,
+            "totalPossessions" : 16.1,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 69.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250338",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 192.0,
+            "handballs" : 136.0,
+            "disposals" : 328.0,
+            "marks" : 102.0,
+            "bounces" : 1.0,
+            "tackles" : 60.0,
+            "contestedPossessions" : 88.0,
+            "uncontestedPossessions" : 235.0,
+            "totalPossessions" : 323.0,
+            "inside50s" : 21.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 53.0,
+            "disposalEfficiency" : 78.0,
+            "clangers" : 30.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1384.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 61.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 296.3,
+            "ranking" : 235.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250338",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 89.4
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 7.3,
+            "disposals" : 15.5,
+            "marks" : 3.6,
+            "bounces" : 0.2,
+            "tackles" : 2.6,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 10.3,
+            "totalPossessions" : 15.9,
+            "inside50s" : 0.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.9,
+            "disposalEfficiency" : null,
+            "clangers" : 0.9,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 60.7,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 2.6,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250338",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 188.0,
+            "handballs" : 169.0,
+            "disposals" : 357.0,
+            "marks" : 83.0,
+            "bounces" : 5.0,
+            "tackles" : 59.0,
+            "contestedPossessions" : 129.0,
+            "uncontestedPossessions" : 236.0,
+            "totalPossessions" : 365.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 90.0,
+            "disposalEfficiency" : 83.2,
+            "clangers" : 20.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 1395.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 59.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 326.5,
+            "ranking" : 189.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250338",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 89.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 7.0,
+            "disposals" : 13.9,
+            "marks" : 3.0,
+            "bounces" : 0.1,
+            "tackles" : 3.1,
+            "contestedPossessions" : 5.3,
+            "uncontestedPossessions" : 8.6,
+            "totalPossessions" : 14.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 56.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250338",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 167.0,
+            "handballs" : 167.0,
+            "disposals" : 334.0,
+            "marks" : 72.0,
+            "bounces" : 2.0,
+            "tackles" : 75.0,
+            "contestedPossessions" : 128.0,
+            "uncontestedPossessions" : 207.0,
+            "totalPossessions" : 335.0,
+            "inside50s" : 25.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 78.0,
+            "disposalEfficiency" : 78.4,
+            "clangers" : 23.0,
+            "freesFor" : 22.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1350.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 45.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 291.4,
+            "ranking" : 238.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250338",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 90.8
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.4,
+            "handballs" : 7.5,
+            "disposals" : 14.8,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 14.8,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 61.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250338",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 162.0,
+            "handballs" : 164.0,
+            "disposals" : 326.0,
+            "marks" : 67.0,
+            "bounces" : 0.0,
+            "tackles" : 87.0,
+            "contestedPossessions" : 128.0,
+            "uncontestedPossessions" : 197.0,
+            "totalPossessions" : 325.0,
+            "inside50s" : 23.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 75.0,
+            "disposalEfficiency" : 79.4,
+            "clangers" : 31.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1345.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 43.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250338",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 90.7
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 5.7,
+            "disposals" : 14.0,
+            "marks" : 3.3,
+            "bounces" : 0.0,
+            "tackles" : 3.6,
+            "contestedPossessions" : 6.4,
+            "uncontestedPossessions" : 7.8,
+            "totalPossessions" : 14.2,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 60.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250338",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 189.0,
+            "handballs" : 132.0,
+            "disposals" : 321.0,
+            "marks" : 76.0,
+            "bounces" : 0.0,
+            "tackles" : 82.0,
+            "contestedPossessions" : 147.0,
+            "uncontestedPossessions" : 180.0,
+            "totalPossessions" : 327.0,
+            "inside50s" : 38.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 85.0,
+            "disposalEfficiency" : 72.3,
+            "clangers" : 38.0,
+            "freesFor" : 28.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1383.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 22.0,
+              "totalClearances" : 23.0
+            },
+            "rebound50s" : 52.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250338",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 89.1
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.6,
+            "handballs" : 6.4,
+            "disposals" : 12.1,
+            "marks" : 2.6,
+            "bounces" : 0.4,
+            "tackles" : 2.4,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 7.3,
+            "totalPossessions" : 11.9,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 0.7,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 48.4,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250338",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 90.0,
+            "handballs" : 103.0,
+            "disposals" : 193.0,
+            "marks" : 42.0,
+            "bounces" : 6.0,
+            "tackles" : 38.0,
+            "contestedPossessions" : 73.0,
+            "uncontestedPossessions" : 117.0,
+            "totalPossessions" : 190.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 75.1,
+            "clangers" : 12.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 774.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250338",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 81.1
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 7.0,
+            "disposals" : 13.5,
+            "marks" : 2.8,
+            "bounces" : 0.1,
+            "tackles" : 2.8,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 8.7,
+            "totalPossessions" : 13.6,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 53.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250338",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 71.0,
+            "handballs" : 77.0,
+            "disposals" : 148.0,
+            "marks" : 31.0,
+            "bounces" : 1.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 54.0,
+            "uncontestedPossessions" : 96.0,
+            "totalPossessions" : 150.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 73.0,
+            "clangers" : 15.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 585.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250338",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 76.0
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 3.5,
+            "disposals" : 9.0,
+            "marks" : 2.0,
+            "bounces" : 2.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 6.5,
+            "totalPossessions" : 8.5,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 38.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250338",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 7.0,
+            "disposals" : 18.0,
+            "marks" : 4.0,
+            "bounces" : 4.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 13.0,
+            "totalPossessions" : 17.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 50.0,
+            "clangers" : 4.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 76.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250338",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 61.9
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250338",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250338",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 192.0,
+      "handballs" : 136.0,
+      "disposals" : 328.0,
+      "marks" : 102.0,
+      "bounces" : 1.0,
+      "tackles" : 60.0,
+      "contestedPossessions" : 88.0,
+      "uncontestedPossessions" : 235.0,
+      "totalPossessions" : 323.0,
+      "inside50s" : 21.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 53.0,
+      "disposalEfficiency" : 78.0,
+      "clangers" : 30.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 1384.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 10.0,
+        "totalClearances" : 11.0
+      },
+      "rebound50s" : 61.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 296.3,
+      "ranking" : 235.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I250338",
+        "playerName" : {
+          "givenName" : "Nick",
+          "surname" : "Smith"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T160",
+        "teamAbbr" : "SYD",
+        "teamName" : "Sydney Swans",
+        "teamNickname" : "Swans"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 296.3,
+        "ranking" : 236,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 296.3,
+        "ranking" : 14,
+        "ratingType" : "TEAM",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 296.3,
+        "ranking" : 39,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 135.0,
+        "ranking" : 281,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2006"
+    },
+    "careerGamesPlayed" : 141
+  }
+}

@@ -1,0 +1,750 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960257",
+    "position" : "Interchange",
+    "surname" : "Smith",
+    "jumperNumber" : 5,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Rohan",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1973-05-31T02:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 184,
+      "weightInKg" : 80,
+      "recruitedFrom" : "Kingsville ",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 159.0,
+      "behinds" : 121.0,
+      "superGoals" : null,
+      "kicks" : 2248.0,
+      "handballs" : 953.0,
+      "disposals" : 3201.0,
+      "marks" : 904.0,
+      "bounces" : 281.0,
+      "tackles" : 212.0,
+      "contestedPossessions" : 860.0,
+      "uncontestedPossessions" : 2204.0,
+      "totalPossessions" : 3064.0,
+      "inside50s" : 670.0,
+      "marksInside50" : 124.0,
+      "contestedMarks" : 74.0,
+      "hitouts" : 2.0,
+      "onePercenters" : 231.0,
+      "disposalEfficiency" : 83.9,
+      "clangers" : 308.0,
+      "freesFor" : 112.0,
+      "freesAgainst" : 82.0,
+      "dreamTeamPoints" : 13153.0,
+      "clearances" : {
+        "centreClearances" : 50.0,
+        "stoppageClearances" : 127.0,
+        "totalClearances" : 177.0
+      },
+      "rebound50s" : 495.0,
+      "goalAssists" : 29.0,
+      "goalAccuracy" : 53.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 5.5,
+            "disposals" : 15.5,
+            "marks" : 5.7,
+            "bounces" : 0.9,
+            "tackles" : 1.9,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 11.7,
+            "totalPossessions" : 15.3,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 70.6,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960257",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 21.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 241.0,
+            "handballs" : 132.0,
+            "disposals" : 373.0,
+            "marks" : 137.0,
+            "bounces" : 22.0,
+            "tackles" : 45.0,
+            "contestedPossessions" : 87.0,
+            "uncontestedPossessions" : 280.0,
+            "totalPossessions" : 367.0,
+            "inside50s" : 81.0,
+            "marksInside50" : 19.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 82.3,
+            "clangers" : 37.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1694.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 21.0,
+              "totalClearances" : 25.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 55.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960257",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 74.3
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 12.1,
+            "handballs" : 6.7,
+            "disposals" : 18.9,
+            "marks" : 6.0,
+            "bounces" : 2.6,
+            "tackles" : 1.3,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 14.2,
+            "totalPossessions" : 18.4,
+            "inside50s" : 3.9,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 77.7,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960257",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 16.0,
+            "behinds" : 17.0,
+            "superGoals" : null,
+            "kicks" : 243.0,
+            "handballs" : 135.0,
+            "disposals" : 378.0,
+            "marks" : 121.0,
+            "bounces" : 52.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 85.0,
+            "uncontestedPossessions" : 284.0,
+            "totalPossessions" : 369.0,
+            "inside50s" : 79.0,
+            "marksInside50" : 14.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 82.0,
+            "clangers" : 27.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1555.0,
+            "clearances" : {
+              "centreClearances" : 11.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 17.0
+            },
+            "rebound50s" : 46.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960257",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 88.3
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 14.5,
+            "handballs" : 4.2,
+            "disposals" : 18.7,
+            "marks" : 4.6,
+            "bounces" : 1.3,
+            "tackles" : 1.4,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 12.7,
+            "totalPossessions" : 16.9,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 72.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 4.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960257",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 13.0,
+            "superGoals" : null,
+            "kicks" : 304.0,
+            "handballs" : 88.0,
+            "disposals" : 392.0,
+            "marks" : 97.0,
+            "bounces" : 28.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 89.0,
+            "uncontestedPossessions" : 266.0,
+            "totalPossessions" : 355.0,
+            "inside50s" : 80.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 83.2,
+            "clangers" : 44.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1523.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 90.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960257",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 92.5
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 16.0,
+            "handballs" : 6.5,
+            "disposals" : 22.6,
+            "marks" : 4.3,
+            "bounces" : 2.2,
+            "tackles" : 1.4,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 15.0,
+            "totalPossessions" : 19.9,
+            "inside50s" : 3.9,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 81.0,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 5.2,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960257",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 353.0,
+            "handballs" : 144.0,
+            "disposals" : 497.0,
+            "marks" : 95.0,
+            "bounces" : 49.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 109.0,
+            "uncontestedPossessions" : 329.0,
+            "totalPossessions" : 438.0,
+            "inside50s" : 86.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 46.0,
+            "disposalEfficiency" : 86.7,
+            "clangers" : 42.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1781.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 18.0,
+              "totalClearances" : 27.0
+            },
+            "rebound50s" : 115.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960257",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 95.8
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 13.3,
+            "handballs" : 5.9,
+            "disposals" : 19.2,
+            "marks" : 5.0,
+            "bounces" : 2.2,
+            "tackles" : 1.4,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 13.3,
+            "totalPossessions" : 18.5,
+            "inside50s" : 3.9,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 77.5,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 3.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960257",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 18.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 293.0,
+            "handballs" : 130.0,
+            "disposals" : 423.0,
+            "marks" : 111.0,
+            "bounces" : 49.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 115.0,
+            "uncontestedPossessions" : 292.0,
+            "totalPossessions" : 407.0,
+            "inside50s" : 85.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 35.0,
+            "disposalEfficiency" : 86.5,
+            "clangers" : 32.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 1704.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 17.0,
+              "totalClearances" : 30.0
+            },
+            "rebound50s" : 73.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960257",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 12.3,
+            "handballs" : 4.9,
+            "disposals" : 17.1,
+            "marks" : 4.6,
+            "bounces" : 0.9,
+            "tackles" : 0.8,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 11.6,
+            "totalPossessions" : 16.6,
+            "inside50s" : 4.2,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 69.5,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960257",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 18.0,
+            "behinds" : 21.0,
+            "superGoals" : null,
+            "kicks" : 258.0,
+            "handballs" : 102.0,
+            "disposals" : 360.0,
+            "marks" : 96.0,
+            "bounces" : 18.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 105.0,
+            "uncontestedPossessions" : 243.0,
+            "totalPossessions" : 348.0,
+            "inside50s" : 88.0,
+            "marksInside50" : 20.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 84.7,
+            "clangers" : 23.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 1459.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 19.0,
+              "totalClearances" : 27.0
+            },
+            "rebound50s" : 51.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 46.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960257",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 21.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 241.0,
+      "handballs" : 132.0,
+      "disposals" : 373.0,
+      "marks" : 137.0,
+      "bounces" : 22.0,
+      "tackles" : 45.0,
+      "contestedPossessions" : 87.0,
+      "uncontestedPossessions" : 280.0,
+      "totalPossessions" : 367.0,
+      "inside50s" : 81.0,
+      "marksInside50" : 19.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 31.0,
+      "disposalEfficiency" : 82.3,
+      "clangers" : 37.0,
+      "freesFor" : 10.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 1694.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 25.0
+      },
+      "rebound50s" : 23.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 55.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

@@ -1,0 +1,898 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291201",
+    "position" : "Right Half Forward",
+    "surname" : "Henderson",
+    "jumperNumber" : 45,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.5,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 9.8,
+      "handballs" : 5.8,
+      "disposals" : 15.6,
+      "marks" : 4.9,
+      "bounces" : 0.6,
+      "tackles" : 1.8,
+      "contestedPossessions" : 4.5,
+      "uncontestedPossessions" : 11.0,
+      "totalPossessions" : 15.5,
+      "inside50s" : 2.6,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.4,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.1,
+      "disposalEfficiency" : null,
+      "clangers" : 2.0,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 65.4,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.6,
+        "totalClearances" : 0.7
+      },
+      "rebound50s" : 1.9,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Ricky",
+    "bio" : "<p>A standout throughout pre-season, Henderson suffered a cruel twist of fate when he broke his leg during a training session in February. The long-kicking utility spent four months on the sidelines before making his return against GWS at Spotless Stadium. Henderson played the next seven matches and averaged 17 disposals a game in an encouraging finish to the season.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/AdelaideCrows/Player Profiles/2015 - Profiles/HENDERSON Ricky.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1988-09-11T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 188,
+      "weightInKg" : 91,
+      "recruitedFrom" : "Trentham",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 42.0,
+      "behinds" : 29.0,
+      "superGoals" : null,
+      "kicks" : 784.0,
+      "handballs" : 461.0,
+      "disposals" : 1245.0,
+      "marks" : 393.0,
+      "bounces" : 48.0,
+      "tackles" : 141.0,
+      "contestedPossessions" : 360.0,
+      "uncontestedPossessions" : 877.0,
+      "totalPossessions" : 1237.0,
+      "inside50s" : 211.0,
+      "marksInside50" : 38.0,
+      "contestedMarks" : 34.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 172.0,
+      "disposalEfficiency" : 74.1,
+      "clangers" : 157.0,
+      "freesFor" : 46.0,
+      "freesAgainst" : 38.0,
+      "dreamTeamPoints" : 5231.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 51.0,
+        "totalClearances" : 57.0
+      },
+      "rebound50s" : 153.0,
+      "goalAssists" : 31.0,
+      "goalAccuracy" : 50.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 12.3,
+            "handballs" : 7.9,
+            "disposals" : 20.2,
+            "marks" : 5.6,
+            "bounces" : 0.8,
+            "tackles" : 1.2,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 13.9,
+            "totalPossessions" : 19.5,
+            "inside50s" : 3.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.1,
+            "dreamTeamPoints" : 76.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 3.3,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291201",
+            "playerName" : {
+              "givenName" : "Ricky",
+              "surname" : "Henderson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 197.0,
+            "handballs" : 127.0,
+            "disposals" : 324.0,
+            "marks" : 90.0,
+            "bounces" : 13.0,
+            "tackles" : 20.0,
+            "contestedPossessions" : 90.0,
+            "uncontestedPossessions" : 222.0,
+            "totalPossessions" : 312.0,
+            "inside50s" : 50.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 39.0,
+            "disposalEfficiency" : 73.8,
+            "clangers" : 31.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 1216.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 25.0,
+              "totalClearances" : 25.0
+            },
+            "rebound50s" : 53.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : 210.2,
+            "ranking" : 350.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291201",
+            "playerName" : {
+              "givenName" : "Ricky",
+              "surname" : "Henderson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 81.7
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 11.4,
+            "handballs" : 5.5,
+            "disposals" : 16.9,
+            "marks" : 4.6,
+            "bounces" : 0.5,
+            "tackles" : 0.9,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 13.1,
+            "totalPossessions" : 17.0,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 61.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291201",
+            "playerName" : {
+              "givenName" : "Ricky",
+              "surname" : "Henderson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 91.0,
+            "handballs" : 44.0,
+            "disposals" : 135.0,
+            "marks" : 37.0,
+            "bounces" : 4.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 31.0,
+            "uncontestedPossessions" : 105.0,
+            "totalPossessions" : 136.0,
+            "inside50s" : 18.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 69.6,
+            "clangers" : 20.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 494.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 230.4,
+            "ranking" : 329.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291201",
+            "playerName" : {
+              "givenName" : "Ricky",
+              "surname" : "Henderson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 83.4
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 13.4,
+            "handballs" : 5.9,
+            "disposals" : 19.3,
+            "marks" : 6.1,
+            "bounces" : 1.4,
+            "tackles" : 1.9,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 13.3,
+            "totalPossessions" : 18.9,
+            "inside50s" : 2.7,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 80.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.8,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291201",
+            "playerName" : {
+              "givenName" : "Ricky",
+              "surname" : "Henderson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 188.0,
+            "handballs" : 82.0,
+            "disposals" : 270.0,
+            "marks" : 85.0,
+            "bounces" : 19.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 78.0,
+            "uncontestedPossessions" : 186.0,
+            "totalPossessions" : 264.0,
+            "inside50s" : 38.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 73.3,
+            "clangers" : 22.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 1124.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 39.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 38.5,
+            "ratingPoints" : 261.5,
+            "ranking" : 283.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291201",
+            "playerName" : {
+              "givenName" : "Ricky",
+              "surname" : "Henderson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 81.1
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 4.4,
+            "disposals" : 12.7,
+            "marks" : 4.5,
+            "bounces" : 0.3,
+            "tackles" : 0.9,
+            "contestedPossessions" : 3.2,
+            "uncontestedPossessions" : 9.6,
+            "totalPossessions" : 12.8,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 53.7,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291201",
+            "playerName" : {
+              "givenName" : "Ricky",
+              "surname" : "Henderson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 99.0,
+            "handballs" : 53.0,
+            "disposals" : 152.0,
+            "marks" : 54.0,
+            "bounces" : 4.0,
+            "tackles" : 11.0,
+            "contestedPossessions" : 39.0,
+            "uncontestedPossessions" : 115.0,
+            "totalPossessions" : 154.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 41.0,
+            "disposalEfficiency" : 78.9,
+            "clangers" : 24.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 644.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 75.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291201",
+            "playerName" : {
+              "givenName" : "Ricky",
+              "surname" : "Henderson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 62.9
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 6.8,
+            "handballs" : 4.6,
+            "disposals" : 11.4,
+            "marks" : 3.8,
+            "bounces" : 0.4,
+            "tackles" : 2.6,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 7.7,
+            "totalPossessions" : 11.8,
+            "inside50s" : 2.9,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 53.9,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291201",
+            "playerName" : {
+              "givenName" : "Ricky",
+              "surname" : "Henderson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 123.0,
+            "handballs" : 82.0,
+            "disposals" : 205.0,
+            "marks" : 68.0,
+            "bounces" : 7.0,
+            "tackles" : 46.0,
+            "contestedPossessions" : 75.0,
+            "uncontestedPossessions" : 138.0,
+            "totalPossessions" : 213.0,
+            "inside50s" : 52.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 76.1,
+            "clangers" : 35.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 970.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 12.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 52.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291201",
+            "playerName" : {
+              "givenName" : "Ricky",
+              "surname" : "Henderson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 76.5
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.1,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 6.1,
+            "disposals" : 13.2,
+            "marks" : 4.9,
+            "bounces" : 0.1,
+            "tackles" : 2.6,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 9.2,
+            "totalPossessions" : 13.2,
+            "inside50s" : 3.2,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 65.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291201",
+            "playerName" : {
+              "givenName" : "Ricky",
+              "surname" : "Henderson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 86.0,
+            "handballs" : 73.0,
+            "disposals" : 159.0,
+            "marks" : 59.0,
+            "bounces" : 1.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 47.0,
+            "uncontestedPossessions" : 111.0,
+            "totalPossessions" : 158.0,
+            "inside50s" : 39.0,
+            "marksInside50" : 15.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 72.3,
+            "clangers" : 25.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 783.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 52.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291201",
+            "playerName" : {
+              "givenName" : "Ricky",
+              "surname" : "Henderson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 78.0
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291201",
+            "playerName" : {
+              "givenName" : "Ricky",
+              "surname" : "Henderson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291201",
+            "playerName" : {
+              "givenName" : "Ricky",
+              "surname" : "Henderson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 3.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 197.0,
+      "handballs" : 127.0,
+      "disposals" : 324.0,
+      "marks" : 90.0,
+      "bounces" : 13.0,
+      "tackles" : 20.0,
+      "contestedPossessions" : 90.0,
+      "uncontestedPossessions" : 222.0,
+      "totalPossessions" : 312.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 39.0,
+      "disposalEfficiency" : 73.8,
+      "clangers" : 31.0,
+      "freesFor" : 7.0,
+      "freesAgainst" : 2.0,
+      "dreamTeamPoints" : 1216.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 25.0,
+        "totalClearances" : 25.0
+      },
+      "rebound50s" : 53.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 37.5,
+      "ratingPoints" : 210.2,
+      "ranking" : 350.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291201",
+        "playerName" : {
+          "givenName" : "Ricky",
+          "surname" : "Henderson"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T10",
+        "teamAbbr" : "ADEL",
+        "teamName" : "Adelaide Crows",
+        "teamNickname" : "Crows"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 226.7,
+        "ranking" : 329,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 226.7,
+        "ranking" : 16,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 226.7,
+        "ranking" : 65,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 16.5,
+        "ranking" : 17,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 166.4,
+        "ranking" : 211,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2008"
+    },
+    "careerGamesPlayed" : 80
+  }
+}

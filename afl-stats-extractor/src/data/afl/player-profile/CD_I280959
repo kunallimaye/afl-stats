@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280959",
+    "position" : "Centre Half Forward",
+    "surname" : "Vardy",
+    "jumperNumber" : 30,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.0,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 4.3,
+      "handballs" : 4.1,
+      "disposals" : 8.4,
+      "marks" : 2.8,
+      "bounces" : 0.0,
+      "tackles" : 2.0,
+      "contestedPossessions" : 4.9,
+      "uncontestedPossessions" : 3.5,
+      "totalPossessions" : 8.4,
+      "inside50s" : 1.2,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 11.5,
+      "onePercenters" : 2.2,
+      "disposalEfficiency" : null,
+      "clangers" : 1.2,
+      "freesFor" : 1.0,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 54.8,
+      "clearances" : {
+        "centreClearances" : 0.7,
+        "stoppageClearances" : 0.5,
+        "totalClearances" : 1.1
+      },
+      "rebound50s" : 0.2,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Nathan",
+    "bio" : "<p>&nbsp;</p>\n\n<p>An injury-prone but talented big man whose 2014 season was written-off in February when he ruptured his right ACL at training. The knee injury followed hip problems the previous summer, which kept him out of the side until round 10. Vardy has played just 21 games since his debut in 2011, however, he remains a valuable asset for the Cats given his ability in the ruck and as an attacking threat.&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GeelongCats/Player Profiles/2015 - Profiles/VARDY Nathan.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-06-25T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 199,
+      "weightInKg" : 101,
+      "recruitedFrom" : "Allies/Gippsland U18",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 24.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 104.0,
+      "handballs" : 98.0,
+      "disposals" : 202.0,
+      "marks" : 67.0,
+      "bounces" : 0.0,
+      "tackles" : 48.0,
+      "contestedPossessions" : 118.0,
+      "uncontestedPossessions" : 84.0,
+      "totalPossessions" : 202.0,
+      "inside50s" : 29.0,
+      "marksInside50" : 23.0,
+      "contestedMarks" : 25.0,
+      "hitouts" : 276.0,
+      "onePercenters" : 54.0,
+      "disposalEfficiency" : 73.8,
+      "clangers" : 30.0,
+      "freesFor" : 25.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 1316.0,
+      "clearances" : {
+        "centreClearances" : 16.0,
+        "stoppageClearances" : 11.0,
+        "totalClearances" : 27.0
+      },
+      "rebound50s" : 4.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 64.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.7,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.3,
+            "handballs" : 6.7,
+            "disposals" : 13.0,
+            "marks" : 4.3,
+            "bounces" : 0.0,
+            "tackles" : 2.7,
+            "contestedPossessions" : 7.7,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 12.7,
+            "inside50s" : 0.7,
+            "marksInside50" : 2.3,
+            "contestedMarks" : 2.3,
+            "hitouts" : 14.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 1.7,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 77.7,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280959",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Vardy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 19.0,
+            "handballs" : 20.0,
+            "disposals" : 39.0,
+            "marks" : 13.0,
+            "bounces" : 0.0,
+            "tackles" : 8.0,
+            "contestedPossessions" : 23.0,
+            "uncontestedPossessions" : 15.0,
+            "totalPossessions" : 38.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 42.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 74.4,
+            "clangers" : 9.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 233.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 62.5,
+            "ratingPoints" : 41.0,
+            "ranking" : 595.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280959",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Vardy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 76.3
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280959",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Vardy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 97.9,
+            "ranking" : 497.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280959",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Vardy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 4.5,
+            "handballs" : 4.3,
+            "disposals" : 8.8,
+            "marks" : 2.9,
+            "bounces" : 0.0,
+            "tackles" : 1.9,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 3.5,
+            "totalPossessions" : 8.9,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 1.1,
+            "hitouts" : 11.3,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 56.1,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280959",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Vardy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 45.0,
+            "handballs" : 43.0,
+            "disposals" : 88.0,
+            "marks" : 29.0,
+            "bounces" : 0.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 54.0,
+            "uncontestedPossessions" : 35.0,
+            "totalPossessions" : 89.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 113.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 76.1,
+            "clangers" : 12.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 561.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 78.6,
+            "ratingPoints" : 110.8,
+            "ranking" : 471.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280959",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Vardy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 72.6
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 1.0,
+            "disposals" : 6.5,
+            "marks" : 2.5,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 3.5,
+            "totalPossessions" : 6.5,
+            "inside50s" : 1.5,
+            "marksInside50" : 1.5,
+            "contestedMarks" : 0.5,
+            "hitouts" : 8.5,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 48.0,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280959",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Vardy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 2.0,
+            "disposals" : 13.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 13.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 17.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 61.5,
+            "clangers" : 0.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 96.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280959",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Vardy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 68.0
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 3.2,
+            "handballs" : 3.7,
+            "disposals" : 6.9,
+            "marks" : 2.2,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 3.0,
+            "totalPossessions" : 6.9,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.7,
+            "hitouts" : 11.6,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 47.3,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280959",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Vardy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 29.0,
+            "handballs" : 33.0,
+            "disposals" : 62.0,
+            "marks" : 20.0,
+            "bounces" : 0.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 35.0,
+            "uncontestedPossessions" : 27.0,
+            "totalPossessions" : 62.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 104.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 72.6,
+            "clangers" : 9.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 426.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280959",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Vardy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 70.5
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280959",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Vardy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280959",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Vardy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 5.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 19.0,
+      "handballs" : 20.0,
+      "disposals" : 39.0,
+      "marks" : 13.0,
+      "bounces" : 0.0,
+      "tackles" : 8.0,
+      "contestedPossessions" : 23.0,
+      "uncontestedPossessions" : 15.0,
+      "totalPossessions" : 38.0,
+      "inside50s" : 2.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 42.0,
+      "onePercenters" : 3.0,
+      "disposalEfficiency" : 74.4,
+      "clangers" : 9.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 4.0,
+      "dreamTeamPoints" : 233.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 62.5,
+      "ratingPoints" : 41.0,
+      "ranking" : 595.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280959",
+        "playerName" : {
+          "givenName" : "Nathan",
+          "surname" : "Vardy"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T70",
+        "teamAbbr" : "GEEL",
+        "teamName" : "Geelong Cats",
+        "teamNickname" : "Cats"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 48.6,
+        "ranking" : 581,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 48.6,
+        "ranking" : 30,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 48.6,
+        "ranking" : 55,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 31.2,
+        "ranking" : 531,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 24
+  }
+}

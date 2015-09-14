@@ -1,0 +1,1722 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I210001",
+    "position" : "Full Forward",
+    "surname" : "Riewoldt",
+    "jumperNumber" : 12,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 2.2,
+      "behinds" : 1.4,
+      "superGoals" : null,
+      "kicks" : 12.0,
+      "handballs" : 4.4,
+      "disposals" : 16.4,
+      "marks" : 8.7,
+      "bounces" : 0.2,
+      "tackles" : 1.5,
+      "contestedPossessions" : 6.1,
+      "uncontestedPossessions" : 10.3,
+      "totalPossessions" : 16.4,
+      "inside50s" : 3.2,
+      "marksInside50" : 3.1,
+      "contestedMarks" : 2.0,
+      "hitouts" : 1.2,
+      "onePercenters" : 1.5,
+      "disposalEfficiency" : null,
+      "clangers" : 1.7,
+      "freesFor" : 1.3,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 92.2,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.3,
+        "totalClearances" : 0.4
+      },
+      "rebound50s" : 0.5,
+      "goalAssists" : 0.7,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Nick",
+    "bio" : "<p>The captain of St Kilda and one of the finest forwards in the AFL, Riewoldt was the No.1 pick at the 2000 AFL National Draft.</p>\n\n<p>Riewoldt’s CV is illustrious: a five-time Trevor Barker Medallist, four-time All-Australian, AFL Rising Star and eight seasons as St Kilda’s skipper.</p>\n\n<p>The 31-year-old led the club in marks, marks inside 50, goals and goal assists in 2013, playing all but one match en route to a runners-up placing in the Trevor Barker Award.</p>\n\n<p>Riewoldt’s running capacity remains as strong as ever heading into his 14th season and despite another knee cleanout at the end of 2013, remains St Kilda’s primary focal point up forward.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/StKilda/Player Profiles/2015 - Profiles/RIEWOLDT Nick 2014.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1982-10-17T02:00:00.000+0000",
+      "draftYear" : "2000",
+      "heightInCm" : 193,
+      "weightInKg" : 96,
+      "recruitedFrom" : "Southport (Qld)",
+      "debutYear" : "2001"
+    },
+    "careerStats" : {
+      "goals" : 648.0,
+      "behinds" : 419.0,
+      "superGoals" : null,
+      "kicks" : 3565.0,
+      "handballs" : 1325.0,
+      "disposals" : 4890.0,
+      "marks" : 2595.0,
+      "bounces" : 54.0,
+      "tackles" : 439.0,
+      "contestedPossessions" : 1814.0,
+      "uncontestedPossessions" : 3079.0,
+      "totalPossessions" : 4893.0,
+      "inside50s" : 955.0,
+      "marksInside50" : 926.0,
+      "contestedMarks" : 590.0,
+      "hitouts" : 351.0,
+      "onePercenters" : 453.0,
+      "disposalEfficiency" : 71.8,
+      "clangers" : 497.0,
+      "freesFor" : 380.0,
+      "freesAgainst" : 148.0,
+      "dreamTeamPoints" : 27480.0,
+      "clearances" : {
+        "centreClearances" : 24.0,
+        "stoppageClearances" : 99.0,
+        "totalClearances" : 123.0
+      },
+      "rebound50s" : 142.0,
+      "goalAssists" : 205.0,
+      "goalAccuracy" : 52.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.7,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 12.6,
+            "handballs" : 4.3,
+            "disposals" : 16.9,
+            "marks" : 9.7,
+            "bounces" : 0.0,
+            "tackles" : 1.6,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 13.0,
+            "totalPossessions" : 17.5,
+            "inside50s" : 1.9,
+            "marksInside50" : 2.6,
+            "contestedMarks" : 1.1,
+            "hitouts" : 1.8,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 93.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 29.0,
+            "behinds" : 15.0,
+            "superGoals" : null,
+            "kicks" : 214.0,
+            "handballs" : 73.0,
+            "disposals" : 287.0,
+            "marks" : 165.0,
+            "bounces" : 0.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 76.0,
+            "uncontestedPossessions" : 221.0,
+            "totalPossessions" : 297.0,
+            "inside50s" : 32.0,
+            "marksInside50" : 44.0,
+            "contestedMarks" : 18.0,
+            "hitouts" : 30.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 70.0,
+            "clangers" : 26.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 1597.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 12.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 52.7,
+            "ratingPoints" : 346.9,
+            "ranking" : 158.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 86.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.2,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 11.9,
+            "handballs" : 4.8,
+            "disposals" : 16.7,
+            "marks" : 8.7,
+            "bounces" : 0.1,
+            "tackles" : 1.4,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 10.8,
+            "totalPossessions" : 16.5,
+            "inside50s" : 3.3,
+            "marksInside50" : 2.4,
+            "contestedMarks" : 1.5,
+            "hitouts" : 0.5,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.3,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 91.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 49.0,
+            "behinds" : 21.0,
+            "superGoals" : null,
+            "kicks" : 262.0,
+            "handballs" : 105.0,
+            "disposals" : 367.0,
+            "marks" : 191.0,
+            "bounces" : 2.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 125.0,
+            "uncontestedPossessions" : 238.0,
+            "totalPossessions" : 363.0,
+            "inside50s" : 72.0,
+            "marksInside50" : 53.0,
+            "contestedMarks" : 32.0,
+            "hitouts" : 11.0,
+            "onePercenters" : 33.0,
+            "disposalEfficiency" : 70.8,
+            "clangers" : 40.0,
+            "freesFor" : 28.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 2005.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 60.5,
+            "ratingPoints" : 382.0,
+            "ranking" : 122.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 96.5
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.4,
+            "behinds" : 1.7,
+            "superGoals" : null,
+            "kicks" : 13.4,
+            "handballs" : 5.2,
+            "disposals" : 18.6,
+            "marks" : 9.6,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 6.3,
+            "uncontestedPossessions" : 12.1,
+            "totalPossessions" : 18.5,
+            "inside50s" : 3.4,
+            "marksInside50" : 3.4,
+            "contestedMarks" : 1.8,
+            "hitouts" : 0.6,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 103.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 50.0,
+            "behinds" : 36.0,
+            "superGoals" : null,
+            "kicks" : 281.0,
+            "handballs" : 109.0,
+            "disposals" : 390.0,
+            "marks" : 202.0,
+            "bounces" : 0.0,
+            "tackles" : 41.0,
+            "contestedPossessions" : 133.0,
+            "uncontestedPossessions" : 255.0,
+            "totalPossessions" : 388.0,
+            "inside50s" : 71.0,
+            "marksInside50" : 72.0,
+            "contestedMarks" : 37.0,
+            "hitouts" : 12.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 67.9,
+            "clangers" : 38.0,
+            "freesFor" : 26.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 2166.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 14.0,
+            "goalAccuracy" : 51.0,
+            "ratingPoints" : 398.2,
+            "ranking" : 96.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 91.5
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.5,
+            "behinds" : 1.6,
+            "superGoals" : null,
+            "kicks" : 10.5,
+            "handballs" : 4.0,
+            "disposals" : 14.5,
+            "marks" : 6.6,
+            "bounces" : 0.0,
+            "tackles" : 2.5,
+            "contestedPossessions" : 6.5,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 14.5,
+            "inside50s" : 3.0,
+            "marksInside50" : 2.9,
+            "contestedMarks" : 1.6,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 1.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 85.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 47.0,
+            "behinds" : 31.0,
+            "superGoals" : null,
+            "kicks" : 200.0,
+            "handballs" : 76.0,
+            "disposals" : 276.0,
+            "marks" : 125.0,
+            "bounces" : 0.0,
+            "tackles" : 47.0,
+            "contestedPossessions" : 124.0,
+            "uncontestedPossessions" : 152.0,
+            "totalPossessions" : 276.0,
+            "inside50s" : 57.0,
+            "marksInside50" : 55.0,
+            "contestedMarks" : 31.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 73.2,
+            "clangers" : 26.0,
+            "freesFor" : 33.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1628.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 54.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 85.9
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.6,
+            "behinds" : 1.4,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 6.0,
+            "disposals" : 16.1,
+            "marks" : 7.0,
+            "bounces" : 0.0,
+            "tackles" : 2.2,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 10.3,
+            "totalPossessions" : 16.0,
+            "inside50s" : 2.8,
+            "marksInside50" : 2.4,
+            "contestedMarks" : 1.3,
+            "hitouts" : 1.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.6,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 84.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 36.0,
+            "behinds" : 31.0,
+            "superGoals" : null,
+            "kicks" : 221.0,
+            "handballs" : 133.0,
+            "disposals" : 354.0,
+            "marks" : 154.0,
+            "bounces" : 0.0,
+            "tackles" : 49.0,
+            "contestedPossessions" : 126.0,
+            "uncontestedPossessions" : 226.0,
+            "totalPossessions" : 352.0,
+            "inside50s" : 61.0,
+            "marksInside50" : 53.0,
+            "contestedMarks" : 28.0,
+            "hitouts" : 23.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 70.9,
+            "clangers" : 48.0,
+            "freesFor" : 35.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1847.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 43.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 93.0
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.6,
+            "behinds" : 2.3,
+            "superGoals" : null,
+            "kicks" : 11.6,
+            "handballs" : 5.5,
+            "disposals" : 17.1,
+            "marks" : 8.0,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 7.7,
+            "uncontestedPossessions" : 9.3,
+            "totalPossessions" : 17.1,
+            "inside50s" : 3.1,
+            "marksInside50" : 3.8,
+            "contestedMarks" : 2.4,
+            "hitouts" : 1.1,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 95.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 39.0,
+            "behinds" : 34.0,
+            "superGoals" : null,
+            "kicks" : 174.0,
+            "handballs" : 83.0,
+            "disposals" : 257.0,
+            "marks" : 120.0,
+            "bounces" : 0.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 116.0,
+            "uncontestedPossessions" : 140.0,
+            "totalPossessions" : 256.0,
+            "inside50s" : 47.0,
+            "marksInside50" : 57.0,
+            "contestedMarks" : 36.0,
+            "hitouts" : 16.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 67.7,
+            "clangers" : 26.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 1438.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 46.4,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 83.7
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 3.2,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 13.2,
+            "handballs" : 4.0,
+            "disposals" : 17.2,
+            "marks" : 9.6,
+            "bounces" : 0.1,
+            "tackles" : 2.1,
+            "contestedPossessions" : 6.6,
+            "uncontestedPossessions" : 10.6,
+            "totalPossessions" : 17.2,
+            "inside50s" : 3.8,
+            "marksInside50" : 4.4,
+            "contestedMarks" : 2.4,
+            "hitouts" : 0.9,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 106.6,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 78.0,
+            "behinds" : 47.0,
+            "superGoals" : null,
+            "kicks" : 318.0,
+            "handballs" : 95.0,
+            "disposals" : 413.0,
+            "marks" : 230.0,
+            "bounces" : 2.0,
+            "tackles" : 51.0,
+            "contestedPossessions" : 158.0,
+            "uncontestedPossessions" : 254.0,
+            "totalPossessions" : 412.0,
+            "inside50s" : 91.0,
+            "marksInside50" : 106.0,
+            "contestedMarks" : 58.0,
+            "hitouts" : 21.0,
+            "onePercenters" : 29.0,
+            "disposalEfficiency" : 66.3,
+            "clangers" : 49.0,
+            "freesFor" : 36.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 2559.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 18.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 93.2
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.7,
+            "behinds" : 1.6,
+            "superGoals" : null,
+            "kicks" : 12.0,
+            "handballs" : 5.1,
+            "disposals" : 17.1,
+            "marks" : 10.0,
+            "bounces" : 0.0,
+            "tackles" : 0.7,
+            "contestedPossessions" : 6.9,
+            "uncontestedPossessions" : 10.2,
+            "totalPossessions" : 17.0,
+            "inside50s" : 2.4,
+            "marksInside50" : 4.2,
+            "contestedMarks" : 2.9,
+            "hitouts" : 1.2,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 1.3,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 97.9,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 1.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 65.0,
+            "behinds" : 39.0,
+            "superGoals" : null,
+            "kicks" : 288.0,
+            "handballs" : 122.0,
+            "disposals" : 410.0,
+            "marks" : 240.0,
+            "bounces" : 1.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 165.0,
+            "uncontestedPossessions" : 244.0,
+            "totalPossessions" : 409.0,
+            "inside50s" : 58.0,
+            "marksInside50" : 102.0,
+            "contestedMarks" : 69.0,
+            "hitouts" : 28.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 68.8,
+            "clangers" : 37.0,
+            "freesFor" : 31.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 2349.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 28.0,
+            "goalAccuracy" : 52.8,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 95.0
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.1,
+            "behinds" : 1.2,
+            "superGoals" : null,
+            "kicks" : 14.6,
+            "handballs" : 3.4,
+            "disposals" : 18.0,
+            "marks" : 9.6,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 7.4,
+            "uncontestedPossessions" : 10.3,
+            "totalPossessions" : 17.7,
+            "inside50s" : 4.4,
+            "marksInside50" : 2.7,
+            "contestedMarks" : 2.3,
+            "hitouts" : 0.9,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 2.2,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 99.3,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 1.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 42.0,
+            "behinds" : 25.0,
+            "superGoals" : null,
+            "kicks" : 293.0,
+            "handballs" : 68.0,
+            "disposals" : 361.0,
+            "marks" : 193.0,
+            "bounces" : 1.0,
+            "tackles" : 20.0,
+            "contestedPossessions" : 148.0,
+            "uncontestedPossessions" : 207.0,
+            "totalPossessions" : 355.0,
+            "inside50s" : 89.0,
+            "marksInside50" : 55.0,
+            "contestedMarks" : 47.0,
+            "hitouts" : 18.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 72.3,
+            "clangers" : 30.0,
+            "freesFor" : 45.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 1987.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 24.0,
+            "goalAccuracy" : 55.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 96.2
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.6,
+            "behinds" : 1.5,
+            "superGoals" : null,
+            "kicks" : 13.0,
+            "handballs" : 3.7,
+            "disposals" : 16.7,
+            "marks" : 9.3,
+            "bounces" : 0.4,
+            "tackles" : 1.0,
+            "contestedPossessions" : 6.1,
+            "uncontestedPossessions" : 10.5,
+            "totalPossessions" : 16.7,
+            "inside50s" : 2.3,
+            "marksInside50" : 4.8,
+            "contestedMarks" : 2.2,
+            "hitouts" : 1.2,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 96.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 60.0,
+            "behinds" : 35.0,
+            "superGoals" : null,
+            "kicks" : 299.0,
+            "handballs" : 86.0,
+            "disposals" : 385.0,
+            "marks" : 214.0,
+            "bounces" : 9.0,
+            "tackles" : 23.0,
+            "contestedPossessions" : 141.0,
+            "uncontestedPossessions" : 242.0,
+            "totalPossessions" : 383.0,
+            "inside50s" : 54.0,
+            "marksInside50" : 110.0,
+            "contestedMarks" : 50.0,
+            "hitouts" : 27.0,
+            "onePercenters" : 32.0,
+            "disposalEfficiency" : 74.5,
+            "clangers" : 36.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 2226.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 12.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 18.0,
+            "goalAccuracy" : 55.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 96.7
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.1,
+            "behinds" : 2.2,
+            "superGoals" : null,
+            "kicks" : 11.4,
+            "handballs" : 3.1,
+            "disposals" : 14.5,
+            "marks" : 8.2,
+            "bounces" : 0.4,
+            "tackles" : 1.1,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 8.9,
+            "totalPossessions" : 14.4,
+            "inside50s" : 3.1,
+            "marksInside50" : 3.8,
+            "contestedMarks" : 1.9,
+            "hitouts" : 0.6,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.9,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 85.6,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 33.0,
+            "behinds" : 36.0,
+            "superGoals" : null,
+            "kicks" : 182.0,
+            "handballs" : 50.0,
+            "disposals" : 232.0,
+            "marks" : 131.0,
+            "bounces" : 6.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 89.0,
+            "uncontestedPossessions" : 142.0,
+            "totalPossessions" : 231.0,
+            "inside50s" : 50.0,
+            "marksInside50" : 61.0,
+            "contestedMarks" : 30.0,
+            "hitouts" : 9.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 65.5,
+            "clangers" : 27.0,
+            "freesFor" : 31.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 1370.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 44.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 88.1
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.7,
+            "behinds" : 1.3,
+            "superGoals" : null,
+            "kicks" : 13.0,
+            "handballs" : 4.3,
+            "disposals" : 17.3,
+            "marks" : 10.2,
+            "bounces" : 0.3,
+            "tackles" : 1.0,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 11.7,
+            "totalPossessions" : 17.3,
+            "inside50s" : 4.9,
+            "marksInside50" : 3.6,
+            "contestedMarks" : 1.8,
+            "hitouts" : 0.9,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 100.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 1.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 67.0,
+            "behinds" : 32.0,
+            "superGoals" : null,
+            "kicks" : 324.0,
+            "handballs" : 108.0,
+            "disposals" : 432.0,
+            "marks" : 256.0,
+            "bounces" : 7.0,
+            "tackles" : 25.0,
+            "contestedPossessions" : 140.0,
+            "uncontestedPossessions" : 292.0,
+            "totalPossessions" : 432.0,
+            "inside50s" : 123.0,
+            "marksInside50" : 89.0,
+            "contestedMarks" : 46.0,
+            "hitouts" : 22.0,
+            "onePercenters" : 46.0,
+            "disposalEfficiency" : 73.4,
+            "clangers" : 42.0,
+            "freesFor" : 22.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 2513.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 12.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 27.0,
+            "goalAccuracy" : 62.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 97.7
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.4,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 5.0,
+            "disposals" : 16.0,
+            "marks" : 7.7,
+            "bounces" : 0.5,
+            "tackles" : 1.3,
+            "contestedPossessions" : 6.2,
+            "uncontestedPossessions" : 9.9,
+            "totalPossessions" : 16.0,
+            "inside50s" : 3.1,
+            "marksInside50" : 1.8,
+            "contestedMarks" : 2.1,
+            "hitouts" : 3.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 82.8,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 30.0,
+            "behinds" : 17.0,
+            "superGoals" : null,
+            "kicks" : 241.0,
+            "handballs" : 110.0,
+            "disposals" : 351.0,
+            "marks" : 170.0,
+            "bounces" : 11.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 136.0,
+            "uncontestedPossessions" : 217.0,
+            "totalPossessions" : 353.0,
+            "inside50s" : 69.0,
+            "marksInside50" : 39.0,
+            "contestedMarks" : 47.0,
+            "hitouts" : 66.0,
+            "onePercenters" : 38.0,
+            "disposalEfficiency" : 79.8,
+            "clangers" : 33.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 1821.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 24.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 61.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 95.5
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 10.2,
+            "handballs" : 4.3,
+            "disposals" : 14.5,
+            "marks" : 8.1,
+            "bounces" : 0.6,
+            "tackles" : 1.4,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 9.5,
+            "totalPossessions" : 14.9,
+            "inside50s" : 3.0,
+            "marksInside50" : 1.3,
+            "contestedMarks" : 2.5,
+            "hitouts" : 2.8,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 78.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 21.0,
+            "behinds" : 18.0,
+            "superGoals" : null,
+            "kicks" : 225.0,
+            "handballs" : 94.0,
+            "disposals" : 319.0,
+            "marks" : 178.0,
+            "bounces" : 13.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 118.0,
+            "uncontestedPossessions" : 210.0,
+            "totalPossessions" : 328.0,
+            "inside50s" : 65.0,
+            "marksInside50" : 28.0,
+            "contestedMarks" : 54.0,
+            "hitouts" : 61.0,
+            "onePercenters" : 44.0,
+            "disposalEfficiency" : 80.9,
+            "clangers" : 31.0,
+            "freesFor" : 22.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 1720.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 52.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 2.3,
+            "disposals" : 9.5,
+            "marks" : 4.3,
+            "bounces" : 0.3,
+            "tackles" : 0.5,
+            "contestedPossessions" : 3.2,
+            "uncontestedPossessions" : 6.5,
+            "totalPossessions" : 9.7,
+            "inside50s" : 2.7,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 1.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 0.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 42.7,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 43.0,
+            "handballs" : 14.0,
+            "disposals" : 57.0,
+            "marks" : 26.0,
+            "bounces" : 2.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 19.0,
+            "uncontestedPossessions" : 39.0,
+            "totalPossessions" : 58.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 77.2,
+            "clangers" : 8.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 256.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210001",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Riewoldt"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 29.0,
+      "behinds" : 15.0,
+      "superGoals" : null,
+      "kicks" : 214.0,
+      "handballs" : 73.0,
+      "disposals" : 287.0,
+      "marks" : 165.0,
+      "bounces" : 0.0,
+      "tackles" : 28.0,
+      "contestedPossessions" : 76.0,
+      "uncontestedPossessions" : 221.0,
+      "totalPossessions" : 297.0,
+      "inside50s" : 32.0,
+      "marksInside50" : 44.0,
+      "contestedMarks" : 18.0,
+      "hitouts" : 30.0,
+      "onePercenters" : 36.0,
+      "disposalEfficiency" : 70.0,
+      "clangers" : 26.0,
+      "freesFor" : 10.0,
+      "freesAgainst" : 9.0,
+      "dreamTeamPoints" : 1597.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 11.0,
+        "totalClearances" : 12.0
+      },
+      "rebound50s" : 15.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 52.7,
+      "ratingPoints" : 346.9,
+      "ranking" : 158.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I210001",
+        "playerName" : {
+          "givenName" : "Nick",
+          "surname" : "Riewoldt"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T130",
+        "teamAbbr" : "STK",
+        "teamName" : "St Kilda",
+        "teamNickname" : "Saints"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 332.6,
+        "ranking" : 178,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 332.6,
+        "ranking" : 5,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 332.6,
+        "ranking" : 17,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 138.3,
+        "ranking" : 277,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2000"
+    },
+    "careerGamesPlayed" : 298
+  }
+}

@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280969",
+    "position" : "Left Back Pocket",
+    "surname" : "Scully",
+    "jumperNumber" : 9,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 9.3,
+      "handballs" : 10.8,
+      "disposals" : 20.1,
+      "marks" : 3.6,
+      "bounces" : 1.0,
+      "tackles" : 4.4,
+      "contestedPossessions" : 7.2,
+      "uncontestedPossessions" : 13.1,
+      "totalPossessions" : 20.3,
+      "inside50s" : 2.9,
+      "marksInside50" : 0.3,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : null,
+      "clangers" : 2.7,
+      "freesFor" : 0.9,
+      "freesAgainst" : 1.1,
+      "dreamTeamPoints" : 77.7,
+      "clearances" : {
+        "centreClearances" : 0.7,
+        "stoppageClearances" : 1.7,
+        "totalClearances" : 2.4
+      },
+      "rebound50s" : 1.7,
+      "goalAssists" : 0.6,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Tom",
+    "bio" : "<p><strong>Junior Clubs: </strong>Berwick Junior FC/Narre Warren<br /> <strong>Debut: </strong>2010<br /> <strong>Recruited From:&nbsp;</strong>Narre Warren/Haileybury College/Dandenong U18/Melbourne<br /> <strong>Brownlow Votes:</strong>&nbsp;11</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2015 - Profiles/SCULLY Tom.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-05-15T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 181,
+      "weightInKg" : 78,
+      "recruitedFrom" : "Narre Warren/Haleybury College/Dandenong U18",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 34.0,
+      "behinds" : 31.0,
+      "superGoals" : null,
+      "kicks" : 957.0,
+      "handballs" : 1109.0,
+      "disposals" : 2066.0,
+      "marks" : 373.0,
+      "bounces" : 104.0,
+      "tackles" : 449.0,
+      "contestedPossessions" : 742.0,
+      "uncontestedPossessions" : 1352.0,
+      "totalPossessions" : 2094.0,
+      "inside50s" : 295.0,
+      "marksInside50" : 26.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 5.0,
+      "onePercenters" : 99.0,
+      "disposalEfficiency" : 70.9,
+      "clangers" : 282.0,
+      "freesFor" : 93.0,
+      "freesAgainst" : 112.0,
+      "dreamTeamPoints" : 8001.0,
+      "clearances" : {
+        "centreClearances" : 70.0,
+        "stoppageClearances" : 176.0,
+        "totalClearances" : 246.0
+      },
+      "rebound50s" : 172.0,
+      "goalAssists" : 58.0,
+      "goalAccuracy" : 43.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 10.3,
+            "disposals" : 20.3,
+            "marks" : 4.7,
+            "bounces" : 1.0,
+            "tackles" : 4.5,
+            "contestedPossessions" : 6.2,
+            "uncontestedPossessions" : 14.7,
+            "totalPossessions" : 20.9,
+            "inside50s" : 3.1,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 84.3,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280969",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Scully"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 170.0,
+            "handballs" : 175.0,
+            "disposals" : 345.0,
+            "marks" : 80.0,
+            "bounces" : 17.0,
+            "tackles" : 77.0,
+            "contestedPossessions" : 106.0,
+            "uncontestedPossessions" : 250.0,
+            "totalPossessions" : 356.0,
+            "inside50s" : 52.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 75.1,
+            "clangers" : 31.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1433.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 26.0,
+              "totalClearances" : 28.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 44.4,
+            "ratingPoints" : 342.9,
+            "ranking" : 168.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280969",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Scully"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 88.3
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 9.3,
+            "handballs" : 10.5,
+            "disposals" : 19.8,
+            "marks" : 3.3,
+            "bounces" : 0.7,
+            "tackles" : 4.5,
+            "contestedPossessions" : 7.8,
+            "uncontestedPossessions" : 11.9,
+            "totalPossessions" : 19.7,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 77.7,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 2.1,
+              "totalClearances" : 3.1
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280969",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Scully"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 139.0,
+            "handballs" : 158.0,
+            "disposals" : 297.0,
+            "marks" : 49.0,
+            "bounces" : 10.0,
+            "tackles" : 68.0,
+            "contestedPossessions" : 117.0,
+            "uncontestedPossessions" : 179.0,
+            "totalPossessions" : 296.0,
+            "inside50s" : 57.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 73.4,
+            "clangers" : 37.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1165.0,
+            "clearances" : {
+              "centreClearances" : 16.0,
+              "stoppageClearances" : 31.0,
+              "totalClearances" : 47.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 45.5,
+            "ratingPoints" : 359.9,
+            "ranking" : 151.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280969",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Scully"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 90.8
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 9.4,
+            "handballs" : 8.6,
+            "disposals" : 18.0,
+            "marks" : 4.4,
+            "bounces" : 1.1,
+            "tackles" : 4.0,
+            "contestedPossessions" : 5.9,
+            "uncontestedPossessions" : 12.4,
+            "totalPossessions" : 18.3,
+            "inside50s" : 3.1,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 75.0,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280969",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Scully"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 198.0,
+            "handballs" : 180.0,
+            "disposals" : 378.0,
+            "marks" : 92.0,
+            "bounces" : 24.0,
+            "tackles" : 84.0,
+            "contestedPossessions" : 124.0,
+            "uncontestedPossessions" : 260.0,
+            "totalPossessions" : 384.0,
+            "inside50s" : 65.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 72.5,
+            "clangers" : 62.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 28.0,
+            "dreamTeamPoints" : 1574.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 20.0,
+              "totalClearances" : 37.0
+            },
+            "rebound50s" : 40.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 55.0,
+            "ratingPoints" : 325.5,
+            "ranking" : 196.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280969",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Scully"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 85.5
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.3,
+            "handballs" : 11.0,
+            "disposals" : 20.3,
+            "marks" : 2.7,
+            "bounces" : 1.0,
+            "tackles" : 4.5,
+            "contestedPossessions" : 7.5,
+            "uncontestedPossessions" : 13.2,
+            "totalPossessions" : 20.7,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 3.1,
+            "freesFor" : 1.1,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 73.9,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.4
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280969",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Scully"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 177.0,
+            "handballs" : 209.0,
+            "disposals" : 386.0,
+            "marks" : 51.0,
+            "bounces" : 19.0,
+            "tackles" : 85.0,
+            "contestedPossessions" : 143.0,
+            "uncontestedPossessions" : 250.0,
+            "totalPossessions" : 393.0,
+            "inside50s" : 53.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 70.7,
+            "clangers" : 59.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 29.0,
+            "dreamTeamPoints" : 1404.0,
+            "clearances" : {
+              "centreClearances" : 15.0,
+              "stoppageClearances" : 31.0,
+              "totalClearances" : 46.0
+            },
+            "rebound50s" : 26.0,
+            "goalAssists" : 17.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280969",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Scully"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 88.5
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 7.6,
+            "handballs" : 13.2,
+            "disposals" : 20.8,
+            "marks" : 2.1,
+            "bounces" : 0.8,
+            "tackles" : 5.4,
+            "contestedPossessions" : 10.1,
+            "uncontestedPossessions" : 11.6,
+            "totalPossessions" : 21.7,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 76.7,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.6,
+              "totalClearances" : 3.6
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280969",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Scully"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 76.0,
+            "handballs" : 132.0,
+            "disposals" : 208.0,
+            "marks" : 21.0,
+            "bounces" : 8.0,
+            "tackles" : 54.0,
+            "contestedPossessions" : 101.0,
+            "uncontestedPossessions" : 116.0,
+            "totalPossessions" : 217.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 65.4,
+            "clangers" : 22.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 767.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 26.0,
+              "totalClearances" : 36.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 16.7,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280969",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Scully"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 79.2
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 9.4,
+            "handballs" : 12.1,
+            "disposals" : 21.5,
+            "marks" : 3.8,
+            "bounces" : 1.2,
+            "tackles" : 3.9,
+            "contestedPossessions" : 7.6,
+            "uncontestedPossessions" : 14.1,
+            "totalPossessions" : 21.8,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 3.4,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 79.0,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.5
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280969",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Scully"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 197.0,
+            "handballs" : 255.0,
+            "disposals" : 452.0,
+            "marks" : 80.0,
+            "bounces" : 26.0,
+            "tackles" : 81.0,
+            "contestedPossessions" : 160.0,
+            "uncontestedPossessions" : 297.0,
+            "totalPossessions" : 457.0,
+            "inside50s" : 52.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 67.3,
+            "clangers" : 71.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1658.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 42.0,
+              "totalClearances" : 52.0
+            },
+            "rebound50s" : 46.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 45.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280969",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Scully"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 82.3
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 8.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 170.0,
+      "handballs" : 175.0,
+      "disposals" : 345.0,
+      "marks" : 80.0,
+      "bounces" : 17.0,
+      "tackles" : 77.0,
+      "contestedPossessions" : 106.0,
+      "uncontestedPossessions" : 250.0,
+      "totalPossessions" : 356.0,
+      "inside50s" : 52.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 11.0,
+      "disposalEfficiency" : 75.1,
+      "clangers" : 31.0,
+      "freesFor" : 13.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1433.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 28.0
+      },
+      "rebound50s" : 23.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 44.4,
+      "ratingPoints" : 342.9,
+      "ranking" : 168.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280969",
+        "playerName" : {
+          "givenName" : "Tom",
+          "surname" : "Scully"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 336.2,
+        "ranking" : 172,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 336.2,
+        "ranking" : 9,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 336.2,
+        "ranking" : 76,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 171.2,
+        "ranking" : 198,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 103
+  }
+}

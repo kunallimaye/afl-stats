@@ -1,0 +1,1001 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280521",
+    "position" : "Full Forward",
+    "surname" : "Spencer",
+    "jumperNumber" : 42,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 2.8,
+      "handballs" : 5.6,
+      "disposals" : 8.4,
+      "marks" : 2.4,
+      "bounces" : 0.0,
+      "tackles" : 3.2,
+      "contestedPossessions" : 4.1,
+      "uncontestedPossessions" : 4.4,
+      "totalPossessions" : 8.5,
+      "inside50s" : 0.8,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.3,
+      "hitouts" : 21.9,
+      "onePercenters" : 2.5,
+      "disposalEfficiency" : null,
+      "clangers" : 2.2,
+      "freesFor" : 1.6,
+      "freesAgainst" : 1.5,
+      "dreamTeamPoints" : 59.5,
+      "clearances" : {
+        "centreClearances" : 0.7,
+        "stoppageClearances" : 0.9,
+        "totalClearances" : 1.6
+      },
+      "rebound50s" : 0.4,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jake",
+    "bio" : "<p>The strong ruckman was serviceable at the start of the season in the absence of Mark Jamar. What he lacked in skill, he made up for with endeavour and effort and earned a two-year contract as a result. Unfortunately, an ankle injury ruled him out from round eight onwards. Spencer is strong and leaves nothing on the ground but, after 29 games in five seasons, the 25 year-old faces a big season.<br>\n<br>\n<b>Draft history:</b> 2008 Rookie Draft selection (Melbourne) No. 35; 2010 NAB AFL Draft rookie elevation (Melbourne) selection No. 96.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Melbourne/Player Profiles/2015 - Profiles/SPENCER Jake.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1989-10-09T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 203,
+      "weightInKg" : 103,
+      "recruitedFrom" : "Redlands (Qld)",
+      "debutYear" : "2009"
+    },
+    "careerStats" : {
+      "goals" : 6.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 100.0,
+      "handballs" : 202.0,
+      "disposals" : 302.0,
+      "marks" : 85.0,
+      "bounces" : 0.0,
+      "tackles" : 115.0,
+      "contestedPossessions" : 149.0,
+      "uncontestedPossessions" : 157.0,
+      "totalPossessions" : 306.0,
+      "inside50s" : 28.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 787.0,
+      "onePercenters" : 91.0,
+      "disposalEfficiency" : 75.2,
+      "clangers" : 78.0,
+      "freesFor" : 56.0,
+      "freesAgainst" : 53.0,
+      "dreamTeamPoints" : 2143.0,
+      "clearances" : {
+        "centreClearances" : 26.0,
+        "stoppageClearances" : 31.0,
+        "totalClearances" : 57.0
+      },
+      "rebound50s" : 16.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.9,
+            "handballs" : 4.7,
+            "disposals" : 7.6,
+            "marks" : 1.3,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 2.9,
+            "totalPossessions" : 7.6,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.6,
+            "hitouts" : 24.7,
+            "onePercenters" : 3.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.7,
+            "freesAgainst" : 1.6,
+            "dreamTeamPoints" : 66.1,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.1
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280521",
+            "playerName" : {
+              "givenName" : "Jake",
+              "surname" : "Spencer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 20.0,
+            "handballs" : 33.0,
+            "disposals" : 53.0,
+            "marks" : 9.0,
+            "bounces" : 0.0,
+            "tackles" : 35.0,
+            "contestedPossessions" : 33.0,
+            "uncontestedPossessions" : 20.0,
+            "totalPossessions" : 53.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 173.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 79.2,
+            "clangers" : 17.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 463.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 98.1,
+            "ranking" : 502.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280521",
+            "playerName" : {
+              "givenName" : "Jake",
+              "surname" : "Spencer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 82.3
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.6,
+            "handballs" : 5.4,
+            "disposals" : 8.0,
+            "marks" : 1.8,
+            "bounces" : 0.0,
+            "tackles" : 3.6,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 4.2,
+            "totalPossessions" : 8.0,
+            "inside50s" : 0.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 28.6,
+            "onePercenters" : 3.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.6,
+            "freesAgainst" : 1.6,
+            "dreamTeamPoints" : 63.8,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280521",
+            "playerName" : {
+              "givenName" : "Jake",
+              "surname" : "Spencer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 13.0,
+            "handballs" : 27.0,
+            "disposals" : 40.0,
+            "marks" : 9.0,
+            "bounces" : 0.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 19.0,
+            "uncontestedPossessions" : 21.0,
+            "totalPossessions" : 40.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 143.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 77.5,
+            "clangers" : 10.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 319.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 84.3,
+            "ranking" : 516.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280521",
+            "playerName" : {
+              "givenName" : "Jake",
+              "surname" : "Spencer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 81.5
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 2.9,
+            "handballs" : 7.1,
+            "disposals" : 10.0,
+            "marks" : 3.1,
+            "bounces" : 0.0,
+            "tackles" : 2.4,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 10.4,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.4,
+            "hitouts" : 26.6,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 2.2,
+            "freesAgainst" : 1.7,
+            "dreamTeamPoints" : 66.5,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.4
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280521",
+            "playerName" : {
+              "givenName" : "Jake",
+              "surname" : "Spencer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 23.0,
+            "handballs" : 57.0,
+            "disposals" : 80.0,
+            "marks" : 25.0,
+            "bounces" : 0.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 43.0,
+            "uncontestedPossessions" : 40.0,
+            "totalPossessions" : 83.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 213.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 78.7,
+            "clangers" : 17.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 532.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 19.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : 92.6,
+            "ranking" : 507.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280521",
+            "playerName" : {
+              "givenName" : "Jake",
+              "surname" : "Spencer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 82.5
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.5,
+            "handballs" : 5.7,
+            "disposals" : 9.2,
+            "marks" : 2.5,
+            "bounces" : 0.0,
+            "tackles" : 3.7,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 4.5,
+            "totalPossessions" : 9.4,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.1,
+            "hitouts" : 20.9,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.7,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 64.1,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280521",
+            "playerName" : {
+              "givenName" : "Jake",
+              "surname" : "Spencer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 28.0,
+            "handballs" : 46.0,
+            "disposals" : 74.0,
+            "marks" : 20.0,
+            "bounces" : 0.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 39.0,
+            "uncontestedPossessions" : 36.0,
+            "totalPossessions" : 75.0,
+            "inside50s" : 11.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 167.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 67.6,
+            "clangers" : 19.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 513.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280521",
+            "playerName" : {
+              "givenName" : "Jake",
+              "surname" : "Spencer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 79.3
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280521",
+            "playerName" : {
+              "givenName" : "Jake",
+              "surname" : "Spencer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280521",
+            "playerName" : {
+              "givenName" : "Jake",
+              "surname" : "Spencer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 1.0,
+            "handballs" : 4.0,
+            "disposals" : 5.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 1.5,
+            "uncontestedPossessions" : 3.5,
+            "totalPossessions" : 5.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 12.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 30.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280521",
+            "playerName" : {
+              "givenName" : "Jake",
+              "surname" : "Spencer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.0,
+            "handballs" : 8.0,
+            "disposals" : 10.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 10.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 24.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 90.0,
+            "clangers" : 4.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 60.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280521",
+            "playerName" : {
+              "givenName" : "Jake",
+              "surname" : "Spencer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 66.1
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 2.3,
+            "handballs" : 5.2,
+            "disposals" : 7.5,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 1.8,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 5.5,
+            "totalPossessions" : 7.5,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.0,
+            "hitouts" : 11.2,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 42.7,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280521",
+            "playerName" : {
+              "givenName" : "Jake",
+              "surname" : "Spencer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 14.0,
+            "handballs" : 31.0,
+            "disposals" : 45.0,
+            "marks" : 18.0,
+            "bounces" : 0.0,
+            "tackles" : 11.0,
+            "contestedPossessions" : 12.0,
+            "uncontestedPossessions" : 33.0,
+            "totalPossessions" : 45.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 67.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 71.1,
+            "clangers" : 11.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 256.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280521",
+            "playerName" : {
+              "givenName" : "Jake",
+              "surname" : "Spencer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 76.0
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280521",
+            "playerName" : {
+              "givenName" : "Jake",
+              "surname" : "Spencer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280521",
+            "playerName" : {
+              "givenName" : "Jake",
+              "surname" : "Spencer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 3.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 20.0,
+      "handballs" : 33.0,
+      "disposals" : 53.0,
+      "marks" : 9.0,
+      "bounces" : 0.0,
+      "tackles" : 35.0,
+      "contestedPossessions" : 33.0,
+      "uncontestedPossessions" : 20.0,
+      "totalPossessions" : 53.0,
+      "inside50s" : 7.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 173.0,
+      "onePercenters" : 24.0,
+      "disposalEfficiency" : 79.2,
+      "clangers" : 17.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 463.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 7.0,
+        "totalClearances" : 15.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 100.0,
+      "ratingPoints" : 98.1,
+      "ranking" : 502.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280521",
+        "playerName" : {
+          "givenName" : "Jake",
+          "surname" : "Spencer"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T90",
+        "teamAbbr" : "MELB",
+        "teamName" : "Melbourne",
+        "teamNickname" : "Demons"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 94.9,
+        "ranking" : 509,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 94.9,
+        "ranking" : 31,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 94.9,
+        "ranking" : 40,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 62.1,
+        "ranking" : 444,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2007"
+    },
+    "careerGamesPlayed" : 36
+  }
+}

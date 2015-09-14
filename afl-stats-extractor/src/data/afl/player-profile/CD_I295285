@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I295285",
+    "position" : "Left Forward Pocket",
+    "surname" : "Merrett",
+    "jumperNumber" : 20,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.4,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 7.4,
+      "handballs" : 5.1,
+      "disposals" : 12.5,
+      "marks" : 3.7,
+      "bounces" : 0.0,
+      "tackles" : 3.1,
+      "contestedPossessions" : 4.4,
+      "uncontestedPossessions" : 8.3,
+      "totalPossessions" : 12.6,
+      "inside50s" : 2.0,
+      "marksInside50" : 0.4,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.1,
+      "onePercenters" : 0.8,
+      "disposalEfficiency" : null,
+      "clangers" : 1.5,
+      "freesFor" : 0.4,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 57.7,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.7,
+        "totalClearances" : 0.9
+      },
+      "rebound50s" : 0.6,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jackson",
+    "bio" : "<p>The half-forward kick-started his season with a brilliant outing in round three, when he gathered 35 disposals in the big win over Carlton. He dropped away in form soon after and didn’t reach<br>\nthose heights again, and missed a month with a fractured finger. Can find a better balance between his contested and uncontested possession count, but has the speed and vibrancy to add energy to Essendon’s forward line.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Essendon/Player Profiles/2015 - Profiles/MERRETT Jackson.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-02-27T01:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 183,
+      "weightInKg" : 85,
+      "recruitedFrom" : "Cobden (Vic)/Melbourne Grammar (Vic)/Geelong U18",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 19.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 319.0,
+      "handballs" : 219.0,
+      "disposals" : 538.0,
+      "marks" : 161.0,
+      "bounces" : 2.0,
+      "tackles" : 134.0,
+      "contestedPossessions" : 188.0,
+      "uncontestedPossessions" : 355.0,
+      "totalPossessions" : 543.0,
+      "inside50s" : 88.0,
+      "marksInside50" : 16.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 4.0,
+      "onePercenters" : 33.0,
+      "disposalEfficiency" : 70.4,
+      "clangers" : 65.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 26.0,
+      "dreamTeamPoints" : 2483.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 31.0,
+        "totalClearances" : 39.0
+      },
+      "rebound50s" : 25.0,
+      "goalAssists" : 22.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.6,
+            "handballs" : 5.0,
+            "disposals" : 12.6,
+            "marks" : 3.9,
+            "bounces" : 0.1,
+            "tackles" : 3.1,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 8.3,
+            "totalPossessions" : 12.7,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.2,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 59.3,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295285",
+            "playerName" : {
+              "givenName" : "Jackson",
+              "surname" : "Merrett"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 114.0,
+            "handballs" : 75.0,
+            "disposals" : 189.0,
+            "marks" : 59.0,
+            "bounces" : 1.0,
+            "tackles" : 46.0,
+            "contestedPossessions" : 65.0,
+            "uncontestedPossessions" : 125.0,
+            "totalPossessions" : 190.0,
+            "inside50s" : 26.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 73.0,
+            "clangers" : 24.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 889.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 191.4,
+            "ranking" : 373.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295285",
+            "playerName" : {
+              "givenName" : "Jackson",
+              "surname" : "Merrett"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 76.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.4,
+            "handballs" : 6.2,
+            "disposals" : 14.6,
+            "marks" : 4.6,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 9.9,
+            "totalPossessions" : 15.0,
+            "inside50s" : 2.6,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 64.6,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295285",
+            "playerName" : {
+              "givenName" : "Jackson",
+              "surname" : "Merrett"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 117.0,
+            "handballs" : 87.0,
+            "disposals" : 204.0,
+            "marks" : 64.0,
+            "bounces" : 0.0,
+            "tackles" : 42.0,
+            "contestedPossessions" : 72.0,
+            "uncontestedPossessions" : 138.0,
+            "totalPossessions" : 210.0,
+            "inside50s" : 36.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 69.1,
+            "clangers" : 22.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 905.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 16.0,
+              "totalClearances" : 20.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 55.6,
+            "ratingPoints" : 164.5,
+            "ranking" : 408.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295285",
+            "playerName" : {
+              "givenName" : "Jackson",
+              "surname" : "Merrett"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 79.7
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 4.4,
+            "disposals" : 10.9,
+            "marks" : 2.8,
+            "bounces" : 0.1,
+            "tackles" : 3.2,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 6.9,
+            "totalPossessions" : 10.8,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 50.6,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295285",
+            "playerName" : {
+              "givenName" : "Jackson",
+              "surname" : "Merrett"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 85.0,
+            "handballs" : 57.0,
+            "disposals" : 142.0,
+            "marks" : 36.0,
+            "bounces" : 1.0,
+            "tackles" : 42.0,
+            "contestedPossessions" : 50.0,
+            "uncontestedPossessions" : 90.0,
+            "totalPossessions" : 140.0,
+            "inside50s" : 24.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 68.3,
+            "clangers" : 19.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 658.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 46.2,
+            "ratingPoints" : 71.5,
+            "ranking" : 549.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295285",
+            "playerName" : {
+              "givenName" : "Jackson",
+              "surname" : "Merrett"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 76.8
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 0.0,
+            "disposals" : 3.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 2.0,
+            "totalPossessions" : 3.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 31.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295285",
+            "playerName" : {
+              "givenName" : "Jackson",
+              "surname" : "Merrett"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 0.0,
+            "disposals" : 3.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 2.0,
+            "totalPossessions" : 3.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 100.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 31.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295285",
+            "playerName" : {
+              "givenName" : "Jackson",
+              "surname" : "Merrett"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 70.6
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 8.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 114.0,
+      "handballs" : 75.0,
+      "disposals" : 189.0,
+      "marks" : 59.0,
+      "bounces" : 1.0,
+      "tackles" : 46.0,
+      "contestedPossessions" : 65.0,
+      "uncontestedPossessions" : 125.0,
+      "totalPossessions" : 190.0,
+      "inside50s" : 26.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 3.0,
+      "onePercenters" : 10.0,
+      "disposalEfficiency" : 73.0,
+      "clangers" : 24.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 8.0,
+      "dreamTeamPoints" : 889.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 12.0,
+        "totalClearances" : 15.0
+      },
+      "rebound50s" : 9.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 191.4,
+      "ranking" : 373.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I295285",
+        "playerName" : {
+          "givenName" : "Jackson",
+          "surname" : "Merrett"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T50",
+        "teamAbbr" : "ESS",
+        "teamName" : "Essendon",
+        "teamNickname" : "Bombers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 199.0,
+        "ranking" : 367,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 199.0,
+        "ranking" : 25,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 199.0,
+        "ranking" : 23,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 102.1,
+        "ranking" : 362,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 43
+  }
+}

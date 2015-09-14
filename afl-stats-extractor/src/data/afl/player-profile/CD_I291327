@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291327",
+    "position" : "Ruck",
+    "surname" : "Ceglar",
+    "jumperNumber" : 18,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.5,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 5.0,
+      "handballs" : 6.2,
+      "disposals" : 11.2,
+      "marks" : 3.1,
+      "bounces" : 0.0,
+      "tackles" : 2.5,
+      "contestedPossessions" : 5.5,
+      "uncontestedPossessions" : 5.9,
+      "totalPossessions" : 11.4,
+      "inside50s" : 1.6,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.8,
+      "hitouts" : 20.5,
+      "onePercenters" : 3.1,
+      "disposalEfficiency" : null,
+      "clangers" : 2.0,
+      "freesFor" : 1.1,
+      "freesAgainst" : 0.9,
+      "dreamTeamPoints" : 68.5,
+      "clearances" : {
+        "centreClearances" : 0.8,
+        "stoppageClearances" : 1.3,
+        "totalClearances" : 2.1
+      },
+      "rebound50s" : 0.6,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jonathon",
+    "bio" : "<p>Ceglar became a bona-fide AFL ruckman in 2014, playing 17 games and impressing with his ability to take contested marks and kick clutch goals. However, in the Grand Final against Sydney, he was squeezed out by Ben McEvoy, ostensibly for match-up reasons. A canny pick-up by the Hawks from Collingwood two years ago, he looks to have a long future at Hawthorn and won&rsquo;t lack for motivation this season.</p>\n<p><strong>Draft history: </strong>2010 NAB AFL Draft traded by Gold Coast (with Andrew Krakouer) to Collingwood for No. 25 (Patrick Karnezis); 2013 Rookie Draft selection (Hawthorn) No. 15.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Hawthorn/Player Profiles/2015 - Profiles/CEGLAR Jonathon.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-02-14T01:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 204,
+      "weightInKg" : 97,
+      "recruitedFrom" : "Wodonga Raiders/Murray U18/Gold Coast VFL",
+      "debutYear" : "2013"
+    },
+    "careerStats" : {
+      "goals" : 15.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 156.0,
+      "handballs" : 192.0,
+      "disposals" : 348.0,
+      "marks" : 95.0,
+      "bounces" : 0.0,
+      "tackles" : 76.0,
+      "contestedPossessions" : 169.0,
+      "uncontestedPossessions" : 184.0,
+      "totalPossessions" : 353.0,
+      "inside50s" : 49.0,
+      "marksInside50" : 17.0,
+      "contestedMarks" : 26.0,
+      "hitouts" : 636.0,
+      "onePercenters" : 95.0,
+      "disposalEfficiency" : 71.8,
+      "clangers" : 61.0,
+      "freesFor" : 35.0,
+      "freesAgainst" : 29.0,
+      "dreamTeamPoints" : 2124.0,
+      "clearances" : {
+        "centreClearances" : 25.0,
+        "stoppageClearances" : 40.0,
+        "totalClearances" : 65.0
+      },
+      "rebound50s" : 18.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 55.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 4.9,
+            "handballs" : 6.4,
+            "disposals" : 11.4,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 3.2,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 6.1,
+            "totalPossessions" : 11.4,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.9,
+            "hitouts" : 23.2,
+            "onePercenters" : 3.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.2,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 73.6,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 2.1
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291327",
+            "playerName" : {
+              "givenName" : "Jonathon",
+              "surname" : "Ceglar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 69.0,
+            "handballs" : 90.0,
+            "disposals" : 159.0,
+            "marks" : 42.0,
+            "bounces" : 0.0,
+            "tackles" : 45.0,
+            "contestedPossessions" : 73.0,
+            "uncontestedPossessions" : 86.0,
+            "totalPossessions" : 159.0,
+            "inside50s" : 24.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 325.0,
+            "onePercenters" : 47.0,
+            "disposalEfficiency" : 71.1,
+            "clangers" : 34.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1031.0,
+            "clearances" : {
+              "centreClearances" : 11.0,
+              "stoppageClearances" : 18.0,
+              "totalClearances" : 29.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 255.8,
+            "ranking" : 290.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291327",
+            "playerName" : {
+              "givenName" : "Jonathon",
+              "surname" : "Ceglar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 81.4
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 5.3,
+            "handballs" : 6.6,
+            "disposals" : 11.9,
+            "marks" : 3.3,
+            "bounces" : 0.0,
+            "tackles" : 1.9,
+            "contestedPossessions" : 5.9,
+            "uncontestedPossessions" : 6.3,
+            "totalPossessions" : 12.2,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.7,
+            "hitouts" : 18.9,
+            "onePercenters" : 2.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 67.8,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.1
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291327",
+            "playerName" : {
+              "givenName" : "Jonathon",
+              "surname" : "Ceglar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 79.0,
+            "handballs" : 99.0,
+            "disposals" : 178.0,
+            "marks" : 50.0,
+            "bounces" : 0.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 89.0,
+            "uncontestedPossessions" : 94.0,
+            "totalPossessions" : 183.0,
+            "inside50s" : 23.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 284.0,
+            "onePercenters" : 43.0,
+            "disposalEfficiency" : 73.6,
+            "clangers" : 22.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1017.0,
+            "clearances" : {
+              "centreClearances" : 11.0,
+              "stoppageClearances" : 21.0,
+              "totalClearances" : 32.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 61.5,
+            "ratingPoints" : 143.5,
+            "ranking" : 444.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291327",
+            "playerName" : {
+              "givenName" : "Jonathon",
+              "surname" : "Ceglar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 82.5
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 1.5,
+            "disposals" : 5.5,
+            "marks" : 1.5,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 2.0,
+            "totalPossessions" : 5.5,
+            "inside50s" : 1.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 13.5,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 1.5,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 38.0,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291327",
+            "playerName" : {
+              "givenName" : "Jonathon",
+              "surname" : "Ceglar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 3.0,
+            "disposals" : 11.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 11.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 27.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 54.5,
+            "clangers" : 5.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 76.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 6.3,
+            "ranking" : 684.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291327",
+            "playerName" : {
+              "givenName" : "Jonathon",
+              "surname" : "Ceglar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 64.4
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291327",
+            "playerName" : {
+              "givenName" : "Jonathon",
+              "surname" : "Ceglar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291327",
+            "playerName" : {
+              "givenName" : "Jonathon",
+              "surname" : "Ceglar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291327",
+            "playerName" : {
+              "givenName" : "Jonathon",
+              "surname" : "Ceglar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291327",
+            "playerName" : {
+              "givenName" : "Jonathon",
+              "surname" : "Ceglar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 6.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 69.0,
+      "handballs" : 90.0,
+      "disposals" : 159.0,
+      "marks" : 42.0,
+      "bounces" : 0.0,
+      "tackles" : 45.0,
+      "contestedPossessions" : 73.0,
+      "uncontestedPossessions" : 86.0,
+      "totalPossessions" : 159.0,
+      "inside50s" : 24.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 325.0,
+      "onePercenters" : 47.0,
+      "disposalEfficiency" : 71.1,
+      "clangers" : 34.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1031.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 7.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 255.8,
+      "ranking" : 290.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291327",
+        "playerName" : {
+          "givenName" : "Jonathon",
+          "surname" : "Ceglar"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T80",
+        "teamAbbr" : "HAW",
+        "teamName" : "Hawthorn",
+        "teamNickname" : "Hawks"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 255.8,
+        "ranking" : 290,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 255.8,
+        "ranking" : 23,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 255.8,
+        "ranking" : 18,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 118.6,
+        "ranking" : 321,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 31
+  }
+}

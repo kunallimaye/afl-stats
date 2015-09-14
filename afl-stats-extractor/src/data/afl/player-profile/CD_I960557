@@ -1,0 +1,956 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960557",
+    "position" : "Interchange",
+    "surname" : "Wakelin",
+    "jumperNumber" : 14,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Shane",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1974-08-12T02:00:00.000+0000",
+      "draftYear" : "1992",
+      "heightInCm" : 191,
+      "weightInKg" : 92,
+      "recruitedFrom" : "Port Adelaide (SANFL)/St Kilda",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 2.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 1317.0,
+      "handballs" : 520.0,
+      "disposals" : 1837.0,
+      "marks" : 682.0,
+      "bounces" : 170.0,
+      "tackles" : 220.0,
+      "contestedPossessions" : 677.0,
+      "uncontestedPossessions" : 1092.0,
+      "totalPossessions" : 1769.0,
+      "inside50s" : 71.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 94.0,
+      "hitouts" : 77.0,
+      "onePercenters" : 706.0,
+      "disposalEfficiency" : 86.1,
+      "clangers" : 212.0,
+      "freesFor" : 119.0,
+      "freesAgainst" : 105.0,
+      "dreamTeamPoints" : 7811.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 61.0,
+        "totalClearances" : 69.0
+      },
+      "rebound50s" : 493.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.3,
+            "handballs" : 2.7,
+            "disposals" : 11.0,
+            "marks" : 4.4,
+            "bounces" : 1.3,
+            "tackles" : 1.2,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 7.2,
+            "totalPossessions" : 10.7,
+            "inside50s" : 0.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 4.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 47.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 3.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960557",
+            "playerName" : {
+              "givenName" : "Shane",
+              "surname" : "Wakelin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 167.0,
+            "handballs" : 54.0,
+            "disposals" : 221.0,
+            "marks" : 88.0,
+            "bounces" : 26.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 70.0,
+            "uncontestedPossessions" : 144.0,
+            "totalPossessions" : 214.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 94.0,
+            "disposalEfficiency" : 82.8,
+            "clangers" : 25.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 947.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 62.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960557",
+            "playerName" : {
+              "givenName" : "Shane",
+              "surname" : "Wakelin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 96.3
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 2.4,
+            "disposals" : 12.4,
+            "marks" : 6.1,
+            "bounces" : 0.8,
+            "tackles" : 1.1,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 7.7,
+            "totalPossessions" : 11.7,
+            "inside50s" : 0.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.9,
+            "hitouts" : 0.4,
+            "onePercenters" : 5.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 57.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 3.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960557",
+            "playerName" : {
+              "givenName" : "Shane",
+              "surname" : "Wakelin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 170.0,
+            "handballs" : 40.0,
+            "disposals" : 210.0,
+            "marks" : 104.0,
+            "bounces" : 14.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 68.0,
+            "uncontestedPossessions" : 131.0,
+            "totalPossessions" : 199.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 16.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 94.0,
+            "disposalEfficiency" : 84.8,
+            "clangers" : 19.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 972.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 58.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960557",
+            "playerName" : {
+              "givenName" : "Shane",
+              "surname" : "Wakelin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 95.5
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.4,
+            "handballs" : 3.4,
+            "disposals" : 9.8,
+            "marks" : 3.9,
+            "bounces" : 1.2,
+            "tackles" : 1.1,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 5.8,
+            "totalPossessions" : 9.5,
+            "inside50s" : 0.1,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.5,
+            "onePercenters" : 3.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 41.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960557",
+            "playerName" : {
+              "givenName" : "Shane",
+              "surname" : "Wakelin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 83.0,
+            "handballs" : 44.0,
+            "disposals" : 127.0,
+            "marks" : 51.0,
+            "bounces" : 15.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 49.0,
+            "uncontestedPossessions" : 75.0,
+            "totalPossessions" : 124.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 44.0,
+            "disposalEfficiency" : 86.6,
+            "clangers" : 13.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 540.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960557",
+            "playerName" : {
+              "givenName" : "Shane",
+              "surname" : "Wakelin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 73.3
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.5,
+            "handballs" : 3.6,
+            "disposals" : 12.1,
+            "marks" : 5.2,
+            "bounces" : 1.6,
+            "tackles" : 1.5,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 7.5,
+            "totalPossessions" : 12.1,
+            "inside50s" : 0.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 1.2,
+            "onePercenters" : 6.1,
+            "disposalEfficiency" : null,
+            "clangers" : 0.9,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 55.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 3.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960557",
+            "playerName" : {
+              "givenName" : "Shane",
+              "surname" : "Wakelin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 187.0,
+            "handballs" : 80.0,
+            "disposals" : 267.0,
+            "marks" : 115.0,
+            "bounces" : 35.0,
+            "tackles" : 33.0,
+            "contestedPossessions" : 101.0,
+            "uncontestedPossessions" : 165.0,
+            "totalPossessions" : 266.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 14.0,
+            "hitouts" : 26.0,
+            "onePercenters" : 134.0,
+            "disposalEfficiency" : 87.3,
+            "clangers" : 20.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 1218.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 68.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960557",
+            "playerName" : {
+              "givenName" : "Shane",
+              "surname" : "Wakelin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 93.0
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.1,
+            "handballs" : 2.4,
+            "disposals" : 9.4,
+            "marks" : 3.8,
+            "bounces" : 0.6,
+            "tackles" : 1.1,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 5.3,
+            "totalPossessions" : 9.2,
+            "inside50s" : 0.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.3,
+            "onePercenters" : 5.7,
+            "disposalEfficiency" : null,
+            "clangers" : 0.9,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 41.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960557",
+            "playerName" : {
+              "givenName" : "Shane",
+              "surname" : "Wakelin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 113.0,
+            "handballs" : 38.0,
+            "disposals" : 151.0,
+            "marks" : 61.0,
+            "bounces" : 9.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 62.0,
+            "uncontestedPossessions" : 85.0,
+            "totalPossessions" : 147.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 91.0,
+            "disposalEfficiency" : 82.1,
+            "clangers" : 15.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 664.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 40.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960557",
+            "playerName" : {
+              "givenName" : "Shane",
+              "surname" : "Wakelin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 89.7
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.8,
+            "handballs" : 2.1,
+            "disposals" : 8.9,
+            "marks" : 3.2,
+            "bounces" : 1.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 2.8,
+            "uncontestedPossessions" : 5.5,
+            "totalPossessions" : 8.2,
+            "inside50s" : 0.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.2,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 37.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 3.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960557",
+            "playerName" : {
+              "givenName" : "Shane",
+              "surname" : "Wakelin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 163.0,
+            "handballs" : 51.0,
+            "disposals" : 214.0,
+            "marks" : 76.0,
+            "bounces" : 25.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 67.0,
+            "uncontestedPossessions" : 131.0,
+            "totalPossessions" : 198.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 97.0,
+            "disposalEfficiency" : 88.3,
+            "clangers" : 28.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 905.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 89.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960557",
+            "playerName" : {
+              "givenName" : "Shane",
+              "surname" : "Wakelin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 88.5
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.8,
+            "handballs" : 2.5,
+            "disposals" : 9.4,
+            "marks" : 3.0,
+            "bounces" : 1.2,
+            "tackles" : 1.6,
+            "contestedPossessions" : 3.3,
+            "uncontestedPossessions" : 5.5,
+            "totalPossessions" : 8.8,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.2,
+            "onePercenters" : 4.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 39.8,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 2.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960557",
+            "playerName" : {
+              "givenName" : "Shane",
+              "surname" : "Wakelin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 171.0,
+            "handballs" : 63.0,
+            "disposals" : 234.0,
+            "marks" : 76.0,
+            "bounces" : 30.0,
+            "tackles" : 40.0,
+            "contestedPossessions" : 82.0,
+            "uncontestedPossessions" : 138.0,
+            "totalPossessions" : 220.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 14.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 104.0,
+            "disposalEfficiency" : 87.6,
+            "clangers" : 35.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 994.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 66.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960557",
+            "playerName" : {
+              "givenName" : "Shane",
+              "surname" : "Wakelin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.3,
+            "handballs" : 3.4,
+            "disposals" : 9.7,
+            "marks" : 2.8,
+            "bounces" : 0.6,
+            "tackles" : 1.0,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 9.6,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 36.7,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960557",
+            "playerName" : {
+              "givenName" : "Shane",
+              "surname" : "Wakelin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 132.0,
+            "handballs" : 71.0,
+            "disposals" : 203.0,
+            "marks" : 58.0,
+            "bounces" : 12.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 77.0,
+            "uncontestedPossessions" : 125.0,
+            "totalPossessions" : 202.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 85.7,
+            "clangers" : 33.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 770.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 45.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960557",
+            "playerName" : {
+              "givenName" : "Shane",
+              "surname" : "Wakelin"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 167.0,
+      "handballs" : 54.0,
+      "disposals" : 221.0,
+      "marks" : 88.0,
+      "bounces" : 26.0,
+      "tackles" : 24.0,
+      "contestedPossessions" : 70.0,
+      "uncontestedPossessions" : 144.0,
+      "totalPossessions" : 214.0,
+      "inside50s" : 6.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 3.0,
+      "onePercenters" : 94.0,
+      "disposalEfficiency" : 82.8,
+      "clangers" : 25.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 947.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 3.0,
+        "totalClearances" : 3.0
+      },
+      "rebound50s" : 62.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

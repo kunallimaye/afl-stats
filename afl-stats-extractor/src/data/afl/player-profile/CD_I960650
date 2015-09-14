@@ -1,0 +1,338 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960650",
+    "position" : "Centre",
+    "surname" : "Fewster",
+    "jumperNumber" : 18,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Brendon",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1974-01-04T01:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 193,
+      "weightInKg" : 100,
+      "recruitedFrom" : null,
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 24.0,
+      "behinds" : 26.0,
+      "superGoals" : null,
+      "kicks" : 284.0,
+      "handballs" : 224.0,
+      "disposals" : 508.0,
+      "marks" : 174.0,
+      "bounces" : 16.0,
+      "tackles" : 57.0,
+      "contestedPossessions" : 279.0,
+      "uncontestedPossessions" : 241.0,
+      "totalPossessions" : 520.0,
+      "inside50s" : 122.0,
+      "marksInside50" : 18.0,
+      "contestedMarks" : 40.0,
+      "hitouts" : 188.0,
+      "onePercenters" : 56.0,
+      "disposalEfficiency" : 77.2,
+      "clangers" : 111.0,
+      "freesFor" : 38.0,
+      "freesAgainst" : 54.0,
+      "dreamTeamPoints" : 2284.0,
+      "clearances" : {
+        "centreClearances" : 19.0,
+        "stoppageClearances" : 81.0,
+        "totalClearances" : 100.0
+      },
+      "rebound50s" : 49.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 47.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 5.1,
+            "disposals" : 11.1,
+            "marks" : 3.6,
+            "bounces" : 0.7,
+            "tackles" : 1.3,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 5.6,
+            "totalPossessions" : 11.6,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.6,
+            "hitouts" : 4.6,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 3.3,
+            "freesFor" : 1.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 44.7,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.3
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960650",
+            "playerName" : {
+              "givenName" : "Brendon",
+              "surname" : "Fewster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 42.0,
+            "handballs" : 36.0,
+            "disposals" : 78.0,
+            "marks" : 25.0,
+            "bounces" : 5.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 42.0,
+            "uncontestedPossessions" : 39.0,
+            "totalPossessions" : 81.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 32.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 69.2,
+            "clangers" : 23.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 313.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960650",
+            "playerName" : {
+              "givenName" : "Brendon",
+              "surname" : "Fewster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.8,
+            "handballs" : 4.8,
+            "disposals" : 11.6,
+            "marks" : 3.6,
+            "bounces" : 0.2,
+            "tackles" : 0.7,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 5.7,
+            "totalPossessions" : 11.7,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.9,
+            "hitouts" : 2.6,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 47.0,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 1.9
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960650",
+            "playerName" : {
+              "givenName" : "Brendon",
+              "surname" : "Fewster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 68.0,
+            "handballs" : 48.0,
+            "disposals" : 116.0,
+            "marks" : 36.0,
+            "bounces" : 2.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 60.0,
+            "uncontestedPossessions" : 57.0,
+            "totalPossessions" : 117.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 26.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 77.6,
+            "clangers" : 18.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 470.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 19.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 71.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960650",
+            "playerName" : {
+              "givenName" : "Brendon",
+              "surname" : "Fewster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 42.0,
+      "handballs" : 36.0,
+      "disposals" : 78.0,
+      "marks" : 25.0,
+      "bounces" : 5.0,
+      "tackles" : 9.0,
+      "contestedPossessions" : 42.0,
+      "uncontestedPossessions" : 39.0,
+      "totalPossessions" : 81.0,
+      "inside50s" : 16.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 32.0,
+      "onePercenters" : 10.0,
+      "disposalEfficiency" : 69.2,
+      "clangers" : 23.0,
+      "freesFor" : 7.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 313.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 11.0,
+        "totalClearances" : 16.0
+      },
+      "rebound50s" : 6.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

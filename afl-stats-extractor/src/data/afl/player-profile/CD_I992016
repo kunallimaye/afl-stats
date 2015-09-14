@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I992016",
+    "position" : "Rover",
+    "surname" : "Merrett",
+    "jumperNumber" : 7,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.4,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 9.6,
+      "handballs" : 8.9,
+      "disposals" : 18.5,
+      "marks" : 3.4,
+      "bounces" : 0.4,
+      "tackles" : 4.8,
+      "contestedPossessions" : 6.5,
+      "uncontestedPossessions" : 11.9,
+      "totalPossessions" : 18.5,
+      "inside50s" : 3.1,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.7,
+      "disposalEfficiency" : null,
+      "clangers" : 2.1,
+      "freesFor" : 1.1,
+      "freesAgainst" : 0.4,
+      "dreamTeamPoints" : 78.6,
+      "clearances" : {
+        "centreClearances" : 0.4,
+        "stoppageClearances" : 1.1,
+        "totalClearances" : 1.5
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Zach",
+    "bio" : "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: small;\">With sharp left-foot dosposal, a crafty intution and valuable speed, Merrett comfortably settled into AFL life in his first season. The small forward played 20 games, kicked 11 goals and won a nomination for the NAB AFL Rising Star in round seven against Richmond. All the signs suggest Merrett is set to be a vital member of the club's forward line and midfield well into the future.&nbsp;</span></p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Essendon/Player Profiles/2015 - Profiles/MERRETT Zach.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1995-10-03T02:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 179,
+      "weightInKg" : 75,
+      "recruitedFrom" : null,
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 15.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 356.0,
+      "handballs" : 329.0,
+      "disposals" : 685.0,
+      "marks" : 127.0,
+      "bounces" : 15.0,
+      "tackles" : 177.0,
+      "contestedPossessions" : 242.0,
+      "uncontestedPossessions" : 442.0,
+      "totalPossessions" : 684.0,
+      "inside50s" : 116.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 26.0,
+      "disposalEfficiency" : 71.8,
+      "clangers" : 76.0,
+      "freesFor" : 39.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 2908.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 42.0,
+        "totalClearances" : 55.0
+      },
+      "rebound50s" : 37.0,
+      "goalAssists" : 16.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 10.9,
+            "handballs" : 11.5,
+            "disposals" : 22.4,
+            "marks" : 3.5,
+            "bounces" : 0.5,
+            "tackles" : 5.8,
+            "contestedPossessions" : 8.1,
+            "uncontestedPossessions" : 14.4,
+            "totalPossessions" : 22.5,
+            "inside50s" : 3.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 90.5,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.9,
+              "totalClearances" : 2.5
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I992016",
+            "playerName" : {
+              "givenName" : "Zach",
+              "surname" : "Merrett"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 186.0,
+            "handballs" : 195.0,
+            "disposals" : 381.0,
+            "marks" : 60.0,
+            "bounces" : 8.0,
+            "tackles" : 98.0,
+            "contestedPossessions" : 138.0,
+            "uncontestedPossessions" : 245.0,
+            "totalPossessions" : 383.0,
+            "inside50s" : 60.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 71.1,
+            "clangers" : 40.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1539.0,
+            "clearances" : {
+              "centreClearances" : 11.0,
+              "stoppageClearances" : 32.0,
+              "totalClearances" : 43.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 30.8,
+            "ratingPoints" : 339.8,
+            "ranking" : 172.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I992016",
+            "playerName" : {
+              "givenName" : "Zach",
+              "surname" : "Merrett"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 79.2
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.5,
+            "handballs" : 6.7,
+            "disposals" : 15.2,
+            "marks" : 3.3,
+            "bounces" : 0.3,
+            "tackles" : 3.9,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 9.8,
+            "totalPossessions" : 15.0,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 68.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I992016",
+            "playerName" : {
+              "givenName" : "Zach",
+              "surname" : "Merrett"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 170.0,
+            "handballs" : 134.0,
+            "disposals" : 304.0,
+            "marks" : 67.0,
+            "bounces" : 7.0,
+            "tackles" : 79.0,
+            "contestedPossessions" : 104.0,
+            "uncontestedPossessions" : 197.0,
+            "totalPossessions" : 301.0,
+            "inside50s" : 56.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 72.7,
+            "clangers" : 36.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 1369.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 12.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 64.7,
+            "ratingPoints" : 163.5,
+            "ranking" : 412.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I992016",
+            "playerName" : {
+              "givenName" : "Zach",
+              "surname" : "Merrett"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 69.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 4.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 186.0,
+      "handballs" : 195.0,
+      "disposals" : 381.0,
+      "marks" : 60.0,
+      "bounces" : 8.0,
+      "tackles" : 98.0,
+      "contestedPossessions" : 138.0,
+      "uncontestedPossessions" : 245.0,
+      "totalPossessions" : 383.0,
+      "inside50s" : 60.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 18.0,
+      "disposalEfficiency" : 71.1,
+      "clangers" : 40.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 1539.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 32.0,
+        "totalClearances" : 43.0
+      },
+      "rebound50s" : 23.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 30.8,
+      "ratingPoints" : 339.8,
+      "ranking" : 172.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I992016",
+        "playerName" : {
+          "givenName" : "Zach",
+          "surname" : "Merrett"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T50",
+        "teamAbbr" : "ESS",
+        "teamName" : "Essendon",
+        "teamNickname" : "Bombers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 339.8,
+        "ranking" : 167,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 339.8,
+        "ranking" : 10,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 339.8,
+        "ranking" : 14,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 180.9,
+        "ranking" : 181,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 37
+  }
+}

@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291891",
+    "position" : "Centre",
+    "surname" : "Townsend",
+    "jumperNumber" : 31,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 5.6,
+      "handballs" : 4.6,
+      "disposals" : 10.2,
+      "marks" : 2.4,
+      "bounces" : 0.1,
+      "tackles" : 4.6,
+      "contestedPossessions" : 4.7,
+      "uncontestedPossessions" : 5.7,
+      "totalPossessions" : 10.5,
+      "inside50s" : 1.2,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.1,
+      "onePercenters" : 0.8,
+      "disposalEfficiency" : null,
+      "clangers" : 2.5,
+      "freesFor" : 0.9,
+      "freesAgainst" : 1.5,
+      "dreamTeamPoints" : 49.2,
+      "clearances" : {
+        "centreClearances" : 0.8,
+        "stoppageClearances" : 0.7,
+        "totalClearances" : 1.5
+      },
+      "rebound50s" : 0.7,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jacob",
+    "bio" : "<p>Riverina recruit Jacob Townsend made his AFL debut in Round 1, 2012 and played 11 games for the GIANTS in his first AFL season. Originally from Leeton, Townsend joined the GIANTS under the club’s zoning concessions and has been part of the club since its inauguration in 2010. Townsend was awarded the Coaches Award at the 2012 Kevin Sheedy Medal for his fearless attack on the footy.<br>\n&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2015 - Profiles/TOWNSEND Jacob.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-06-20T02:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 186,
+      "weightInKg" : 89,
+      "recruitedFrom" : "Whitton-Leeton (NSW)/Leeton-Whitton (NSW)",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 4.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 157.0,
+      "handballs" : 130.0,
+      "disposals" : 287.0,
+      "marks" : 66.0,
+      "bounces" : 2.0,
+      "tackles" : 128.0,
+      "contestedPossessions" : 133.0,
+      "uncontestedPossessions" : 160.0,
+      "totalPossessions" : 293.0,
+      "inside50s" : 33.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 4.0,
+      "onePercenters" : 23.0,
+      "disposalEfficiency" : 63.4,
+      "clangers" : 69.0,
+      "freesFor" : 24.0,
+      "freesAgainst" : 41.0,
+      "dreamTeamPoints" : 1377.0,
+      "clearances" : {
+        "centreClearances" : 22.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 43.0
+      },
+      "rebound50s" : 19.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 26.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 12.0,
+            "disposals" : 22.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 11.0,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 21.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 7.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 82.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291891",
+            "playerName" : {
+              "givenName" : "Jacob",
+              "surname" : "Townsend"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 12.0,
+            "disposals" : 22.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 11.0,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 21.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 45.5,
+            "clangers" : 7.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 82.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 25.6,
+            "ranking" : 629.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291891",
+            "playerName" : {
+              "givenName" : "Jacob",
+              "surname" : "Townsend"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 73.3
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 5.9,
+            "handballs" : 4.6,
+            "disposals" : 10.5,
+            "marks" : 2.1,
+            "bounces" : 0.0,
+            "tackles" : 7.5,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 5.7,
+            "totalPossessions" : 11.0,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 3.6,
+            "freesFor" : 1.0,
+            "freesAgainst" : 2.7,
+            "dreamTeamPoints" : 57.1,
+            "clearances" : {
+              "centreClearances" : 1.6,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 2.4
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291891",
+            "playerName" : {
+              "givenName" : "Jacob",
+              "surname" : "Townsend"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 47.0,
+            "handballs" : 37.0,
+            "disposals" : 84.0,
+            "marks" : 17.0,
+            "bounces" : 0.0,
+            "tackles" : 60.0,
+            "contestedPossessions" : 42.0,
+            "uncontestedPossessions" : 46.0,
+            "totalPossessions" : 88.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 59.5,
+            "clangers" : 29.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 457.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 19.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : 52.7,
+            "ranking" : 570.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291891",
+            "playerName" : {
+              "givenName" : "Jacob",
+              "surname" : "Townsend"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 74.2
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.2,
+            "handballs" : 5.4,
+            "disposals" : 11.6,
+            "marks" : 2.6,
+            "bounces" : 0.0,
+            "tackles" : 3.1,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 6.5,
+            "totalPossessions" : 11.5,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 48.1,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291891",
+            "playerName" : {
+              "givenName" : "Jacob",
+              "surname" : "Townsend"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 50.0,
+            "handballs" : 43.0,
+            "disposals" : 93.0,
+            "marks" : 21.0,
+            "bounces" : 0.0,
+            "tackles" : 25.0,
+            "contestedPossessions" : 40.0,
+            "uncontestedPossessions" : 52.0,
+            "totalPossessions" : 92.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 64.5,
+            "clangers" : 20.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 385.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 70.5,
+            "ranking" : 551.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291891",
+            "playerName" : {
+              "givenName" : "Jacob",
+              "surname" : "Townsend"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 70.5
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 4.5,
+            "handballs" : 3.5,
+            "disposals" : 8.0,
+            "marks" : 2.3,
+            "bounces" : 0.2,
+            "tackles" : 3.4,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 4.7,
+            "totalPossessions" : 8.4,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.2,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 41.2,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291891",
+            "playerName" : {
+              "givenName" : "Jacob",
+              "surname" : "Townsend"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 50.0,
+            "handballs" : 38.0,
+            "disposals" : 88.0,
+            "marks" : 25.0,
+            "bounces" : 2.0,
+            "tackles" : 37.0,
+            "contestedPossessions" : 40.0,
+            "uncontestedPossessions" : 52.0,
+            "totalPossessions" : 92.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 70.5,
+            "clangers" : 13.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 453.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291891",
+            "playerName" : {
+              "givenName" : "Jacob",
+              "surname" : "Townsend"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 68.5
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 10.0,
+      "handballs" : 12.0,
+      "disposals" : 22.0,
+      "marks" : 3.0,
+      "bounces" : 0.0,
+      "tackles" : 6.0,
+      "contestedPossessions" : 11.0,
+      "uncontestedPossessions" : 10.0,
+      "totalPossessions" : 21.0,
+      "inside50s" : 2.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : 45.5,
+      "clangers" : 7.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 4.0,
+      "dreamTeamPoints" : 82.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 25.6,
+      "ranking" : 629.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291891",
+        "playerName" : {
+          "givenName" : "Jacob",
+          "surname" : "Townsend"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 33.4,
+        "ranking" : 618,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 33.4,
+        "ranking" : 37,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 33.4,
+        "ranking" : 169,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 7.8,
+        "ranking" : 625,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 28
+  }
+}

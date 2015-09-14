@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I272005",
+    "position" : "Left Half Back",
+    "surname" : "Clarke",
+    "jumperNumber" : 9,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 10.2,
+      "handballs" : 6.5,
+      "disposals" : 16.7,
+      "marks" : 4.5,
+      "bounces" : 0.5,
+      "tackles" : 2.2,
+      "contestedPossessions" : 5.4,
+      "uncontestedPossessions" : 10.9,
+      "totalPossessions" : 16.2,
+      "inside50s" : 1.7,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.0,
+      "disposalEfficiency" : null,
+      "clangers" : 1.8,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 66.4,
+      "clearances" : {
+        "centreClearances" : 0.4,
+        "stoppageClearances" : 1.1,
+        "totalClearances" : 1.5
+      },
+      "rebound50s" : 2.3,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Martin",
+    "bio" : "<p>Possesses remarkable endurance and a damaging left boot that belies his status as a late convert to the game. Has looked most comfortable when playing as a rebounding back flanker, but has the capacity to shut down opposition small forwards. Achieved some remarkable results in 2007 and has been in and out of the senior side during his two years back at the club after returning to Ireland for 2010-2011. With the retirement of Ben Johnson and Alan Toovey and Clinton Young on the comeback from serious injuries, Clarke will be aiming to lock down a spot at half back early in 2014</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Collingwood/Player Profiles/2014 - Profiles/CLARKE Martin.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1987-11-13T01:00:00.000+0000",
+      "draftYear" : "2007",
+      "heightInCm" : 181,
+      "weightInKg" : 85,
+      "recruitedFrom" : "County Down (Ireland)",
+      "debutYear" : "2007"
+    },
+    "careerStats" : {
+      "goals" : 19.0,
+      "behinds" : 20.0,
+      "superGoals" : null,
+      "kicks" : 748.0,
+      "handballs" : 473.0,
+      "disposals" : 1221.0,
+      "marks" : 325.0,
+      "bounces" : 35.0,
+      "tackles" : 163.0,
+      "contestedPossessions" : 392.0,
+      "uncontestedPossessions" : 794.0,
+      "totalPossessions" : 1186.0,
+      "inside50s" : 123.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 2.0,
+      "onePercenters" : 149.0,
+      "disposalEfficiency" : 78.5,
+      "clangers" : 129.0,
+      "freesFor" : 45.0,
+      "freesAgainst" : 51.0,
+      "dreamTeamPoints" : 4845.0,
+      "clearances" : {
+        "centreClearances" : 26.0,
+        "stoppageClearances" : 81.0,
+        "totalClearances" : 107.0
+      },
+      "rebound50s" : 171.0,
+      "goalAssists" : 23.0,
+      "goalAccuracy" : 42.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 6.0,
+            "disposals" : 13.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 12.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 42.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I272005",
+            "playerName" : {
+              "givenName" : "Martin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 6.0,
+            "disposals" : 13.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 12.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 84.6,
+            "clangers" : 2.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 42.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 86.2,
+            "ranking" : 513.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I272005",
+            "playerName" : {
+              "givenName" : "Martin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 59.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.4,
+            "handballs" : 7.6,
+            "disposals" : 17.0,
+            "marks" : 4.7,
+            "bounces" : 0.4,
+            "tackles" : 1.6,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 10.8,
+            "totalPossessions" : 16.6,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 63.8,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I272005",
+            "playerName" : {
+              "givenName" : "Martin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 85.0,
+            "handballs" : 68.0,
+            "disposals" : 153.0,
+            "marks" : 42.0,
+            "bounces" : 4.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 52.0,
+            "uncontestedPossessions" : 97.0,
+            "totalPossessions" : 149.0,
+            "inside50s" : 11.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 79.1,
+            "clangers" : 18.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 574.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : 214.1,
+            "ranking" : 334.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I272005",
+            "playerName" : {
+              "givenName" : "Martin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 79.6
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.9,
+            "handballs" : 6.5,
+            "disposals" : 16.4,
+            "marks" : 3.6,
+            "bounces" : 0.3,
+            "tackles" : 2.6,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 10.5,
+            "totalPossessions" : 15.5,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 62.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I272005",
+            "playerName" : {
+              "givenName" : "Martin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 169.0,
+            "handballs" : 110.0,
+            "disposals" : 279.0,
+            "marks" : 62.0,
+            "bounces" : 5.0,
+            "tackles" : 44.0,
+            "contestedPossessions" : 85.0,
+            "uncontestedPossessions" : 179.0,
+            "totalPossessions" : 264.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 79.9,
+            "clangers" : 26.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1068.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 16.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 46.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I272005",
+            "playerName" : {
+              "givenName" : "Martin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 84.2
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 11.4,
+            "handballs" : 6.7,
+            "disposals" : 18.1,
+            "marks" : 4.1,
+            "bounces" : 0.2,
+            "tackles" : 2.8,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 12.0,
+            "totalPossessions" : 17.4,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 71.6,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 3.1,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I272005",
+            "playerName" : {
+              "givenName" : "Martin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 137.0,
+            "handballs" : 80.0,
+            "disposals" : 217.0,
+            "marks" : 49.0,
+            "bounces" : 2.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 65.0,
+            "uncontestedPossessions" : 144.0,
+            "totalPossessions" : 209.0,
+            "inside50s" : 25.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 75.6,
+            "clangers" : 26.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 859.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 37.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I272005",
+            "playerName" : {
+              "givenName" : "Martin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 91.4
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 11.4,
+            "handballs" : 5.6,
+            "disposals" : 17.0,
+            "marks" : 4.9,
+            "bounces" : 0.7,
+            "tackles" : 2.4,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 11.4,
+            "totalPossessions" : 16.1,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 71.1,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 2.6,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I272005",
+            "playerName" : {
+              "givenName" : "Martin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 250.0,
+            "handballs" : 124.0,
+            "disposals" : 374.0,
+            "marks" : 107.0,
+            "bounces" : 16.0,
+            "tackles" : 53.0,
+            "contestedPossessions" : 104.0,
+            "uncontestedPossessions" : 251.0,
+            "totalPossessions" : 355.0,
+            "inside50s" : 37.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 51.0,
+            "disposalEfficiency" : 79.1,
+            "clangers" : 36.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1565.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 24.0,
+              "totalClearances" : 34.0
+            },
+            "rebound50s" : 57.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 56.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I272005",
+            "playerName" : {
+              "givenName" : "Martin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 94.3
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 9.6,
+            "handballs" : 7.1,
+            "disposals" : 16.7,
+            "marks" : 5.1,
+            "bounces" : 0.7,
+            "tackles" : 1.5,
+            "contestedPossessions" : 6.8,
+            "uncontestedPossessions" : 9.6,
+            "totalPossessions" : 16.4,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 65.2,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 2.6
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I272005",
+            "playerName" : {
+              "givenName" : "Martin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 115.0,
+            "handballs" : 85.0,
+            "disposals" : 200.0,
+            "marks" : 61.0,
+            "bounces" : 8.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 82.0,
+            "uncontestedPossessions" : 115.0,
+            "totalPossessions" : 197.0,
+            "inside50s" : 21.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 35.0,
+            "disposalEfficiency" : 79.0,
+            "clangers" : 21.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 782.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 22.0,
+              "totalClearances" : 31.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I272005",
+            "playerName" : {
+              "givenName" : "Martin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 86.9
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 7.0,
+      "handballs" : 6.0,
+      "disposals" : 13.0,
+      "marks" : 4.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 4.0,
+      "uncontestedPossessions" : 8.0,
+      "totalPossessions" : 12.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : 84.6,
+      "clangers" : 2.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 42.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 86.2,
+      "ranking" : 513.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201401427",
+      "player" : {
+        "playerId" : "CD_I272005",
+        "playerName" : {
+          "givenName" : "Martin",
+          "surname" : "Clarke"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T40",
+        "teamAbbr" : "COLL",
+        "teamName" : "Collingwood",
+        "teamNickname" : "Magpies"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 86.2,
+        "ranking" : 507,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 86.2,
+        "ranking" : 32,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 86.2,
+        "ranking" : 109,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 7.2,
+        "ranking" : 629,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2006"
+    },
+    "careerGamesPlayed" : 73
+  }
+}

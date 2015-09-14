@@ -1,0 +1,486 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I270606",
+    "position" : "Right Wing",
+    "surname" : "Mitchell",
+    "jumperNumber" : 2,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.6,
+      "superGoals" : null,
+      "kicks" : 7.3,
+      "handballs" : 5.8,
+      "disposals" : 13.1,
+      "marks" : 2.9,
+      "bounces" : 0.2,
+      "tackles" : 3.7,
+      "contestedPossessions" : 4.9,
+      "uncontestedPossessions" : 8.5,
+      "totalPossessions" : 13.4,
+      "inside50s" : 2.5,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : null,
+      "clangers" : 1.9,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 59.6,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 1.4,
+        "totalClearances" : 1.5
+      },
+      "rebound50s" : 0.6,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Kane",
+    "bio" : "<p>He didn&rsquo;t follow the script of Samson when losing his trademark&nbsp;locks last year and took a big step forward in his development,&nbsp;earning a permanent position on Port&rsquo;s senior list. Mitchell&rsquo;s speed and endurance are the keys to his game, and he has made&nbsp;significant headway in improving his foot skills, too. He was&nbsp;named emergency six times last year and will hope to become a&nbsp;more regular contributor this season.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/PortAdelaide/Player Profiles/2015 profiles/MITCHELL Kane.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1989-12-01T01:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 174,
+      "weightInKg" : 74,
+      "recruitedFrom" : "Marist Junior Football Club (WA)/Claremont (WAFL)",
+      "debutYear" : "2013"
+    },
+    "careerStats" : {
+      "goals" : 18.0,
+      "behinds" : 18.0,
+      "superGoals" : null,
+      "kicks" : 227.0,
+      "handballs" : 179.0,
+      "disposals" : 406.0,
+      "marks" : 89.0,
+      "bounces" : 5.0,
+      "tackles" : 115.0,
+      "contestedPossessions" : 152.0,
+      "uncontestedPossessions" : 262.0,
+      "totalPossessions" : 414.0,
+      "inside50s" : 76.0,
+      "marksInside50" : 15.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 30.0,
+      "disposalEfficiency" : 68.7,
+      "clangers" : 59.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1848.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 44.0,
+        "totalClearances" : 47.0
+      },
+      "rebound50s" : 20.0,
+      "goalAssists" : 15.0,
+      "goalAccuracy" : 42.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 6.4,
+            "disposals" : 15.1,
+            "marks" : 2.9,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 11.2,
+            "totalPossessions" : 15.4,
+            "inside50s" : 3.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 0.2,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 64.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270606",
+            "playerName" : {
+              "givenName" : "Kane",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 70.0,
+            "handballs" : 51.0,
+            "disposals" : 121.0,
+            "marks" : 23.0,
+            "bounces" : 0.0,
+            "tackles" : 32.0,
+            "contestedPossessions" : 33.0,
+            "uncontestedPossessions" : 90.0,
+            "totalPossessions" : 123.0,
+            "inside50s" : 28.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 67.8,
+            "clangers" : 22.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 514.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : 117.2,
+            "ranking" : 483.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270606",
+            "playerName" : {
+              "givenName" : "Kane",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 73.8
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 6.2,
+            "disposals" : 14.2,
+            "marks" : 3.7,
+            "bounces" : 0.3,
+            "tackles" : 5.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 8.7,
+            "totalPossessions" : 14.7,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 70.1,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270606",
+            "playerName" : {
+              "givenName" : "Kane",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 80.0,
+            "handballs" : 62.0,
+            "disposals" : 142.0,
+            "marks" : 37.0,
+            "bounces" : 3.0,
+            "tackles" : 50.0,
+            "contestedPossessions" : 60.0,
+            "uncontestedPossessions" : 87.0,
+            "totalPossessions" : 147.0,
+            "inside50s" : 25.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 68.3,
+            "clangers" : 20.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 701.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : 173.1,
+            "ranking" : 394.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270606",
+            "playerName" : {
+              "givenName" : "Kane",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 68.3
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 5.9,
+            "handballs" : 5.1,
+            "disposals" : 11.0,
+            "marks" : 2.2,
+            "bounces" : 0.2,
+            "tackles" : 2.5,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 6.5,
+            "totalPossessions" : 11.1,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 48.7,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270606",
+            "playerName" : {
+              "givenName" : "Kane",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 77.0,
+            "handballs" : 66.0,
+            "disposals" : 143.0,
+            "marks" : 29.0,
+            "bounces" : 2.0,
+            "tackles" : 33.0,
+            "contestedPossessions" : 59.0,
+            "uncontestedPossessions" : 85.0,
+            "totalPossessions" : 144.0,
+            "inside50s" : 23.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 69.9,
+            "clangers" : 17.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 633.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 20.0,
+              "totalClearances" : 22.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 87.8,
+            "ranking" : 517.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270606",
+            "playerName" : {
+              "givenName" : "Kane",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 54.4
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 4.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 70.0,
+      "handballs" : 51.0,
+      "disposals" : 121.0,
+      "marks" : 23.0,
+      "bounces" : 0.0,
+      "tackles" : 32.0,
+      "contestedPossessions" : 33.0,
+      "uncontestedPossessions" : 90.0,
+      "totalPossessions" : 123.0,
+      "inside50s" : 28.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 6.0,
+      "disposalEfficiency" : 67.8,
+      "clangers" : 22.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 8.0,
+      "dreamTeamPoints" : 514.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 11.0,
+        "totalClearances" : 11.0
+      },
+      "rebound50s" : 7.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 40.0,
+      "ratingPoints" : 117.2,
+      "ranking" : 483.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I270606",
+        "playerName" : {
+          "givenName" : "Kane",
+          "surname" : "Mitchell"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T110",
+        "teamAbbr" : "PORT",
+        "teamName" : "Port Adelaide",
+        "teamNickname" : "Power"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 117.2,
+        "ranking" : 479,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 117.2,
+        "ranking" : 27,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 117.2,
+        "ranking" : 40,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 32.0,
+        "ranking" : 529,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2012"
+    },
+    "careerGamesPlayed" : 31
+  }
+}

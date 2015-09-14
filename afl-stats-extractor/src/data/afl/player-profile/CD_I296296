@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I296296",
+    "position" : "Full Forward",
+    "surname" : "Sheed",
+    "jumperNumber" : 4,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.5,
+      "superGoals" : null,
+      "kicks" : 8.4,
+      "handballs" : 8.6,
+      "disposals" : 17.0,
+      "marks" : 2.7,
+      "bounces" : 0.2,
+      "tackles" : 2.4,
+      "contestedPossessions" : 6.7,
+      "uncontestedPossessions" : 10.3,
+      "totalPossessions" : 17.0,
+      "inside50s" : 3.1,
+      "marksInside50" : 0.4,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.6,
+      "disposalEfficiency" : null,
+      "clangers" : 2.1,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 60.9,
+      "clearances" : {
+        "centreClearances" : 0.7,
+        "stoppageClearances" : 1.5,
+        "totalClearances" : 2.3
+      },
+      "rebound50s" : 0.9,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Dom",
+    "bio" : "<p>The medium midfielder played 10 games in his first AFL season – five as the substitute. Spent the rest of the year developing in the WAFL. Strong-bodied left-footer who uses the ball well. Winner of the Larke Medal and achieved All-Australian honours after a brilliant 2013 NAB AFL Under 18 Championships, which included a 29-possession and four-goal game against Vic Country.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WestCoastEagles/Player Profiles/2015 - Profiles/SHEED Dom.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1995-04-10T02:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 185,
+      "weightInKg" : 83,
+      "recruitedFrom" : "Subiaco",
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 10.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 260.0,
+      "handballs" : 266.0,
+      "disposals" : 526.0,
+      "marks" : 84.0,
+      "bounces" : 7.0,
+      "tackles" : 74.0,
+      "contestedPossessions" : 207.0,
+      "uncontestedPossessions" : 319.0,
+      "totalPossessions" : 526.0,
+      "inside50s" : 97.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 20.0,
+      "disposalEfficiency" : 67.9,
+      "clangers" : 66.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1888.0,
+      "clearances" : {
+        "centreClearances" : 23.0,
+        "stoppageClearances" : 47.0,
+        "totalClearances" : 70.0
+      },
+      "rebound50s" : 28.0,
+      "goalAssists" : 17.0,
+      "goalAccuracy" : 35.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 10.0,
+            "disposals" : 20.0,
+            "marks" : 3.2,
+            "bounces" : 0.3,
+            "tackles" : 2.2,
+            "contestedPossessions" : 7.4,
+            "uncontestedPossessions" : 12.6,
+            "totalPossessions" : 20.0,
+            "inside50s" : 3.7,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 70.0,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 2.5
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296296",
+            "playerName" : {
+              "givenName" : "Dom",
+              "surname" : "Sheed"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 209.0,
+            "handballs" : 210.0,
+            "disposals" : 419.0,
+            "marks" : 67.0,
+            "bounces" : 6.0,
+            "tackles" : 47.0,
+            "contestedPossessions" : 155.0,
+            "uncontestedPossessions" : 264.0,
+            "totalPossessions" : 419.0,
+            "inside50s" : 78.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 69.0,
+            "clangers" : 47.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1470.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 35.0,
+              "totalClearances" : 52.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 15.0,
+            "goalAccuracy" : 39.1,
+            "ratingPoints" : 232.1,
+            "ranking" : 322.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296296",
+            "playerName" : {
+              "givenName" : "Dom",
+              "surname" : "Sheed"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 72.9
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 5.1,
+            "handballs" : 5.6,
+            "disposals" : 10.7,
+            "marks" : 1.7,
+            "bounces" : 0.1,
+            "tackles" : 2.7,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 5.5,
+            "totalPossessions" : 10.7,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 41.8,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296296",
+            "playerName" : {
+              "givenName" : "Dominic",
+              "surname" : "Sheed"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 51.0,
+            "handballs" : 56.0,
+            "disposals" : 107.0,
+            "marks" : 17.0,
+            "bounces" : 1.0,
+            "tackles" : 27.0,
+            "contestedPossessions" : 52.0,
+            "uncontestedPossessions" : 55.0,
+            "totalPossessions" : 107.0,
+            "inside50s" : 19.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 63.6,
+            "clangers" : 19.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 418.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 18.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : 52.2,
+            "ranking" : 571.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296296",
+            "playerName" : {
+              "givenName" : "Dominic",
+              "surname" : "Sheed"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 52.9
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 9.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 209.0,
+      "handballs" : 210.0,
+      "disposals" : 419.0,
+      "marks" : 67.0,
+      "bounces" : 6.0,
+      "tackles" : 47.0,
+      "contestedPossessions" : 155.0,
+      "uncontestedPossessions" : 264.0,
+      "totalPossessions" : 419.0,
+      "inside50s" : 78.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 11.0,
+      "disposalEfficiency" : 69.0,
+      "clangers" : 47.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 16.0,
+      "dreamTeamPoints" : 1470.0,
+      "clearances" : {
+        "centreClearances" : 17.0,
+        "stoppageClearances" : 35.0,
+        "totalClearances" : 52.0
+      },
+      "rebound50s" : 23.0,
+      "goalAssists" : 15.0,
+      "goalAccuracy" : 39.1,
+      "ratingPoints" : 232.1,
+      "ranking" : 322.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I296296",
+        "playerName" : {
+          "givenName" : "Dom",
+          "surname" : "Sheed"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T150",
+        "teamAbbr" : "WCE",
+        "teamName" : "West Coast Eagles",
+        "teamNickname" : "Eagles"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 237.6,
+        "ranking" : 317,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 237.6,
+        "ranking" : 19,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 237.6,
+        "ranking" : 111,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 5.5,
+        "ranking" : 136,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 185.5,
+        "ranking" : 176,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 31
+  }
+}

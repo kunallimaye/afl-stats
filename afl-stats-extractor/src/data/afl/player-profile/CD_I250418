@@ -1,0 +1,888 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I250418",
+    "position" : "Ruck",
+    "surname" : "Sellar",
+    "jumperNumber" : 30,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 4.3,
+      "handballs" : 4.9,
+      "disposals" : 9.2,
+      "marks" : 3.0,
+      "bounces" : 0.1,
+      "tackles" : 1.5,
+      "contestedPossessions" : 3.4,
+      "uncontestedPossessions" : 5.9,
+      "totalPossessions" : 9.3,
+      "inside50s" : 0.9,
+      "marksInside50" : 0.4,
+      "contestedMarks" : 0.5,
+      "hitouts" : 4.6,
+      "onePercenters" : 3.6,
+      "disposalEfficiency" : null,
+      "clangers" : 1.5,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.8,
+      "dreamTeamPoints" : 42.8,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.4,
+        "totalClearances" : 0.7
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "James",
+    "bio" : "<p>Plugged a number of holes during his first season at the Demons, playing in the ruck, up forward and in defence. A good competitor, he looked most at home in defence, however, he can pinch-hit in the forward line. He kicked nine goals in 16 games and showed enough to indicate he is capable at AFL level. Sellar uses the ball well and is not afraid to dish out a bump when the chance presents.</p>\n\n<p><b>Previous AFL club: </b>Adelaide (2007-11: 21 games, 3 goals).</p>\n\n<p><b>Draft history: </b>2006 NAB AFL Draft 1st round selection (Adelaide) No. 14 overall; 2011 NAB AFL Draft 3rd round selection (Melbourne) No. 54 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Melbourne/Player Profiles/2013 - Profiles/SELLAR James.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1989-03-24T02:00:00.000+0000",
+      "draftYear" : "2006",
+      "heightInCm" : 196,
+      "weightInKg" : 99,
+      "recruitedFrom" : "Glenelg (SA)",
+      "debutYear" : "2008"
+    },
+    "careerStats" : {
+      "goals" : 14.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 188.0,
+      "handballs" : 217.0,
+      "disposals" : 405.0,
+      "marks" : 133.0,
+      "bounces" : 6.0,
+      "tackles" : 67.0,
+      "contestedPossessions" : 149.0,
+      "uncontestedPossessions" : 260.0,
+      "totalPossessions" : 409.0,
+      "inside50s" : 39.0,
+      "marksInside50" : 18.0,
+      "contestedMarks" : 23.0,
+      "hitouts" : 201.0,
+      "onePercenters" : 158.0,
+      "disposalEfficiency" : 77.3,
+      "clangers" : 68.0,
+      "freesFor" : 26.0,
+      "freesAgainst" : 34.0,
+      "dreamTeamPoints" : 1885.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 42.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 51.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 5.1,
+            "handballs" : 3.6,
+            "disposals" : 8.7,
+            "marks" : 3.3,
+            "bounces" : 0.1,
+            "tackles" : 2.1,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 5.1,
+            "totalPossessions" : 8.9,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.3,
+            "hitouts" : 1.9,
+            "onePercenters" : 4.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 42.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250418",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Sellar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 36.0,
+            "handballs" : 25.0,
+            "disposals" : 61.0,
+            "marks" : 23.0,
+            "bounces" : 1.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 26.0,
+            "uncontestedPossessions" : 36.0,
+            "totalPossessions" : 62.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 13.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 75.4,
+            "clangers" : 10.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 299.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 136.1,
+            "ranking" : 441.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250418",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Sellar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 93.5
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 5.4,
+            "handballs" : 5.1,
+            "disposals" : 10.5,
+            "marks" : 3.1,
+            "bounces" : 0.1,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 5.8,
+            "totalPossessions" : 10.6,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.7,
+            "hitouts" : 4.0,
+            "onePercenters" : 4.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 48.8,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250418",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Sellar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 87.0,
+            "handballs" : 81.0,
+            "disposals" : 168.0,
+            "marks" : 50.0,
+            "bounces" : 1.0,
+            "tackles" : 27.0,
+            "contestedPossessions" : 76.0,
+            "uncontestedPossessions" : 93.0,
+            "totalPossessions" : 169.0,
+            "inside50s" : 19.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 64.0,
+            "onePercenters" : 74.0,
+            "disposalEfficiency" : 78.0,
+            "clangers" : 26.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 781.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250418",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Sellar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 88.7
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.4,
+            "handballs" : 6.0,
+            "disposals" : 10.4,
+            "marks" : 5.6,
+            "bounces" : 0.4,
+            "tackles" : 1.8,
+            "contestedPossessions" : 1.6,
+            "uncontestedPossessions" : 9.2,
+            "totalPossessions" : 10.8,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 47.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250418",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Sellar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 22.0,
+            "handballs" : 30.0,
+            "disposals" : 52.0,
+            "marks" : 28.0,
+            "bounces" : 2.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 8.0,
+            "uncontestedPossessions" : 46.0,
+            "totalPossessions" : 54.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 80.8,
+            "clangers" : 10.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 235.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250418",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Sellar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 97.5
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 2.2,
+            "handballs" : 4.2,
+            "disposals" : 6.5,
+            "marks" : 2.0,
+            "bounces" : 0.2,
+            "tackles" : 0.7,
+            "contestedPossessions" : 2.2,
+            "uncontestedPossessions" : 4.2,
+            "totalPossessions" : 6.5,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.7,
+            "hitouts" : 7.5,
+            "onePercenters" : 3.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 31.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250418",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Sellar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 17.0,
+            "disposals" : 26.0,
+            "marks" : 8.0,
+            "bounces" : 1.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 9.0,
+            "uncontestedPossessions" : 17.0,
+            "totalPossessions" : 26.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 30.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 80.8,
+            "clangers" : 5.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 125.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250418",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Sellar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 49.9
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 2.9,
+            "handballs" : 5.7,
+            "disposals" : 8.6,
+            "marks" : 2.2,
+            "bounces" : 0.1,
+            "tackles" : 1.2,
+            "contestedPossessions" : 2.5,
+            "uncontestedPossessions" : 6.1,
+            "totalPossessions" : 8.6,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.4,
+            "hitouts" : 8.5,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 39.8,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250418",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Sellar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 32.0,
+            "handballs" : 63.0,
+            "disposals" : 95.0,
+            "marks" : 24.0,
+            "bounces" : 1.0,
+            "tackles" : 13.0,
+            "contestedPossessions" : 28.0,
+            "uncontestedPossessions" : 67.0,
+            "totalPossessions" : 95.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 94.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 75.8,
+            "clangers" : 16.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 438.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250418",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Sellar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 45.6
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 2.0,
+            "handballs" : 1.0,
+            "disposals" : 3.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 1.0,
+            "totalPossessions" : 3.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 7.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250418",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Sellar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 2.0,
+            "handballs" : 1.0,
+            "disposals" : 3.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 1.0,
+            "totalPossessions" : 3.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 33.3,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 7.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250418",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Sellar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 58.4
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250418",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Sellar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250418",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Sellar"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 36.0,
+      "handballs" : 25.0,
+      "disposals" : 61.0,
+      "marks" : 23.0,
+      "bounces" : 1.0,
+      "tackles" : 15.0,
+      "contestedPossessions" : 26.0,
+      "uncontestedPossessions" : 36.0,
+      "totalPossessions" : 62.0,
+      "inside50s" : 5.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 13.0,
+      "onePercenters" : 31.0,
+      "disposalEfficiency" : 75.4,
+      "clangers" : 10.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 6.0,
+      "dreamTeamPoints" : 299.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 3.0,
+        "totalClearances" : 3.0
+      },
+      "rebound50s" : 9.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 136.1,
+      "ranking" : 441.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201301427",
+      "player" : {
+        "playerId" : "CD_I250418",
+        "playerName" : {
+          "givenName" : "James",
+          "surname" : "Sellar"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T90",
+        "teamAbbr" : "MELB",
+        "teamName" : "Melbourne",
+        "teamNickname" : "Demons"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 136.0,
+        "ranking" : 440,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 136.0,
+        "ranking" : 25,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 136.0,
+        "ranking" : 141,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 44
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I995192",
+    "position" : "Left Forward Pocket",
+    "surname" : "McCarthy",
+    "jumperNumber" : 25,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.7,
+      "behinds" : 0.7,
+      "superGoals" : null,
+      "kicks" : 6.4,
+      "handballs" : 2.4,
+      "disposals" : 8.8,
+      "marks" : 3.6,
+      "bounces" : 0.0,
+      "tackles" : 1.2,
+      "contestedPossessions" : 2.8,
+      "uncontestedPossessions" : 6.0,
+      "totalPossessions" : 8.8,
+      "inside50s" : 1.9,
+      "marksInside50" : 1.9,
+      "contestedMarks" : 0.4,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.5,
+      "disposalEfficiency" : null,
+      "clangers" : 1.5,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 49.2,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.3,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Cam",
+    "bio" : "<p>Cam McCarthy, from South Fremantle, was drafted at pick 14 by the GIANTS in the 2013 NAB AFL Draft to join a host of tall timber at the club. McCarthy played as key forward as a junior but his excellent marking ability, big vertical leap and defensive pressure mean he is able to play at either end of the ground.<br>\n&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2015 - Profiles/MCCARTHY Cam.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1995-04-01T02:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 193,
+      "weightInKg" : 83,
+      "recruitedFrom" : null,
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 36.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 135.0,
+      "handballs" : 50.0,
+      "disposals" : 185.0,
+      "marks" : 75.0,
+      "bounces" : 0.0,
+      "tackles" : 26.0,
+      "contestedPossessions" : 58.0,
+      "uncontestedPossessions" : 127.0,
+      "totalPossessions" : 185.0,
+      "inside50s" : 40.0,
+      "marksInside50" : 39.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 11.0,
+      "disposalEfficiency" : 68.1,
+      "clangers" : 31.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 1033.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 6.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 64.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.7,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 6.6,
+            "handballs" : 2.4,
+            "disposals" : 9.0,
+            "marks" : 3.6,
+            "bounces" : 0.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 2.8,
+            "uncontestedPossessions" : 6.1,
+            "totalPossessions" : 9.0,
+            "inside50s" : 1.9,
+            "marksInside50" : 1.9,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 50.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I995192",
+            "playerName" : {
+              "givenName" : "Cam",
+              "surname" : "McCarthy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 35.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 132.0,
+            "handballs" : 48.0,
+            "disposals" : 180.0,
+            "marks" : 73.0,
+            "bounces" : 0.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 57.0,
+            "uncontestedPossessions" : 123.0,
+            "totalPossessions" : 180.0,
+            "inside50s" : 39.0,
+            "marksInside50" : 38.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 68.3,
+            "clangers" : 31.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1000.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 63.6,
+            "ratingPoints" : 140.6,
+            "ranking" : 450.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I995192",
+            "playerName" : {
+              "givenName" : "Cam",
+              "surname" : "McCarthy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 79.4
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 2.0,
+            "disposals" : 5.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 5.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 33.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I995192",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "McCarthy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 2.0,
+            "disposals" : 5.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 5.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 60.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 33.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I995192",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "McCarthy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 28.7
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 35.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 132.0,
+      "handballs" : 48.0,
+      "disposals" : 180.0,
+      "marks" : 73.0,
+      "bounces" : 0.0,
+      "tackles" : 24.0,
+      "contestedPossessions" : 57.0,
+      "uncontestedPossessions" : 123.0,
+      "totalPossessions" : 180.0,
+      "inside50s" : 39.0,
+      "marksInside50" : 38.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 10.0,
+      "disposalEfficiency" : 68.3,
+      "clangers" : 31.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 1000.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 6.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 63.6,
+      "ratingPoints" : 140.6,
+      "ranking" : 450.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I995192",
+        "playerName" : {
+          "givenName" : "Cam",
+          "surname" : "McCarthy"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 137.6,
+        "ranking" : 454,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 137.6,
+        "ranking" : 27,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 137.6,
+        "ranking" : 43,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 132.3,
+        "ranking" : 287,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 21
+  }
+}

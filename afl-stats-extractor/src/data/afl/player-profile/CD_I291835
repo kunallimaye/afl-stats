@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291835",
+    "position" : "Right Half Forward",
+    "surname" : "Arnot",
+    "jumperNumber" : 44,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.6,
+      "superGoals" : null,
+      "kicks" : 5.1,
+      "handballs" : 5.2,
+      "disposals" : 10.3,
+      "marks" : 2.0,
+      "bounces" : 0.0,
+      "tackles" : 4.1,
+      "contestedPossessions" : 5.4,
+      "uncontestedPossessions" : 5.2,
+      "totalPossessions" : 10.7,
+      "inside50s" : 1.7,
+      "marksInside50" : 0.4,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.1,
+      "disposalEfficiency" : null,
+      "clangers" : 1.8,
+      "freesFor" : 1.0,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 51.1,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.9,
+        "totalClearances" : 1.1
+      },
+      "rebound50s" : 0.6,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Matt",
+    "bio" : "<p>A hard-working defender, Arnot pushed into the midfield at VFL level and became a tough ball-winner, gathering 25-30 possessions most weeks. An emergency at AFL level three times, he broke into the line-up in round 14 and played four games before a back injury ended his season. Improved his game and became more disciplined.</p>\n\n<p>Draft history: 2011 NAB AFL Draft 3rd round selection (Richmond) No. 55 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Richmond/Player Profiles/2015 - Profiles/ARNOT Matt.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-10-21T02:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 180,
+      "weightInKg" : 86,
+      "recruitedFrom" : "Vermont (Vic)/Oakleigh U18",
+      "debutYear" : "2013"
+    },
+    "careerStats" : {
+      "goals" : 5.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 46.0,
+      "handballs" : 47.0,
+      "disposals" : 93.0,
+      "marks" : 18.0,
+      "bounces" : 0.0,
+      "tackles" : 37.0,
+      "contestedPossessions" : 49.0,
+      "uncontestedPossessions" : 47.0,
+      "totalPossessions" : 96.0,
+      "inside50s" : 15.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 10.0,
+      "disposalEfficiency" : 69.9,
+      "clangers" : 16.0,
+      "freesFor" : 9.0,
+      "freesAgainst" : 6.0,
+      "dreamTeamPoints" : 460.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 8.0,
+        "totalClearances" : 10.0
+      },
+      "rebound50s" : 5.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 3.0,
+            "disposals" : 10.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 10.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 6.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 54.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291835",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Arnot"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 3.0,
+            "disposals" : 10.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 10.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 60.0,
+            "clangers" : 6.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 54.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 37.7,
+            "ranking" : 608.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291835",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Arnot"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 79.7
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 4.7,
+            "disposals" : 9.7,
+            "marks" : 2.7,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 5.2,
+            "totalPossessions" : 9.5,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 57.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291835",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Arnot"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 20.0,
+            "handballs" : 19.0,
+            "disposals" : 39.0,
+            "marks" : 11.0,
+            "bounces" : 0.0,
+            "tackles" : 20.0,
+            "contestedPossessions" : 17.0,
+            "uncontestedPossessions" : 21.0,
+            "totalPossessions" : 38.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 71.8,
+            "clangers" : 6.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 229.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 55.5,
+            "ranking" : 571.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291835",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Arnot"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 69.1
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 4.7,
+            "handballs" : 6.2,
+            "disposals" : 11.0,
+            "marks" : 1.5,
+            "bounces" : 0.0,
+            "tackles" : 2.7,
+            "contestedPossessions" : 6.5,
+            "uncontestedPossessions" : 5.5,
+            "totalPossessions" : 12.0,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 44.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291835",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Arnot"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 19.0,
+            "handballs" : 25.0,
+            "disposals" : 44.0,
+            "marks" : 6.0,
+            "bounces" : 0.0,
+            "tackles" : 11.0,
+            "contestedPossessions" : 26.0,
+            "uncontestedPossessions" : 22.0,
+            "totalPossessions" : 48.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 70.5,
+            "clangers" : 4.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 177.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 24.0,
+            "ranking" : 641.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291835",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Arnot"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 61.4
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291835",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Arnot"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291835",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Arnot"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 7.0,
+      "handballs" : 3.0,
+      "disposals" : 10.0,
+      "marks" : 1.0,
+      "bounces" : 0.0,
+      "tackles" : 6.0,
+      "contestedPossessions" : 6.0,
+      "uncontestedPossessions" : 4.0,
+      "totalPossessions" : 10.0,
+      "inside50s" : 2.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : 60.0,
+      "clangers" : 6.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 3.0,
+      "dreamTeamPoints" : 54.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 100.0,
+      "ratingPoints" : 37.7,
+      "ranking" : 608.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291835",
+        "playerName" : {
+          "givenName" : "Matt",
+          "surname" : "Arnot"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T120",
+        "teamAbbr" : "RICH",
+        "teamName" : "Richmond",
+        "teamNickname" : "Tigers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 37.7,
+        "ranking" : 607,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 37.7,
+        "ranking" : 34,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 37.7,
+        "ranking" : 166,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 6.3,
+        "ranking" : 630,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 9
+  }
+}

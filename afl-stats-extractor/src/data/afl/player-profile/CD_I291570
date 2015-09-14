@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291570",
+    "position" : "Centre Half Forward",
+    "surname" : "Fyfe",
+    "jumperNumber" : 7,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.9,
+      "behinds" : 0.6,
+      "superGoals" : null,
+      "kicks" : 13.0,
+      "handballs" : 11.6,
+      "disposals" : 24.6,
+      "marks" : 4.5,
+      "bounces" : 0.5,
+      "tackles" : 3.9,
+      "contestedPossessions" : 13.5,
+      "uncontestedPossessions" : 11.5,
+      "totalPossessions" : 24.9,
+      "inside50s" : 3.9,
+      "marksInside50" : 0.8,
+      "contestedMarks" : 1.4,
+      "hitouts" : 1.0,
+      "onePercenters" : 1.8,
+      "disposalEfficiency" : null,
+      "clangers" : 3.6,
+      "freesFor" : 1.0,
+      "freesAgainst" : 1.5,
+      "dreamTeamPoints" : 94.3,
+      "clearances" : {
+        "centreClearances" : 1.9,
+        "stoppageClearances" : 3.3,
+        "totalClearances" : 5.2
+      },
+      "rebound50s" : 1.2,
+      "goalAssists" : 0.6,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Nat",
+    "bio" : "<p><strong>Outlook:</strong> Now one of the absolute premier players in the competition, the reigning back-to-back Doig Medallist will be critical to Freo&rsquo;s chances this season. Watch for him to swing forward more in 2015.<br /><br /><strong>What the coach says (Brett Kirk): </strong>Nathan&rsquo;s actions always speak louder than words. On the field he leads by example, is fierce at the contest and can influence his teammates and change games. This was reflected in him being voted into the leadership group by his peers. He&rsquo;s sure to absorb this responsibility and continue working at an elite level.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Fremantle/Player Profiles/2015 - Profiles/FYFE Nat.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-09-18T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 190,
+      "weightInKg" : 85,
+      "recruitedFrom" : "Lake Grace (WA)/Claremont (WAFL)",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 95.0,
+      "behinds" : 68.0,
+      "superGoals" : null,
+      "kicks" : 1448.0,
+      "handballs" : 1284.0,
+      "disposals" : 2732.0,
+      "marks" : 495.0,
+      "bounces" : 61.0,
+      "tackles" : 428.0,
+      "contestedPossessions" : 1495.0,
+      "uncontestedPossessions" : 1274.0,
+      "totalPossessions" : 2769.0,
+      "inside50s" : 438.0,
+      "marksInside50" : 93.0,
+      "contestedMarks" : 157.0,
+      "hitouts" : 110.0,
+      "onePercenters" : 202.0,
+      "disposalEfficiency" : 64.6,
+      "clangers" : 400.0,
+      "freesFor" : 112.0,
+      "freesAgainst" : 166.0,
+      "dreamTeamPoints" : 10471.0,
+      "clearances" : {
+        "centreClearances" : 207.0,
+        "stoppageClearances" : 369.0,
+        "totalClearances" : 576.0
+      },
+      "rebound50s" : 129.0,
+      "goalAssists" : 66.0,
+      "goalAccuracy" : 46.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 14.1,
+            "handballs" : 14.9,
+            "disposals" : 29.0,
+            "marks" : 4.3,
+            "bounces" : 0.4,
+            "tackles" : 4.2,
+            "contestedPossessions" : 17.9,
+            "uncontestedPossessions" : 11.5,
+            "totalPossessions" : 29.4,
+            "inside50s" : 4.4,
+            "marksInside50" : 1.1,
+            "contestedMarks" : 1.7,
+            "hitouts" : 2.1,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 3.8,
+            "freesFor" : 1.2,
+            "freesAgainst" : 2.2,
+            "dreamTeamPoints" : 104.6,
+            "clearances" : {
+              "centreClearances" : 3.4,
+              "stoppageClearances" : 5.2,
+              "totalClearances" : 8.6
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291570",
+            "playerName" : {
+              "givenName" : "Nat",
+              "surname" : "Fyfe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 267.0,
+            "handballs" : 284.0,
+            "disposals" : 551.0,
+            "marks" : 81.0,
+            "bounces" : 7.0,
+            "tackles" : 80.0,
+            "contestedPossessions" : 340.0,
+            "uncontestedPossessions" : 219.0,
+            "totalPossessions" : 559.0,
+            "inside50s" : 84.0,
+            "marksInside50" : 20.0,
+            "contestedMarks" : 33.0,
+            "hitouts" : 39.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 69.3,
+            "clangers" : 72.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 41.0,
+            "dreamTeamPoints" : 1987.0,
+            "clearances" : {
+              "centreClearances" : 65.0,
+              "stoppageClearances" : 99.0,
+              "totalClearances" : 164.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 14.0,
+            "goalAccuracy" : 43.6,
+            "ratingPoints" : 658.9,
+            "ranking" : 1.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291570",
+            "playerName" : {
+              "givenName" : "Nat",
+              "surname" : "Fyfe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 87.4
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 13.0,
+            "handballs" : 13.9,
+            "disposals" : 26.9,
+            "marks" : 3.9,
+            "bounces" : 0.2,
+            "tackles" : 4.7,
+            "contestedPossessions" : 16.1,
+            "uncontestedPossessions" : 11.0,
+            "totalPossessions" : 27.1,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 1.2,
+            "hitouts" : 1.3,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.5,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 103.3,
+            "clearances" : {
+              "centreClearances" : 2.6,
+              "stoppageClearances" : 4.1,
+              "totalClearances" : 6.7
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291570",
+            "playerName" : {
+              "givenName" : "Nat",
+              "surname" : "Fyfe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 24.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 260.0,
+            "handballs" : 279.0,
+            "disposals" : 539.0,
+            "marks" : 79.0,
+            "bounces" : 5.0,
+            "tackles" : 94.0,
+            "contestedPossessions" : 322.0,
+            "uncontestedPossessions" : 221.0,
+            "totalPossessions" : 543.0,
+            "inside50s" : 69.0,
+            "marksInside50" : 19.0,
+            "contestedMarks" : 25.0,
+            "hitouts" : 27.0,
+            "onePercenters" : 40.0,
+            "disposalEfficiency" : 69.6,
+            "clangers" : 70.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 29.0,
+            "dreamTeamPoints" : 2066.0,
+            "clearances" : {
+              "centreClearances" : 53.0,
+              "stoppageClearances" : 82.0,
+              "totalClearances" : 135.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 58.5,
+            "ratingPoints" : 544.1,
+            "ranking" : 10.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291570",
+            "playerName" : {
+              "givenName" : "Nat",
+              "surname" : "Fyfe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 84.7
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 15.4,
+            "handballs" : 10.5,
+            "disposals" : 25.8,
+            "marks" : 4.5,
+            "bounces" : 1.0,
+            "tackles" : 3.4,
+            "contestedPossessions" : 13.9,
+            "uncontestedPossessions" : 12.5,
+            "totalPossessions" : 26.4,
+            "inside50s" : 4.2,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 1.1,
+            "hitouts" : 1.5,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 4.2,
+            "freesFor" : 1.1,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 97.4,
+            "clearances" : {
+              "centreClearances" : 2.4,
+              "stoppageClearances" : 3.5,
+              "totalClearances" : 5.8
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291570",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Fyfe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 18.0,
+            "behinds" : 13.0,
+            "superGoals" : null,
+            "kicks" : 338.0,
+            "handballs" : 230.0,
+            "disposals" : 568.0,
+            "marks" : 98.0,
+            "bounces" : 21.0,
+            "tackles" : 74.0,
+            "contestedPossessions" : 305.0,
+            "uncontestedPossessions" : 276.0,
+            "totalPossessions" : 581.0,
+            "inside50s" : 93.0,
+            "marksInside50" : 18.0,
+            "contestedMarks" : 25.0,
+            "hitouts" : 32.0,
+            "onePercenters" : 29.0,
+            "disposalEfficiency" : 63.6,
+            "clangers" : 92.0,
+            "freesFor" : 25.0,
+            "freesAgainst" : 33.0,
+            "dreamTeamPoints" : 2143.0,
+            "clearances" : {
+              "centreClearances" : 52.0,
+              "stoppageClearances" : 76.0,
+              "totalClearances" : 128.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 43.9,
+            "ratingPoints" : 415.8,
+            "ranking" : 75.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291570",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Fyfe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 83.5
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 14.3,
+            "handballs" : 9.1,
+            "disposals" : 23.4,
+            "marks" : 4.0,
+            "bounces" : 0.1,
+            "tackles" : 3.7,
+            "contestedPossessions" : 12.5,
+            "uncontestedPossessions" : 11.8,
+            "totalPossessions" : 24.3,
+            "inside50s" : 4.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 5.0,
+            "freesFor" : 1.3,
+            "freesAgainst" : 1.9,
+            "dreamTeamPoints" : 85.9,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 2.5,
+              "totalClearances" : 3.9
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291570",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Fyfe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 157.0,
+            "handballs" : 100.0,
+            "disposals" : 257.0,
+            "marks" : 44.0,
+            "bounces" : 1.0,
+            "tackles" : 41.0,
+            "contestedPossessions" : 137.0,
+            "uncontestedPossessions" : 130.0,
+            "totalPossessions" : 267.0,
+            "inside50s" : 49.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 56.4,
+            "clangers" : 55.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 945.0,
+            "clearances" : {
+              "centreClearances" : 15.0,
+              "stoppageClearances" : 28.0,
+              "totalClearances" : 43.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291570",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Fyfe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 77.5
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 12.0,
+            "handballs" : 13.0,
+            "disposals" : 25.1,
+            "marks" : 5.3,
+            "bounces" : 1.1,
+            "tackles" : 4.0,
+            "contestedPossessions" : 12.8,
+            "uncontestedPossessions" : 12.7,
+            "totalPossessions" : 25.5,
+            "inside50s" : 3.8,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.5,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 3.3,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 98.2,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 2.8,
+              "totalClearances" : 3.6
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291570",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Fyfe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 18.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 253.0,
+            "handballs" : 274.0,
+            "disposals" : 527.0,
+            "marks" : 111.0,
+            "bounces" : 23.0,
+            "tackles" : 85.0,
+            "contestedPossessions" : 268.0,
+            "uncontestedPossessions" : 267.0,
+            "totalPossessions" : 535.0,
+            "inside50s" : 79.0,
+            "marksInside50" : 21.0,
+            "contestedMarks" : 43.0,
+            "hitouts" : 11.0,
+            "onePercenters" : 51.0,
+            "disposalEfficiency" : 61.5,
+            "clangers" : 70.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 2063.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 58.0,
+              "totalClearances" : 75.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 14.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291570",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Fyfe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 88.4
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 9.6,
+            "handballs" : 6.5,
+            "disposals" : 16.1,
+            "marks" : 4.6,
+            "bounces" : 0.2,
+            "tackles" : 3.0,
+            "contestedPossessions" : 7.2,
+            "uncontestedPossessions" : 8.9,
+            "totalPossessions" : 16.1,
+            "inside50s" : 3.6,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 1.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 70.4,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291570",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Fyfe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 173.0,
+            "handballs" : 117.0,
+            "disposals" : 290.0,
+            "marks" : 82.0,
+            "bounces" : 4.0,
+            "tackles" : 54.0,
+            "contestedPossessions" : 129.0,
+            "uncontestedPossessions" : 161.0,
+            "totalPossessions" : 290.0,
+            "inside50s" : 64.0,
+            "marksInside50" : 14.0,
+            "contestedMarks" : 20.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 32.0,
+            "disposalEfficiency" : 60.7,
+            "clangers" : 41.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 1267.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 26.0,
+              "totalClearances" : 31.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 43.7,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291570",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Fyfe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 77.2
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 17.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 267.0,
+      "handballs" : 284.0,
+      "disposals" : 551.0,
+      "marks" : 81.0,
+      "bounces" : 7.0,
+      "tackles" : 80.0,
+      "contestedPossessions" : 340.0,
+      "uncontestedPossessions" : 219.0,
+      "totalPossessions" : 559.0,
+      "inside50s" : 84.0,
+      "marksInside50" : 20.0,
+      "contestedMarks" : 33.0,
+      "hitouts" : 39.0,
+      "onePercenters" : 30.0,
+      "disposalEfficiency" : 69.3,
+      "clangers" : 72.0,
+      "freesFor" : 23.0,
+      "freesAgainst" : 41.0,
+      "dreamTeamPoints" : 1987.0,
+      "clearances" : {
+        "centreClearances" : 65.0,
+        "stoppageClearances" : 99.0,
+        "totalClearances" : 164.0
+      },
+      "rebound50s" : 23.0,
+      "goalAssists" : 14.0,
+      "goalAccuracy" : 43.6,
+      "ratingPoints" : 658.9,
+      "ranking" : 1.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291570",
+        "playerName" : {
+          "givenName" : "Nat",
+          "surname" : "Fyfe"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T60",
+        "teamAbbr" : "FRE",
+        "teamName" : "Fremantle",
+        "teamNickname" : "Dockers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 655.7,
+        "ranking" : 1,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 655.7,
+        "ranking" : 1,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 655.7,
+        "ranking" : 1,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 12.7,
+        "ranking" : 41,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 363.0,
+        "ranking" : 5,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 111
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I296205",
+    "position" : "Right Wing",
+    "surname" : "Steele",
+    "jumperNumber" : 38,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 4.3,
+      "handballs" : 9.9,
+      "disposals" : 14.1,
+      "marks" : 2.3,
+      "bounces" : 0.0,
+      "tackles" : 5.7,
+      "contestedPossessions" : 7.4,
+      "uncontestedPossessions" : 6.6,
+      "totalPossessions" : 14.0,
+      "inside50s" : 1.6,
+      "marksInside50" : 0.4,
+      "contestedMarks" : 0.6,
+      "hitouts" : 1.6,
+      "onePercenters" : 0.4,
+      "disposalEfficiency" : null,
+      "clangers" : 1.1,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.4,
+      "dreamTeamPoints" : 64.4,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 2.3,
+        "totalClearances" : 2.4
+      },
+      "rebound50s" : 0.3,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jack",
+    "bio" : "<p>A strong onballer who can also play forward, he has excellent poise and balance and is an effective lead-up player, winning All-Australian honours as NSW/ACT's MVP in the NAB AFL Under-18 Championships. Finished equal seventh in the 3-km time trial in 10:11, recorded an equal-sixth best 15.1 in the beep test and scored 26/30 in the kicking test.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2015 - Profiles/STEELE Jack.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1995-12-13T01:00:00.000+0000",
+      "draftYear" : "2014",
+      "heightInCm" : 187,
+      "weightInKg" : 86,
+      "recruitedFrom" : null,
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 1.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 30.0,
+      "handballs" : 69.0,
+      "disposals" : 99.0,
+      "marks" : 16.0,
+      "bounces" : 0.0,
+      "tackles" : 40.0,
+      "contestedPossessions" : 52.0,
+      "uncontestedPossessions" : 46.0,
+      "totalPossessions" : 98.0,
+      "inside50s" : 11.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 11.0,
+      "onePercenters" : 3.0,
+      "disposalEfficiency" : 73.7,
+      "clangers" : 8.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 3.0,
+      "dreamTeamPoints" : 451.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 17.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 4.3,
+            "handballs" : 9.9,
+            "disposals" : 14.1,
+            "marks" : 2.3,
+            "bounces" : 0.0,
+            "tackles" : 5.7,
+            "contestedPossessions" : 7.4,
+            "uncontestedPossessions" : 6.6,
+            "totalPossessions" : 14.0,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.6,
+            "hitouts" : 1.6,
+            "onePercenters" : 0.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 64.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 2.3,
+              "totalClearances" : 2.4
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296205",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Steele"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 30.0,
+            "handballs" : 69.0,
+            "disposals" : 99.0,
+            "marks" : 16.0,
+            "bounces" : 0.0,
+            "tackles" : 40.0,
+            "contestedPossessions" : 52.0,
+            "uncontestedPossessions" : 46.0,
+            "totalPossessions" : 98.0,
+            "inside50s" : 11.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 11.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 73.7,
+            "clangers" : 8.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 451.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 16.0,
+              "totalClearances" : 17.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 48.8,
+            "ranking" : 573.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296205",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Steele"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 70.7
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 30.0,
+      "handballs" : 69.0,
+      "disposals" : 99.0,
+      "marks" : 16.0,
+      "bounces" : 0.0,
+      "tackles" : 40.0,
+      "contestedPossessions" : 52.0,
+      "uncontestedPossessions" : 46.0,
+      "totalPossessions" : 98.0,
+      "inside50s" : 11.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 11.0,
+      "onePercenters" : 3.0,
+      "disposalEfficiency" : 73.7,
+      "clangers" : 8.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 3.0,
+      "dreamTeamPoints" : 451.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 17.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : 48.8,
+      "ranking" : 573.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I296205",
+        "playerName" : {
+          "givenName" : "Jack",
+          "surname" : "Steele"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 48.8,
+        "ranking" : 579,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 48.8,
+        "ranking" : 36,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 48.8,
+        "ranking" : 51,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 48.8,
+        "ranking" : 481,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2014"
+    },
+    "careerGamesPlayed" : 7
+  }
+}

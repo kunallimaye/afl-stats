@@ -1,0 +1,1516 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I230231",
+    "position" : "Left Forward Pocket",
+    "surname" : "Watson",
+    "jumperNumber" : 4,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 11.1,
+      "handballs" : 13.5,
+      "disposals" : 24.7,
+      "marks" : 4.0,
+      "bounces" : 0.6,
+      "tackles" : 3.8,
+      "contestedPossessions" : 11.2,
+      "uncontestedPossessions" : 13.6,
+      "totalPossessions" : 24.8,
+      "inside50s" : 3.0,
+      "marksInside50" : 0.4,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.2,
+      "onePercenters" : 1.3,
+      "disposalEfficiency" : null,
+      "clangers" : 2.3,
+      "freesFor" : 1.0,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 90.6,
+      "clearances" : {
+        "centreClearances" : 2.5,
+        "stoppageClearances" : 2.7,
+        "totalClearances" : 5.2
+      },
+      "rebound50s" : 1.4,
+      "goalAssists" : 0.6,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jobe",
+    "bio" : "<p>In the first major injury of his career, Watson missed 10 weeks with a rare hip injury that required surgery. He returned to play the final four games, including a 30-disposal effort in his first game back from the long layoff. The Bombers skipper continues to be an enourmous part of the club's midfield and the reliance on him is strong at the clearances. His leadership during Essendon's turbulent two seasons has been admirable.&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Essendon/Player Profiles/2015 - Profiles/WATSON Jobe.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1985-02-08T01:00:00.000+0000",
+      "draftYear" : "2002",
+      "heightInCm" : 190,
+      "weightInKg" : 94,
+      "recruitedFrom" : "Xavier College/Sandringham U18",
+      "debutYear" : "2003"
+    },
+    "careerStats" : {
+      "goals" : 111.0,
+      "behinds" : 78.0,
+      "superGoals" : null,
+      "kicks" : 2228.0,
+      "handballs" : 2706.0,
+      "disposals" : 4934.0,
+      "marks" : 803.0,
+      "bounces" : 123.0,
+      "tackles" : 765.0,
+      "contestedPossessions" : 2236.0,
+      "uncontestedPossessions" : 2725.0,
+      "totalPossessions" : 4961.0,
+      "inside50s" : 602.0,
+      "marksInside50" : 84.0,
+      "contestedMarks" : 45.0,
+      "hitouts" : 39.0,
+      "onePercenters" : 262.0,
+      "disposalEfficiency" : 72.4,
+      "clangers" : 454.0,
+      "freesFor" : 203.0,
+      "freesAgainst" : 141.0,
+      "dreamTeamPoints" : 18128.0,
+      "clearances" : {
+        "centreClearances" : 492.0,
+        "stoppageClearances" : 549.0,
+        "totalClearances" : 1041.0
+      },
+      "rebound50s" : 275.0,
+      "goalAssists" : 119.0,
+      "goalAccuracy" : 47.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 10.3,
+            "handballs" : 13.6,
+            "disposals" : 23.9,
+            "marks" : 3.7,
+            "bounces" : 0.2,
+            "tackles" : 4.4,
+            "contestedPossessions" : 9.9,
+            "uncontestedPossessions" : 14.8,
+            "totalPossessions" : 24.7,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.2,
+            "hitouts" : 2.1,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 88.8,
+            "clearances" : {
+              "centreClearances" : 1.6,
+              "stoppageClearances" : 3.2,
+              "totalClearances" : 4.7
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 124.0,
+            "handballs" : 163.0,
+            "disposals" : 287.0,
+            "marks" : 45.0,
+            "bounces" : 2.0,
+            "tackles" : 53.0,
+            "contestedPossessions" : 119.0,
+            "uncontestedPossessions" : 178.0,
+            "totalPossessions" : 297.0,
+            "inside50s" : 41.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 25.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 74.2,
+            "clangers" : 33.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1066.0,
+            "clearances" : {
+              "centreClearances" : 19.0,
+              "stoppageClearances" : 38.0,
+              "totalClearances" : 57.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 412.6,
+            "ranking" : 86.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 83.4
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 12.3,
+            "handballs" : 15.1,
+            "disposals" : 27.4,
+            "marks" : 4.7,
+            "bounces" : 0.4,
+            "tackles" : 4.7,
+            "contestedPossessions" : 11.1,
+            "uncontestedPossessions" : 16.3,
+            "totalPossessions" : 27.5,
+            "inside50s" : 3.3,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 103.2,
+            "clearances" : {
+              "centreClearances" : 2.9,
+              "stoppageClearances" : 2.9,
+              "totalClearances" : 5.8
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 185.0,
+            "handballs" : 226.0,
+            "disposals" : 411.0,
+            "marks" : 70.0,
+            "bounces" : 6.0,
+            "tackles" : 70.0,
+            "contestedPossessions" : 167.0,
+            "uncontestedPossessions" : 245.0,
+            "totalPossessions" : 412.0,
+            "inside50s" : 49.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 76.4,
+            "clangers" : 35.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1548.0,
+            "clearances" : {
+              "centreClearances" : 43.0,
+              "stoppageClearances" : 44.0,
+              "totalClearances" : 87.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 516.5,
+            "ranking" : 17.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 82.7
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 13.6,
+            "handballs" : 13.9,
+            "disposals" : 27.5,
+            "marks" : 3.9,
+            "bounces" : 0.7,
+            "tackles" : 3.2,
+            "contestedPossessions" : 12.3,
+            "uncontestedPossessions" : 14.9,
+            "totalPossessions" : 27.2,
+            "inside50s" : 3.5,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 98.7,
+            "clearances" : {
+              "centreClearances" : 2.6,
+              "stoppageClearances" : 2.5,
+              "totalClearances" : 5.1
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 16.0,
+            "behinds" : 18.0,
+            "superGoals" : null,
+            "kicks" : 259.0,
+            "handballs" : 264.0,
+            "disposals" : 523.0,
+            "marks" : 74.0,
+            "bounces" : 14.0,
+            "tackles" : 61.0,
+            "contestedPossessions" : 234.0,
+            "uncontestedPossessions" : 283.0,
+            "totalPossessions" : 517.0,
+            "inside50s" : 67.0,
+            "marksInside50" : 15.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 67.7,
+            "clangers" : 43.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 1876.0,
+            "clearances" : {
+              "centreClearances" : 49.0,
+              "stoppageClearances" : 48.0,
+              "totalClearances" : 97.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 18.0,
+            "goalAccuracy" : 37.2,
+            "ratingPoints" : 602.0,
+            "ranking" : 5.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 81.4
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 15.6,
+            "handballs" : 13.4,
+            "disposals" : 29.0,
+            "marks" : 4.8,
+            "bounces" : 0.9,
+            "tackles" : 4.8,
+            "contestedPossessions" : 14.4,
+            "uncontestedPossessions" : 15.3,
+            "totalPossessions" : 29.6,
+            "inside50s" : 4.3,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 1.9,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 112.5,
+            "clearances" : {
+              "centreClearances" : 2.8,
+              "stoppageClearances" : 4.2,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 20.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 343.0,
+            "handballs" : 295.0,
+            "disposals" : 638.0,
+            "marks" : 106.0,
+            "bounces" : 19.0,
+            "tackles" : 105.0,
+            "contestedPossessions" : 316.0,
+            "uncontestedPossessions" : 336.0,
+            "totalPossessions" : 652.0,
+            "inside50s" : 94.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 29.0,
+            "disposalEfficiency" : 69.3,
+            "clangers" : 60.0,
+            "freesFor" : 41.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 2474.0,
+            "clearances" : {
+              "centreClearances" : 62.0,
+              "stoppageClearances" : 92.0,
+              "totalClearances" : 154.0
+            },
+            "rebound50s" : 42.0,
+            "goalAssists" : 23.0,
+            "goalAccuracy" : 54.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 83.8
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 13.9,
+            "handballs" : 12.2,
+            "disposals" : 26.2,
+            "marks" : 4.1,
+            "bounces" : 0.2,
+            "tackles" : 3.8,
+            "contestedPossessions" : 13.5,
+            "uncontestedPossessions" : 13.5,
+            "totalPossessions" : 26.9,
+            "inside50s" : 3.6,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.8,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 97.8,
+            "clearances" : {
+              "centreClearances" : 2.9,
+              "stoppageClearances" : 3.8,
+              "totalClearances" : 6.6
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 237.0,
+            "handballs" : 208.0,
+            "disposals" : 445.0,
+            "marks" : 69.0,
+            "bounces" : 4.0,
+            "tackles" : 65.0,
+            "contestedPossessions" : 229.0,
+            "uncontestedPossessions" : 229.0,
+            "totalPossessions" : 458.0,
+            "inside50s" : 62.0,
+            "marksInside50" : 15.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 33.0,
+            "disposalEfficiency" : 65.4,
+            "clangers" : 48.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1663.0,
+            "clearances" : {
+              "centreClearances" : 49.0,
+              "stoppageClearances" : 64.0,
+              "totalClearances" : 113.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 48.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 77.1
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 17.3,
+            "disposals" : 27.2,
+            "marks" : 3.7,
+            "bounces" : 0.8,
+            "tackles" : 4.3,
+            "contestedPossessions" : 13.1,
+            "uncontestedPossessions" : 14.2,
+            "totalPossessions" : 27.3,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 94.9,
+            "clearances" : {
+              "centreClearances" : 2.9,
+              "stoppageClearances" : 2.8,
+              "totalClearances" : 5.7
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 209.0,
+            "handballs" : 363.0,
+            "disposals" : 572.0,
+            "marks" : 77.0,
+            "bounces" : 17.0,
+            "tackles" : 91.0,
+            "contestedPossessions" : 276.0,
+            "uncontestedPossessions" : 298.0,
+            "totalPossessions" : 574.0,
+            "inside50s" : 49.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 32.0,
+            "disposalEfficiency" : 71.3,
+            "clangers" : 46.0,
+            "freesFor" : 31.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1993.0,
+            "clearances" : {
+              "centreClearances" : 61.0,
+              "stoppageClearances" : 58.0,
+              "totalClearances" : 119.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 52.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 78.7
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 14.6,
+            "disposals" : 24.7,
+            "marks" : 3.3,
+            "bounces" : 0.5,
+            "tackles" : 4.5,
+            "contestedPossessions" : 10.8,
+            "uncontestedPossessions" : 14.0,
+            "totalPossessions" : 24.8,
+            "inside50s" : 3.3,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 89.3,
+            "clearances" : {
+              "centreClearances" : 2.2,
+              "stoppageClearances" : 2.3,
+              "totalClearances" : 4.5
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 221.0,
+            "handballs" : 322.0,
+            "disposals" : 543.0,
+            "marks" : 73.0,
+            "bounces" : 11.0,
+            "tackles" : 98.0,
+            "contestedPossessions" : 238.0,
+            "uncontestedPossessions" : 308.0,
+            "totalPossessions" : 546.0,
+            "inside50s" : 73.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 72.2,
+            "clangers" : 44.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1965.0,
+            "clearances" : {
+              "centreClearances" : 49.0,
+              "stoppageClearances" : 51.0,
+              "totalClearances" : 100.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 41.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 77.2
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 10.2,
+            "handballs" : 13.9,
+            "disposals" : 24.2,
+            "marks" : 2.8,
+            "bounces" : 0.4,
+            "tackles" : 3.6,
+            "contestedPossessions" : 11.3,
+            "uncontestedPossessions" : 12.9,
+            "totalPossessions" : 24.2,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.8,
+            "freesFor" : 1.3,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 81.2,
+            "clearances" : {
+              "centreClearances" : 3.2,
+              "stoppageClearances" : 2.1,
+              "totalClearances" : 5.2
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 194.0,
+            "handballs" : 265.0,
+            "disposals" : 459.0,
+            "marks" : 53.0,
+            "bounces" : 7.0,
+            "tackles" : 68.0,
+            "contestedPossessions" : 214.0,
+            "uncontestedPossessions" : 245.0,
+            "totalPossessions" : 459.0,
+            "inside50s" : 54.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 72.1,
+            "clangers" : 53.0,
+            "freesFor" : 25.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1543.0,
+            "clearances" : {
+              "centreClearances" : 60.0,
+              "stoppageClearances" : 39.0,
+              "totalClearances" : 99.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 30.8,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 77.9
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 10.2,
+            "handballs" : 13.1,
+            "disposals" : 23.3,
+            "marks" : 4.5,
+            "bounces" : 1.4,
+            "tackles" : 3.3,
+            "contestedPossessions" : 9.3,
+            "uncontestedPossessions" : 13.6,
+            "totalPossessions" : 22.9,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 84.3,
+            "clearances" : {
+              "centreClearances" : 2.7,
+              "stoppageClearances" : 2.4,
+              "totalClearances" : 5.2
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 193.0,
+            "handballs" : 249.0,
+            "disposals" : 442.0,
+            "marks" : 85.0,
+            "bounces" : 26.0,
+            "tackles" : 62.0,
+            "contestedPossessions" : 177.0,
+            "uncontestedPossessions" : 258.0,
+            "totalPossessions" : 435.0,
+            "inside50s" : 47.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 78.7,
+            "clangers" : 36.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1602.0,
+            "clearances" : {
+              "centreClearances" : 52.0,
+              "stoppageClearances" : 46.0,
+              "totalClearances" : 98.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 46.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 67.7
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 9.7,
+            "handballs" : 13.1,
+            "disposals" : 22.8,
+            "marks" : 5.4,
+            "bounces" : 0.7,
+            "tackles" : 3.3,
+            "contestedPossessions" : 10.1,
+            "uncontestedPossessions" : 12.9,
+            "totalPossessions" : 23.0,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 86.7,
+            "clearances" : {
+              "centreClearances" : 2.2,
+              "stoppageClearances" : 2.7,
+              "totalClearances" : 4.9
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 203.0,
+            "handballs" : 276.0,
+            "disposals" : 479.0,
+            "marks" : 114.0,
+            "bounces" : 14.0,
+            "tackles" : 69.0,
+            "contestedPossessions" : 212.0,
+            "uncontestedPossessions" : 271.0,
+            "totalPossessions" : 483.0,
+            "inside50s" : 45.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 79.1,
+            "clangers" : 38.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 1820.0,
+            "clearances" : {
+              "centreClearances" : 46.0,
+              "stoppageClearances" : 56.0,
+              "totalClearances" : 102.0
+            },
+            "rebound50s" : 38.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 35.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 75.5
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.6,
+            "handballs" : 6.4,
+            "disposals" : 11.0,
+            "marks" : 2.8,
+            "bounces" : 0.2,
+            "tackles" : 1.0,
+            "contestedPossessions" : 4.4,
+            "uncontestedPossessions" : 6.2,
+            "totalPossessions" : 10.6,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 41.2,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 23.0,
+            "handballs" : 32.0,
+            "disposals" : 55.0,
+            "marks" : 14.0,
+            "bounces" : 1.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 22.0,
+            "uncontestedPossessions" : 31.0,
+            "totalPossessions" : 53.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 74.5,
+            "clangers" : 8.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 206.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 57.8
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 5.3,
+            "handballs" : 6.0,
+            "disposals" : 11.3,
+            "marks" : 3.3,
+            "bounces" : 0.3,
+            "tackles" : 2.3,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 11.0,
+            "inside50s" : 1.7,
+            "marksInside50" : 1.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 51.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 37.0,
+            "handballs" : 42.0,
+            "disposals" : 79.0,
+            "marks" : 23.0,
+            "bounces" : 2.0,
+            "tackles" : 16.0,
+            "contestedPossessions" : 35.0,
+            "uncontestedPossessions" : 42.0,
+            "totalPossessions" : 77.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 73.4,
+            "clangers" : 10.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 362.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 65.0
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 2.0,
+            "disposals" : 2.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 1.0,
+            "totalPossessions" : 2.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 12.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 2.0,
+            "disposals" : 2.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 1.0,
+            "totalPossessions" : 2.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 50.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 12.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230231",
+            "playerName" : {
+              "givenName" : "Jobe",
+              "surname" : "Watson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 40.7
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 6.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 124.0,
+      "handballs" : 163.0,
+      "disposals" : 287.0,
+      "marks" : 45.0,
+      "bounces" : 2.0,
+      "tackles" : 53.0,
+      "contestedPossessions" : 119.0,
+      "uncontestedPossessions" : 178.0,
+      "totalPossessions" : 297.0,
+      "inside50s" : 41.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 25.0,
+      "onePercenters" : 18.0,
+      "disposalEfficiency" : 74.2,
+      "clangers" : 33.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1066.0,
+      "clearances" : {
+        "centreClearances" : 19.0,
+        "stoppageClearances" : 38.0,
+        "totalClearances" : 57.0
+      },
+      "rebound50s" : 9.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 412.6,
+      "ranking" : 86.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I230231",
+        "playerName" : {
+          "givenName" : "Jobe",
+          "surname" : "Watson"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T50",
+        "teamAbbr" : "ESS",
+        "teamName" : "Essendon",
+        "teamNickname" : "Bombers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 400.6,
+        "ranking" : 92,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 400.6,
+        "ranking" : 4,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 400.6,
+        "ranking" : 52,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 153.9,
+        "ranking" : 241,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2002"
+    },
+    "careerGamesPlayed" : 200
+  }
+}

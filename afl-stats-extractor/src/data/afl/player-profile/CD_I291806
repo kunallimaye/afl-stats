@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291806",
+    "position" : "Right Wing",
+    "surname" : "Kerridge",
+    "jumperNumber" : 17,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.9,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 5.8,
+      "handballs" : 6.4,
+      "disposals" : 12.1,
+      "marks" : 3.3,
+      "bounces" : 0.2,
+      "tackles" : 3.1,
+      "contestedPossessions" : 4.2,
+      "uncontestedPossessions" : 7.9,
+      "totalPossessions" : 12.1,
+      "inside50s" : 1.6,
+      "marksInside50" : 0.6,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.7,
+      "disposalEfficiency" : null,
+      "clangers" : 1.8,
+      "freesFor" : 0.1,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 55.6,
+      "clearances" : {
+        "centreClearances" : 0.4,
+        "stoppageClearances" : 1.1,
+        "totalClearances" : 1.5
+      },
+      "rebound50s" : 0.8,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Sam",
+    "bio" : "<p>Kerridge played a personal-best 14 games in 2014 and would’ve added to his tally if not for a foot injury, which saw him miss nearly two months mid-season. The hard-running onballer assumed the tagging duties in the absence of Nathan van Berlo and continued to prove a handy forward. He kicked 10 goals including a match-defining bag of four against North Melbourne in Round 13.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/AdelaideCrows/Player Profiles/2015 - Profiles/KERRIDGE Sam.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-04-26T02:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 188,
+      "weightInKg" : 85,
+      "recruitedFrom" : "Mildura (Vic)/Bendigo U18",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 23.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 156.0,
+      "handballs" : 172.0,
+      "disposals" : 328.0,
+      "marks" : 88.0,
+      "bounces" : 5.0,
+      "tackles" : 84.0,
+      "contestedPossessions" : 114.0,
+      "uncontestedPossessions" : 213.0,
+      "totalPossessions" : 327.0,
+      "inside50s" : 43.0,
+      "marksInside50" : 17.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 19.0,
+      "disposalEfficiency" : 75.6,
+      "clangers" : 48.0,
+      "freesFor" : 4.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1500.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 29.0,
+        "totalClearances" : 41.0
+      },
+      "rebound50s" : 22.0,
+      "goalAssists" : 10.0,
+      "goalAccuracy" : 69.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.0,
+            "handballs" : 6.0,
+            "disposals" : 8.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 9.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 19.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291806",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Kerridge"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.0,
+            "handballs" : 6.0,
+            "disposals" : 8.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 9.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 62.5,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 19.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 108.5,
+            "ranking" : 491.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291806",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Kerridge"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 42.1
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.1,
+            "handballs" : 6.0,
+            "disposals" : 11.1,
+            "marks" : 2.4,
+            "bounces" : 0.3,
+            "tackles" : 3.7,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 6.9,
+            "totalPossessions" : 10.8,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.2,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 50.9,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.9
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291806",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Kerridge"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 72.0,
+            "handballs" : 84.0,
+            "disposals" : 156.0,
+            "marks" : 33.0,
+            "bounces" : 4.0,
+            "tackles" : 52.0,
+            "contestedPossessions" : 54.0,
+            "uncontestedPossessions" : 97.0,
+            "totalPossessions" : 151.0,
+            "inside50s" : 23.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 78.2,
+            "clangers" : 25.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 713.0,
+            "clearances" : {
+              "centreClearances" : 11.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 26.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 71.4,
+            "ratingPoints" : 186.2,
+            "ranking" : 372.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291806",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Kerridge"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 83.8
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 7.2,
+            "disposals" : 14.6,
+            "marks" : 5.0,
+            "bounces" : 0.1,
+            "tackles" : 2.8,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 14.9,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.1,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 69.3,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291806",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Kerridge"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 82.0,
+            "handballs" : 79.0,
+            "disposals" : 161.0,
+            "marks" : 55.0,
+            "bounces" : 1.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 54.0,
+            "uncontestedPossessions" : 110.0,
+            "totalPossessions" : 164.0,
+            "inside50s" : 20.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 73.3,
+            "clangers" : 19.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 762.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 68.4,
+            "ratingPoints" : 95.3,
+            "ranking" : 503.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291806",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Kerridge"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 79.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 3.0,
+            "disposals" : 3.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 1.0,
+            "totalPossessions" : 3.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 6.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291806",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Kerridge"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 3.0,
+            "disposals" : 3.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 1.0,
+            "totalPossessions" : 3.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 100.0,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 6.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291806",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Kerridge"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 32.3
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 2.0,
+      "handballs" : 6.0,
+      "disposals" : 8.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 1.0,
+      "contestedPossessions" : 4.0,
+      "uncontestedPossessions" : 5.0,
+      "totalPossessions" : 9.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : 62.5,
+      "clangers" : 3.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 19.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 108.5,
+      "ranking" : 491.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291806",
+        "playerName" : {
+          "givenName" : "Sam",
+          "surname" : "Kerridge"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T10",
+        "teamAbbr" : "ADEL",
+        "teamName" : "Adelaide Crows",
+        "teamNickname" : "Crows"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 108.5,
+        "ranking" : 492,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 108.5,
+        "ranking" : 28,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 108.5,
+        "ranking" : 42,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 3.0,
+        "ranking" : 655,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 27
+  }
+}

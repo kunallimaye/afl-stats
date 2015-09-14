@@ -1,0 +1,1207 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I240406",
+    "position" : "Centre Half Forward",
+    "surname" : "Kennedy",
+    "jumperNumber" : 17,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 2.2,
+      "behinds" : 1.3,
+      "superGoals" : null,
+      "kicks" : 8.4,
+      "handballs" : 3.0,
+      "disposals" : 11.3,
+      "marks" : 5.9,
+      "bounces" : 0.1,
+      "tackles" : 2.4,
+      "contestedPossessions" : 5.1,
+      "uncontestedPossessions" : 6.2,
+      "totalPossessions" : 11.4,
+      "inside50s" : 2.4,
+      "marksInside50" : 2.4,
+      "contestedMarks" : 1.4,
+      "hitouts" : 0.3,
+      "onePercenters" : 1.2,
+      "disposalEfficiency" : null,
+      "clangers" : 2.1,
+      "freesFor" : 1.1,
+      "freesAgainst" : 1.1,
+      "dreamTeamPoints" : 71.4,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.1,
+        "totalClearances" : 0.2
+      },
+      "rebound50s" : 0.1,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Josh",
+    "bio" : "<p>Had another outstanding year up forward, kicking 61 goals after bagging 60 the previous season. He booted a career-high 11 against Greater Western Sydney and netted bags of seven and eight against Gold Coast. The 27-year-old smoothed out his trademark stutter approach for goal and remains one of the most accurate set-shot kicks in the competition. &nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WestCoastEagles/Player Profiles/2015 - Profiles/KENNEDY Josh.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1987-08-25T02:00:00.000+0000",
+      "draftYear" : "2005",
+      "heightInCm" : 196,
+      "weightInKg" : 101,
+      "recruitedFrom" : "East Fremantle (WA)/Carlton",
+      "debutYear" : "2006"
+    },
+    "careerStats" : {
+      "goals" : 366.0,
+      "behinds" : 209.0,
+      "superGoals" : null,
+      "kicks" : 1366.0,
+      "handballs" : 481.0,
+      "disposals" : 1847.0,
+      "marks" : 963.0,
+      "bounces" : 13.0,
+      "tackles" : 394.0,
+      "contestedPossessions" : 839.0,
+      "uncontestedPossessions" : 1013.0,
+      "totalPossessions" : 1852.0,
+      "inside50s" : 389.0,
+      "marksInside50" : 387.0,
+      "contestedMarks" : 223.0,
+      "hitouts" : 46.0,
+      "onePercenters" : 188.0,
+      "disposalEfficiency" : 66.3,
+      "clangers" : 341.0,
+      "freesFor" : 172.0,
+      "freesAgainst" : 172.0,
+      "dreamTeamPoints" : 11632.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 11.0,
+      "goalAssists" : 89.0,
+      "goalAccuracy" : 56.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 3.4,
+            "behinds" : 2.3,
+            "superGoals" : null,
+            "kicks" : 9.5,
+            "handballs" : 3.7,
+            "disposals" : 13.2,
+            "marks" : 6.7,
+            "bounces" : 0.1,
+            "tackles" : 2.0,
+            "contestedPossessions" : 6.1,
+            "uncontestedPossessions" : 7.3,
+            "totalPossessions" : 13.4,
+            "inside50s" : 2.4,
+            "marksInside50" : 4.1,
+            "contestedMarks" : 1.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 85.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh J.",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 78.0,
+            "behinds" : 52.0,
+            "superGoals" : null,
+            "kicks" : 218.0,
+            "handballs" : 86.0,
+            "disposals" : 304.0,
+            "marks" : 153.0,
+            "bounces" : 2.0,
+            "tackles" : 47.0,
+            "contestedPossessions" : 140.0,
+            "uncontestedPossessions" : 168.0,
+            "totalPossessions" : 308.0,
+            "inside50s" : 55.0,
+            "marksInside50" : 94.0,
+            "contestedMarks" : 35.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 62.8,
+            "clangers" : 42.0,
+            "freesFor" : 22.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1955.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 17.0,
+            "goalAccuracy" : 56.1,
+            "ratingPoints" : 443.4,
+            "ranking" : 58.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh J.",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 96.8
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.6,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 2.5,
+            "disposals" : 11.3,
+            "marks" : 5.7,
+            "bounces" : 0.0,
+            "tackles" : 3.1,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 6.5,
+            "totalPossessions" : 11.0,
+            "inside50s" : 1.6,
+            "marksInside50" : 2.8,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 1.1,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 78.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 61.0,
+            "behinds" : 33.0,
+            "superGoals" : null,
+            "kicks" : 175.0,
+            "handballs" : 51.0,
+            "disposals" : 226.0,
+            "marks" : 114.0,
+            "bounces" : 1.0,
+            "tackles" : 62.0,
+            "contestedPossessions" : 90.0,
+            "uncontestedPossessions" : 131.0,
+            "totalPossessions" : 221.0,
+            "inside50s" : 33.0,
+            "marksInside50" : 56.0,
+            "contestedMarks" : 17.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 66.8,
+            "clangers" : 46.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 26.0,
+            "dreamTeamPoints" : 1561.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 59.2,
+            "ratingPoints" : 437.3,
+            "ranking" : 66.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 91.7
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.9,
+            "behinds" : 1.1,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 3.0,
+            "disposals" : 13.0,
+            "marks" : 6.8,
+            "bounces" : 0.0,
+            "tackles" : 3.3,
+            "contestedPossessions" : 6.5,
+            "uncontestedPossessions" : 6.5,
+            "totalPossessions" : 13.0,
+            "inside50s" : 2.9,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 1.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 1.2,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 86.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 60.0,
+            "behinds" : 23.0,
+            "superGoals" : null,
+            "kicks" : 210.0,
+            "handballs" : 63.0,
+            "disposals" : 273.0,
+            "marks" : 143.0,
+            "bounces" : 1.0,
+            "tackles" : 69.0,
+            "contestedPossessions" : 137.0,
+            "uncontestedPossessions" : 137.0,
+            "totalPossessions" : 274.0,
+            "inside50s" : 60.0,
+            "marksInside50" : 62.0,
+            "contestedMarks" : 34.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 67.8,
+            "clangers" : 44.0,
+            "freesFor" : 26.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1808.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 17.0,
+            "goalAccuracy" : 60.6,
+            "ratingPoints" : 404.5,
+            "ranking" : 86.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 89.2
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.6,
+            "superGoals" : null,
+            "kicks" : 6.4,
+            "handballs" : 1.8,
+            "disposals" : 8.2,
+            "marks" : 4.8,
+            "bounces" : 0.1,
+            "tackles" : 1.4,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 3.9,
+            "totalPossessions" : 8.2,
+            "inside50s" : 1.4,
+            "marksInside50" : 2.7,
+            "contestedMarks" : 1.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 53.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 18.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 58.0,
+            "handballs" : 16.0,
+            "disposals" : 74.0,
+            "marks" : 43.0,
+            "bounces" : 1.0,
+            "tackles" : 13.0,
+            "contestedPossessions" : 39.0,
+            "uncontestedPossessions" : 35.0,
+            "totalPossessions" : 74.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 24.0,
+            "contestedMarks" : 14.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 70.3,
+            "clangers" : 16.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 483.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 51.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 82.5
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.6,
+            "behinds" : 1.7,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 2.7,
+            "disposals" : 11.7,
+            "marks" : 6.3,
+            "bounces" : 0.1,
+            "tackles" : 3.0,
+            "contestedPossessions" : 6.7,
+            "uncontestedPossessions" : 5.4,
+            "totalPossessions" : 12.1,
+            "inside50s" : 3.0,
+            "marksInside50" : 2.8,
+            "contestedMarks" : 2.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.1,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 77.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 59.0,
+            "behinds" : 38.0,
+            "superGoals" : null,
+            "kicks" : 208.0,
+            "handballs" : 62.0,
+            "disposals" : 270.0,
+            "marks" : 144.0,
+            "bounces" : 3.0,
+            "tackles" : 70.0,
+            "contestedPossessions" : 153.0,
+            "uncontestedPossessions" : 125.0,
+            "totalPossessions" : 278.0,
+            "inside50s" : 69.0,
+            "marksInside50" : 65.0,
+            "contestedMarks" : 51.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 44.0,
+            "disposalEfficiency" : 63.7,
+            "clangers" : 55.0,
+            "freesFor" : 25.0,
+            "freesAgainst" : 32.0,
+            "dreamTeamPoints" : 1781.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 15.0,
+            "goalAccuracy" : 52.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 87.7
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.9,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 2.8,
+            "disposals" : 11.8,
+            "marks" : 5.8,
+            "bounces" : 0.1,
+            "tackles" : 2.7,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 6.8,
+            "totalPossessions" : 11.7,
+            "inside50s" : 3.1,
+            "marksInside50" : 1.5,
+            "contestedMarks" : 1.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 1.2,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 70.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 41.0,
+            "behinds" : 19.0,
+            "superGoals" : null,
+            "kicks" : 199.0,
+            "handballs" : 61.0,
+            "disposals" : 260.0,
+            "marks" : 128.0,
+            "bounces" : 3.0,
+            "tackles" : 60.0,
+            "contestedPossessions" : 108.0,
+            "uncontestedPossessions" : 149.0,
+            "totalPossessions" : 257.0,
+            "inside50s" : 69.0,
+            "marksInside50" : 34.0,
+            "contestedMarks" : 28.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 66.9,
+            "clangers" : 58.0,
+            "freesFor" : 27.0,
+            "freesAgainst" : 27.0,
+            "dreamTeamPoints" : 1555.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 15.0,
+            "goalAccuracy" : 56.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 88.6
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.9,
+            "behinds" : 1.1,
+            "superGoals" : null,
+            "kicks" : 9.4,
+            "handballs" : 3.2,
+            "disposals" : 12.6,
+            "marks" : 6.9,
+            "bounces" : 0.1,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 12.7,
+            "inside50s" : 2.5,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 1.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 73.6,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 31.0,
+            "behinds" : 17.0,
+            "superGoals" : null,
+            "kicks" : 150.0,
+            "handballs" : 52.0,
+            "disposals" : 202.0,
+            "marks" : 110.0,
+            "bounces" : 1.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 76.0,
+            "uncontestedPossessions" : 128.0,
+            "totalPossessions" : 204.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 32.0,
+            "contestedMarks" : 23.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 65.3,
+            "clangers" : 35.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1178.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 56.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 88.7
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 7.9,
+            "handballs" : 4.9,
+            "disposals" : 12.7,
+            "marks" : 6.6,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 7.9,
+            "totalPossessions" : 12.7,
+            "inside50s" : 2.7,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 1.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 1.3,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 62.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 55.0,
+            "handballs" : 34.0,
+            "disposals" : 89.0,
+            "marks" : 46.0,
+            "bounces" : 0.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 34.0,
+            "uncontestedPossessions" : 55.0,
+            "totalPossessions" : 89.0,
+            "inside50s" : 19.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 69.7,
+            "clangers" : 11.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 440.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 53.8,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 85.7
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 4.4,
+            "handballs" : 3.1,
+            "disposals" : 7.5,
+            "marks" : 3.8,
+            "bounces" : 0.1,
+            "tackles" : 2.1,
+            "contestedPossessions" : 3.1,
+            "uncontestedPossessions" : 4.2,
+            "totalPossessions" : 7.3,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.5,
+            "hitouts" : 3.1,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 44.1,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 57.0,
+            "handballs" : 40.0,
+            "disposals" : 97.0,
+            "marks" : 50.0,
+            "bounces" : 1.0,
+            "tackles" : 27.0,
+            "contestedPossessions" : 40.0,
+            "uncontestedPossessions" : 55.0,
+            "totalPossessions" : 95.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 40.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 74.2,
+            "clangers" : 18.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 573.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 46.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 65.6
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 1.8,
+            "disposals" : 5.8,
+            "marks" : 3.6,
+            "bounces" : 0.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 2.8,
+            "uncontestedPossessions" : 3.3,
+            "totalPossessions" : 6.1,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 33.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 36.0,
+            "handballs" : 16.0,
+            "disposals" : 52.0,
+            "marks" : 32.0,
+            "bounces" : 0.0,
+            "tackles" : 11.0,
+            "contestedPossessions" : 25.0,
+            "uncontestedPossessions" : 30.0,
+            "totalPossessions" : 55.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 63.5,
+            "clangers" : 16.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 298.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240406",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 56.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 78.0,
+      "behinds" : 52.0,
+      "superGoals" : null,
+      "kicks" : 218.0,
+      "handballs" : 86.0,
+      "disposals" : 304.0,
+      "marks" : 153.0,
+      "bounces" : 2.0,
+      "tackles" : 47.0,
+      "contestedPossessions" : 140.0,
+      "uncontestedPossessions" : 168.0,
+      "totalPossessions" : 308.0,
+      "inside50s" : 55.0,
+      "marksInside50" : 94.0,
+      "contestedMarks" : 35.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 26.0,
+      "disposalEfficiency" : 62.8,
+      "clangers" : 42.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1955.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 3.0
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 17.0,
+      "goalAccuracy" : 56.1,
+      "ratingPoints" : 443.4,
+      "ranking" : 58.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I240406",
+        "playerName" : {
+          "givenName" : "Josh J.",
+          "surname" : "Kennedy"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T150",
+        "teamAbbr" : "WCE",
+        "teamName" : "West Coast Eagles",
+        "teamNickname" : "Eagles"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 443.4,
+        "ranking" : 58,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 443.4,
+        "ranking" : 4,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 443.4,
+        "ranking" : 7,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 11.7,
+        "ranking" : 49,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 285.0,
+        "ranking" : 35,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2005"
+    },
+    "careerGamesPlayed" : 163
+  }
+}

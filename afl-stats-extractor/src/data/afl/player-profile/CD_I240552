@@ -1,0 +1,1413 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I240552",
+    "position" : "Right Back Pocket",
+    "surname" : "Dawson",
+    "jumperNumber" : 3,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 3.6,
+      "handballs" : 6.7,
+      "disposals" : 10.2,
+      "marks" : 3.8,
+      "bounces" : 0.1,
+      "tackles" : 1.4,
+      "contestedPossessions" : 3.9,
+      "uncontestedPossessions" : 6.2,
+      "totalPossessions" : 10.1,
+      "inside50s" : 0.5,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.5,
+      "hitouts" : 0.4,
+      "onePercenters" : 6.5,
+      "disposalEfficiency" : null,
+      "clangers" : 1.7,
+      "freesFor" : 0.5,
+      "freesAgainst" : 1.2,
+      "dreamTeamPoints" : 38.9,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.2,
+        "totalClearances" : 0.2
+      },
+      "rebound50s" : 1.1,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Zac",
+    "bio" : "<p><strong>Outlook:</strong> As tough and determined as defenders come, but he&rsquo;ll enter the season having missed a number of weeks because of a groin injury.<br /><br /><strong>What the coach says (Michael Prior): </strong>Pre-Christmas phase was superb but has been a bit sore through the groin since he came back. Has missed a fair bit of training but hopefully should be up and going for round 1.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Fremantle/Player Profiles/2015 - Profiles/DAWSON Zac.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1986-02-22T01:00:00.000+0000",
+      "draftYear" : "2003",
+      "heightInCm" : 197,
+      "weightInKg" : 92,
+      "recruitedFrom" : "Doutta Stars (Vic)/Calder U18/Hawthorn/St Kilda",
+      "debutYear" : "2005"
+    },
+    "careerStats" : {
+      "goals" : 7.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 518.0,
+      "handballs" : 965.0,
+      "disposals" : 1483.0,
+      "marks" : 557.0,
+      "bounces" : 13.0,
+      "tackles" : 207.0,
+      "contestedPossessions" : 567.0,
+      "uncontestedPossessions" : 903.0,
+      "totalPossessions" : 1470.0,
+      "inside50s" : 66.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 77.0,
+      "hitouts" : 56.0,
+      "onePercenters" : 945.0,
+      "disposalEfficiency" : 85.5,
+      "clangers" : 246.0,
+      "freesFor" : 68.0,
+      "freesAgainst" : 170.0,
+      "dreamTeamPoints" : 5646.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 35.0
+      },
+      "rebound50s" : 165.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 46.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.0,
+            "handballs" : 6.5,
+            "disposals" : 8.5,
+            "marks" : 2.7,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 5.2,
+            "totalPossessions" : 8.7,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.2,
+            "onePercenters" : 6.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 30.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 26.0,
+            "disposals" : 34.0,
+            "marks" : 11.0,
+            "bounces" : 0.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 14.0,
+            "uncontestedPossessions" : 21.0,
+            "totalPossessions" : 35.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 82.4,
+            "clangers" : 6.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 121.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 160.3,
+            "ranking" : 423.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 94.3
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.7,
+            "handballs" : 7.4,
+            "disposals" : 10.1,
+            "marks" : 3.5,
+            "bounces" : 0.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 6.1,
+            "totalPossessions" : 10.0,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.7,
+            "onePercenters" : 6.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 35.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 60.0,
+            "handballs" : 162.0,
+            "disposals" : 222.0,
+            "marks" : 77.0,
+            "bounces" : 0.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 85.0,
+            "uncontestedPossessions" : 135.0,
+            "totalPossessions" : 220.0,
+            "inside50s" : 11.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 15.0,
+            "onePercenters" : 142.0,
+            "disposalEfficiency" : 84.2,
+            "clangers" : 41.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 28.0,
+            "dreamTeamPoints" : 787.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 205.7,
+            "ranking" : 352.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 94.4
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.5,
+            "handballs" : 6.6,
+            "disposals" : 9.1,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 5.2,
+            "totalPossessions" : 9.1,
+            "inside50s" : 0.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.6,
+            "onePercenters" : 7.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 33.1,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 60.0,
+            "handballs" : 158.0,
+            "disposals" : 218.0,
+            "marks" : 72.0,
+            "bounces" : 0.0,
+            "tackles" : 40.0,
+            "contestedPossessions" : 95.0,
+            "uncontestedPossessions" : 124.0,
+            "totalPossessions" : 219.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 15.0,
+            "onePercenters" : 173.0,
+            "disposalEfficiency" : 82.6,
+            "clangers" : 49.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 34.0,
+            "dreamTeamPoints" : 795.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 190.1,
+            "ranking" : 365.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 95.1
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 3.3,
+            "handballs" : 5.9,
+            "disposals" : 9.3,
+            "marks" : 2.8,
+            "bounces" : 0.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 4.6,
+            "totalPossessions" : 8.9,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.2,
+            "onePercenters" : 7.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 33.7,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 60.0,
+            "handballs" : 107.0,
+            "disposals" : 167.0,
+            "marks" : 50.0,
+            "bounces" : 0.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 77.0,
+            "uncontestedPossessions" : 83.0,
+            "totalPossessions" : 160.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 139.0,
+            "disposalEfficiency" : 82.0,
+            "clangers" : 27.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 606.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 17.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 91.1
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 7.6,
+            "disposals" : 10.7,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 6.2,
+            "totalPossessions" : 10.6,
+            "inside50s" : 0.4,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.8,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.3,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 39.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 61.0,
+            "handballs" : 153.0,
+            "disposals" : 214.0,
+            "marks" : 80.0,
+            "bounces" : 1.0,
+            "tackles" : 25.0,
+            "contestedPossessions" : 87.0,
+            "uncontestedPossessions" : 125.0,
+            "totalPossessions" : 212.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 14.0,
+            "hitouts" : 16.0,
+            "onePercenters" : 140.0,
+            "disposalEfficiency" : 85.5,
+            "clangers" : 36.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 25.0,
+            "dreamTeamPoints" : 784.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 97.0
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 4.9,
+            "handballs" : 6.1,
+            "disposals" : 11.0,
+            "marks" : 4.4,
+            "bounces" : 0.0,
+            "tackles" : 1.1,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 6.9,
+            "totalPossessions" : 10.8,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 42.6,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 99.0,
+            "handballs" : 122.0,
+            "disposals" : 221.0,
+            "marks" : 89.0,
+            "bounces" : 1.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 77.0,
+            "uncontestedPossessions" : 139.0,
+            "totalPossessions" : 216.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 109.0,
+            "disposalEfficiency" : 84.2,
+            "clangers" : 31.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 853.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 91.9
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 6.8,
+            "disposals" : 12.3,
+            "marks" : 5.9,
+            "bounces" : 0.4,
+            "tackles" : 1.7,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 8.8,
+            "totalPossessions" : 12.3,
+            "inside50s" : 0.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.2,
+            "onePercenters" : 5.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 53.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 127.0,
+            "handballs" : 157.0,
+            "disposals" : 284.0,
+            "marks" : 136.0,
+            "bounces" : 9.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 81.0,
+            "uncontestedPossessions" : 202.0,
+            "totalPossessions" : 283.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 133.0,
+            "disposalEfficiency" : 90.1,
+            "clangers" : 32.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 1222.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 31.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 96.9
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.9,
+            "handballs" : 5.7,
+            "disposals" : 8.6,
+            "marks" : 3.1,
+            "bounces" : 0.1,
+            "tackles" : 2.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 4.8,
+            "totalPossessions" : 8.8,
+            "inside50s" : 0.1,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.1,
+            "onePercenters" : 6.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 34.2,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 35.0,
+            "handballs" : 68.0,
+            "disposals" : 103.0,
+            "marks" : 37.0,
+            "bounces" : 1.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 48.0,
+            "uncontestedPossessions" : 58.0,
+            "totalPossessions" : 106.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 76.0,
+            "disposalEfficiency" : 86.4,
+            "clangers" : 18.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 410.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 20.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 91.9
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 6.0,
+            "disposals" : 10.0,
+            "marks" : 2.5,
+            "bounces" : 0.5,
+            "tackles" : 2.0,
+            "contestedPossessions" : 1.5,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 9.5,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 34.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 12.0,
+            "disposals" : 20.0,
+            "marks" : 5.0,
+            "bounces" : 1.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 16.0,
+            "totalPossessions" : 19.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 95.0,
+            "clangers" : 6.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 68.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 79.3
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240552",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 8.0,
+      "handballs" : 26.0,
+      "disposals" : 34.0,
+      "marks" : 11.0,
+      "bounces" : 0.0,
+      "tackles" : 6.0,
+      "contestedPossessions" : 14.0,
+      "uncontestedPossessions" : 21.0,
+      "totalPossessions" : 35.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 25.0,
+      "disposalEfficiency" : 82.4,
+      "clangers" : 6.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 5.0,
+      "dreamTeamPoints" : 121.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 5.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 160.3,
+      "ranking" : 423.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I240552",
+        "playerName" : {
+          "givenName" : "Zac",
+          "surname" : "Dawson"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T60",
+        "teamAbbr" : "FRE",
+        "teamName" : "Fremantle",
+        "teamNickname" : "Dockers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 151.2,
+        "ranking" : 436,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 151.2,
+        "ranking" : 24,
+        "ratingType" : "TEAM",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 151.2,
+        "ranking" : 49,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 3.0,
+        "ranking" : 161,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 15.5,
+        "ranking" : 585,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2003"
+    },
+    "careerGamesPlayed" : 145
+  }
+}

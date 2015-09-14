@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I295256",
+    "position" : "Right Back Pocket",
+    "surname" : "Williams",
+    "jumperNumber" : 26,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 11.5,
+      "handballs" : 6.6,
+      "disposals" : 18.1,
+      "marks" : 3.8,
+      "bounces" : 1.6,
+      "tackles" : 2.7,
+      "contestedPossessions" : 6.6,
+      "uncontestedPossessions" : 11.7,
+      "totalPossessions" : 18.3,
+      "inside50s" : 2.2,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.3,
+      "disposalEfficiency" : null,
+      "clangers" : 2.1,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 69.9,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.8,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 3.3,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Marley",
+    "bio" : "<p>Williams rose from the rookie list to seventh in Collingwood's best-and-fairest in the space of two seasons and he quickly became a fan favourite in the process. He plays an eye-catching brand of football, mainly due to his ability to break the lines, his evasiveness and long left foot kicking. Williams does not take a backward step and has already shut down several of the AFL's better small forwards. Handed the honour of wearing fellow left-footed defender Ben Johnson's old No. 26 at the end of only his second season, Williams will be aiming to replicate Johnson's success across half back and through the wings in the years to come.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Collingwood/Player Profiles/2015 - Profiles/WILLIAMS Marley.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-07-22T02:00:00.000+0000",
+      "draftYear" : "2012",
+      "heightInCm" : 181,
+      "weightInKg" : 83,
+      "recruitedFrom" : "North Albany (WA)/Claremont (WAFL)",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 6.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 653.0,
+      "handballs" : 378.0,
+      "disposals" : 1031.0,
+      "marks" : 217.0,
+      "bounces" : 92.0,
+      "tackles" : 155.0,
+      "contestedPossessions" : 377.0,
+      "uncontestedPossessions" : 667.0,
+      "totalPossessions" : 1044.0,
+      "inside50s" : 123.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 16.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 130.0,
+      "disposalEfficiency" : 72.1,
+      "clangers" : 118.0,
+      "freesFor" : 33.0,
+      "freesAgainst" : 27.0,
+      "dreamTeamPoints" : 3983.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 44.0,
+        "totalClearances" : 56.0
+      },
+      "rebound50s" : 187.0,
+      "goalAssists" : 14.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 12.3,
+            "handballs" : 9.0,
+            "disposals" : 21.3,
+            "marks" : 3.7,
+            "bounces" : 1.1,
+            "tackles" : 2.6,
+            "contestedPossessions" : 8.4,
+            "uncontestedPossessions" : 12.9,
+            "totalPossessions" : 21.3,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 75.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 4.1,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295256",
+            "playerName" : {
+              "givenName" : "Marley",
+              "surname" : "Williams"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 246.0,
+            "handballs" : 180.0,
+            "disposals" : 426.0,
+            "marks" : 75.0,
+            "bounces" : 22.0,
+            "tackles" : 52.0,
+            "contestedPossessions" : 168.0,
+            "uncontestedPossessions" : 258.0,
+            "totalPossessions" : 426.0,
+            "inside50s" : 44.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 41.0,
+            "disposalEfficiency" : 72.1,
+            "clangers" : 44.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1518.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 20.0,
+              "totalClearances" : 23.0
+            },
+            "rebound50s" : 83.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 378.9,
+            "ranking" : 115.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295256",
+            "playerName" : {
+              "givenName" : "Marley",
+              "surname" : "Williams"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 82.7
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 11.6,
+            "handballs" : 5.9,
+            "disposals" : 17.5,
+            "marks" : 3.9,
+            "bounces" : 1.6,
+            "tackles" : 2.2,
+            "contestedPossessions" : 6.5,
+            "uncontestedPossessions" : 11.3,
+            "totalPossessions" : 17.7,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 66.7,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 2.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295256",
+            "playerName" : {
+              "givenName" : "Marley",
+              "surname" : "Williams"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 174.0,
+            "handballs" : 88.0,
+            "disposals" : 262.0,
+            "marks" : 58.0,
+            "bounces" : 24.0,
+            "tackles" : 33.0,
+            "contestedPossessions" : 97.0,
+            "uncontestedPossessions" : 169.0,
+            "totalPossessions" : 266.0,
+            "inside50s" : 33.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 73.3,
+            "clangers" : 33.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 1001.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 17.0
+            },
+            "rebound50s" : 44.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : 316.3,
+            "ranking" : 204.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295256",
+            "playerName" : {
+              "givenName" : "Marley",
+              "surname" : "Williams"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 81.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 11.3,
+            "handballs" : 5.6,
+            "disposals" : 16.9,
+            "marks" : 4.2,
+            "bounces" : 2.2,
+            "tackles" : 3.2,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 11.9,
+            "totalPossessions" : 17.4,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 71.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 2.9,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295256",
+            "playerName" : {
+              "givenName" : "Marley",
+              "surname" : "Williams"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 181.0,
+            "handballs" : 89.0,
+            "disposals" : 270.0,
+            "marks" : 68.0,
+            "bounces" : 35.0,
+            "tackles" : 52.0,
+            "contestedPossessions" : 89.0,
+            "uncontestedPossessions" : 190.0,
+            "totalPossessions" : 279.0,
+            "inside50s" : 33.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 49.0,
+            "disposalEfficiency" : 73.3,
+            "clangers" : 31.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 1143.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 47.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 28.6,
+            "ratingPoints" : 209.3,
+            "ranking" : 341.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295256",
+            "playerName" : {
+              "givenName" : "Marley",
+              "surname" : "Williams"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 81.1
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 3.5,
+            "disposals" : 12.2,
+            "marks" : 2.7,
+            "bounces" : 1.8,
+            "tackles" : 3.0,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 8.3,
+            "totalPossessions" : 12.2,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 53.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295256",
+            "playerName" : {
+              "givenName" : "Marley",
+              "surname" : "Williams"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 52.0,
+            "handballs" : 21.0,
+            "disposals" : 73.0,
+            "marks" : 16.0,
+            "bounces" : 11.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 23.0,
+            "uncontestedPossessions" : 50.0,
+            "totalPossessions" : 73.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 61.6,
+            "clangers" : 10.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 321.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295256",
+            "playerName" : {
+              "givenName" : "Marley",
+              "surname" : "Williams"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 70.3
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 246.0,
+      "handballs" : 180.0,
+      "disposals" : 426.0,
+      "marks" : 75.0,
+      "bounces" : 22.0,
+      "tackles" : 52.0,
+      "contestedPossessions" : 168.0,
+      "uncontestedPossessions" : 258.0,
+      "totalPossessions" : 426.0,
+      "inside50s" : 44.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 41.0,
+      "disposalEfficiency" : 72.1,
+      "clangers" : 44.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 1518.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 23.0
+      },
+      "rebound50s" : 83.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 378.9,
+      "ranking" : 115.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I295256",
+        "playerName" : {
+          "givenName" : "Marley",
+          "surname" : "Williams"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T40",
+        "teamAbbr" : "COLL",
+        "teamName" : "Collingwood",
+        "teamNickname" : "Magpies"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 369.0,
+        "ranking" : 132,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 369.0,
+        "ranking" : 6,
+        "ratingType" : "TEAM",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 369.0,
+        "ranking" : 14,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 226.7,
+        "ranking" : 102,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 57
+  }
+}

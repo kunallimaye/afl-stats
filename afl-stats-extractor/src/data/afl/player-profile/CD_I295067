@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I295067",
+    "position" : "Right Half Forward",
+    "surname" : "Aish",
+    "jumperNumber" : 4,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 8.5,
+      "handballs" : 8.0,
+      "disposals" : 16.5,
+      "marks" : 3.7,
+      "bounces" : 0.2,
+      "tackles" : 3.3,
+      "contestedPossessions" : 5.9,
+      "uncontestedPossessions" : 10.8,
+      "totalPossessions" : 16.7,
+      "inside50s" : 2.0,
+      "marksInside50" : 0.3,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.2,
+      "disposalEfficiency" : null,
+      "clangers" : 1.8,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.4,
+      "dreamTeamPoints" : 66.9,
+      "clearances" : {
+        "centreClearances" : 0.4,
+        "stoppageClearances" : 1.4,
+        "totalClearances" : 1.7
+      },
+      "rebound50s" : 1.6,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "James",
+    "bio" : "<p>James Aish is a silky-skilled midfielder who was drafted to the Lions with Pick No.7 at the 2013 NAB AFL National Draft. He was a prodigious talent as a junior renowned for making good decisions and using the ball well, and has slotted seamlessly into the Club's exciting young midfield brigade.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2015 - Profiles/AISH James.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1995-11-08T01:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 182,
+      "weightInKg" : 75,
+      "recruitedFrom" : null,
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 8.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 271.0,
+      "handballs" : 256.0,
+      "disposals" : 527.0,
+      "marks" : 118.0,
+      "bounces" : 6.0,
+      "tackles" : 106.0,
+      "contestedPossessions" : 188.0,
+      "uncontestedPossessions" : 346.0,
+      "totalPossessions" : 534.0,
+      "inside50s" : 64.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 38.0,
+      "disposalEfficiency" : 69.1,
+      "clangers" : 58.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 2142.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 44.0,
+        "totalClearances" : 56.0
+      },
+      "rebound50s" : 52.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.8,
+            "handballs" : 6.5,
+            "disposals" : 14.3,
+            "marks" : 2.2,
+            "bounces" : 0.1,
+            "tackles" : 2.6,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 9.5,
+            "totalPossessions" : 14.7,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 53.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295067",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Aish"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 86.0,
+            "handballs" : 71.0,
+            "disposals" : 157.0,
+            "marks" : 24.0,
+            "bounces" : 1.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 57.0,
+            "uncontestedPossessions" : 105.0,
+            "totalPossessions" : 162.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 63.1,
+            "clangers" : 28.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 583.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 22.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 251.7,
+            "ranking" : 295.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295067",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Aish"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 71.5
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 8.8,
+            "handballs" : 8.8,
+            "disposals" : 17.6,
+            "marks" : 4.5,
+            "bounces" : 0.2,
+            "tackles" : 3.7,
+            "contestedPossessions" : 6.2,
+            "uncontestedPossessions" : 11.5,
+            "totalPossessions" : 17.7,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 74.2,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295067",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Aish"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 185.0,
+            "handballs" : 185.0,
+            "disposals" : 370.0,
+            "marks" : 94.0,
+            "bounces" : 5.0,
+            "tackles" : 77.0,
+            "contestedPossessions" : 131.0,
+            "uncontestedPossessions" : 241.0,
+            "totalPossessions" : 372.0,
+            "inside50s" : 48.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 71.6,
+            "clangers" : 30.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 1559.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 31.0,
+              "totalClearances" : 43.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 46.2,
+            "ratingPoints" : 176.6,
+            "ranking" : 382.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295067",
+            "playerName" : {
+              "givenName" : "James",
+              "surname" : "Aish"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 77.6
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 86.0,
+      "handballs" : 71.0,
+      "disposals" : 157.0,
+      "marks" : 24.0,
+      "bounces" : 1.0,
+      "tackles" : 29.0,
+      "contestedPossessions" : 57.0,
+      "uncontestedPossessions" : 105.0,
+      "totalPossessions" : 162.0,
+      "inside50s" : 16.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 10.0,
+      "disposalEfficiency" : 63.1,
+      "clangers" : 28.0,
+      "freesFor" : 6.0,
+      "freesAgainst" : 8.0,
+      "dreamTeamPoints" : 583.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 13.0,
+        "totalClearances" : 13.0
+      },
+      "rebound50s" : 22.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : 251.7,
+      "ranking" : 295.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I295067",
+        "playerName" : {
+          "givenName" : "James",
+          "surname" : "Aish"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 251.7,
+        "ranking" : 294,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 251.7,
+        "ranking" : 14,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 251.7,
+        "ranking" : 55,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 58.0,
+        "ranking" : 457,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 32
+  }
+}

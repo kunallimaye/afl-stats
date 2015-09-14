@@ -1,0 +1,1619 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I220096",
+    "position" : "Ruck",
+    "surname" : "Sandilands",
+    "jumperNumber" : 31,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.4,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 4.6,
+      "handballs" : 8.3,
+      "disposals" : 12.9,
+      "marks" : 3.7,
+      "bounces" : 0.0,
+      "tackles" : 1.3,
+      "contestedPossessions" : 7.3,
+      "uncontestedPossessions" : 5.8,
+      "totalPossessions" : 13.1,
+      "inside50s" : 1.6,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 1.2,
+      "hitouts" : 30.6,
+      "onePercenters" : 2.3,
+      "disposalEfficiency" : null,
+      "clangers" : 1.8,
+      "freesFor" : 1.2,
+      "freesAgainst" : 0.9,
+      "dreamTeamPoints" : 78.3,
+      "clearances" : {
+        "centreClearances" : 1.2,
+        "stoppageClearances" : 1.9,
+        "totalClearances" : 3.1
+      },
+      "rebound50s" : 0.7,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Aaron",
+    "bio" : "<p><strong>Outlook:</strong> Coming off one of the strongest seasons of his career, the champion ruckman will again be a huge force for Freo. He&rsquo;s had a slightly compromised pre-season, but Sandilands should be ready to go for 2015.<br /><br /><strong>What the coach says (Simon Eastaugh): </strong>Has continued to improve his fitness base and has been working on his role within our forward structure as well as the midfield. He continues to make progress to continue his overall game.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Fremantle/Player Profiles/2015 - Profiles/SANDILANDS Aaron.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1982-12-06T01:00:00.000+0000",
+      "draftYear" : "2002",
+      "heightInCm" : 211,
+      "weightInKg" : 119,
+      "recruitedFrom" : "Mt Barker (WA)/East Fremantle (WAFL)",
+      "debutYear" : "2003"
+    },
+    "careerStats" : {
+      "goals" : 92.0,
+      "behinds" : 51.0,
+      "superGoals" : null,
+      "kicks" : 1106.0,
+      "handballs" : 1964.0,
+      "disposals" : 3070.0,
+      "marks" : 874.0,
+      "bounces" : 5.0,
+      "tackles" : 304.0,
+      "contestedPossessions" : 1735.0,
+      "uncontestedPossessions" : 1379.0,
+      "totalPossessions" : 3114.0,
+      "inside50s" : 384.0,
+      "marksInside50" : 125.0,
+      "contestedMarks" : 296.0,
+      "hitouts" : 7283.0,
+      "onePercenters" : 554.0,
+      "disposalEfficiency" : 73.0,
+      "clangers" : 421.0,
+      "freesFor" : 282.0,
+      "freesAgainst" : 209.0,
+      "dreamTeamPoints" : 18625.0,
+      "clearances" : {
+        "centreClearances" : 295.0,
+        "stoppageClearances" : 452.0,
+        "totalClearances" : 747.0
+      },
+      "rebound50s" : 176.0,
+      "goalAssists" : 73.0,
+      "goalAccuracy" : 56.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 2.3,
+            "handballs" : 10.4,
+            "disposals" : 12.7,
+            "marks" : 3.5,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 8.0,
+            "uncontestedPossessions" : 4.9,
+            "totalPossessions" : 12.9,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 2.0,
+            "hitouts" : 43.5,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 88.2,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 2.4
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 51.0,
+            "handballs" : 228.0,
+            "disposals" : 279.0,
+            "marks" : 77.0,
+            "bounces" : 0.0,
+            "tackles" : 33.0,
+            "contestedPossessions" : 176.0,
+            "uncontestedPossessions" : 107.0,
+            "totalPossessions" : 283.0,
+            "inside50s" : 26.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 44.0,
+            "hitouts" : 958.0,
+            "onePercenters" : 61.0,
+            "disposalEfficiency" : 79.9,
+            "clangers" : 35.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 1940.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 40.0,
+              "totalClearances" : 53.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 64.3,
+            "ratingPoints" : 524.3,
+            "ranking" : 14.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 82.2
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 3.3,
+            "handballs" : 9.5,
+            "disposals" : 12.7,
+            "marks" : 3.7,
+            "bounces" : 0.0,
+            "tackles" : 1.9,
+            "contestedPossessions" : 7.3,
+            "uncontestedPossessions" : 5.4,
+            "totalPossessions" : 12.8,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 1.8,
+            "hitouts" : 38.7,
+            "onePercenters" : 2.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 87.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.6
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 75.0,
+            "handballs" : 218.0,
+            "disposals" : 293.0,
+            "marks" : 85.0,
+            "bounces" : 1.0,
+            "tackles" : 44.0,
+            "contestedPossessions" : 169.0,
+            "uncontestedPossessions" : 125.0,
+            "totalPossessions" : 294.0,
+            "inside50s" : 25.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 41.0,
+            "hitouts" : 890.0,
+            "onePercenters" : 66.0,
+            "disposalEfficiency" : 72.7,
+            "clangers" : 32.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 2002.0,
+            "clearances" : {
+              "centreClearances" : 23.0,
+              "stoppageClearances" : 37.0,
+              "totalClearances" : 60.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 53.3,
+            "ratingPoints" : 413.5,
+            "ranking" : 92.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 80.6
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 1.8,
+            "handballs" : 7.4,
+            "disposals" : 9.2,
+            "marks" : 2.2,
+            "bounces" : 0.0,
+            "tackles" : 0.7,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 3.7,
+            "totalPossessions" : 9.4,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 1.5,
+            "hitouts" : 27.8,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 57.8,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 18.0,
+            "handballs" : 74.0,
+            "disposals" : 92.0,
+            "marks" : 22.0,
+            "bounces" : 0.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 57.0,
+            "uncontestedPossessions" : 37.0,
+            "totalPossessions" : 94.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 15.0,
+            "hitouts" : 278.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 78.3,
+            "clangers" : 13.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 578.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 75.0,
+            "ratingPoints" : 250.5,
+            "ranking" : 295.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 69.0
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.1,
+            "handballs" : 9.6,
+            "disposals" : 14.7,
+            "marks" : 3.4,
+            "bounces" : 0.0,
+            "tackles" : 1.1,
+            "contestedPossessions" : 10.5,
+            "uncontestedPossessions" : 4.7,
+            "totalPossessions" : 15.2,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 1.8,
+            "hitouts" : 37.7,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.3,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 87.9,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 2.9,
+              "totalClearances" : 4.3
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 71.0,
+            "handballs" : 135.0,
+            "disposals" : 206.0,
+            "marks" : 48.0,
+            "bounces" : 0.0,
+            "tackles" : 16.0,
+            "contestedPossessions" : 147.0,
+            "uncontestedPossessions" : 66.0,
+            "totalPossessions" : 213.0,
+            "inside50s" : 19.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 25.0,
+            "hitouts" : 528.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 64.6,
+            "clangers" : 27.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1231.0,
+            "clearances" : {
+              "centreClearances" : 19.0,
+              "stoppageClearances" : 41.0,
+              "totalClearances" : 60.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 75.2
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.3,
+            "handballs" : 11.0,
+            "disposals" : 17.3,
+            "marks" : 4.2,
+            "bounces" : 0.0,
+            "tackles" : 1.8,
+            "contestedPossessions" : 11.3,
+            "uncontestedPossessions" : 6.9,
+            "totalPossessions" : 18.2,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 2.8,
+            "hitouts" : 33.2,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 94.8,
+            "clearances" : {
+              "centreClearances" : 1.8,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.8
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 82.0,
+            "handballs" : 143.0,
+            "disposals" : 225.0,
+            "marks" : 54.0,
+            "bounces" : 0.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 147.0,
+            "uncontestedPossessions" : 90.0,
+            "totalPossessions" : 237.0,
+            "inside50s" : 41.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 36.0,
+            "hitouts" : 432.0,
+            "onePercenters" : 35.0,
+            "disposalEfficiency" : 70.2,
+            "clangers" : 32.0,
+            "freesFor" : 26.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1232.0,
+            "clearances" : {
+              "centreClearances" : 23.0,
+              "stoppageClearances" : 39.0,
+              "totalClearances" : 62.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 75.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 79.6
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 5.9,
+            "handballs" : 10.5,
+            "disposals" : 16.3,
+            "marks" : 4.2,
+            "bounces" : 0.0,
+            "tackles" : 1.6,
+            "contestedPossessions" : 10.2,
+            "uncontestedPossessions" : 6.3,
+            "totalPossessions" : 16.6,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 2.0,
+            "hitouts" : 34.9,
+            "onePercenters" : 3.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 1.3,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 94.7,
+            "clearances" : {
+              "centreClearances" : 1.6,
+              "stoppageClearances" : 2.5,
+              "totalClearances" : 4.1
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 123.0,
+            "handballs" : 220.0,
+            "disposals" : 343.0,
+            "marks" : 89.0,
+            "bounces" : 0.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 215.0,
+            "uncontestedPossessions" : 133.0,
+            "totalPossessions" : 348.0,
+            "inside50s" : 45.0,
+            "marksInside50" : 16.0,
+            "contestedMarks" : 42.0,
+            "hitouts" : 732.0,
+            "onePercenters" : 68.0,
+            "disposalEfficiency" : 67.9,
+            "clangers" : 49.0,
+            "freesFor" : 27.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 1989.0,
+            "clearances" : {
+              "centreClearances" : 33.0,
+              "stoppageClearances" : 53.0,
+              "totalClearances" : 86.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 61.9,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 87.7
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 7.1,
+            "handballs" : 10.2,
+            "disposals" : 17.4,
+            "marks" : 4.0,
+            "bounces" : 0.1,
+            "tackles" : 1.7,
+            "contestedPossessions" : 9.9,
+            "uncontestedPossessions" : 7.3,
+            "totalPossessions" : 17.2,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 1.3,
+            "hitouts" : 32.9,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 1.7,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 95.4,
+            "clearances" : {
+              "centreClearances" : 2.7,
+              "stoppageClearances" : 2.4,
+              "totalClearances" : 5.1
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 143.0,
+            "handballs" : 205.0,
+            "disposals" : 348.0,
+            "marks" : 80.0,
+            "bounces" : 3.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 198.0,
+            "uncontestedPossessions" : 147.0,
+            "totalPossessions" : 345.0,
+            "inside50s" : 37.0,
+            "marksInside50" : 19.0,
+            "contestedMarks" : 26.0,
+            "hitouts" : 659.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 70.7,
+            "clangers" : 50.0,
+            "freesFor" : 35.0,
+            "freesAgainst" : 29.0,
+            "dreamTeamPoints" : 1908.0,
+            "clearances" : {
+              "centreClearances" : 55.0,
+              "stoppageClearances" : 48.0,
+              "totalClearances" : 103.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 56.5,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 90.3
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 9.5,
+            "disposals" : 15.0,
+            "marks" : 3.5,
+            "bounces" : 0.0,
+            "tackles" : 1.3,
+            "contestedPossessions" : 8.9,
+            "uncontestedPossessions" : 6.3,
+            "totalPossessions" : 15.2,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 1.3,
+            "hitouts" : 29.4,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 1.3,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 81.8,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 122.0,
+            "handballs" : 208.0,
+            "disposals" : 330.0,
+            "marks" : 77.0,
+            "bounces" : 0.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 195.0,
+            "uncontestedPossessions" : 139.0,
+            "totalPossessions" : 334.0,
+            "inside50s" : 45.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 28.0,
+            "hitouts" : 646.0,
+            "onePercenters" : 47.0,
+            "disposalEfficiency" : 65.2,
+            "clangers" : 47.0,
+            "freesFor" : 29.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1800.0,
+            "clearances" : {
+              "centreClearances" : 44.0,
+              "stoppageClearances" : 44.0,
+              "totalClearances" : 88.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 36.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 82.7
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 7.2,
+            "disposals" : 12.7,
+            "marks" : 3.7,
+            "bounces" : 0.0,
+            "tackles" : 0.9,
+            "contestedPossessions" : 6.6,
+            "uncontestedPossessions" : 6.1,
+            "totalPossessions" : 12.7,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.5,
+            "hitouts" : 26.9,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 74.6,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 2.2,
+              "totalClearances" : 3.5
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 82.0,
+            "handballs" : 108.0,
+            "disposals" : 190.0,
+            "marks" : 55.0,
+            "bounces" : 0.0,
+            "tackles" : 13.0,
+            "contestedPossessions" : 99.0,
+            "uncontestedPossessions" : 92.0,
+            "totalPossessions" : 191.0,
+            "inside50s" : 22.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 404.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 68.4,
+            "clangers" : 32.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 1119.0,
+            "clearances" : {
+              "centreClearances" : 20.0,
+              "stoppageClearances" : 33.0,
+              "totalClearances" : 53.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 75.1
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 5.9,
+            "handballs" : 6.9,
+            "disposals" : 12.8,
+            "marks" : 4.6,
+            "bounces" : 0.0,
+            "tackles" : 0.7,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 8.1,
+            "totalPossessions" : 13.0,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.1,
+            "hitouts" : 24.6,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 1.3,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 74.2,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 2.7
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 123.0,
+            "handballs" : 145.0,
+            "disposals" : 268.0,
+            "marks" : 96.0,
+            "bounces" : 1.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 101.0,
+            "uncontestedPossessions" : 171.0,
+            "totalPossessions" : 272.0,
+            "inside50s" : 46.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 516.0,
+            "onePercenters" : 37.0,
+            "disposalEfficiency" : 79.1,
+            "clangers" : 29.0,
+            "freesFor" : 27.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1559.0,
+            "clearances" : {
+              "centreClearances" : 22.0,
+              "stoppageClearances" : 35.0,
+              "totalClearances" : 57.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 53.8,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 71.9
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 4.5,
+            "handballs" : 5.9,
+            "disposals" : 10.4,
+            "marks" : 4.1,
+            "bounces" : 0.0,
+            "tackles" : 1.1,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 5.8,
+            "totalPossessions" : 10.4,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.7,
+            "hitouts" : 23.0,
+            "onePercenters" : 2.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 65.8,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.4
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 81.0,
+            "handballs" : 106.0,
+            "disposals" : 187.0,
+            "marks" : 74.0,
+            "bounces" : 0.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 83.0,
+            "uncontestedPossessions" : 105.0,
+            "totalPossessions" : 188.0,
+            "inside50s" : 34.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 414.0,
+            "onePercenters" : 47.0,
+            "disposalEfficiency" : 80.7,
+            "clangers" : 25.0,
+            "freesFor" : 22.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1184.0,
+            "clearances" : {
+              "centreClearances" : 15.0,
+              "stoppageClearances" : 29.0,
+              "totalClearances" : 44.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 55.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 65.9
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.7,
+            "handballs" : 4.9,
+            "disposals" : 8.6,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 4.8,
+            "totalPossessions" : 8.6,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 23.6,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 57.6,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.1
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 74.0,
+            "handballs" : 98.0,
+            "disposals" : 172.0,
+            "marks" : 61.0,
+            "bounces" : 0.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 76.0,
+            "uncontestedPossessions" : 97.0,
+            "totalPossessions" : 173.0,
+            "inside50s" : 22.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 473.0,
+            "onePercenters" : 38.0,
+            "disposalEfficiency" : 82.0,
+            "clangers" : 27.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1152.0,
+            "clearances" : {
+              "centreClearances" : 14.0,
+              "stoppageClearances" : 28.0,
+              "totalClearances" : 42.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 75.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 61.4
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 3.2,
+            "handballs" : 4.0,
+            "disposals" : 7.2,
+            "marks" : 2.9,
+            "bounces" : 0.0,
+            "tackles" : 0.8,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 3.7,
+            "totalPossessions" : 7.5,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.6,
+            "hitouts" : 18.6,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 49.0,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 61.0,
+            "handballs" : 76.0,
+            "disposals" : 137.0,
+            "marks" : 56.0,
+            "bounces" : 0.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 72.0,
+            "uncontestedPossessions" : 70.0,
+            "totalPossessions" : 142.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 353.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 83.9,
+            "clangers" : 23.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 931.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 16.0,
+              "totalClearances" : 24.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 71.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 57.2
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220096",
+            "playerName" : {
+              "givenName" : "Aaron",
+              "surname" : "Sandilands"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 9.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 51.0,
+      "handballs" : 228.0,
+      "disposals" : 279.0,
+      "marks" : 77.0,
+      "bounces" : 0.0,
+      "tackles" : 33.0,
+      "contestedPossessions" : 176.0,
+      "uncontestedPossessions" : 107.0,
+      "totalPossessions" : 283.0,
+      "inside50s" : 26.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 44.0,
+      "hitouts" : 958.0,
+      "onePercenters" : 61.0,
+      "disposalEfficiency" : 79.9,
+      "clangers" : 35.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 23.0,
+      "dreamTeamPoints" : 1940.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 40.0,
+        "totalClearances" : 53.0
+      },
+      "rebound50s" : 12.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 64.3,
+      "ratingPoints" : 524.3,
+      "ranking" : 14.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I220096",
+        "playerName" : {
+          "givenName" : "Aaron",
+          "surname" : "Sandilands"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T60",
+        "teamAbbr" : "FRE",
+        "teamName" : "Fremantle",
+        "teamNickname" : "Dockers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 523.1,
+        "ranking" : 14,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 523.1,
+        "ranking" : 2,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 523.1,
+        "ranking" : 4,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 15.7,
+        "ranking" : 22,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 344.7,
+        "ranking" : 9,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2001"
+    },
+    "careerGamesPlayed" : 238
+  }
+}

@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I293713",
+    "position" : "Centre Half Forward",
+    "surname" : "Ellis",
+    "jumperNumber" : 5,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.4,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 12.8,
+      "handballs" : 9.0,
+      "disposals" : 21.8,
+      "marks" : 5.4,
+      "bounces" : 0.9,
+      "tackles" : 2.4,
+      "contestedPossessions" : 5.6,
+      "uncontestedPossessions" : 15.8,
+      "totalPossessions" : 21.5,
+      "inside50s" : 2.4,
+      "marksInside50" : 0.3,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.1,
+      "disposalEfficiency" : null,
+      "clangers" : 2.2,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 83.6,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 1.4,
+        "totalClearances" : 1.5
+      },
+      "rebound50s" : 2.4,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Brandon",
+    "bio" : "<p>After a brilliant debut season playing in the backline, Ellis moved to the midfield last season where he cemented himself, playing all but two games and averaging 18.6 possessions. Three of<br>\nhis first four games were as the substitute, but he graduated from that role and won a career-high 39 possessions against Melbourne in round eight.<br>\n<br>\n<b>Player honours</b>: AFL Rising Star nominee 2012.<br>\n<b>Brownlow Medal</b>: 2013 votes 5; career votes 5.<br>\n<b>Draft history</b>: 2011 AFL Draft 1st round selection (Richmond) No. 15 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Richmond/Player Profiles/2015 - Profiles/ELLIS Brandon.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-08-03T02:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 181,
+      "weightInKg" : 84,
+      "recruitedFrom" : "West Coburg (Vic)/Calder U18",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 34.0,
+      "behinds" : 37.0,
+      "superGoals" : null,
+      "kicks" : 1126.0,
+      "handballs" : 789.0,
+      "disposals" : 1915.0,
+      "marks" : 476.0,
+      "bounces" : 75.0,
+      "tackles" : 214.0,
+      "contestedPossessions" : 495.0,
+      "uncontestedPossessions" : 1394.0,
+      "totalPossessions" : 1889.0,
+      "inside50s" : 212.0,
+      "marksInside50" : 23.0,
+      "contestedMarks" : 25.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 93.0,
+      "disposalEfficiency" : 75.0,
+      "clangers" : 195.0,
+      "freesFor" : 47.0,
+      "freesAgainst" : 58.0,
+      "dreamTeamPoints" : 7354.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 120.0,
+        "totalClearances" : 133.0
+      },
+      "rebound50s" : 213.0,
+      "goalAssists" : 22.0,
+      "goalAccuracy" : 40.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 14.9,
+            "handballs" : 11.0,
+            "disposals" : 25.8,
+            "marks" : 6.3,
+            "bounces" : 1.0,
+            "tackles" : 3.3,
+            "contestedPossessions" : 6.8,
+            "uncontestedPossessions" : 18.7,
+            "totalPossessions" : 25.6,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.9,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 99.7,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.9,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293713",
+            "playerName" : {
+              "givenName" : "Brandon",
+              "surname" : "Ellis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 342.0,
+            "handballs" : 252.0,
+            "disposals" : 594.0,
+            "marks" : 146.0,
+            "bounces" : 24.0,
+            "tackles" : 77.0,
+            "contestedPossessions" : 157.0,
+            "uncontestedPossessions" : 431.0,
+            "totalPossessions" : 588.0,
+            "inside50s" : 74.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 72.7,
+            "clangers" : 67.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 2293.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 43.0,
+              "totalClearances" : 50.0
+            },
+            "rebound50s" : 51.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 32.0,
+            "ratingPoints" : 325.2,
+            "ranking" : 189.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293713",
+            "playerName" : {
+              "givenName" : "Brandon",
+              "surname" : "Ellis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 86.0
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 15.4,
+            "handballs" : 10.7,
+            "disposals" : 26.1,
+            "marks" : 5.5,
+            "bounces" : 1.1,
+            "tackles" : 2.4,
+            "contestedPossessions" : 6.6,
+            "uncontestedPossessions" : 18.3,
+            "totalPossessions" : 24.9,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 95.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 4.1,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293713",
+            "playerName" : {
+              "givenName" : "Brandon",
+              "surname" : "Ellis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 355.0,
+            "handballs" : 246.0,
+            "disposals" : 601.0,
+            "marks" : 126.0,
+            "bounces" : 26.0,
+            "tackles" : 56.0,
+            "contestedPossessions" : 152.0,
+            "uncontestedPossessions" : 421.0,
+            "totalPossessions" : 573.0,
+            "inside50s" : 64.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 29.0,
+            "disposalEfficiency" : 73.4,
+            "clangers" : 62.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 2184.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 40.0,
+              "totalClearances" : 41.0
+            },
+            "rebound50s" : 94.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 38.5,
+            "ratingPoints" : 328.7,
+            "ranking" : 188.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293713",
+            "playerName" : {
+              "givenName" : "Brandon",
+              "surname" : "Ellis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 86.2
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 11.7,
+            "handballs" : 6.9,
+            "disposals" : 18.6,
+            "marks" : 5.9,
+            "bounces" : 0.6,
+            "tackles" : 2.1,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 14.1,
+            "totalPossessions" : 18.9,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 78.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293713",
+            "playerName" : {
+              "givenName" : "Brandon",
+              "surname" : "Ellis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 246.0,
+            "handballs" : 144.0,
+            "disposals" : 390.0,
+            "marks" : 124.0,
+            "bounces" : 13.0,
+            "tackles" : 45.0,
+            "contestedPossessions" : 100.0,
+            "uncontestedPossessions" : 297.0,
+            "totalPossessions" : 397.0,
+            "inside50s" : 46.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 81.5,
+            "clangers" : 29.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 1653.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 26.0,
+              "totalClearances" : 27.0
+            },
+            "rebound50s" : 36.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 63.6,
+            "ratingPoints" : 256.5,
+            "ranking" : 292.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293713",
+            "playerName" : {
+              "givenName" : "Brandon",
+              "surname" : "Ellis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 70.5
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 7.0,
+            "disposals" : 15.7,
+            "marks" : 3.8,
+            "bounces" : 0.6,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 11.7,
+            "totalPossessions" : 15.8,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 58.3,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293713",
+            "playerName" : {
+              "givenName" : "Brandon",
+              "surname" : "Ellis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 183.0,
+            "handballs" : 147.0,
+            "disposals" : 330.0,
+            "marks" : 80.0,
+            "bounces" : 12.0,
+            "tackles" : 36.0,
+            "contestedPossessions" : 86.0,
+            "uncontestedPossessions" : 245.0,
+            "totalPossessions" : 331.0,
+            "inside50s" : 28.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 74.2,
+            "clangers" : 37.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1224.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 32.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 16.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293713",
+            "playerName" : {
+              "givenName" : "Brandon",
+              "surname" : "Ellis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 68.8
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 8.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 342.0,
+      "handballs" : 252.0,
+      "disposals" : 594.0,
+      "marks" : 146.0,
+      "bounces" : 24.0,
+      "tackles" : 77.0,
+      "contestedPossessions" : 157.0,
+      "uncontestedPossessions" : 431.0,
+      "totalPossessions" : 588.0,
+      "inside50s" : 74.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 17.0,
+      "disposalEfficiency" : 72.7,
+      "clangers" : 67.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 2293.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 43.0,
+        "totalClearances" : 50.0
+      },
+      "rebound50s" : 51.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 32.0,
+      "ratingPoints" : 325.2,
+      "ranking" : 189.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I293713",
+        "playerName" : {
+          "givenName" : "Brandon",
+          "surname" : "Ellis"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T120",
+        "teamAbbr" : "RICH",
+        "teamName" : "Richmond",
+        "teamNickname" : "Tigers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 318.7,
+        "ranking" : 199,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 318.7,
+        "ranking" : 12,
+        "ratingType" : "TEAM",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 318.7,
+        "ranking" : 87,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 3.5,
+        "ranking" : 158,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 209.1,
+        "ranking" : 134,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 88
+  }
+}

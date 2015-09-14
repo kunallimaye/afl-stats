@@ -1,0 +1,441 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I260549",
+    "position" : "Left Wing",
+    "surname" : "McNamara",
+    "jumperNumber" : 10,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jamie",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1988-03-06T01:00:00.000+0000",
+      "draftYear" : "",
+      "heightInCm" : 183,
+      "weightInKg" : 87,
+      "recruitedFrom" : "",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 4.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 148.0,
+      "handballs" : 134.0,
+      "disposals" : 282.0,
+      "marks" : 80.0,
+      "bounces" : 17.0,
+      "tackles" : 54.0,
+      "contestedPossessions" : 93.0,
+      "uncontestedPossessions" : 186.0,
+      "totalPossessions" : 279.0,
+      "inside50s" : 40.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 4.0,
+      "onePercenters" : 24.0,
+      "disposalEfficiency" : 70.9,
+      "clangers" : 30.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 1183.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 17.0,
+        "totalClearances" : 24.0
+      },
+      "rebound50s" : 20.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 44.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 7.5,
+            "disposals" : 14.5,
+            "marks" : 3.0,
+            "bounces" : 1.2,
+            "tackles" : 3.5,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 10.3,
+            "totalPossessions" : 14.7,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.3,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 61.2,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260549",
+            "playerName" : {
+              "givenName" : "Jamie",
+              "surname" : "McNamara"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 42.0,
+            "handballs" : 45.0,
+            "disposals" : 87.0,
+            "marks" : 18.0,
+            "bounces" : 7.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 26.0,
+            "uncontestedPossessions" : 62.0,
+            "totalPossessions" : 88.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 73.6,
+            "clangers" : 6.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 367.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260549",
+            "playerName" : {
+              "givenName" : "Jamie",
+              "surname" : "McNamara"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 66.4
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 8.1,
+            "handballs" : 7.3,
+            "disposals" : 15.4,
+            "marks" : 5.0,
+            "bounces" : 0.9,
+            "tackles" : 2.5,
+            "contestedPossessions" : 5.3,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 15.3,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 64.7,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260549",
+            "playerName" : {
+              "givenName" : "Jamie",
+              "surname" : "McNamara"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 89.0,
+            "handballs" : 80.0,
+            "disposals" : 169.0,
+            "marks" : 55.0,
+            "bounces" : 10.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 58.0,
+            "uncontestedPossessions" : 110.0,
+            "totalPossessions" : 168.0,
+            "inside50s" : 28.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 69.2,
+            "clangers" : 18.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 712.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260549",
+            "playerName" : {
+              "givenName" : "Jamie",
+              "surname" : "McNamara"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 71.9
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.5,
+            "handballs" : 4.5,
+            "disposals" : 13.0,
+            "marks" : 3.5,
+            "bounces" : 0.0,
+            "tackles" : 2.5,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 11.5,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 52.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260549",
+            "playerName" : {
+              "givenName" : "Jamie",
+              "surname" : "McNamara"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 17.0,
+            "handballs" : 9.0,
+            "disposals" : 26.0,
+            "marks" : 7.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 9.0,
+            "uncontestedPossessions" : 14.0,
+            "totalPossessions" : 23.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 73.1,
+            "clangers" : 6.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 104.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260549",
+            "playerName" : {
+              "givenName" : "Jamie",
+              "surname" : "McNamara"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 52.1
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 42.0,
+      "handballs" : 45.0,
+      "disposals" : 87.0,
+      "marks" : 18.0,
+      "bounces" : 7.0,
+      "tackles" : 21.0,
+      "contestedPossessions" : 26.0,
+      "uncontestedPossessions" : 62.0,
+      "totalPossessions" : 88.0,
+      "inside50s" : 10.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 2.0,
+      "onePercenters" : 5.0,
+      "disposalEfficiency" : 73.6,
+      "clangers" : 6.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 2.0,
+      "dreamTeamPoints" : 367.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 9.0,
+        "totalClearances" : 11.0
+      },
+      "rebound50s" : 6.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}
