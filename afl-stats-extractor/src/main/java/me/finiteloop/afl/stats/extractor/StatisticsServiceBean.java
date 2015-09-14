@@ -33,8 +33,8 @@ import org.apache.camel.component.http4.HttpMethods;
  * @author klimaye
  *
  */
-//@Stateless
-//@Path("/statistics")
+@Stateless
+@Path("/statistics")
 public class StatisticsServiceBean{
 
 	private static final Logger logger = Logger
@@ -54,10 +54,6 @@ public class StatisticsServiceBean{
 					.setHeader(Exchange.HTTP_METHOD, constant(HttpMethods.POST))
 					.to("http4:www.afl.com.au/api/cfs/afl/WMCTok")
 					.transform().jsonpath("token", String.class)
-						// URL for a season
-						// http://www.afl.com.au/api/cfs/afl/season?seasonId=CD_S2014014
-						// URL for a player
-						// http4:www.afl.com.au/api/cfs/afl/statsCentre/players?competitionId=CD_S${body}014
 					;
 
 			}
@@ -73,9 +69,9 @@ public class StatisticsServiceBean{
 			
 	}
 
-//	@GET
-//	@Path("/season/{year:[0-9][0-9][0-9][0-9]}")
-//	@Produces(MediaType.APPLICATION_JSON)
+	@GET
+	@Path("/season/{year:[0-9][0-9][0-9][0-9]}")
+	@Produces(MediaType.APPLICATION_JSON)
 	public Response getCompetition(@PathParam("year") String year){
 		Response.ResponseBuilder responseBuilder = null;
 		final String fromEndpoint = "direct:getseason";
@@ -87,17 +83,11 @@ public class StatisticsServiceBean{
 				@Override
 				public void configure() throws Exception {
 					from(fromEndpoint)
+						.setHeader(Exchange.HTTP_METHOD, constant(HttpMethods.GET))
 						.setHeader("X-media-mis-token",
-								//TODO: Work out a way to get this value auto-magically with a call to afl.com.au
-								// At the moment we have to manually inspect headers to extract this value
-//								constant("ef65e0c7bd2946c03174e3ab7a018cd1"))
 							constant(token))
 						.recipientList(
 							simple("http4:www.afl.com.au/api/cfs/afl/season?seasonId=CD_S${body}014"))
-							// URL for a season
-							// http://www.afl.com.au/api/cfs/afl/season?seasonId=CD_S2014014
-							// URL for a player
-							// http4:www.afl.com.au/api/cfs/afl/statsCentre/players?competitionId=CD_S${body}014
 						;
 
 				}
@@ -124,9 +114,9 @@ public class StatisticsServiceBean{
 	 * Player profile for Dustin Fletcher
 	 * http://www.afl.com.au/api/cfs/afl/playerProfile/CD_I960197	
 	 */
-//	@GET
-//	@Path("/player-profile/{playerId}")
-//	@Produces(MediaType.APPLICATION_JSON)
+	@GET
+	@Path("/player-profile/{playerId}")
+	@Produces(MediaType.APPLICATION_JSON)
 	public Response getPlayerProfile(@PathParam("playerId") String playerId){
 		Response.ResponseBuilder responseBuilder = null;
 		final String fromEndpoint = "direct:getPlayerProfile";
@@ -165,9 +155,9 @@ public class StatisticsServiceBean{
 		return responseBuilder.build();
 	}
 	
-//	@GET
-//	@Path("/players/{year:[0-9][0-9][0-9][0-9]}")
-//	@Produces(MediaType.APPLICATION_JSON)
+	@GET
+	@Path("/players/{year:[0-9][0-9][0-9][0-9]}")
+	@Produces(MediaType.APPLICATION_JSON)
 	public Response getPlayersInYear(@PathParam("year") String year){
 		Response.ResponseBuilder responseBuilder = null;
 		final String fromEndpoint = "direct:getPlayerBySeason";
@@ -179,6 +169,7 @@ public class StatisticsServiceBean{
 				@Override
 				public void configure() throws Exception {
 					from(fromEndpoint)
+						.setHeader(Exchange.HTTP_METHOD, constant(HttpMethods.GET))
 						.setHeader("X-media-mis-token",
 							constant(token))
 						.recipientList(
@@ -219,13 +210,6 @@ public class StatisticsServiceBean{
 			@Override
 			public void configure() throws Exception {
 				from(fromEndpoint)
-//				.process(new Processor() {
-//					
-//					@Override
-//					public void process(Exchange exchange) throws Exception {
-//						log.info(exchange.getIn().getHeaders().toString());
-//					}
-//				})
 				.transform().jsonpath("lists[*].player.playerId", String.class)
 				.transform(body().regexReplaceAll("\\[", "").regexReplaceAll("\\]", ""))
 				.transform(body().regexReplaceAll("\"", ""))
@@ -246,7 +230,6 @@ public class StatisticsServiceBean{
 	 */
 //	public static void main(String args[]) throws Exception{
 	public static void getIndividualRecordOfEachPlayer(String args[]) throws Exception{
-//		final String fromEndpoint = "file:src/data/afl/players/list?fileName=playerListNoDuplicates.txt&noop=true";
 		final String fromEndpoint = "file:src/data/afl/players/list?fileName=playerList.txt&noop=true";
 		final String token = new StatisticsServiceBean().getToken();
 		Main main = new Main();
@@ -257,7 +240,6 @@ public class StatisticsServiceBean{
 			public void configure() throws Exception {
 				from(fromEndpoint)
 				.split(body().tokenize("\n"))
-				//.streaming()
 					.setHeader(Exchange.HTTP_METHOD, constant(HttpMethods.GET))
 					.setHeader("CamelFileName", simple("${body}"))
 						.setHeader("X-media-mis-token",
@@ -265,22 +247,7 @@ public class StatisticsServiceBean{
 						.recipientList(
 							simple("http4:www.afl.com.au/api/cfs/afl/playerProfile/${body}")
 							)
-//				.process(new Processor() {
-//					@Override
-//					public void process(Exchange exchange) throws Exception {
-//						String fileName = exchange.getIn().getHeader("CamelFileName", String.class);
-//						exchange.getOut().setHeader("CamelFileName", fileName);
-//					}
-//				})
 				.to("file://src/data//afl/player-profile")
-//				.process(new Processor() {
-//					
-//					@Override
-//					public void process(Exchange exchange) throws Exception {
-//						log.info(exchange.getIn().getHeaders().toString());
-//					}
-//				})
-				//.log("${body}")
 				;
 
 			}
