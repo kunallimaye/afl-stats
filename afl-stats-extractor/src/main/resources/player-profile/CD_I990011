@@ -1,0 +1,1506 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I990011",
+    "position" : "Rover",
+    "surname" : "Bolton",
+    "jumperNumber" : 24,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 9.6,
+      "handballs" : 8.4,
+      "disposals" : 17.9,
+      "marks" : 3.1,
+      "bounces" : 0.1,
+      "tackles" : 4.6,
+      "contestedPossessions" : 8.8,
+      "uncontestedPossessions" : 9.2,
+      "totalPossessions" : 18.1,
+      "inside50s" : 3.5,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.3,
+      "onePercenters" : 1.8,
+      "disposalEfficiency" : null,
+      "clangers" : 2.2,
+      "freesFor" : 1.4,
+      "freesAgainst" : 0.9,
+      "dreamTeamPoints" : 76.1,
+      "clearances" : {
+        "centreClearances" : 1.5,
+        "stoppageClearances" : 2.3,
+        "totalClearances" : 3.8
+      },
+      "rebound50s" : 0.8,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jude",
+    "bio" : "<p>The past season was filled with milestones for Bolton, who played a part in his second premiership and became just the third Swan to reach 300 games.&nbsp;<br>\n<br>\nSimilar to 2011, he played terrific football – including a career-high 41 disposals against the Western Bulldogs in round 10 – before being slowed down by a knee injury.&nbsp;<br>\n<br>\nHe returned just before the finals and played more than 20 games for the 11th time in his past 12 seasons.&nbsp;<br>\n<br>\nHe is just two games behind Michael O’Loughlin for second place on the club’s all-time list<br>\n<br>\n<b>Draft history: </b>1998 National AFL Draft 1st round selection (Sydney) No. 8 traded by Geelong for Jason Mooney.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/SydneySwans/Player Profiles/2013 Profiles/BOLTON Jude.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1980-03-15T02:00:00.000+0000",
+      "draftYear" : "1998",
+      "heightInCm" : 181,
+      "weightInKg" : 83,
+      "recruitedFrom" : "Aberfeldie/Calder U18",
+      "debutYear" : "1999"
+    },
+    "careerStats" : {
+      "goals" : 196.0,
+      "behinds" : 114.0,
+      "superGoals" : null,
+      "kicks" : 3112.0,
+      "handballs" : 2718.0,
+      "disposals" : 5830.0,
+      "marks" : 1006.0,
+      "bounces" : 39.0,
+      "tackles" : 1491.0,
+      "contestedPossessions" : 2870.0,
+      "uncontestedPossessions" : 3006.0,
+      "totalPossessions" : 5876.0,
+      "inside50s" : 1146.0,
+      "marksInside50" : 150.0,
+      "contestedMarks" : 82.0,
+      "hitouts" : 101.0,
+      "onePercenters" : 589.0,
+      "disposalEfficiency" : 71.8,
+      "clangers" : 712.0,
+      "freesFor" : 460.0,
+      "freesAgainst" : 294.0,
+      "dreamTeamPoints" : 24723.0,
+      "clearances" : {
+        "centreClearances" : 485.0,
+        "stoppageClearances" : 734.0,
+        "totalClearances" : 1219.0
+      },
+      "rebound50s" : 256.0,
+      "goalAssists" : 124.0,
+      "goalAccuracy" : 56.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 6.9,
+            "handballs" : 6.8,
+            "disposals" : 13.7,
+            "marks" : 2.9,
+            "bounces" : 0.1,
+            "tackles" : 3.8,
+            "contestedPossessions" : 6.3,
+            "uncontestedPossessions" : 7.5,
+            "totalPossessions" : 13.7,
+            "inside50s" : 2.7,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 63.3,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 29.0,
+            "behinds" : 17.0,
+            "superGoals" : null,
+            "kicks" : 166.0,
+            "handballs" : 164.0,
+            "disposals" : 330.0,
+            "marks" : 69.0,
+            "bounces" : 3.0,
+            "tackles" : 91.0,
+            "contestedPossessions" : 151.0,
+            "uncontestedPossessions" : 179.0,
+            "totalPossessions" : 330.0,
+            "inside50s" : 65.0,
+            "marksInside50" : 22.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 70.9,
+            "clangers" : 59.0,
+            "freesFor" : 22.0,
+            "freesAgainst" : 30.0,
+            "dreamTeamPoints" : 1520.0,
+            "clearances" : {
+              "centreClearances" : 11.0,
+              "stoppageClearances" : 16.0,
+              "totalClearances" : 27.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 56.9,
+            "ratingPoints" : 312.9,
+            "ranking" : 210.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 84.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 8.3,
+            "handballs" : 11.5,
+            "disposals" : 19.8,
+            "marks" : 3.2,
+            "bounces" : 0.1,
+            "tackles" : 5.3,
+            "contestedPossessions" : 9.2,
+            "uncontestedPossessions" : 10.6,
+            "totalPossessions" : 19.9,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 85.1,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 2.1,
+              "totalClearances" : 3.3
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 23.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 183.0,
+            "handballs" : 253.0,
+            "disposals" : 436.0,
+            "marks" : 70.0,
+            "bounces" : 2.0,
+            "tackles" : 117.0,
+            "contestedPossessions" : 203.0,
+            "uncontestedPossessions" : 234.0,
+            "totalPossessions" : 437.0,
+            "inside50s" : 71.0,
+            "marksInside50" : 14.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 45.0,
+            "disposalEfficiency" : 71.1,
+            "clangers" : 40.0,
+            "freesFor" : 24.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1873.0,
+            "clearances" : {
+              "centreClearances" : 26.0,
+              "stoppageClearances" : 47.0,
+              "totalClearances" : 73.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 62.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 82.0
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 10.5,
+            "handballs" : 9.0,
+            "disposals" : 19.5,
+            "marks" : 2.4,
+            "bounces" : 0.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 11.5,
+            "uncontestedPossessions" : 8.3,
+            "totalPossessions" : 19.7,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 1.9,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 89.1,
+            "clearances" : {
+              "centreClearances" : 1.9,
+              "stoppageClearances" : 2.8,
+              "totalClearances" : 4.6
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 19.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 230.0,
+            "handballs" : 199.0,
+            "disposals" : 429.0,
+            "marks" : 53.0,
+            "bounces" : 0.0,
+            "tackles" : 154.0,
+            "contestedPossessions" : 252.0,
+            "uncontestedPossessions" : 182.0,
+            "totalPossessions" : 434.0,
+            "inside50s" : 75.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 41.0,
+            "disposalEfficiency" : 62.5,
+            "clangers" : 59.0,
+            "freesFor" : 41.0,
+            "freesAgainst" : 24.0,
+            "dreamTeamPoints" : 1960.0,
+            "clearances" : {
+              "centreClearances" : 41.0,
+              "stoppageClearances" : 61.0,
+              "totalClearances" : 102.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 54.3,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 83.5
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 12.6,
+            "disposals" : 20.8,
+            "marks" : 2.8,
+            "bounces" : 0.1,
+            "tackles" : 5.7,
+            "contestedPossessions" : 10.7,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 20.6,
+            "inside50s" : 2.6,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 1.7,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 84.4,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.4
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 196.0,
+            "handballs" : 303.0,
+            "disposals" : 499.0,
+            "marks" : 67.0,
+            "bounces" : 2.0,
+            "tackles" : 138.0,
+            "contestedPossessions" : 256.0,
+            "uncontestedPossessions" : 239.0,
+            "totalPossessions" : 495.0,
+            "inside50s" : 62.0,
+            "marksInside50" : 14.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 68.3,
+            "clangers" : 50.0,
+            "freesFor" : 42.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 2026.0,
+            "clearances" : {
+              "centreClearances" : 34.0,
+              "stoppageClearances" : 71.0,
+              "totalClearances" : 105.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 15.0,
+            "goalAccuracy" : 51.7,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 82.5
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 10.4,
+            "handballs" : 11.0,
+            "disposals" : 21.4,
+            "marks" : 3.1,
+            "bounces" : 0.1,
+            "tackles" : 7.0,
+            "contestedPossessions" : 10.4,
+            "uncontestedPossessions" : 11.4,
+            "totalPossessions" : 21.7,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 2.2,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 94.3,
+            "clearances" : {
+              "centreClearances" : 1.7,
+              "stoppageClearances" : 3.3,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 228.0,
+            "handballs" : 243.0,
+            "disposals" : 471.0,
+            "marks" : 69.0,
+            "bounces" : 2.0,
+            "tackles" : 155.0,
+            "contestedPossessions" : 228.0,
+            "uncontestedPossessions" : 250.0,
+            "totalPossessions" : 478.0,
+            "inside50s" : 83.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 41.0,
+            "disposalEfficiency" : 69.0,
+            "clangers" : 50.0,
+            "freesFor" : 48.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 2074.0,
+            "clearances" : {
+              "centreClearances" : 38.0,
+              "stoppageClearances" : 73.0,
+              "totalClearances" : 111.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 54.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 82.7
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 10.1,
+            "handballs" : 9.6,
+            "disposals" : 19.7,
+            "marks" : 3.5,
+            "bounces" : 0.0,
+            "tackles" : 5.9,
+            "contestedPossessions" : 9.1,
+            "uncontestedPossessions" : 10.7,
+            "totalPossessions" : 19.9,
+            "inside50s" : 4.1,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.9,
+            "freesFor" : 1.5,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 84.4,
+            "clearances" : {
+              "centreClearances" : 1.8,
+              "stoppageClearances" : 2.5,
+              "totalClearances" : 4.3
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 243.0,
+            "handballs" : 231.0,
+            "disposals" : 474.0,
+            "marks" : 84.0,
+            "bounces" : 0.0,
+            "tackles" : 142.0,
+            "contestedPossessions" : 219.0,
+            "uncontestedPossessions" : 258.0,
+            "totalPossessions" : 477.0,
+            "inside50s" : 98.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 32.0,
+            "disposalEfficiency" : 70.0,
+            "clangers" : 69.0,
+            "freesFor" : 37.0,
+            "freesAgainst" : 33.0,
+            "dreamTeamPoints" : 2025.0,
+            "clearances" : {
+              "centreClearances" : 44.0,
+              "stoppageClearances" : 60.0,
+              "totalClearances" : 104.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 14.0,
+            "goalAccuracy" : 52.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 84.8
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 9.3,
+            "handballs" : 8.6,
+            "disposals" : 17.9,
+            "marks" : 2.9,
+            "bounces" : 0.1,
+            "tackles" : 4.6,
+            "contestedPossessions" : 10.0,
+            "uncontestedPossessions" : 8.4,
+            "totalPossessions" : 18.4,
+            "inside50s" : 3.1,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 73.6,
+            "clearances" : {
+              "centreClearances" : 2.1,
+              "stoppageClearances" : 2.4,
+              "totalClearances" : 4.6
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 214.0,
+            "handballs" : 198.0,
+            "disposals" : 412.0,
+            "marks" : 66.0,
+            "bounces" : 2.0,
+            "tackles" : 105.0,
+            "contestedPossessions" : 231.0,
+            "uncontestedPossessions" : 193.0,
+            "totalPossessions" : 424.0,
+            "inside50s" : 71.0,
+            "marksInside50" : 12.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 38.0,
+            "disposalEfficiency" : 71.6,
+            "clangers" : 45.0,
+            "freesFor" : 46.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1692.0,
+            "clearances" : {
+              "centreClearances" : 49.0,
+              "stoppageClearances" : 56.0,
+              "totalClearances" : 105.0
+            },
+            "rebound50s" : 17.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 81.4
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 12.3,
+            "handballs" : 6.4,
+            "disposals" : 18.7,
+            "marks" : 3.1,
+            "bounces" : 0.2,
+            "tackles" : 5.4,
+            "contestedPossessions" : 9.3,
+            "uncontestedPossessions" : 9.4,
+            "totalPossessions" : 18.7,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.4,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 82.0,
+            "clearances" : {
+              "centreClearances" : 2.4,
+              "stoppageClearances" : 2.6,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 308.0,
+            "handballs" : 160.0,
+            "disposals" : 468.0,
+            "marks" : 77.0,
+            "bounces" : 4.0,
+            "tackles" : 134.0,
+            "contestedPossessions" : 233.0,
+            "uncontestedPossessions" : 234.0,
+            "totalPossessions" : 467.0,
+            "inside50s" : 96.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 52.0,
+            "disposalEfficiency" : 69.9,
+            "clangers" : 55.0,
+            "freesFor" : 36.0,
+            "freesAgainst" : 26.0,
+            "dreamTeamPoints" : 2049.0,
+            "clearances" : {
+              "centreClearances" : 60.0,
+              "stoppageClearances" : 66.0,
+              "totalClearances" : 126.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 81.1
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 11.2,
+            "handballs" : 7.6,
+            "disposals" : 18.8,
+            "marks" : 3.3,
+            "bounces" : 0.5,
+            "tackles" : 5.1,
+            "contestedPossessions" : 9.5,
+            "uncontestedPossessions" : 9.4,
+            "totalPossessions" : 19.0,
+            "inside50s" : 4.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.4,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 1.4,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 78.0,
+            "clearances" : {
+              "centreClearances" : 2.1,
+              "stoppageClearances" : 2.7,
+              "totalClearances" : 4.8
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 270.0,
+            "handballs" : 182.0,
+            "disposals" : 452.0,
+            "marks" : 80.0,
+            "bounces" : 13.0,
+            "tackles" : 122.0,
+            "contestedPossessions" : 229.0,
+            "uncontestedPossessions" : 226.0,
+            "totalPossessions" : 455.0,
+            "inside50s" : 117.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 10.0,
+            "onePercenters" : 68.0,
+            "disposalEfficiency" : 75.4,
+            "clangers" : 62.0,
+            "freesFor" : 34.0,
+            "freesAgainst" : 32.0,
+            "dreamTeamPoints" : 1873.0,
+            "clearances" : {
+              "centreClearances" : 50.0,
+              "stoppageClearances" : 66.0,
+              "totalClearances" : 116.0
+            },
+            "rebound50s" : 22.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 84.0
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 11.7,
+            "handballs" : 8.8,
+            "disposals" : 20.5,
+            "marks" : 3.5,
+            "bounces" : 0.0,
+            "tackles" : 4.2,
+            "contestedPossessions" : 9.8,
+            "uncontestedPossessions" : 10.7,
+            "totalPossessions" : 20.5,
+            "inside50s" : 3.7,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 1.7,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 83.9,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 2.9,
+              "totalClearances" : 4.2
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 280.0,
+            "handballs" : 211.0,
+            "disposals" : 491.0,
+            "marks" : 83.0,
+            "bounces" : 1.0,
+            "tackles" : 102.0,
+            "contestedPossessions" : 235.0,
+            "uncontestedPossessions" : 258.0,
+            "totalPossessions" : 493.0,
+            "inside50s" : 88.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 40.0,
+            "onePercenters" : 60.0,
+            "disposalEfficiency" : 71.1,
+            "clangers" : 53.0,
+            "freesFor" : 35.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 2013.0,
+            "clearances" : {
+              "centreClearances" : 33.0,
+              "stoppageClearances" : 69.0,
+              "totalClearances" : 102.0
+            },
+            "rebound50s" : 29.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 87.2
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 11.1,
+            "handballs" : 8.8,
+            "disposals" : 19.9,
+            "marks" : 4.3,
+            "bounces" : 0.1,
+            "tackles" : 3.2,
+            "contestedPossessions" : 9.8,
+            "uncontestedPossessions" : 10.5,
+            "totalPossessions" : 20.3,
+            "inside50s" : 4.1,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.9,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.7,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 80.1,
+            "clearances" : {
+              "centreClearances" : 1.7,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.8
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 266.0,
+            "handballs" : 212.0,
+            "disposals" : 478.0,
+            "marks" : 104.0,
+            "bounces" : 3.0,
+            "tackles" : 76.0,
+            "contestedPossessions" : 235.0,
+            "uncontestedPossessions" : 252.0,
+            "totalPossessions" : 487.0,
+            "inside50s" : 99.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 21.0,
+            "onePercenters" : 57.0,
+            "disposalEfficiency" : 80.5,
+            "clangers" : 46.0,
+            "freesFor" : 42.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1922.0,
+            "clearances" : {
+              "centreClearances" : 42.0,
+              "stoppageClearances" : 73.0,
+              "totalClearances" : 115.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 17.0,
+            "goalAccuracy" : 59.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 86.6
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 7.3,
+            "handballs" : 6.5,
+            "disposals" : 13.8,
+            "marks" : 3.1,
+            "bounces" : 0.1,
+            "tackles" : 3.5,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 8.1,
+            "totalPossessions" : 13.9,
+            "inside50s" : 3.3,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.4,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 60.6,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 139.0,
+            "handballs" : 124.0,
+            "disposals" : 263.0,
+            "marks" : 58.0,
+            "bounces" : 2.0,
+            "tackles" : 67.0,
+            "contestedPossessions" : 111.0,
+            "uncontestedPossessions" : 154.0,
+            "totalPossessions" : 265.0,
+            "inside50s" : 62.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 35.0,
+            "disposalEfficiency" : 74.5,
+            "clangers" : 40.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1151.0,
+            "clearances" : {
+              "centreClearances" : 20.0,
+              "stoppageClearances" : 22.0,
+              "totalClearances" : 42.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 47.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 5.3,
+            "disposals" : 14.0,
+            "marks" : 3.1,
+            "bounces" : 0.1,
+            "tackles" : 2.0,
+            "contestedPossessions" : 5.9,
+            "uncontestedPossessions" : 8.1,
+            "totalPossessions" : 14.0,
+            "inside50s" : 3.3,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 57.1,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 199.0,
+            "handballs" : 122.0,
+            "disposals" : 321.0,
+            "marks" : 72.0,
+            "bounces" : 3.0,
+            "tackles" : 47.0,
+            "contestedPossessions" : 135.0,
+            "uncontestedPossessions" : 186.0,
+            "totalPossessions" : 321.0,
+            "inside50s" : 77.0,
+            "marksInside50" : 12.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 75.4,
+            "clangers" : 38.0,
+            "freesFor" : 22.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1313.0,
+            "clearances" : {
+              "centreClearances" : 19.0,
+              "stoppageClearances" : 26.0,
+              "totalClearances" : 45.0
+            },
+            "rebound50s" : 20.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990011",
+            "playerName" : {
+              "givenName" : "Jude",
+              "surname" : "Bolton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 29.0,
+      "behinds" : 17.0,
+      "superGoals" : null,
+      "kicks" : 166.0,
+      "handballs" : 164.0,
+      "disposals" : 330.0,
+      "marks" : 69.0,
+      "bounces" : 3.0,
+      "tackles" : 91.0,
+      "contestedPossessions" : 151.0,
+      "uncontestedPossessions" : 179.0,
+      "totalPossessions" : 330.0,
+      "inside50s" : 65.0,
+      "marksInside50" : 22.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 18.0,
+      "disposalEfficiency" : 70.9,
+      "clangers" : 59.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 30.0,
+      "dreamTeamPoints" : 1520.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 27.0
+      },
+      "rebound50s" : 4.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 56.9,
+      "ratingPoints" : 312.9,
+      "ranking" : 210.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201301427",
+      "player" : {
+        "playerId" : "CD_I990011",
+        "playerName" : {
+          "givenName" : "Jude",
+          "surname" : "Bolton"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T160",
+        "teamAbbr" : "SYD",
+        "teamName" : "Sydney Swans",
+        "teamNickname" : "Swans"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 312.0,
+        "ranking" : 209,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 312.0,
+        "ranking" : 17,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 312.0,
+        "ranking" : 107,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 325
+  }
+}

@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280568",
+    "position" : "Left Forward Pocket",
+    "surname" : "Johnston",
+    "jumperNumber" : 8,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.6,
+      "behinds" : 0.9,
+      "superGoals" : null,
+      "kicks" : 8.2,
+      "handballs" : 2.9,
+      "disposals" : 11.1,
+      "marks" : 3.7,
+      "bounces" : 0.0,
+      "tackles" : 2.3,
+      "contestedPossessions" : 4.0,
+      "uncontestedPossessions" : 6.6,
+      "totalPossessions" : 10.6,
+      "inside50s" : 2.5,
+      "marksInside50" : 1.2,
+      "contestedMarks" : 0.4,
+      "hitouts" : 0.5,
+      "onePercenters" : 1.5,
+      "disposalEfficiency" : null,
+      "clangers" : 2.3,
+      "freesFor" : 1.4,
+      "freesAgainst" : 1.3,
+      "dreamTeamPoints" : 59.2,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.1,
+        "totalClearances" : 0.1
+      },
+      "rebound50s" : 0.5,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Lewis",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-03-03T02:00:00.000+0000",
+      "draftYear" : "2008",
+      "heightInCm" : 193,
+      "weightInKg" : 91,
+      "recruitedFrom" : "North Adelaide (SA)",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 16.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 82.0,
+      "handballs" : 29.0,
+      "disposals" : 111.0,
+      "marks" : 37.0,
+      "bounces" : 0.0,
+      "tackles" : 23.0,
+      "contestedPossessions" : 40.0,
+      "uncontestedPossessions" : 66.0,
+      "totalPossessions" : 106.0,
+      "inside50s" : 25.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 5.0,
+      "onePercenters" : 15.0,
+      "disposalEfficiency" : 70.3,
+      "clangers" : 23.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 592.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 5.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 53.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 3.0,
+            "disposals" : 10.5,
+            "marks" : 2.5,
+            "bounces" : 0.0,
+            "tackles" : 2.5,
+            "contestedPossessions" : 2.5,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 9.5,
+            "inside50s" : 2.5,
+            "marksInside50" : 1.5,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 57.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280568",
+            "playerName" : {
+              "givenName" : "Lewis",
+              "surname" : "Johnston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 15.0,
+            "handballs" : 6.0,
+            "disposals" : 21.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 14.0,
+            "totalPossessions" : 19.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 76.2,
+            "clangers" : 3.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 115.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 80.0,
+            "ratingPoints" : 71.9,
+            "ranking" : 539.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280568",
+            "playerName" : {
+              "givenName" : "Lewis",
+              "surname" : "Johnston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 70.3
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.2,
+            "behinds" : 1.6,
+            "superGoals" : null,
+            "kicks" : 10.2,
+            "handballs" : 3.0,
+            "disposals" : 13.2,
+            "marks" : 4.4,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 7.6,
+            "totalPossessions" : 12.6,
+            "inside50s" : 3.2,
+            "marksInside50" : 1.6,
+            "contestedMarks" : 0.6,
+            "hitouts" : 1.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.8,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 75.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280568",
+            "playerName" : {
+              "givenName" : "Lewis",
+              "surname" : "Johnston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 51.0,
+            "handballs" : 15.0,
+            "disposals" : 66.0,
+            "marks" : 22.0,
+            "bounces" : 0.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 25.0,
+            "uncontestedPossessions" : 38.0,
+            "totalPossessions" : 63.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 68.2,
+            "clangers" : 12.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 379.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 54.9,
+            "ranking" : 579.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280568",
+            "playerName" : {
+              "givenName" : "Lewis",
+              "surname" : "Johnston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 91.2
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 1.0,
+            "disposals" : 7.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 8.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 34.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280568",
+            "playerName" : {
+              "givenName" : "Lewis",
+              "surname" : "Johnston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 1.0,
+            "disposals" : 7.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 8.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 85.7,
+            "clangers" : 2.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 34.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280568",
+            "playerName" : {
+              "givenName" : "Lewis",
+              "surname" : "Johnston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 64.8
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 3.5,
+            "disposals" : 8.5,
+            "marks" : 2.5,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 8.5,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 32.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280568",
+            "playerName" : {
+              "givenName" : "Lewis",
+              "surname" : "Johnston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 7.0,
+            "disposals" : 17.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 9.0,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 17.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 64.7,
+            "clangers" : 6.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 64.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280568",
+            "playerName" : {
+              "givenName" : "Lewis",
+              "surname" : "Johnston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 78.2
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280568",
+            "playerName" : {
+              "givenName" : "Lewis",
+              "surname" : "Johnston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280568",
+            "playerName" : {
+              "givenName" : "Lewis",
+              "surname" : "Johnston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280568",
+            "playerName" : {
+              "givenName" : "Lewis",
+              "surname" : "Johnston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280568",
+            "playerName" : {
+              "givenName" : "Lewis",
+              "surname" : "Johnston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 4.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 15.0,
+      "handballs" : 6.0,
+      "disposals" : 21.0,
+      "marks" : 5.0,
+      "bounces" : 0.0,
+      "tackles" : 5.0,
+      "contestedPossessions" : 5.0,
+      "uncontestedPossessions" : 14.0,
+      "totalPossessions" : 19.0,
+      "inside50s" : 5.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 3.0,
+      "disposalEfficiency" : 76.2,
+      "clangers" : 3.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 115.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 80.0,
+      "ratingPoints" : 71.9,
+      "ranking" : 539.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201401427",
+      "player" : {
+        "playerId" : "CD_I280568",
+        "playerName" : {
+          "givenName" : "Lewis",
+          "surname" : "Johnston"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T10",
+        "teamAbbr" : "ADEL",
+        "teamName" : "Adelaide Crows",
+        "teamNickname" : "Crows"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 71.9,
+        "ranking" : 541,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 71.9,
+        "ranking" : 31,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 71.9,
+        "ranking" : 52,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 21.8,
+        "ranking" : 569,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2008"
+    },
+    "careerGamesPlayed" : 10
+  }
+}

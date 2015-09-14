@@ -1,0 +1,1619 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I220036",
+    "position" : "Interchange",
+    "surname" : "Hale",
+    "jumperNumber" : 20,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.9,
+      "behinds" : 0.6,
+      "superGoals" : null,
+      "kicks" : 5.7,
+      "handballs" : 5.0,
+      "disposals" : 10.7,
+      "marks" : 4.2,
+      "bounces" : 0.0,
+      "tackles" : 2.0,
+      "contestedPossessions" : 5.6,
+      "uncontestedPossessions" : 5.3,
+      "totalPossessions" : 10.8,
+      "inside50s" : 1.4,
+      "marksInside50" : 1.3,
+      "contestedMarks" : 1.1,
+      "hitouts" : 12.1,
+      "onePercenters" : 1.7,
+      "disposalEfficiency" : null,
+      "clangers" : 1.6,
+      "freesFor" : 1.0,
+      "freesAgainst" : 1.1,
+      "dreamTeamPoints" : 63.6,
+      "clearances" : {
+        "centreClearances" : 0.6,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.6
+      },
+      "rebound50s" : 0.4,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "David",
+    "bio" : "<p>The best thing for the experienced forward/ruckman in 2014 was to spend time in the VFL mid-season after a few quiet weeks at AFL level. He regained form and confidence in the nick of time and reclaimed his senior berth in the run to the finals. He led the Hawks in hit-outs and was fourth for contested marks and marks inside 50. Another who played well through the finals, Hale has made the most of his chances since joining the Hawks at the end of 2010.</p>\n<p><strong>Draft history:</strong> 2001 National AFL Draft 1st round selection (North Melbourne) No. 7 overall; 2010 NAB AFL Draft traded by North Melbourne for No. 27 (Kieran Harper) and No. 71 (Ben Mabon).</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Hawthorn/Player Profiles/2015 - Profiles/HALE David.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1984-05-22T02:00:00.000+0000",
+      "draftYear" : "2001",
+      "heightInCm" : 201,
+      "weightInKg" : 102,
+      "recruitedFrom" : "Broadbeach (Qld)/North Melb",
+      "debutYear" : "2003"
+    },
+    "careerStats" : {
+      "goals" : 216.0,
+      "behinds" : 142.0,
+      "superGoals" : null,
+      "kicks" : 1329.0,
+      "handballs" : 1167.0,
+      "disposals" : 2496.0,
+      "marks" : 981.0,
+      "bounces" : 7.0,
+      "tackles" : 460.0,
+      "contestedPossessions" : 1306.0,
+      "uncontestedPossessions" : 1231.0,
+      "totalPossessions" : 2537.0,
+      "inside50s" : 317.0,
+      "marksInside50" : 298.0,
+      "contestedMarks" : 266.0,
+      "hitouts" : 2830.0,
+      "onePercenters" : 409.0,
+      "disposalEfficiency" : 72.1,
+      "clangers" : 377.0,
+      "freesFor" : 241.0,
+      "freesAgainst" : 247.0,
+      "dreamTeamPoints" : 14872.0,
+      "clearances" : {
+        "centreClearances" : 133.0,
+        "stoppageClearances" : 245.0,
+        "totalClearances" : 378.0
+      },
+      "rebound50s" : 88.0,
+      "goalAssists" : 94.0,
+      "goalAccuracy" : 54.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 3.7,
+            "handballs" : 6.1,
+            "disposals" : 9.7,
+            "marks" : 2.5,
+            "bounces" : 0.1,
+            "tackles" : 2.4,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 4.3,
+            "totalPossessions" : 9.9,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.6,
+            "hitouts" : 17.5,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.2,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 59.8,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 2.1
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 55.0,
+            "handballs" : 91.0,
+            "disposals" : 146.0,
+            "marks" : 37.0,
+            "bounces" : 1.0,
+            "tackles" : 36.0,
+            "contestedPossessions" : 84.0,
+            "uncontestedPossessions" : 65.0,
+            "totalPossessions" : 149.0,
+            "inside50s" : 11.0,
+            "marksInside50" : 12.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 263.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 76.7,
+            "clangers" : 30.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 897.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 23.0,
+              "totalClearances" : 31.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : 296.7,
+            "ranking" : 233.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 72.8
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 4.6,
+            "handballs" : 5.6,
+            "disposals" : 10.2,
+            "marks" : 3.5,
+            "bounces" : 0.0,
+            "tackles" : 2.5,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 4.8,
+            "totalPossessions" : 10.5,
+            "inside50s" : 1.2,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 0.9,
+            "hitouts" : 16.4,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 66.5,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 22.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 101.0,
+            "handballs" : 123.0,
+            "disposals" : 224.0,
+            "marks" : 77.0,
+            "bounces" : 0.0,
+            "tackles" : 55.0,
+            "contestedPossessions" : 127.0,
+            "uncontestedPossessions" : 105.0,
+            "totalPossessions" : 232.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 26.0,
+            "contestedMarks" : 19.0,
+            "hitouts" : 360.0,
+            "onePercenters" : 39.0,
+            "disposalEfficiency" : 71.9,
+            "clangers" : 31.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 1464.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 27.0,
+              "totalClearances" : 34.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 14.0,
+            "goalAccuracy" : 61.1,
+            "ratingPoints" : 313.6,
+            "ranking" : 211.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 82.8
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 1.1,
+            "superGoals" : null,
+            "kicks" : 5.8,
+            "handballs" : 7.2,
+            "disposals" : 13.0,
+            "marks" : 4.1,
+            "bounces" : 0.0,
+            "tackles" : 2.5,
+            "contestedPossessions" : 7.7,
+            "uncontestedPossessions" : 5.8,
+            "totalPossessions" : 13.5,
+            "inside50s" : 1.7,
+            "marksInside50" : 1.3,
+            "contestedMarks" : 1.3,
+            "hitouts" : 16.9,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.6,
+            "dreamTeamPoints" : 73.3,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 20.0,
+            "behinds" : 26.0,
+            "superGoals" : null,
+            "kicks" : 139.0,
+            "handballs" : 174.0,
+            "disposals" : 313.0,
+            "marks" : 98.0,
+            "bounces" : 0.0,
+            "tackles" : 60.0,
+            "contestedPossessions" : 185.0,
+            "uncontestedPossessions" : 140.0,
+            "totalPossessions" : 325.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 32.0,
+            "contestedMarks" : 32.0,
+            "hitouts" : 405.0,
+            "onePercenters" : 48.0,
+            "disposalEfficiency" : 70.6,
+            "clangers" : 52.0,
+            "freesFor" : 24.0,
+            "freesAgainst" : 38.0,
+            "dreamTeamPoints" : 1760.0,
+            "clearances" : {
+              "centreClearances" : 19.0,
+              "stoppageClearances" : 35.0,
+              "totalClearances" : 54.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 15.0,
+            "goalAccuracy" : 40.8,
+            "ratingPoints" : 353.1,
+            "ranking" : 156.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 85.4
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 5.8,
+            "handballs" : 8.0,
+            "disposals" : 13.8,
+            "marks" : 3.9,
+            "bounces" : 0.0,
+            "tackles" : 2.2,
+            "contestedPossessions" : 8.0,
+            "uncontestedPossessions" : 6.3,
+            "totalPossessions" : 14.3,
+            "inside50s" : 1.6,
+            "marksInside50" : 1.4,
+            "contestedMarks" : 1.4,
+            "hitouts" : 22.8,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 1.2,
+            "freesAgainst" : 1.6,
+            "dreamTeamPoints" : 80.0,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 2.1,
+              "totalClearances" : 2.8
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 24.0,
+            "behinds" : 18.0,
+            "superGoals" : null,
+            "kicks" : 139.0,
+            "handballs" : 192.0,
+            "disposals" : 331.0,
+            "marks" : 94.0,
+            "bounces" : 1.0,
+            "tackles" : 54.0,
+            "contestedPossessions" : 193.0,
+            "uncontestedPossessions" : 151.0,
+            "totalPossessions" : 344.0,
+            "inside50s" : 38.0,
+            "marksInside50" : 33.0,
+            "contestedMarks" : 33.0,
+            "hitouts" : 547.0,
+            "onePercenters" : 65.0,
+            "disposalEfficiency" : 70.7,
+            "clangers" : 59.0,
+            "freesFor" : 28.0,
+            "freesAgainst" : 39.0,
+            "dreamTeamPoints" : 1919.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 50.0,
+              "totalClearances" : 67.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 15.0,
+            "goalAccuracy" : 53.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 81.9
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 5.7,
+            "handballs" : 6.2,
+            "disposals" : 12.0,
+            "marks" : 4.9,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 6.3,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 12.3,
+            "inside50s" : 1.8,
+            "marksInside50" : 1.6,
+            "contestedMarks" : 1.7,
+            "hitouts" : 13.6,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.1,
+            "freesAgainst" : 1.6,
+            "dreamTeamPoints" : 68.9,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 19.0,
+            "behinds" : 15.0,
+            "superGoals" : null,
+            "kicks" : 115.0,
+            "handballs" : 125.0,
+            "disposals" : 240.0,
+            "marks" : 98.0,
+            "bounces" : 0.0,
+            "tackles" : 41.0,
+            "contestedPossessions" : 127.0,
+            "uncontestedPossessions" : 120.0,
+            "totalPossessions" : 247.0,
+            "inside50s" : 36.0,
+            "marksInside50" : 32.0,
+            "contestedMarks" : 35.0,
+            "hitouts" : 273.0,
+            "onePercenters" : 38.0,
+            "disposalEfficiency" : 65.8,
+            "clangers" : 49.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 33.0,
+            "dreamTeamPoints" : 1379.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 18.0,
+              "totalClearances" : 24.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 51.4,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 75.0
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.4,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 4.8,
+            "handballs" : 2.8,
+            "disposals" : 7.7,
+            "marks" : 2.8,
+            "bounces" : 0.0,
+            "tackles" : 1.4,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 3.7,
+            "totalPossessions" : 7.7,
+            "inside50s" : 0.5,
+            "marksInside50" : 1.4,
+            "contestedMarks" : 0.9,
+            "hitouts" : 3.2,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 1.3,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 44.5,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 58.0,
+            "handballs" : 34.0,
+            "disposals" : 92.0,
+            "marks" : 34.0,
+            "bounces" : 0.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 48.0,
+            "uncontestedPossessions" : 45.0,
+            "totalPossessions" : 93.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 17.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 38.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 66.3,
+            "clangers" : 19.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 534.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 54.8,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 77.7
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.4,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 5.9,
+            "handballs" : 2.8,
+            "disposals" : 8.7,
+            "marks" : 4.9,
+            "bounces" : 0.0,
+            "tackles" : 1.3,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 8.7,
+            "inside50s" : 1.2,
+            "marksInside50" : 1.9,
+            "contestedMarks" : 1.3,
+            "hitouts" : 3.4,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 53.7,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 22.0,
+            "behinds" : 13.0,
+            "superGoals" : null,
+            "kicks" : 94.0,
+            "handballs" : 45.0,
+            "disposals" : 139.0,
+            "marks" : 79.0,
+            "bounces" : 0.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 59.0,
+            "uncontestedPossessions" : 80.0,
+            "totalPossessions" : 139.0,
+            "inside50s" : 20.0,
+            "marksInside50" : 31.0,
+            "contestedMarks" : 21.0,
+            "hitouts" : 54.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 66.2,
+            "clangers" : 21.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 859.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 57.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 84.3
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.7,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 7.1,
+            "handballs" : 4.3,
+            "disposals" : 11.4,
+            "marks" : 5.9,
+            "bounces" : 0.1,
+            "tackles" : 1.7,
+            "contestedPossessions" : 6.2,
+            "uncontestedPossessions" : 5.3,
+            "totalPossessions" : 11.5,
+            "inside50s" : 1.4,
+            "marksInside50" : 2.2,
+            "contestedMarks" : 1.9,
+            "hitouts" : 8.5,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.5,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 72.5,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 37.0,
+            "behinds" : 19.0,
+            "superGoals" : null,
+            "kicks" : 156.0,
+            "handballs" : 94.0,
+            "disposals" : 250.0,
+            "marks" : 130.0,
+            "bounces" : 2.0,
+            "tackles" : 38.0,
+            "contestedPossessions" : 136.0,
+            "uncontestedPossessions" : 117.0,
+            "totalPossessions" : 253.0,
+            "inside50s" : 30.0,
+            "marksInside50" : 48.0,
+            "contestedMarks" : 41.0,
+            "hitouts" : 187.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 70.8,
+            "clangers" : 37.0,
+            "freesFor" : 33.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1596.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 25.0,
+              "totalClearances" : 33.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 62.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 80.8
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 6.1,
+            "handballs" : 4.9,
+            "disposals" : 11.0,
+            "marks" : 4.3,
+            "bounces" : 0.0,
+            "tackles" : 1.9,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 5.5,
+            "totalPossessions" : 10.7,
+            "inside50s" : 1.7,
+            "marksInside50" : 1.3,
+            "contestedMarks" : 1.2,
+            "hitouts" : 8.3,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 59.8,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 122.0,
+            "handballs" : 99.0,
+            "disposals" : 221.0,
+            "marks" : 87.0,
+            "bounces" : 0.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 104.0,
+            "uncontestedPossessions" : 111.0,
+            "totalPossessions" : 215.0,
+            "inside50s" : 34.0,
+            "marksInside50" : 26.0,
+            "contestedMarks" : 24.0,
+            "hitouts" : 166.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 75.6,
+            "clangers" : 28.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 1197.0,
+            "clearances" : {
+              "centreClearances" : 16.0,
+              "stoppageClearances" : 18.0,
+              "totalClearances" : 34.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 48.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 73.4
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 3.8,
+            "disposals" : 11.4,
+            "marks" : 5.5,
+            "bounces" : 0.1,
+            "tackles" : 1.9,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 6.4,
+            "totalPossessions" : 11.4,
+            "inside50s" : 1.2,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.7,
+            "hitouts" : 11.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 67.5,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.1
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 166.0,
+            "handballs" : 84.0,
+            "disposals" : 250.0,
+            "marks" : 120.0,
+            "bounces" : 2.0,
+            "tackles" : 42.0,
+            "contestedPossessions" : 109.0,
+            "uncontestedPossessions" : 141.0,
+            "totalPossessions" : 250.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 23.0,
+            "contestedMarks" : 15.0,
+            "hitouts" : 243.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 72.8,
+            "clangers" : 25.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1485.0,
+            "clearances" : {
+              "centreClearances" : 25.0,
+              "stoppageClearances" : 22.0,
+              "totalClearances" : 47.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 40.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 77.3
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.7,
+            "handballs" : 3.3,
+            "disposals" : 9.0,
+            "marks" : 3.7,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 4.8,
+            "totalPossessions" : 9.1,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.6,
+            "hitouts" : 9.7,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 0.8,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 57.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 132.0,
+            "handballs" : 76.0,
+            "disposals" : 208.0,
+            "marks" : 86.0,
+            "bounces" : 1.0,
+            "tackles" : 46.0,
+            "contestedPossessions" : 99.0,
+            "uncontestedPossessions" : 110.0,
+            "totalPossessions" : 209.0,
+            "inside50s" : 33.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 224.0,
+            "onePercenters" : 63.0,
+            "disposalEfficiency" : 83.2,
+            "clangers" : 18.0,
+            "freesFor" : 32.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 1311.0,
+            "clearances" : {
+              "centreClearances" : 22.0,
+              "stoppageClearances" : 17.0,
+              "totalClearances" : 39.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 82.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 67.9
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 4.3,
+            "handballs" : 2.5,
+            "disposals" : 6.7,
+            "marks" : 3.4,
+            "bounces" : 0.0,
+            "tackles" : 0.9,
+            "contestedPossessions" : 2.6,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 6.6,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.9,
+            "hitouts" : 5.6,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 0.6,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 38.9,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 47.0,
+            "handballs" : 27.0,
+            "disposals" : 74.0,
+            "marks" : 37.0,
+            "bounces" : 0.0,
+            "tackles" : 10.0,
+            "contestedPossessions" : 29.0,
+            "uncontestedPossessions" : 44.0,
+            "totalPossessions" : 73.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 62.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 74.3,
+            "clangers" : 7.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 428.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 59.0
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 1.7,
+            "handballs" : 1.0,
+            "disposals" : 2.7,
+            "marks" : 1.3,
+            "bounces" : 0.0,
+            "tackles" : 0.3,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 0.7,
+            "totalPossessions" : 2.7,
+            "inside50s" : 0.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 2.7,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.3,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 14.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 3.0,
+            "disposals" : 8.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 2.0,
+            "totalPossessions" : 8.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 8.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 75.0,
+            "clangers" : 1.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 43.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 22.7
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220036",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Hale"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 12.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 55.0,
+      "handballs" : 91.0,
+      "disposals" : 146.0,
+      "marks" : 37.0,
+      "bounces" : 1.0,
+      "tackles" : 36.0,
+      "contestedPossessions" : 84.0,
+      "uncontestedPossessions" : 65.0,
+      "totalPossessions" : 149.0,
+      "inside50s" : 11.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 263.0,
+      "onePercenters" : 26.0,
+      "disposalEfficiency" : 76.7,
+      "clangers" : 30.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 897.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 8.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 60.0,
+      "ratingPoints" : 296.7,
+      "ranking" : 233.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I220036",
+        "playerName" : {
+          "givenName" : "David",
+          "surname" : "Hale"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T80",
+        "teamAbbr" : "HAW",
+        "teamName" : "Hawthorn",
+        "teamNickname" : "Hawks"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 293.1,
+        "ranking" : 240,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 293.1,
+        "ranking" : 18,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 293.1,
+        "ranking" : 13,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 7.0,
+        "ranking" : 110,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 113.8,
+        "ranking" : 331,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2001"
+    },
+    "careerGamesPlayed" : 234
+  }
+}

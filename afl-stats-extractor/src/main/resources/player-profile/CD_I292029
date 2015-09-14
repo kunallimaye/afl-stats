@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I292029",
+    "position" : "Centre Half Forward",
+    "surname" : "Pedersen",
+    "jumperNumber" : 21,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.9,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 7.6,
+      "handballs" : 5.7,
+      "disposals" : 13.3,
+      "marks" : 5.0,
+      "bounces" : 0.1,
+      "tackles" : 2.6,
+      "contestedPossessions" : 5.7,
+      "uncontestedPossessions" : 7.8,
+      "totalPossessions" : 13.4,
+      "inside50s" : 2.2,
+      "marksInside50" : 1.1,
+      "contestedMarks" : 1.2,
+      "hitouts" : 3.1,
+      "onePercenters" : 3.6,
+      "disposalEfficiency" : null,
+      "clangers" : 2.0,
+      "freesFor" : 0.8,
+      "freesAgainst" : 0.9,
+      "dreamTeamPoints" : 66.7,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.4,
+        "totalClearances" : 0.7
+      },
+      "rebound50s" : 1.5,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Cameron",
+    "bio" : "<p>Enjoyed an excellent first half of the season playing multiple roles and covering areas exposed through injury. The club was rapt with his efforts in the middle of the year, using his strength to good effect and assisting Melbourne’s key talls. Although he dropped off late in the season, he was an important player. The challenge is to keep developing as the team develops and attempt to fill the ruck-forward position permanently.<br>\n<br>\n<b>Previous AFL club: </b>North Melbourne (2011-12: 16 games, 20 goals).<br>\n<br>\n<b>Draft history: </b>2011 Rookie Draft selection (North Melbourne) No. 17; 2011 NAB AFL Draft rookie elevation (North Melbourne) selection No. 84; 2012 NAB AFL Draft traded by North Melbourne for Jordan Gysberts and No. 61 (Taylor Hine).</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Melbourne/Player Profiles/2015 - Profiles/PEDERSEN Cameron.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1987-03-17T02:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 193,
+      "weightInKg" : 96,
+      "recruitedFrom" : "Box Hill Hawks",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 45.0,
+      "behinds" : 23.0,
+      "superGoals" : null,
+      "kicks" : 395.0,
+      "handballs" : 295.0,
+      "disposals" : 690.0,
+      "marks" : 260.0,
+      "bounces" : 7.0,
+      "tackles" : 137.0,
+      "contestedPossessions" : 294.0,
+      "uncontestedPossessions" : 405.0,
+      "totalPossessions" : 699.0,
+      "inside50s" : 112.0,
+      "marksInside50" : 56.0,
+      "contestedMarks" : 63.0,
+      "hitouts" : 163.0,
+      "onePercenters" : 187.0,
+      "disposalEfficiency" : 78.3,
+      "clangers" : 106.0,
+      "freesFor" : 44.0,
+      "freesAgainst" : 45.0,
+      "dreamTeamPoints" : 3468.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 35.0
+      },
+      "rebound50s" : 80.0,
+      "goalAssists" : 27.0,
+      "goalAccuracy" : 59.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 6.6,
+            "handballs" : 6.0,
+            "disposals" : 12.6,
+            "marks" : 5.3,
+            "bounces" : 0.0,
+            "tackles" : 2.6,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 12.6,
+            "inside50s" : 2.0,
+            "marksInside50" : 1.3,
+            "contestedMarks" : 1.4,
+            "hitouts" : 3.3,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 66.0,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292029",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Pedersen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 46.0,
+            "handballs" : 42.0,
+            "disposals" : 88.0,
+            "marks" : 37.0,
+            "bounces" : 0.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 39.0,
+            "uncontestedPossessions" : 49.0,
+            "totalPossessions" : 88.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 23.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 72.7,
+            "clangers" : 13.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 462.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : 268.3,
+            "ranking" : 273.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292029",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Pedersen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 82.0
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 6.2,
+            "disposals" : 13.4,
+            "marks" : 4.3,
+            "bounces" : 0.1,
+            "tackles" : 3.1,
+            "contestedPossessions" : 6.6,
+            "uncontestedPossessions" : 7.1,
+            "totalPossessions" : 13.7,
+            "inside50s" : 2.6,
+            "marksInside50" : 1.1,
+            "contestedMarks" : 1.1,
+            "hitouts" : 4.8,
+            "onePercenters" : 3.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 67.3,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292029",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Pedersen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 136.0,
+            "handballs" : 118.0,
+            "disposals" : 254.0,
+            "marks" : 82.0,
+            "bounces" : 1.0,
+            "tackles" : 58.0,
+            "contestedPossessions" : 126.0,
+            "uncontestedPossessions" : 135.0,
+            "totalPossessions" : 261.0,
+            "inside50s" : 49.0,
+            "marksInside50" : 20.0,
+            "contestedMarks" : 21.0,
+            "hitouts" : 92.0,
+            "onePercenters" : 66.0,
+            "disposalEfficiency" : 78.0,
+            "clangers" : 39.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1278.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 20.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 51.9,
+            "ratingPoints" : 294.1,
+            "ranking" : 241.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292029",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Pedersen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 87.8
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.6,
+            "handballs" : 6.9,
+            "disposals" : 13.5,
+            "marks" : 5.7,
+            "bounces" : 0.5,
+            "tackles" : 2.3,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 8.6,
+            "totalPossessions" : 13.6,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.5,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 61.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292029",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Pedersen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 66.0,
+            "handballs" : 69.0,
+            "disposals" : 135.0,
+            "marks" : 57.0,
+            "bounces" : 5.0,
+            "tackles" : 23.0,
+            "contestedPossessions" : 50.0,
+            "uncontestedPossessions" : 86.0,
+            "totalPossessions" : 136.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 15.0,
+            "onePercenters" : 40.0,
+            "disposalEfficiency" : 80.7,
+            "clangers" : 25.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 614.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 62.5,
+            "ratingPoints" : 100.0,
+            "ranking" : 493.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292029",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Pedersen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 93.5
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 3.5,
+            "disposals" : 11.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 8.5,
+            "totalPossessions" : 11.5,
+            "inside50s" : 1.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 57.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292029",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Pedersen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 15.0,
+            "handballs" : 7.0,
+            "disposals" : 22.0,
+            "marks" : 10.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 17.0,
+            "totalPossessions" : 23.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 77.3,
+            "clangers" : 5.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 115.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292029",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Pedersen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 87.6
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.3,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 9.4,
+            "handballs" : 4.2,
+            "disposals" : 13.6,
+            "marks" : 5.3,
+            "bounces" : 0.1,
+            "tackles" : 2.4,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 8.4,
+            "totalPossessions" : 13.8,
+            "inside50s" : 2.1,
+            "marksInside50" : 1.3,
+            "contestedMarks" : 1.4,
+            "hitouts" : 2.1,
+            "onePercenters" : 4.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 71.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292029",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Pedersen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 18.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 132.0,
+            "handballs" : 59.0,
+            "disposals" : 191.0,
+            "marks" : 74.0,
+            "bounces" : 1.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 75.0,
+            "uncontestedPossessions" : 118.0,
+            "totalPossessions" : 193.0,
+            "inside50s" : 30.0,
+            "marksInside50" : 18.0,
+            "contestedMarks" : 20.0,
+            "hitouts" : 29.0,
+            "onePercenters" : 66.0,
+            "disposalEfficiency" : 79.6,
+            "clangers" : 24.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 999.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 31.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 75.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292029",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Pedersen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 94.2
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 6.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 46.0,
+      "handballs" : 42.0,
+      "disposals" : 88.0,
+      "marks" : 37.0,
+      "bounces" : 0.0,
+      "tackles" : 18.0,
+      "contestedPossessions" : 39.0,
+      "uncontestedPossessions" : 49.0,
+      "totalPossessions" : 88.0,
+      "inside50s" : 14.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 23.0,
+      "onePercenters" : 13.0,
+      "disposalEfficiency" : 72.7,
+      "clangers" : 13.0,
+      "freesFor" : 7.0,
+      "freesAgainst" : 5.0,
+      "dreamTeamPoints" : 462.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 8.0,
+        "totalClearances" : 9.0
+      },
+      "rebound50s" : 4.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 42.9,
+      "ratingPoints" : 268.3,
+      "ranking" : 273.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I292029",
+        "playerName" : {
+          "givenName" : "Cameron",
+          "surname" : "Pedersen"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T90",
+        "teamAbbr" : "MELB",
+        "teamName" : "Melbourne",
+        "teamNickname" : "Demons"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 268.3,
+        "ranking" : 275,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 268.3,
+        "ranking" : 12,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 268.3,
+        "ranking" : 27,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 61.7,
+        "ranking" : 445,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 52
+  }
+}

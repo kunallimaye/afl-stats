@@ -1,0 +1,476 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I261857",
+    "position" : "Left Forward Pocket",
+    "surname" : "Callinan",
+    "jumperNumber" : 37,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.5,
+      "behinds" : 0.8,
+      "superGoals" : null,
+      "kicks" : 7.7,
+      "handballs" : 5.0,
+      "disposals" : 12.7,
+      "marks" : 2.7,
+      "bounces" : 0.2,
+      "tackles" : 1.9,
+      "contestedPossessions" : 5.6,
+      "uncontestedPossessions" : 6.6,
+      "totalPossessions" : 12.2,
+      "inside50s" : 2.2,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 0.4,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.7,
+      "disposalEfficiency" : null,
+      "clangers" : 1.6,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 57.7,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.7,
+        "totalClearances" : 0.9
+      },
+      "rebound50s" : 0.4,
+      "goalAssists" : 0.7,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Ian",
+    "bio" : "<p>After an injury-ravaged first year at West Lakes, Callinan established his place in the Crows side in 2012. The clever small forward missed only two matches through injury and kicked 39 goals – including four bags of four– to finish equal-second with Kurt Tippett in the Club’s goalkicking.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/AdelaideCrows/Player Profiles/2013 - Profiles/CALLINAN Ian.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1982-12-20T01:00:00.000+0000",
+      "draftYear" : "2012",
+      "heightInCm" : 171,
+      "weightInKg" : 74,
+      "recruitedFrom" : "Kingston/Tasmania VFL/Central District (SA)",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 49.0,
+      "behinds" : 25.0,
+      "superGoals" : null,
+      "kicks" : 247.0,
+      "handballs" : 161.0,
+      "disposals" : 408.0,
+      "marks" : 87.0,
+      "bounces" : 7.0,
+      "tackles" : 61.0,
+      "contestedPossessions" : 179.0,
+      "uncontestedPossessions" : 210.0,
+      "totalPossessions" : 389.0,
+      "inside50s" : 70.0,
+      "marksInside50" : 33.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 22.0,
+      "disposalEfficiency" : 72.5,
+      "clangers" : 52.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1846.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 24.0,
+        "totalClearances" : 28.0
+      },
+      "rebound50s" : 12.0,
+      "goalAssists" : 23.0,
+      "goalAccuracy" : 57.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.3,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 5.7,
+            "handballs" : 6.0,
+            "disposals" : 11.7,
+            "marks" : 1.8,
+            "bounces" : 0.5,
+            "tackles" : 2.8,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 5.7,
+            "totalPossessions" : 11.7,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 52.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261857",
+            "playerName" : {
+              "givenName" : "Ian",
+              "surname" : "Callinan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 34.0,
+            "handballs" : 36.0,
+            "disposals" : 70.0,
+            "marks" : 11.0,
+            "bounces" : 3.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 36.0,
+            "uncontestedPossessions" : 34.0,
+            "totalPossessions" : 70.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 75.7,
+            "clangers" : 8.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 317.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 312.7,
+            "ranking" : 218.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261857",
+            "playerName" : {
+              "givenName" : "Ian",
+              "surname" : "Callinan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 77.5
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.7,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 4.6,
+            "disposals" : 12.7,
+            "marks" : 3.1,
+            "bounces" : 0.2,
+            "tackles" : 1.5,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 6.7,
+            "totalPossessions" : 12.1,
+            "inside50s" : 2.1,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 58.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261857",
+            "playerName" : {
+              "givenName" : "Ian",
+              "surname" : "Callinan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 39.0,
+            "behinds" : 20.0,
+            "superGoals" : null,
+            "kicks" : 185.0,
+            "handballs" : 106.0,
+            "disposals" : 291.0,
+            "marks" : 72.0,
+            "bounces" : 4.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 124.0,
+            "uncontestedPossessions" : 154.0,
+            "totalPossessions" : 278.0,
+            "inside50s" : 48.0,
+            "marksInside50" : 28.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 71.8,
+            "clangers" : 39.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1341.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 18.0,
+            "goalAccuracy" : 57.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261857",
+            "playerName" : {
+              "givenName" : "Ian",
+              "surname" : "Callinan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 80.8
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 9.3,
+            "handballs" : 6.3,
+            "disposals" : 15.7,
+            "marks" : 1.3,
+            "bounces" : 0.0,
+            "tackles" : 3.3,
+            "contestedPossessions" : 6.3,
+            "uncontestedPossessions" : 7.3,
+            "totalPossessions" : 13.7,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 62.7,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 2.3
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261857",
+            "playerName" : {
+              "givenName" : "Ian",
+              "surname" : "Callinan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 28.0,
+            "handballs" : 19.0,
+            "disposals" : 47.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 10.0,
+            "contestedPossessions" : 19.0,
+            "uncontestedPossessions" : 22.0,
+            "totalPossessions" : 41.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 72.3,
+            "clangers" : 5.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 188.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261857",
+            "playerName" : {
+              "givenName" : "Ian",
+              "surname" : "Callinan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 80.4
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 8.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 34.0,
+      "handballs" : 36.0,
+      "disposals" : 70.0,
+      "marks" : 11.0,
+      "bounces" : 3.0,
+      "tackles" : 17.0,
+      "contestedPossessions" : 36.0,
+      "uncontestedPossessions" : 34.0,
+      "totalPossessions" : 70.0,
+      "inside50s" : 17.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 7.0,
+      "disposalEfficiency" : 75.7,
+      "clangers" : 8.0,
+      "freesFor" : 6.0,
+      "freesAgainst" : 5.0,
+      "dreamTeamPoints" : 317.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 5.0,
+        "totalClearances" : 5.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : 312.7,
+      "ranking" : 218.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201301427",
+      "player" : {
+        "playerId" : "CD_I261857",
+        "playerName" : {
+          "givenName" : "Ian",
+          "surname" : "Callinan"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T10",
+        "teamAbbr" : "ADEL",
+        "teamName" : "Adelaide Crows",
+        "teamNickname" : "Crows"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 310.0,
+        "ranking" : 213,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 310.0,
+        "ranking" : 11,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 310.0,
+        "ranking" : 40,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 32
+  }
+}

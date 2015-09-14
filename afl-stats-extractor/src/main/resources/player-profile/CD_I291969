@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291969",
+    "position" : "Rover",
+    "surname" : "Coniglio",
+    "jumperNumber" : 3,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 11.1,
+      "handballs" : 10.5,
+      "disposals" : 21.5,
+      "marks" : 3.8,
+      "bounces" : 0.3,
+      "tackles" : 4.3,
+      "contestedPossessions" : 8.2,
+      "uncontestedPossessions" : 13.6,
+      "totalPossessions" : 21.8,
+      "inside50s" : 2.6,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.3,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : null,
+      "clangers" : 2.6,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.9,
+      "dreamTeamPoints" : 83.2,
+      "clearances" : {
+        "centreClearances" : 1.6,
+        "stoppageClearances" : 2.1,
+        "totalClearances" : 3.7
+      },
+      "rebound50s" : 1.8,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Stephen",
+    "bio" : "<p>A talented all-round sportsman, Perth&rsquo;s Stephen Coniglio was the second pick in the 2011 NAB AFL Draft and made his debut for the GIANTS in Round 1, 2012. A talented junior cricketer, Coniglio represented his home state of Western Australia and set records at the Under-15 National Championships before deciding on an AFL career. The quick midfielder from Swan Districts is one of the brightest young stars at the GIANTS and was nominated for the NAB AFL Rising Star in 2012. Coniglio was named in the club&rsquo;s emerging leaders group for the 2014 season.<br /> &nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2015 - Profiles/CONIGLIO Stephen.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-12-15T01:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 181,
+      "weightInKg" : 84,
+      "recruitedFrom" : "Upper Swan (WA)/Swan Districts (WAFL)",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 21.0,
+      "behinds" : 18.0,
+      "superGoals" : null,
+      "kicks" : 686.0,
+      "handballs" : 649.0,
+      "disposals" : 1335.0,
+      "marks" : 238.0,
+      "bounces" : 21.0,
+      "tackles" : 264.0,
+      "contestedPossessions" : 508.0,
+      "uncontestedPossessions" : 844.0,
+      "totalPossessions" : 1352.0,
+      "inside50s" : 159.0,
+      "marksInside50" : 14.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 19.0,
+      "onePercenters" : 62.0,
+      "disposalEfficiency" : 67.2,
+      "clangers" : 160.0,
+      "freesFor" : 40.0,
+      "freesAgainst" : 56.0,
+      "dreamTeamPoints" : 5161.0,
+      "clearances" : {
+        "centreClearances" : 99.0,
+        "stoppageClearances" : 132.0,
+        "totalClearances" : 231.0
+      },
+      "rebound50s" : 111.0,
+      "goalAssists" : 24.0,
+      "goalAccuracy" : 42.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 10.3,
+            "handballs" : 13.1,
+            "disposals" : 23.4,
+            "marks" : 3.6,
+            "bounces" : 0.3,
+            "tackles" : 5.4,
+            "contestedPossessions" : 9.6,
+            "uncontestedPossessions" : 14.4,
+            "totalPossessions" : 24.0,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.7,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 90.1,
+            "clearances" : {
+              "centreClearances" : 1.8,
+              "stoppageClearances" : 2.6,
+              "totalClearances" : 4.4
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291969",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Coniglio"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 185.0,
+            "handballs" : 236.0,
+            "disposals" : 421.0,
+            "marks" : 64.0,
+            "bounces" : 5.0,
+            "tackles" : 98.0,
+            "contestedPossessions" : 172.0,
+            "uncontestedPossessions" : 260.0,
+            "totalPossessions" : 432.0,
+            "inside50s" : 39.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 12.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 69.1,
+            "clangers" : 54.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 1622.0,
+            "clearances" : {
+              "centreClearances" : 33.0,
+              "stoppageClearances" : 47.0,
+              "totalClearances" : 80.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 61.5,
+            "ratingPoints" : 302.2,
+            "ranking" : 225.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291969",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Coniglio"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 78.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 12.1,
+            "handballs" : 9.9,
+            "disposals" : 22.0,
+            "marks" : 3.6,
+            "bounces" : 0.4,
+            "tackles" : 4.9,
+            "contestedPossessions" : 7.8,
+            "uncontestedPossessions" : 14.0,
+            "totalPossessions" : 21.8,
+            "inside50s" : 3.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 86.6,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 3.1,
+              "totalClearances" : 4.4
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291969",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Coniglio"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 169.0,
+            "handballs" : 139.0,
+            "disposals" : 308.0,
+            "marks" : 51.0,
+            "bounces" : 5.0,
+            "tackles" : 68.0,
+            "contestedPossessions" : 109.0,
+            "uncontestedPossessions" : 196.0,
+            "totalPossessions" : 305.0,
+            "inside50s" : 43.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 67.2,
+            "clangers" : 31.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1213.0,
+            "clearances" : {
+              "centreClearances" : 19.0,
+              "stoppageClearances" : 43.0,
+              "totalClearances" : 62.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 278.7,
+            "ranking" : 265.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291969",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Coniglio"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 72.5
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 10.7,
+            "handballs" : 8.7,
+            "disposals" : 19.3,
+            "marks" : 3.6,
+            "bounces" : 0.2,
+            "tackles" : 3.7,
+            "contestedPossessions" : 7.8,
+            "uncontestedPossessions" : 11.8,
+            "totalPossessions" : 19.6,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.3,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 76.3,
+            "clearances" : {
+              "centreClearances" : 1.7,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 3.1
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291969",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Coniglio"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 192.0,
+            "handballs" : 156.0,
+            "disposals" : 348.0,
+            "marks" : 65.0,
+            "bounces" : 3.0,
+            "tackles" : 67.0,
+            "contestedPossessions" : 140.0,
+            "uncontestedPossessions" : 213.0,
+            "totalPossessions" : 353.0,
+            "inside50s" : 37.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 63.8,
+            "clangers" : 41.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1373.0,
+            "clearances" : {
+              "centreClearances" : 30.0,
+              "stoppageClearances" : 26.0,
+              "totalClearances" : 56.0
+            },
+            "rebound50s" : 34.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 46.2,
+            "ratingPoints" : 226.4,
+            "ranking" : 326.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291969",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Coniglio"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 77.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 11.7,
+            "handballs" : 9.8,
+            "disposals" : 21.5,
+            "marks" : 4.8,
+            "bounces" : 0.7,
+            "tackles" : 2.6,
+            "contestedPossessions" : 7.2,
+            "uncontestedPossessions" : 14.6,
+            "totalPossessions" : 21.8,
+            "inside50s" : 3.3,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.8,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 79.4,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 2.7
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291969",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Coniglio"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 140.0,
+            "handballs" : 118.0,
+            "disposals" : 258.0,
+            "marks" : 58.0,
+            "bounces" : 8.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 87.0,
+            "uncontestedPossessions" : 175.0,
+            "totalPossessions" : 262.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 68.6,
+            "clangers" : 34.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 953.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 16.0,
+              "totalClearances" : 33.0
+            },
+            "rebound50s" : 28.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 22.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291969",
+            "playerName" : {
+              "givenName" : "Stephen",
+              "surname" : "Coniglio"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 76.4
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 8.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 185.0,
+      "handballs" : 236.0,
+      "disposals" : 421.0,
+      "marks" : 64.0,
+      "bounces" : 5.0,
+      "tackles" : 98.0,
+      "contestedPossessions" : 172.0,
+      "uncontestedPossessions" : 260.0,
+      "totalPossessions" : 432.0,
+      "inside50s" : 39.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 12.0,
+      "onePercenters" : 22.0,
+      "disposalEfficiency" : 69.1,
+      "clangers" : 54.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 23.0,
+      "dreamTeamPoints" : 1622.0,
+      "clearances" : {
+        "centreClearances" : 33.0,
+        "stoppageClearances" : 47.0,
+        "totalClearances" : 80.0
+      },
+      "rebound50s" : 33.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 61.5,
+      "ratingPoints" : 302.2,
+      "ranking" : 225.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291969",
+        "playerName" : {
+          "givenName" : "Stephen",
+          "surname" : "Coniglio"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 300.1,
+        "ranking" : 229,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 300.1,
+        "ranking" : 13,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 300.1,
+        "ranking" : 93,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 157.3,
+        "ranking" : 231,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 62
+  }
+}

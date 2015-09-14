@@ -1,0 +1,1207 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I240245",
+    "position" : "Right Half Forward",
+    "surname" : "Dempsey",
+    "jumperNumber" : 15,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 9.5,
+      "handballs" : 6.5,
+      "disposals" : 16.0,
+      "marks" : 4.1,
+      "bounces" : 0.9,
+      "tackles" : 2.7,
+      "contestedPossessions" : 5.3,
+      "uncontestedPossessions" : 10.7,
+      "totalPossessions" : 16.0,
+      "inside50s" : 2.0,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.2,
+      "disposalEfficiency" : null,
+      "clangers" : 2.2,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.8,
+      "dreamTeamPoints" : 64.8,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.5,
+        "totalClearances" : 0.7
+      },
+      "rebound50s" : 2.2,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Courtenay",
+    "bio" : "<p>Dempsey paid the price for a slow start to pre-season when he was banished to train with the club’s VFL squad for not meeting the team’s standards and expectations. A key cog in the Bombers' defence, he then injured his hamstring at VFL level before returning to the senior side.He finished the season having played 18 games, but will be aiming for a more consistent year off half-back and the wing in 2015.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Essendon/Player Profiles/2015 - Profiles/DEMPSEY Courtenay.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1987-08-28T02:00:00.000+0000",
+      "draftYear" : "2005",
+      "heightInCm" : 185,
+      "weightInKg" : 80,
+      "recruitedFrom" : "Morningside (Qld)",
+      "debutYear" : "2006"
+    },
+    "careerStats" : {
+      "goals" : 31.0,
+      "behinds" : 29.0,
+      "superGoals" : null,
+      "kicks" : 1128.0,
+      "handballs" : 779.0,
+      "disposals" : 1907.0,
+      "marks" : 486.0,
+      "bounces" : 110.0,
+      "tackles" : 324.0,
+      "contestedPossessions" : 626.0,
+      "uncontestedPossessions" : 1279.0,
+      "totalPossessions" : 1905.0,
+      "inside50s" : 243.0,
+      "marksInside50" : 20.0,
+      "contestedMarks" : 26.0,
+      "hitouts" : 5.0,
+      "onePercenters" : 261.0,
+      "disposalEfficiency" : 74.1,
+      "clangers" : 266.0,
+      "freesFor" : 85.0,
+      "freesAgainst" : 97.0,
+      "dreamTeamPoints" : 7710.0,
+      "clearances" : {
+        "centreClearances" : 19.0,
+        "stoppageClearances" : 61.0,
+        "totalClearances" : 80.0
+      },
+      "rebound50s" : 264.0,
+      "goalAssists" : 32.0,
+      "goalAccuracy" : 40.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 8.5,
+            "handballs" : 4.7,
+            "disposals" : 13.2,
+            "marks" : 3.5,
+            "bounces" : 0.4,
+            "tackles" : 1.9,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 8.5,
+            "totalPossessions" : 13.5,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 54.3,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 111.0,
+            "handballs" : 61.0,
+            "disposals" : 172.0,
+            "marks" : 46.0,
+            "bounces" : 5.0,
+            "tackles" : 25.0,
+            "contestedPossessions" : 65.0,
+            "uncontestedPossessions" : 111.0,
+            "totalPossessions" : 176.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 67.4,
+            "clangers" : 27.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 706.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 248.1,
+            "ranking" : 301.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 78.7
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 6.6,
+            "disposals" : 15.6,
+            "marks" : 3.7,
+            "bounces" : 0.6,
+            "tackles" : 3.2,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 11.2,
+            "totalPossessions" : 15.8,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 62.6,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 162.0,
+            "handballs" : 119.0,
+            "disposals" : 281.0,
+            "marks" : 67.0,
+            "bounces" : 11.0,
+            "tackles" : 57.0,
+            "contestedPossessions" : 84.0,
+            "uncontestedPossessions" : 201.0,
+            "totalPossessions" : 285.0,
+            "inside50s" : 36.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 42.0,
+            "disposalEfficiency" : 75.4,
+            "clangers" : 45.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1126.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 35.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 22.2,
+            "ratingPoints" : 304.5,
+            "ranking" : 227.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 79.3
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 13.4,
+            "handballs" : 4.9,
+            "disposals" : 18.3,
+            "marks" : 5.1,
+            "bounces" : 0.9,
+            "tackles" : 2.9,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 12.8,
+            "totalPossessions" : 18.4,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 77.7,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 2.6,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 187.0,
+            "handballs" : 69.0,
+            "disposals" : 256.0,
+            "marks" : 71.0,
+            "bounces" : 12.0,
+            "tackles" : 40.0,
+            "contestedPossessions" : 78.0,
+            "uncontestedPossessions" : 179.0,
+            "totalPossessions" : 257.0,
+            "inside50s" : 33.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 73.4,
+            "clangers" : 35.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1088.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 37.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 58.3,
+            "ratingPoints" : 348.0,
+            "ranking" : 164.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 80.5
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 11.9,
+            "handballs" : 6.2,
+            "disposals" : 18.1,
+            "marks" : 5.3,
+            "bounces" : 0.7,
+            "tackles" : 3.1,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 12.2,
+            "totalPossessions" : 18.0,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 77.0,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 238.0,
+            "handballs" : 124.0,
+            "disposals" : 362.0,
+            "marks" : 106.0,
+            "bounces" : 14.0,
+            "tackles" : 62.0,
+            "contestedPossessions" : 116.0,
+            "uncontestedPossessions" : 244.0,
+            "totalPossessions" : 360.0,
+            "inside50s" : 50.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 39.0,
+            "disposalEfficiency" : 73.2,
+            "clangers" : 49.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1540.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 18.0
+            },
+            "rebound50s" : 51.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 80.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 85.3
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 6.0,
+            "disposals" : 12.5,
+            "marks" : 3.2,
+            "bounces" : 0.5,
+            "tackles" : 2.5,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 8.7,
+            "totalPossessions" : 12.2,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 49.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 26.0,
+            "handballs" : 24.0,
+            "disposals" : 50.0,
+            "marks" : 13.0,
+            "bounces" : 2.0,
+            "tackles" : 10.0,
+            "contestedPossessions" : 14.0,
+            "uncontestedPossessions" : 35.0,
+            "totalPossessions" : 49.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 84.0,
+            "clangers" : 5.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 198.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 75.6
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 7.9,
+            "disposals" : 17.9,
+            "marks" : 4.2,
+            "bounces" : 0.7,
+            "tackles" : 3.6,
+            "contestedPossessions" : 6.5,
+            "uncontestedPossessions" : 11.2,
+            "totalPossessions" : 17.7,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 72.1,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 2.9,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 201.0,
+            "handballs" : 158.0,
+            "disposals" : 359.0,
+            "marks" : 85.0,
+            "bounces" : 15.0,
+            "tackles" : 73.0,
+            "contestedPossessions" : 130.0,
+            "uncontestedPossessions" : 225.0,
+            "totalPossessions" : 355.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 56.0,
+            "disposalEfficiency" : 74.1,
+            "clangers" : 50.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 1442.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 19.0
+            },
+            "rebound50s" : 58.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 82.4
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 8.4,
+            "disposals" : 15.9,
+            "marks" : 3.4,
+            "bounces" : 1.3,
+            "tackles" : 2.2,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 10.4,
+            "totalPossessions" : 15.5,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 60.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 150.0,
+            "handballs" : 169.0,
+            "disposals" : 319.0,
+            "marks" : 69.0,
+            "bounces" : 27.0,
+            "tackles" : 45.0,
+            "contestedPossessions" : 102.0,
+            "uncontestedPossessions" : 208.0,
+            "totalPossessions" : 310.0,
+            "inside50s" : 32.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 64.0,
+            "disposalEfficiency" : 76.2,
+            "clangers" : 32.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 1208.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 46.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 76.9
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 5.7,
+            "handballs" : 7.2,
+            "disposals" : 13.0,
+            "marks" : 3.0,
+            "bounces" : 2.2,
+            "tackles" : 1.5,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 13.2,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 45.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 23.0,
+            "handballs" : 29.0,
+            "disposals" : 52.0,
+            "marks" : 12.0,
+            "bounces" : 9.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 17.0,
+            "uncontestedPossessions" : 36.0,
+            "totalPossessions" : 53.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 78.8,
+            "clangers" : 9.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 182.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 47.5
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 5.0,
+            "disposals" : 12.0,
+            "marks" : 1.0,
+            "bounces" : 6.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 14.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 44.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 5.0,
+            "disposals" : 12.0,
+            "marks" : 1.0,
+            "bounces" : 6.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 14.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 83.3,
+            "clangers" : 2.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 44.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 51.0
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.6,
+            "handballs" : 4.2,
+            "disposals" : 8.8,
+            "marks" : 3.2,
+            "bounces" : 1.8,
+            "tackles" : 1.0,
+            "contestedPossessions" : 2.6,
+            "uncontestedPossessions" : 6.6,
+            "totalPossessions" : 9.2,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 35.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 23.0,
+            "handballs" : 21.0,
+            "disposals" : 44.0,
+            "marks" : 16.0,
+            "bounces" : 9.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 13.0,
+            "uncontestedPossessions" : 33.0,
+            "totalPossessions" : 46.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 68.2,
+            "clangers" : 12.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 176.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240245",
+            "playerName" : {
+              "givenName" : "Courtenay",
+              "surname" : "Dempsey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 64.9
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 5.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 111.0,
+      "handballs" : 61.0,
+      "disposals" : 172.0,
+      "marks" : 46.0,
+      "bounces" : 5.0,
+      "tackles" : 25.0,
+      "contestedPossessions" : 65.0,
+      "uncontestedPossessions" : 111.0,
+      "totalPossessions" : 176.0,
+      "inside50s" : 27.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 16.0,
+      "disposalEfficiency" : 67.4,
+      "clangers" : 27.0,
+      "freesFor" : 8.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 706.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 3.0,
+        "totalClearances" : 5.0
+      },
+      "rebound50s" : 15.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : 248.1,
+      "ranking" : 301.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I240245",
+        "playerName" : {
+          "givenName" : "Courtenay",
+          "surname" : "Dempsey"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T50",
+        "teamAbbr" : "ESS",
+        "teamName" : "Essendon",
+        "teamNickname" : "Bombers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 248.1,
+        "ranking" : 301,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 248.1,
+        "ranking" : 18,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 248.1,
+        "ranking" : 56,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 97.8,
+        "ranking" : 374,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2005"
+    },
+    "careerGamesPlayed" : 119
+  }
+}

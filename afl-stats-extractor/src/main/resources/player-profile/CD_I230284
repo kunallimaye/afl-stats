@@ -1,0 +1,338 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I230284",
+    "position" : "Right Half Forward",
+    "surname" : "Fleming",
+    "jumperNumber" : 19,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Tim",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1978-04-05T02:00:00.000+0000",
+      "draftYear" : "",
+      "heightInCm" : 184,
+      "weightInKg" : 84,
+      "recruitedFrom" : "Old Xaverians/Carlton VFL",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 10.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 205.0,
+      "handballs" : 173.0,
+      "disposals" : 378.0,
+      "marks" : 94.0,
+      "bounces" : 6.0,
+      "tackles" : 79.0,
+      "contestedPossessions" : 164.0,
+      "uncontestedPossessions" : 229.0,
+      "totalPossessions" : 393.0,
+      "inside50s" : 75.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 6.0,
+      "onePercenters" : 53.0,
+      "disposalEfficiency" : 76.7,
+      "clangers" : 64.0,
+      "freesFor" : 30.0,
+      "freesAgainst" : 30.0,
+      "dreamTeamPoints" : 1576.0,
+      "clearances" : {
+        "centreClearances" : 19.0,
+        "stoppageClearances" : 35.0,
+        "totalClearances" : 54.0
+      },
+      "rebound50s" : 30.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 41.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 6.6,
+            "disposals" : 14.1,
+            "marks" : 3.1,
+            "bounces" : 0.4,
+            "tackles" : 2.5,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 8.9,
+            "totalPossessions" : 14.6,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.4,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 55.5,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230284",
+            "playerName" : {
+              "givenName" : "Tim",
+              "surname" : "Fleming"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 127.0,
+            "handballs" : 112.0,
+            "disposals" : 239.0,
+            "marks" : 53.0,
+            "bounces" : 6.0,
+            "tackles" : 43.0,
+            "contestedPossessions" : 96.0,
+            "uncontestedPossessions" : 152.0,
+            "totalPossessions" : 248.0,
+            "inside50s" : 47.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 77.0,
+            "clangers" : 36.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 943.0,
+            "clearances" : {
+              "centreClearances" : 16.0,
+              "stoppageClearances" : 22.0,
+              "totalClearances" : 38.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 41.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230284",
+            "playerName" : {
+              "givenName" : "Tim",
+              "surname" : "Fleming"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 70.9
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 4.6,
+            "handballs" : 3.6,
+            "disposals" : 8.2,
+            "marks" : 2.4,
+            "bounces" : 0.0,
+            "tackles" : 2.1,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 4.5,
+            "totalPossessions" : 8.5,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 37.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230284",
+            "playerName" : {
+              "givenName" : "Tim",
+              "surname" : "Fleming"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 78.0,
+            "handballs" : 61.0,
+            "disposals" : 139.0,
+            "marks" : 41.0,
+            "bounces" : 0.0,
+            "tackles" : 36.0,
+            "contestedPossessions" : 68.0,
+            "uncontestedPossessions" : 77.0,
+            "totalPossessions" : 145.0,
+            "inside50s" : 28.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 76.3,
+            "clangers" : 28.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 633.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 41.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230284",
+            "playerName" : {
+              "givenName" : "Tim",
+              "surname" : "Fleming"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 62.8
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 5.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 127.0,
+      "handballs" : 112.0,
+      "disposals" : 239.0,
+      "marks" : 53.0,
+      "bounces" : 6.0,
+      "tackles" : 43.0,
+      "contestedPossessions" : 96.0,
+      "uncontestedPossessions" : 152.0,
+      "totalPossessions" : 248.0,
+      "inside50s" : 47.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 6.0,
+      "onePercenters" : 27.0,
+      "disposalEfficiency" : 77.0,
+      "clangers" : 36.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 943.0,
+      "clearances" : {
+        "centreClearances" : 16.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 38.0
+      },
+      "rebound50s" : 18.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 41.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I294826",
+    "position" : "Left Half Back",
+    "surname" : "Young",
+    "jumperNumber" : 31,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 7.9,
+      "handballs" : 6.2,
+      "disposals" : 14.1,
+      "marks" : 3.5,
+      "bounces" : 0.1,
+      "tackles" : 1.9,
+      "contestedPossessions" : 5.1,
+      "uncontestedPossessions" : 9.1,
+      "totalPossessions" : 14.2,
+      "inside50s" : 1.4,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.6,
+      "disposalEfficiency" : null,
+      "clangers" : 1.7,
+      "freesFor" : 0.4,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 53.7,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.5,
+        "totalClearances" : 0.5
+      },
+      "rebound50s" : 2.4,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Tom",
+    "bio" : "<p>Young is a mid-sized defender with clean hands and a willingness to take the game on. Predominantly playing a lock down role in the back six as a third tall, the 21-year-old is also capable of providing run and rebound. Signed by Collingwood as a NSW Scholarship rookie at 17, he went on to win the best and fairest award with Collingwood’s VFL team in his first season before being traded to the Bulldogs at the end of 2012.</p>\n\n<p>&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WesternBulldogs/Player Profiles/2014 - Profiles/YOUNG Tom.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-04-26T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 192,
+      "weightInKg" : 90,
+      "recruitedFrom" : "Campbelltown/NSW-ACT U18/Collingwood VFL",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 5.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 222.0,
+      "handballs" : 173.0,
+      "disposals" : 395.0,
+      "marks" : 97.0,
+      "bounces" : 2.0,
+      "tackles" : 52.0,
+      "contestedPossessions" : 142.0,
+      "uncontestedPossessions" : 256.0,
+      "totalPossessions" : 398.0,
+      "inside50s" : 40.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 72.0,
+      "disposalEfficiency" : 76.7,
+      "clangers" : 49.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1504.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 13.0,
+        "totalClearances" : 14.0
+      },
+      "rebound50s" : 66.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 41.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 6.2,
+            "disposals" : 11.7,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 8.2,
+            "totalPossessions" : 12.2,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 40.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294826",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Young"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 22.0,
+            "handballs" : 25.0,
+            "disposals" : 47.0,
+            "marks" : 12.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 16.0,
+            "uncontestedPossessions" : 33.0,
+            "totalPossessions" : 49.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 87.2,
+            "clangers" : 9.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 162.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 138.1,
+            "ranking" : 442.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294826",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Young"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 85.2
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 10.3,
+            "handballs" : 6.1,
+            "disposals" : 16.5,
+            "marks" : 4.1,
+            "bounces" : 0.1,
+            "tackles" : 2.1,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 10.6,
+            "totalPossessions" : 16.3,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 62.9,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 3.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294826",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Young"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 155.0,
+            "handballs" : 92.0,
+            "disposals" : 247.0,
+            "marks" : 61.0,
+            "bounces" : 2.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 86.0,
+            "uncontestedPossessions" : 159.0,
+            "totalPossessions" : 245.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 45.0,
+            "disposalEfficiency" : 72.9,
+            "clangers" : 30.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 944.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 48.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : 148.6,
+            "ranking" : 421.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294826",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Young"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 85.9
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 4.4,
+            "handballs" : 6.0,
+            "disposals" : 10.4,
+            "marks" : 2.7,
+            "bounces" : 0.0,
+            "tackles" : 2.1,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 6.9,
+            "totalPossessions" : 10.9,
+            "inside50s" : 0.4,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.1,
+            "freesAgainst" : 0.1,
+            "dreamTeamPoints" : 42.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294826",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Young"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 31.0,
+            "handballs" : 42.0,
+            "disposals" : 73.0,
+            "marks" : 19.0,
+            "bounces" : 0.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 28.0,
+            "uncontestedPossessions" : 48.0,
+            "totalPossessions" : 76.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 82.2,
+            "clangers" : 7.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 294.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294826",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Young"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 66.6
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 7.0,
+            "disposals" : 14.5,
+            "marks" : 2.5,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 14.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 53.5,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294826",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Young"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 15.0,
+            "handballs" : 14.0,
+            "disposals" : 29.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 12.0,
+            "uncontestedPossessions" : 16.0,
+            "totalPossessions" : 28.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 79.3,
+            "clangers" : 3.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 107.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294826",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Young"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 53.4
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 22.0,
+      "handballs" : 25.0,
+      "disposals" : 47.0,
+      "marks" : 12.0,
+      "bounces" : 0.0,
+      "tackles" : 4.0,
+      "contestedPossessions" : 16.0,
+      "uncontestedPossessions" : 33.0,
+      "totalPossessions" : 49.0,
+      "inside50s" : 4.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 10.0,
+      "disposalEfficiency" : 87.2,
+      "clangers" : 9.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 4.0,
+      "dreamTeamPoints" : 162.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 7.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 100.0,
+      "ratingPoints" : 138.1,
+      "ranking" : 442.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201401427",
+      "player" : {
+        "playerId" : "CD_I294826",
+        "playerName" : {
+          "givenName" : "Tom",
+          "surname" : "Young"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T140",
+        "teamAbbr" : "WB",
+        "teamName" : "Western Bulldogs",
+        "teamNickname" : "Bulldogs"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 146.2,
+        "ranking" : 438,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 146.2,
+        "ranking" : 25,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 146.2,
+        "ranking" : 93,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 31.8,
+        "ranking" : 528,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 28
+  }
+}

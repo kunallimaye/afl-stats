@@ -1,0 +1,486 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I293471",
+    "position" : "Left Back Pocket",
+    "surname" : "McDonough",
+    "jumperNumber" : 36,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 6.4,
+      "handballs" : 4.4,
+      "disposals" : 10.8,
+      "marks" : 2.1,
+      "bounces" : 1.1,
+      "tackles" : 2.1,
+      "contestedPossessions" : 3.2,
+      "uncontestedPossessions" : 7.6,
+      "totalPossessions" : 10.8,
+      "inside50s" : 1.7,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.7,
+      "disposalEfficiency" : null,
+      "clangers" : 1.1,
+      "freesFor" : 0.4,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 42.1,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.7,
+        "totalClearances" : 0.8
+      },
+      "rebound50s" : 2.1,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Matt",
+    "bio" : "<p>Played across half-back early in the year and managed seven senior games to round 12. Was then thrown around a bit in the VFL before being settled across half-forward, where he played out the year and was solid in the role. Has a beautiful kick and makes good decisions, which puts him in the frame to compete for a spot in the seniors after signing a one-year extension.&nbsp;<br /> <br /> Draft history: 2012 AFL Draft 2nd round selection (Richmond) No. 42 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Richmond/Player Profiles/2015 - Profiles/MCDONOUGH Matt.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1994-01-26T01:00:00.000+0000",
+      "draftYear" : "2012",
+      "heightInCm" : 180,
+      "weightInKg" : 82,
+      "recruitedFrom" : "Flinders Park (SA)/Woodville-West Torrens (SANFL)",
+      "debutYear" : "2013"
+    },
+    "careerStats" : {
+      "goals" : 1.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 64.0,
+      "handballs" : 44.0,
+      "disposals" : 108.0,
+      "marks" : 21.0,
+      "bounces" : 11.0,
+      "tackles" : 21.0,
+      "contestedPossessions" : 32.0,
+      "uncontestedPossessions" : 76.0,
+      "totalPossessions" : 108.0,
+      "inside50s" : 17.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 17.0,
+      "disposalEfficiency" : 74.1,
+      "clangers" : 11.0,
+      "freesFor" : 4.0,
+      "freesAgainst" : 6.0,
+      "dreamTeamPoints" : 421.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 7.0,
+        "totalClearances" : 8.0
+      },
+      "rebound50s" : 21.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 1.5,
+            "disposals" : 7.5,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 4.5,
+            "totalPossessions" : 8.5,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 34.0,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.5
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293471",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "McDonough"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 12.0,
+            "handballs" : 3.0,
+            "disposals" : 15.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 8.0,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 17.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 53.3,
+            "clangers" : 5.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 68.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 58.5,
+            "ranking" : 556.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293471",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "McDonough"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 56.3
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.3,
+            "handballs" : 5.4,
+            "disposals" : 11.7,
+            "marks" : 2.3,
+            "bounces" : 1.6,
+            "tackles" : 1.7,
+            "contestedPossessions" : 2.9,
+            "uncontestedPossessions" : 8.6,
+            "totalPossessions" : 11.4,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.4,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.1,
+            "dreamTeamPoints" : 44.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293471",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "McDonough"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 44.0,
+            "handballs" : 38.0,
+            "disposals" : 82.0,
+            "marks" : 16.0,
+            "bounces" : 11.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 20.0,
+            "uncontestedPossessions" : 60.0,
+            "totalPossessions" : 80.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 80.5,
+            "clangers" : 3.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 311.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 17.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 56.4,
+            "ranking" : 568.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293471",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "McDonough"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 69.6
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 3.0,
+            "disposals" : 11.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 11.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 42.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293471",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "McDonough"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 3.0,
+            "disposals" : 11.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 11.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 54.5,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 42.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 4.0,
+            "ranking" : 697.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293471",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "McDonough"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 75.5
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 12.0,
+      "handballs" : 3.0,
+      "disposals" : 15.0,
+      "marks" : 4.0,
+      "bounces" : 0.0,
+      "tackles" : 6.0,
+      "contestedPossessions" : 8.0,
+      "uncontestedPossessions" : 9.0,
+      "totalPossessions" : 17.0,
+      "inside50s" : 5.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 3.0,
+      "disposalEfficiency" : 53.3,
+      "clangers" : 5.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 4.0,
+      "dreamTeamPoints" : 68.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 5.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 58.5,
+      "ranking" : 556.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I293471",
+        "playerName" : {
+          "givenName" : "Matt",
+          "surname" : "McDonough"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T120",
+        "teamAbbr" : "RICH",
+        "teamName" : "Richmond",
+        "teamNickname" : "Tigers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 58.5,
+        "ranking" : 556,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 58.5,
+        "ranking" : 32,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 58.5,
+        "ranking" : 107,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 6.0,
+        "ranking" : 632,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2012"
+    },
+    "careerGamesPlayed" : 10
+  }
+}

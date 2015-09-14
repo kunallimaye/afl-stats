@@ -1,0 +1,579 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280948",
+    "position" : "Right Wing",
+    "surname" : "Rounds",
+    "jumperNumber" : 8,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 6.2,
+      "handballs" : 3.5,
+      "disposals" : 9.7,
+      "marks" : 1.8,
+      "bounces" : 0.0,
+      "tackles" : 2.3,
+      "contestedPossessions" : 3.5,
+      "uncontestedPossessions" : 5.5,
+      "totalPossessions" : 9.0,
+      "inside50s" : 1.7,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.8,
+      "disposalEfficiency" : null,
+      "clangers" : 1.7,
+      "freesFor" : 0.2,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 39.8,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.3,
+        "totalClearances" : 0.3
+      },
+      "rebound50s" : 1.3,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Luke",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-02-10T01:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 181,
+      "weightInKg" : 83,
+      "recruitedFrom" : null,
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 1.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 37.0,
+      "handballs" : 21.0,
+      "disposals" : 58.0,
+      "marks" : 11.0,
+      "bounces" : 0.0,
+      "tackles" : 14.0,
+      "contestedPossessions" : 21.0,
+      "uncontestedPossessions" : 33.0,
+      "totalPossessions" : 54.0,
+      "inside50s" : 10.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 11.0,
+      "disposalEfficiency" : 63.8,
+      "clangers" : 10.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 4.0,
+      "dreamTeamPoints" : 239.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 8.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 25.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 3.0,
+            "disposals" : 10.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 10.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 53.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280948",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Rounds"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 3.0,
+            "disposals" : 10.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 10.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 70.0,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 53.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280948",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Rounds"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 81.1
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 3.6,
+            "disposals" : 9.6,
+            "marks" : 1.4,
+            "bounces" : 0.0,
+            "tackles" : 2.2,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 4.8,
+            "totalPossessions" : 8.8,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 37.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280948",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Rounds"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 30.0,
+            "handballs" : 18.0,
+            "disposals" : 48.0,
+            "marks" : 7.0,
+            "bounces" : 0.0,
+            "tackles" : 11.0,
+            "contestedPossessions" : 20.0,
+            "uncontestedPossessions" : 24.0,
+            "totalPossessions" : 44.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 62.5,
+            "clangers" : 9.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 186.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280948",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Rounds"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 69.3
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280948",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Rounds"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280948",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Rounds"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280948",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Rounds"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280948",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Rounds"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 7.0,
+      "handballs" : 3.0,
+      "disposals" : 10.0,
+      "marks" : 4.0,
+      "bounces" : 0.0,
+      "tackles" : 3.0,
+      "contestedPossessions" : 1.0,
+      "uncontestedPossessions" : 9.0,
+      "totalPossessions" : 10.0,
+      "inside50s" : 2.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : 70.0,
+      "clangers" : 1.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 53.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201201427",
+      "player" : {
+        "playerId" : "CD_I280948",
+        "playerName" : {
+          "givenName" : "Luke",
+          "surname" : "Rounds"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T40",
+        "teamAbbr" : "COLL",
+        "teamName" : "Collingwood",
+        "teamNickname" : "Magpies"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 29.0,
+        "ranking" : 614,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 29.0,
+        "ranking" : 34,
+        "ratingType" : "TEAM",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 29.0,
+        "ranking" : 213,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 6
+  }
+}

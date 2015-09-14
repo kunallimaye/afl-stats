@@ -1,0 +1,486 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I294485",
+    "position" : "Right Half Forward",
+    "surname" : "Boston",
+    "jumperNumber" : 13,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 7.4,
+      "handballs" : 2.9,
+      "disposals" : 10.3,
+      "marks" : 2.7,
+      "bounces" : 0.3,
+      "tackles" : 1.7,
+      "contestedPossessions" : 4.7,
+      "uncontestedPossessions" : 5.4,
+      "totalPossessions" : 10.2,
+      "inside50s" : 2.1,
+      "marksInside50" : 0.6,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.4,
+      "disposalEfficiency" : null,
+      "clangers" : 2.0,
+      "freesFor" : 0.9,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 45.9,
+      "clearances" : {
+        "centreClearances" : 0.4,
+        "stoppageClearances" : 0.9,
+        "totalClearances" : 1.4
+      },
+      "rebound50s" : 0.8,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Andrew",
+    "bio" : "<p>Boston is on the comeback from a horrific ankle injury that wiped out his 2014 campaign.</p>\n<p>Playing in his first NEAFL match for the season, Boston dislocated his right ankle, rupturing ligaments and requiring surgery.</p>\n<p>As he was training in a bid to make a late-season comeback, he sustained a lateral strain in his left ankle to complete the miserable year.</p>\n<p>The SUNS believe highly of the creative half-forward and elevated him to the senior list after two years as a rookie. Boston played eight games in 2013 and has a deadly accurate right boot that makes him arguably the club&rsquo;s best set-shot for goal.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GoldCoastSuns/Player Profiles/2015 - Profiles/BOSTON Andrew.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1994-03-23T02:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 180,
+      "weightInKg" : 80,
+      "recruitedFrom" : "Broadbeach (Qld)",
+      "debutYear" : "2013"
+    },
+    "careerStats" : {
+      "goals" : 10.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 119.0,
+      "handballs" : 46.0,
+      "disposals" : 165.0,
+      "marks" : 43.0,
+      "bounces" : 5.0,
+      "tackles" : 28.0,
+      "contestedPossessions" : 76.0,
+      "uncontestedPossessions" : 87.0,
+      "totalPossessions" : 163.0,
+      "inside50s" : 34.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 6.0,
+      "disposalEfficiency" : 67.9,
+      "clangers" : 32.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 734.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 15.0,
+        "totalClearances" : 22.0
+      },
+      "rebound50s" : 13.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 9.4,
+            "handballs" : 2.7,
+            "disposals" : 12.1,
+            "marks" : 2.9,
+            "bounces" : 0.0,
+            "tackles" : 2.4,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 6.1,
+            "totalPossessions" : 11.9,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 53.7,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294485",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Boston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 75.0,
+            "handballs" : 22.0,
+            "disposals" : 97.0,
+            "marks" : 23.0,
+            "bounces" : 0.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 46.0,
+            "uncontestedPossessions" : 49.0,
+            "totalPossessions" : 95.0,
+            "inside50s" : 20.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 63.9,
+            "clangers" : 16.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 430.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 27.3,
+            "ratingPoints" : 65.8,
+            "ranking" : 539.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294485",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Boston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 71.8
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294485",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Boston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 49.9,
+            "ranking" : 583.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294485",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Boston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 3.0,
+            "disposals" : 8.5,
+            "marks" : 2.5,
+            "bounces" : 0.6,
+            "tackles" : 1.1,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 4.7,
+            "totalPossessions" : 8.5,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 38.0,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294485",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Boston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 44.0,
+            "handballs" : 24.0,
+            "disposals" : 68.0,
+            "marks" : 20.0,
+            "bounces" : 5.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 30.0,
+            "uncontestedPossessions" : 38.0,
+            "totalPossessions" : 68.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 73.5,
+            "clangers" : 16.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 304.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 77.8,
+            "ratingPoints" : 49.9,
+            "ranking" : 592.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294485",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Boston"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 56.2
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 3.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 75.0,
+      "handballs" : 22.0,
+      "disposals" : 97.0,
+      "marks" : 23.0,
+      "bounces" : 0.0,
+      "tackles" : 19.0,
+      "contestedPossessions" : 46.0,
+      "uncontestedPossessions" : 49.0,
+      "totalPossessions" : 95.0,
+      "inside50s" : 20.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 3.0,
+      "disposalEfficiency" : 63.9,
+      "clangers" : 16.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 6.0,
+      "dreamTeamPoints" : 430.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 11.0,
+        "totalClearances" : 16.0
+      },
+      "rebound50s" : 8.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 27.3,
+      "ratingPoints" : 65.8,
+      "ranking" : 539.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I294485",
+        "playerName" : {
+          "givenName" : "Andrew",
+          "surname" : "Boston"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1000",
+        "teamAbbr" : "GCFC",
+        "teamName" : "Gold Coast Suns",
+        "teamNickname" : "Suns"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 49.2,
+        "ranking" : 577,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 49.2,
+        "ranking" : 33,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 49.2,
+        "ranking" : 50,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 49.2,
+        "ranking" : 480,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2012"
+    },
+    "careerGamesPlayed" : 16
+  }
+}

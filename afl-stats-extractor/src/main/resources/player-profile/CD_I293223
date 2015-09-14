@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I293223",
+    "position" : "Interchange",
+    "surname" : "Tape",
+    "jumperNumber" : 48,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 4.5,
+      "handballs" : 5.8,
+      "disposals" : 10.3,
+      "marks" : 2.7,
+      "bounces" : 0.0,
+      "tackles" : 2.9,
+      "contestedPossessions" : 4.5,
+      "uncontestedPossessions" : 5.9,
+      "totalPossessions" : 10.4,
+      "inside50s" : 0.6,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.0,
+      "onePercenters" : 3.7,
+      "disposalEfficiency" : null,
+      "clangers" : 1.7,
+      "freesFor" : 0.3,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 43.5,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.4,
+        "totalClearances" : 0.5
+      },
+      "rebound50s" : 1.3,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Seb",
+    "bio" : "<p>Tape&rsquo;s nightmare run with injuries continued last season, with a recurring hamstring problem limiting him to just three senior games and 11 in the NEAFL.</p>\n<p>Once regarded as the SUNS&rsquo; best medium-sized defender, Tape lost much of the 2012 and 2013 seasons to a knee reconstruction before struggling to consistently get on the park in 2014.</p>\n<p>He is a clever defender who can outpoint small and tall forwards.  2015 shapes up as a crucial year for the former U/18 South Australia captain who will be looking to put his injury riddled past behind him.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GoldCoastSuns/Player Profiles/2015 - Profiles/TAPE Seb.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-08-06T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 191,
+      "weightInKg" : 83,
+      "recruitedFrom" : "Glenelg (SA)",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 1.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 166.0,
+      "handballs" : 215.0,
+      "disposals" : 381.0,
+      "marks" : 99.0,
+      "bounces" : 1.0,
+      "tackles" : 109.0,
+      "contestedPossessions" : 167.0,
+      "uncontestedPossessions" : 217.0,
+      "totalPossessions" : 384.0,
+      "inside50s" : 22.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 137.0,
+      "disposalEfficiency" : 74.8,
+      "clangers" : 64.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 23.0,
+      "dreamTeamPoints" : 1610.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 13.0,
+        "totalClearances" : 20.0
+      },
+      "rebound50s" : 48.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 100.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 5.2,
+            "disposals" : 11.2,
+            "marks" : 2.5,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 11.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 47.0,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293223",
+            "playerName" : {
+              "givenName" : "Seb",
+              "surname" : "Tape"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 24.0,
+            "handballs" : 21.0,
+            "disposals" : 45.0,
+            "marks" : 10.0,
+            "bounces" : 0.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 16.0,
+            "uncontestedPossessions" : 28.0,
+            "totalPossessions" : 44.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 73.3,
+            "clangers" : 9.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 188.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 51.9,
+            "ranking" : 563.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293223",
+            "playerName" : {
+              "givenName" : "Seb",
+              "surname" : "Tape"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 77.8
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.3,
+            "handballs" : 3.7,
+            "disposals" : 7.0,
+            "marks" : 0.7,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 2.3,
+            "totalPossessions" : 7.3,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 29.0,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293223",
+            "playerName" : {
+              "givenName" : "Seb",
+              "surname" : "Tape"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 11.0,
+            "disposals" : 21.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 15.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 22.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 66.7,
+            "clangers" : 3.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 87.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 55.4,
+            "ranking" : 565.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293223",
+            "playerName" : {
+              "givenName" : "Seb",
+              "surname" : "Tape"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 93.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 5.6,
+            "disposals" : 9.6,
+            "marks" : 2.4,
+            "bounces" : 0.0,
+            "tackles" : 3.9,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 4.1,
+            "totalPossessions" : 9.6,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.1,
+            "onePercenters" : 3.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 46.1,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293223",
+            "playerName" : {
+              "givenName" : "Sebastian",
+              "surname" : "Tape"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 28.0,
+            "handballs" : 39.0,
+            "disposals" : 67.0,
+            "marks" : 17.0,
+            "bounces" : 0.0,
+            "tackles" : 27.0,
+            "contestedPossessions" : 38.0,
+            "uncontestedPossessions" : 29.0,
+            "totalPossessions" : 67.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 74.6,
+            "clangers" : 11.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 323.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 103.9,
+            "ranking" : 483.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293223",
+            "playerName" : {
+              "givenName" : "Sebastian",
+              "surname" : "Tape"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 81.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.6,
+            "handballs" : 5.9,
+            "disposals" : 10.5,
+            "marks" : 2.9,
+            "bounces" : 0.1,
+            "tackles" : 2.2,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 6.4,
+            "totalPossessions" : 10.4,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.1,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 42.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293223",
+            "playerName" : {
+              "givenName" : "Seb",
+              "surname" : "Tape"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 46.0,
+            "handballs" : 59.0,
+            "disposals" : 105.0,
+            "marks" : 29.0,
+            "bounces" : 1.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 40.0,
+            "uncontestedPossessions" : 64.0,
+            "totalPossessions" : 104.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 39.0,
+            "disposalEfficiency" : 76.2,
+            "clangers" : 17.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 420.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293223",
+            "playerName" : {
+              "givenName" : "Seb",
+              "surname" : "Tape"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 86.1
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.5,
+            "handballs" : 6.5,
+            "disposals" : 11.0,
+            "marks" : 3.2,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 6.8,
+            "totalPossessions" : 11.5,
+            "inside50s" : 0.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 45.5,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293223",
+            "playerName" : {
+              "givenName" : "Seb",
+              "surname" : "Tape"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 58.0,
+            "handballs" : 85.0,
+            "disposals" : 143.0,
+            "marks" : 41.0,
+            "bounces" : 0.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 60.0,
+            "uncontestedPossessions" : 89.0,
+            "totalPossessions" : 149.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 52.0,
+            "disposalEfficiency" : 74.8,
+            "clangers" : 24.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 592.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293223",
+            "playerName" : {
+              "givenName" : "Seb",
+              "surname" : "Tape"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 90.6
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 24.0,
+      "handballs" : 21.0,
+      "disposals" : 45.0,
+      "marks" : 10.0,
+      "bounces" : 0.0,
+      "tackles" : 12.0,
+      "contestedPossessions" : 16.0,
+      "uncontestedPossessions" : 28.0,
+      "totalPossessions" : 44.0,
+      "inside50s" : 8.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 10.0,
+      "disposalEfficiency" : 73.3,
+      "clangers" : 9.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 2.0,
+      "dreamTeamPoints" : 188.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 5.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 51.9,
+      "ranking" : 563.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I293223",
+        "playerName" : {
+          "givenName" : "Seb",
+          "surname" : "Tape"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1000",
+        "teamAbbr" : "GCFC",
+        "teamName" : "Gold Coast Suns",
+        "teamNickname" : "Suns"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 43.6,
+        "ranking" : 594,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 43.6,
+        "ranking" : 34,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 43.6,
+        "ranking" : 117,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 26.4,
+        "ranking" : 542,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 37
+  }
+}

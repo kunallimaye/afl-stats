@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I295265",
+    "position" : "Left Back Pocket",
+    "surname" : "Haynes",
+    "jumperNumber" : 19,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 8.9,
+      "handballs" : 4.4,
+      "disposals" : 13.3,
+      "marks" : 4.7,
+      "bounces" : 0.7,
+      "tackles" : 1.7,
+      "contestedPossessions" : 4.3,
+      "uncontestedPossessions" : 8.8,
+      "totalPossessions" : 13.2,
+      "inside50s" : 1.1,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.8,
+      "hitouts" : 0.0,
+      "onePercenters" : 4.0,
+      "disposalEfficiency" : null,
+      "clangers" : 1.6,
+      "freesFor" : 0.4,
+      "freesAgainst" : 0.4,
+      "dreamTeamPoints" : 56.5,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.2,
+        "totalClearances" : 0.2
+      },
+      "rebound50s" : 2.7,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Nick",
+    "bio" : "<p>Nick Haynes was drafted to the GIANTS with pick seven in the 2011 NAB AFL Draft. The former Dandenong Stingrays forward made his debut in Round 10, 2012 playing through the midfield and up forward. Haynes has great agility, takes a good overhead mark and shows very good running and aerobic capacity.<br /> &nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2015 - Profiles/HAYNES Nick.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-05-18T02:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 192,
+      "weightInKg" : 87,
+      "recruitedFrom" : "Frankston Bombers (Vic)/Dandenong U18",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 4.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 391.0,
+      "handballs" : 195.0,
+      "disposals" : 586.0,
+      "marks" : 208.0,
+      "bounces" : 33.0,
+      "tackles" : 76.0,
+      "contestedPossessions" : 191.0,
+      "uncontestedPossessions" : 388.0,
+      "totalPossessions" : 579.0,
+      "inside50s" : 47.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 35.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 174.0,
+      "disposalEfficiency" : 74.2,
+      "clangers" : 70.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 2484.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 9.0,
+        "totalClearances" : 11.0
+      },
+      "rebound50s" : 120.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 57.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 9.4,
+            "handballs" : 4.8,
+            "disposals" : 14.2,
+            "marks" : 5.4,
+            "bounces" : 1.6,
+            "tackles" : 1.3,
+            "contestedPossessions" : 4.4,
+            "uncontestedPossessions" : 9.5,
+            "totalPossessions" : 13.9,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 1.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 59.6,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 2.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295265",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Haynes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 160.0,
+            "handballs" : 81.0,
+            "disposals" : 241.0,
+            "marks" : 91.0,
+            "bounces" : 27.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 75.0,
+            "uncontestedPossessions" : 161.0,
+            "totalPossessions" : 236.0,
+            "inside50s" : 26.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 20.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 67.0,
+            "disposalEfficiency" : 76.3,
+            "clangers" : 18.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 1014.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 49.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 252.6,
+            "ranking" : 293.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295265",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Haynes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 81.4
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 11.6,
+            "handballs" : 4.2,
+            "disposals" : 15.9,
+            "marks" : 4.4,
+            "bounces" : 0.5,
+            "tackles" : 1.4,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 9.5,
+            "totalPossessions" : 15.1,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 62.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295265",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Haynes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 93.0,
+            "handballs" : 34.0,
+            "disposals" : 127.0,
+            "marks" : 35.0,
+            "bounces" : 4.0,
+            "tackles" : 11.0,
+            "contestedPossessions" : 45.0,
+            "uncontestedPossessions" : 76.0,
+            "totalPossessions" : 121.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 52.0,
+            "disposalEfficiency" : 71.7,
+            "clangers" : 18.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 498.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 32.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 166.2,
+            "ranking" : 401.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295265",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Haynes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 78.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.5,
+            "handballs" : 4.2,
+            "disposals" : 12.7,
+            "marks" : 5.5,
+            "bounces" : 0.2,
+            "tackles" : 2.4,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 8.5,
+            "totalPossessions" : 13.0,
+            "inside50s" : 0.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.9,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 57.8,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295265",
+            "playerName" : {
+              "givenName" : "Nicholas",
+              "surname" : "Haynes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 94.0,
+            "handballs" : 46.0,
+            "disposals" : 140.0,
+            "marks" : 60.0,
+            "bounces" : 2.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 49.0,
+            "uncontestedPossessions" : 94.0,
+            "totalPossessions" : 143.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 44.0,
+            "disposalEfficiency" : 77.1,
+            "clangers" : 22.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 636.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 99.1,
+            "ranking" : 494.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295265",
+            "playerName" : {
+              "givenName" : "Nicholas",
+              "surname" : "Haynes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 82.8
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 4.2,
+            "disposals" : 9.7,
+            "marks" : 2.7,
+            "bounces" : 0.0,
+            "tackles" : 2.1,
+            "contestedPossessions" : 2.7,
+            "uncontestedPossessions" : 7.1,
+            "totalPossessions" : 9.9,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 42.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295265",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Haynes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 44.0,
+            "handballs" : 34.0,
+            "disposals" : 78.0,
+            "marks" : 22.0,
+            "bounces" : 0.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 22.0,
+            "uncontestedPossessions" : 57.0,
+            "totalPossessions" : 79.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 66.7,
+            "clangers" : 12.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 336.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295265",
+            "playerName" : {
+              "givenName" : "Nick",
+              "surname" : "Haynes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 71.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 160.0,
+      "handballs" : 81.0,
+      "disposals" : 241.0,
+      "marks" : 91.0,
+      "bounces" : 27.0,
+      "tackles" : 22.0,
+      "contestedPossessions" : 75.0,
+      "uncontestedPossessions" : 161.0,
+      "totalPossessions" : 236.0,
+      "inside50s" : 26.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 20.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 67.0,
+      "disposalEfficiency" : 76.3,
+      "clangers" : 18.0,
+      "freesFor" : 7.0,
+      "freesAgainst" : 3.0,
+      "dreamTeamPoints" : 1014.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 49.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : 252.6,
+      "ranking" : 293.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I295265",
+        "playerName" : {
+          "givenName" : "Nick",
+          "surname" : "Haynes"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 242.3,
+        "ranking" : 312,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 242.3,
+        "ranking" : 16,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 242.3,
+        "ranking" : 32,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 154.0,
+        "ranking" : 240,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 44
+  }
+}

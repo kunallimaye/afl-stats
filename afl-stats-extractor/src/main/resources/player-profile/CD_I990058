@@ -1,0 +1,750 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I990058",
+    "position" : "Rover",
+    "surname" : "Schwarze",
+    "jumperNumber" : 40,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Troy",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1981-12-23T01:00:00.000+0000",
+      "draftYear" : "1998",
+      "heightInCm" : 190,
+      "weightInKg" : 89,
+      "recruitedFrom" : "Dingley/Prahran U18",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 20.0,
+      "behinds" : 15.0,
+      "superGoals" : null,
+      "kicks" : 435.0,
+      "handballs" : 175.0,
+      "disposals" : 610.0,
+      "marks" : 202.0,
+      "bounces" : 28.0,
+      "tackles" : 99.0,
+      "contestedPossessions" : 211.0,
+      "uncontestedPossessions" : 381.0,
+      "totalPossessions" : 592.0,
+      "inside50s" : 102.0,
+      "marksInside50" : 15.0,
+      "contestedMarks" : 22.0,
+      "hitouts" : 15.0,
+      "onePercenters" : 193.0,
+      "disposalEfficiency" : 79.2,
+      "clangers" : 94.0,
+      "freesFor" : 45.0,
+      "freesAgainst" : 31.0,
+      "dreamTeamPoints" : 2759.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 25.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 109.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 52.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 6.3,
+            "handballs" : 2.9,
+            "disposals" : 9.2,
+            "marks" : 4.3,
+            "bounces" : 1.5,
+            "tackles" : 1.8,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 6.1,
+            "totalPossessions" : 9.1,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.2,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 48.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990058",
+            "playerName" : {
+              "givenName" : "Troy",
+              "surname" : "Schwarze"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 69.0,
+            "handballs" : 32.0,
+            "disposals" : 101.0,
+            "marks" : 47.0,
+            "bounces" : 17.0,
+            "tackles" : 20.0,
+            "contestedPossessions" : 33.0,
+            "uncontestedPossessions" : 67.0,
+            "totalPossessions" : 100.0,
+            "inside50s" : 22.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 74.3,
+            "clangers" : 20.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 532.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990058",
+            "playerName" : {
+              "givenName" : "Troy",
+              "surname" : "Schwarze"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 76.3
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 6.3,
+            "handballs" : 3.4,
+            "disposals" : 9.7,
+            "marks" : 3.1,
+            "bounces" : 0.1,
+            "tackles" : 1.4,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 10.0,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 43.6,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990058",
+            "playerName" : {
+              "givenName" : "Troy",
+              "surname" : "Schwarze"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 44.0,
+            "handballs" : 24.0,
+            "disposals" : 68.0,
+            "marks" : 22.0,
+            "bounces" : 1.0,
+            "tackles" : 10.0,
+            "contestedPossessions" : 21.0,
+            "uncontestedPossessions" : 49.0,
+            "totalPossessions" : 70.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 80.9,
+            "clangers" : 8.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 305.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990058",
+            "playerName" : {
+              "givenName" : "Troy",
+              "surname" : "Schwarze"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 76.3
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.6,
+            "handballs" : 2.2,
+            "disposals" : 8.8,
+            "marks" : 3.2,
+            "bounces" : 0.1,
+            "tackles" : 2.0,
+            "contestedPossessions" : 3.1,
+            "uncontestedPossessions" : 5.7,
+            "totalPossessions" : 8.8,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.5,
+            "onePercenters" : 3.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 42.2,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990058",
+            "playerName" : {
+              "givenName" : "Troy",
+              "surname" : "Schwarze"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 112.0,
+            "handballs" : 38.0,
+            "disposals" : 150.0,
+            "marks" : 54.0,
+            "bounces" : 2.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 53.0,
+            "uncontestedPossessions" : 97.0,
+            "totalPossessions" : 150.0,
+            "inside50s" : 30.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 9.0,
+            "onePercenters" : 54.0,
+            "disposalEfficiency" : 79.3,
+            "clangers" : 22.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 718.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990058",
+            "playerName" : {
+              "givenName" : "Troy",
+              "surname" : "Schwarze"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 75.3
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.8,
+            "handballs" : 2.0,
+            "disposals" : 6.8,
+            "marks" : 2.3,
+            "bounces" : 0.3,
+            "tackles" : 1.3,
+            "contestedPossessions" : 2.6,
+            "uncontestedPossessions" : 4.7,
+            "totalPossessions" : 7.2,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 30.0,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990058",
+            "playerName" : {
+              "givenName" : "Troy",
+              "surname" : "Schwarze"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 43.0,
+            "handballs" : 18.0,
+            "disposals" : 61.0,
+            "marks" : 21.0,
+            "bounces" : 3.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 23.0,
+            "uncontestedPossessions" : 42.0,
+            "totalPossessions" : 65.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 80.3,
+            "clangers" : 13.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 270.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 17.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990058",
+            "playerName" : {
+              "givenName" : "Troy",
+              "surname" : "Schwarze"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 79.0
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 2.5,
+            "disposals" : 9.7,
+            "marks" : 2.5,
+            "bounces" : 0.1,
+            "tackles" : 1.0,
+            "contestedPossessions" : 3.3,
+            "uncontestedPossessions" : 5.2,
+            "totalPossessions" : 8.6,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 3.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.1,
+            "dreamTeamPoints" : 40.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990058",
+            "playerName" : {
+              "givenName" : "Troy",
+              "surname" : "Schwarze"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 145.0,
+            "handballs" : 50.0,
+            "disposals" : 195.0,
+            "marks" : 50.0,
+            "bounces" : 3.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 67.0,
+            "uncontestedPossessions" : 105.0,
+            "totalPossessions" : 172.0,
+            "inside50s" : 25.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 71.0,
+            "disposalEfficiency" : 81.0,
+            "clangers" : 21.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 816.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 45.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 46.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990058",
+            "playerName" : {
+              "givenName" : "Troy",
+              "surname" : "Schwarze"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.7,
+            "handballs" : 1.7,
+            "disposals" : 4.5,
+            "marks" : 1.5,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 1.7,
+            "uncontestedPossessions" : 2.7,
+            "totalPossessions" : 4.5,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 15.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990058",
+            "playerName" : {
+              "givenName" : "Troy",
+              "surname" : "Schwarze"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 7.0,
+            "disposals" : 18.0,
+            "marks" : 6.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 11.0,
+            "totalPossessions" : 18.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 88.9,
+            "clangers" : 4.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 60.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990058",
+            "playerName" : {
+              "givenName" : "Troy",
+              "surname" : "Schwarze"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 9.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 69.0,
+      "handballs" : 32.0,
+      "disposals" : 101.0,
+      "marks" : 47.0,
+      "bounces" : 17.0,
+      "tackles" : 20.0,
+      "contestedPossessions" : 33.0,
+      "uncontestedPossessions" : 67.0,
+      "totalPossessions" : 100.0,
+      "inside50s" : 22.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 2.0,
+      "onePercenters" : 28.0,
+      "disposalEfficiency" : 74.3,
+      "clangers" : 20.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 8.0,
+      "dreamTeamPoints" : 532.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 3.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 60.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

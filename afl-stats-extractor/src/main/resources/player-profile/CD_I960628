@@ -1,0 +1,956 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960628",
+    "position" : "Left Forward Pocket",
+    "surname" : "Mathews",
+    "jumperNumber" : 4,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Ben",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1978-11-29T01:00:00.000+0000",
+      "draftYear" : "1995",
+      "heightInCm" : 181,
+      "weightInKg" : 86,
+      "recruitedFrom" : "Corowa-Rutherglen (NSW)/Murray U18",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 44.0,
+      "behinds" : 24.0,
+      "superGoals" : null,
+      "kicks" : 1805.0,
+      "handballs" : 1286.0,
+      "disposals" : 3091.0,
+      "marks" : 750.0,
+      "bounces" : 60.0,
+      "tackles" : 493.0,
+      "contestedPossessions" : 1021.0,
+      "uncontestedPossessions" : 2041.0,
+      "totalPossessions" : 3062.0,
+      "inside50s" : 305.0,
+      "marksInside50" : 45.0,
+      "contestedMarks" : 38.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 167.0,
+      "disposalEfficiency" : 82.6,
+      "clangers" : 287.0,
+      "freesFor" : 110.0,
+      "freesAgainst" : 106.0,
+      "dreamTeamPoints" : 12289.0,
+      "clearances" : {
+        "centreClearances" : 98.0,
+        "stoppageClearances" : 217.0,
+        "totalClearances" : 315.0
+      },
+      "rebound50s" : 441.0,
+      "goalAssists" : 37.0,
+      "goalAccuracy" : 60.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 5.5,
+            "disposals" : 11.5,
+            "marks" : 4.5,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 9.5,
+            "totalPossessions" : 11.5,
+            "inside50s" : 1.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 51.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960628",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Mathews"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 12.0,
+            "handballs" : 11.0,
+            "disposals" : 23.0,
+            "marks" : 9.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 19.0,
+            "totalPossessions" : 23.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 73.9,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 102.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960628",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Mathews"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 71.3
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.3,
+            "handballs" : 6.0,
+            "disposals" : 13.3,
+            "marks" : 3.9,
+            "bounces" : 0.0,
+            "tackles" : 2.9,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 9.5,
+            "totalPossessions" : 13.2,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 57.6,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960628",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Mathews"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 168.0,
+            "handballs" : 137.0,
+            "disposals" : 305.0,
+            "marks" : 89.0,
+            "bounces" : 0.0,
+            "tackles" : 67.0,
+            "contestedPossessions" : 86.0,
+            "uncontestedPossessions" : 218.0,
+            "totalPossessions" : 304.0,
+            "inside50s" : 22.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 76.4,
+            "clangers" : 34.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1325.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 25.0
+            },
+            "rebound50s" : 22.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960628",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Mathews"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 82.5
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.9,
+            "handballs" : 5.5,
+            "disposals" : 11.4,
+            "marks" : 3.1,
+            "bounces" : 0.0,
+            "tackles" : 2.6,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 7.3,
+            "totalPossessions" : 11.4,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.3,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 48.4,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960628",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Mathews"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 83.0,
+            "handballs" : 77.0,
+            "disposals" : 160.0,
+            "marks" : 44.0,
+            "bounces" : 0.0,
+            "tackles" : 37.0,
+            "contestedPossessions" : 57.0,
+            "uncontestedPossessions" : 102.0,
+            "totalPossessions" : 159.0,
+            "inside50s" : 23.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 80.6,
+            "clangers" : 21.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 677.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 16.0,
+              "totalClearances" : 22.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 71.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960628",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Mathews"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 79.1
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 6.4,
+            "disposals" : 14.4,
+            "marks" : 3.1,
+            "bounces" : 0.2,
+            "tackles" : 3.0,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 9.4,
+            "totalPossessions" : 14.3,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 58.4,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960628",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Mathews"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 200.0,
+            "handballs" : 161.0,
+            "disposals" : 361.0,
+            "marks" : 77.0,
+            "bounces" : 4.0,
+            "tackles" : 75.0,
+            "contestedPossessions" : 121.0,
+            "uncontestedPossessions" : 236.0,
+            "totalPossessions" : 357.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 79.2,
+            "clangers" : 38.0,
+            "freesFor" : 22.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1461.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 21.0,
+              "totalClearances" : 28.0
+            },
+            "rebound50s" : 40.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 54.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960628",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Mathews"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 87.4
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 8.5,
+            "disposals" : 18.5,
+            "marks" : 4.5,
+            "bounces" : 0.1,
+            "tackles" : 3.9,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 12.8,
+            "totalPossessions" : 18.5,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 76.7,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960628",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Mathews"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 239.0,
+            "handballs" : 205.0,
+            "disposals" : 444.0,
+            "marks" : 109.0,
+            "bounces" : 3.0,
+            "tackles" : 94.0,
+            "contestedPossessions" : 138.0,
+            "uncontestedPossessions" : 307.0,
+            "totalPossessions" : 445.0,
+            "inside50s" : 47.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 83.6,
+            "clangers" : 30.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1841.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 38.0,
+              "totalClearances" : 48.0
+            },
+            "rebound50s" : 41.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960628",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Mathews"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 90.4
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.3,
+            "handballs" : 6.6,
+            "disposals" : 16.9,
+            "marks" : 4.1,
+            "bounces" : 0.0,
+            "tackles" : 2.6,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 11.2,
+            "totalPossessions" : 16.7,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 67.4,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960628",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Mathews"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 237.0,
+            "handballs" : 152.0,
+            "disposals" : 389.0,
+            "marks" : 94.0,
+            "bounces" : 0.0,
+            "tackles" : 59.0,
+            "contestedPossessions" : 127.0,
+            "uncontestedPossessions" : 257.0,
+            "totalPossessions" : 384.0,
+            "inside50s" : 34.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 85.1,
+            "clangers" : 32.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 1551.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 38.0,
+              "totalClearances" : 50.0
+            },
+            "rebound50s" : 63.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960628",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Mathews"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 88.7
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 7.1,
+            "disposals" : 17.2,
+            "marks" : 3.1,
+            "bounces" : 0.4,
+            "tackles" : 3.1,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 12.1,
+            "totalPossessions" : 17.3,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 66.4,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 2.8,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960628",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Mathews"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 211.0,
+            "handballs" : 150.0,
+            "disposals" : 361.0,
+            "marks" : 66.0,
+            "bounces" : 8.0,
+            "tackles" : 65.0,
+            "contestedPossessions" : 108.0,
+            "uncontestedPossessions" : 255.0,
+            "totalPossessions" : 363.0,
+            "inside50s" : 45.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 83.9,
+            "clangers" : 32.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1394.0,
+            "clearances" : {
+              "centreClearances" : 15.0,
+              "stoppageClearances" : 23.0,
+              "totalClearances" : 38.0
+            },
+            "rebound50s" : 59.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 57.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960628",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Mathews"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 11.4,
+            "handballs" : 6.4,
+            "disposals" : 17.8,
+            "marks" : 4.9,
+            "bounces" : 0.6,
+            "tackles" : 2.0,
+            "contestedPossessions" : 6.1,
+            "uncontestedPossessions" : 11.3,
+            "totalPossessions" : 17.4,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 69.7,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 4.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960628",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Mathews"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 263.0,
+            "handballs" : 147.0,
+            "disposals" : 410.0,
+            "marks" : 113.0,
+            "bounces" : 13.0,
+            "tackles" : 46.0,
+            "contestedPossessions" : 140.0,
+            "uncontestedPossessions" : 261.0,
+            "totalPossessions" : 401.0,
+            "inside50s" : 33.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 83.7,
+            "clangers" : 37.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1604.0,
+            "clearances" : {
+              "centreClearances" : 15.0,
+              "stoppageClearances" : 23.0,
+              "totalClearances" : 38.0
+            },
+            "rebound50s" : 100.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960628",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Mathews"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 12.0,
+      "handballs" : 11.0,
+      "disposals" : 23.0,
+      "marks" : 9.0,
+      "bounces" : 0.0,
+      "tackles" : 4.0,
+      "contestedPossessions" : 4.0,
+      "uncontestedPossessions" : 19.0,
+      "totalPossessions" : 23.0,
+      "inside50s" : 2.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : 73.9,
+      "clangers" : 3.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 2.0,
+      "dreamTeamPoints" : 102.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

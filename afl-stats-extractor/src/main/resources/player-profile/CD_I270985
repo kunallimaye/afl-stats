@@ -1,0 +1,785 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I270985",
+    "position" : "Right Wing",
+    "surname" : "Morton",
+    "jumperNumber" : 40,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.4,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 10.8,
+      "handballs" : 8.1,
+      "disposals" : 18.9,
+      "marks" : 5.8,
+      "bounces" : 1.2,
+      "tackles" : 1.6,
+      "contestedPossessions" : 4.6,
+      "uncontestedPossessions" : 14.5,
+      "totalPossessions" : 19.1,
+      "inside50s" : 2.3,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.4,
+      "hitouts" : 0.3,
+      "onePercenters" : 1.8,
+      "disposalEfficiency" : null,
+      "clangers" : 2.2,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 74.6,
+      "clearances" : {
+        "centreClearances" : 0.3,
+        "stoppageClearances" : 0.8,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 2.3,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Cale",
+    "bio" : "<p>Came to the club at the end of 2012 after five seasons at Melbourne. Tall and athletic at 192cm and 88kg, Morton can play a variety of roles, and has shown some impressive form in the WAFL throughout 2013 for East Perth, playing across half back and through the middle.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WestCoastEagles/Player Profiles/2013 - Profiles/morton-2013-p.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1990-01-18T01:00:00.000+0000",
+      "draftYear" : "2007",
+      "heightInCm" : 192,
+      "weightInKg" : 88,
+      "recruitedFrom" : "Claremont (WA)",
+      "debutYear" : "2008"
+    },
+    "careerStats" : {
+      "goals" : 34.0,
+      "behinds" : 21.0,
+      "superGoals" : null,
+      "kicks" : 822.0,
+      "handballs" : 616.0,
+      "disposals" : 1438.0,
+      "marks" : 440.0,
+      "bounces" : 95.0,
+      "tackles" : 121.0,
+      "contestedPossessions" : 347.0,
+      "uncontestedPossessions" : 1105.0,
+      "totalPossessions" : 1452.0,
+      "inside50s" : 177.0,
+      "marksInside50" : 37.0,
+      "contestedMarks" : 27.0,
+      "hitouts" : 20.0,
+      "onePercenters" : 138.0,
+      "disposalEfficiency" : 72.7,
+      "clangers" : 165.0,
+      "freesFor" : 54.0,
+      "freesAgainst" : 45.0,
+      "dreamTeamPoints" : 5666.0,
+      "clearances" : {
+        "centreClearances" : 20.0,
+        "stoppageClearances" : 59.0,
+        "totalClearances" : 79.0
+      },
+      "rebound50s" : 172.0,
+      "goalAssists" : 25.0,
+      "goalAccuracy" : 54.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 6.7,
+            "handballs" : 3.7,
+            "disposals" : 10.3,
+            "marks" : 3.0,
+            "bounces" : 0.3,
+            "tackles" : 0.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 11.0,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 40.0,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270985",
+            "playerName" : {
+              "givenName" : "Cale",
+              "surname" : "Morton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 20.0,
+            "handballs" : 11.0,
+            "disposals" : 31.0,
+            "marks" : 9.0,
+            "bounces" : 1.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 9.0,
+            "uncontestedPossessions" : 24.0,
+            "totalPossessions" : 33.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 77.4,
+            "clangers" : 0.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 120.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 89.6,
+            "ranking" : 513.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270985",
+            "playerName" : {
+              "givenName" : "Cale",
+              "surname" : "Morton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 39.3
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 10.1,
+            "handballs" : 6.3,
+            "disposals" : 16.4,
+            "marks" : 3.9,
+            "bounces" : 1.1,
+            "tackles" : 2.2,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 11.7,
+            "totalPossessions" : 16.3,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.7,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 64.9,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.9,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 2.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270985",
+            "playerName" : {
+              "givenName" : "Cale",
+              "surname" : "Morton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 91.0,
+            "handballs" : 57.0,
+            "disposals" : 148.0,
+            "marks" : 35.0,
+            "bounces" : 10.0,
+            "tackles" : 20.0,
+            "contestedPossessions" : 42.0,
+            "uncontestedPossessions" : 105.0,
+            "totalPossessions" : 147.0,
+            "inside50s" : 22.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 66.9,
+            "clangers" : 24.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 584.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 17.0,
+              "totalClearances" : 20.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270985",
+            "playerName" : {
+              "givenName" : "Cale",
+              "surname" : "Morton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 71.6
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 7.1,
+            "disposals" : 16.1,
+            "marks" : 4.5,
+            "bounces" : 0.6,
+            "tackles" : 1.5,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 11.5,
+            "totalPossessions" : 16.5,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 63.0,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270985",
+            "playerName" : {
+              "givenName" : "Cale",
+              "surname" : "Morton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 126.0,
+            "handballs" : 99.0,
+            "disposals" : 225.0,
+            "marks" : 63.0,
+            "bounces" : 9.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 70.0,
+            "uncontestedPossessions" : 161.0,
+            "totalPossessions" : 231.0,
+            "inside50s" : 39.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 72.4,
+            "clangers" : 26.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 882.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 41.7,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270985",
+            "playerName" : {
+              "givenName" : "Cale",
+              "surname" : "Morton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 78.2
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 12.4,
+            "handballs" : 8.5,
+            "disposals" : 20.9,
+            "marks" : 7.0,
+            "bounces" : 1.5,
+            "tackles" : 2.1,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 15.6,
+            "totalPossessions" : 21.4,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 1.1,
+            "hitouts" : 0.4,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 86.0,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 2.8,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270985",
+            "playerName" : {
+              "givenName" : "Cale",
+              "surname" : "Morton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 124.0,
+            "handballs" : 85.0,
+            "disposals" : 209.0,
+            "marks" : 70.0,
+            "bounces" : 15.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 58.0,
+            "uncontestedPossessions" : 156.0,
+            "totalPossessions" : 214.0,
+            "inside50s" : 22.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 68.9,
+            "clangers" : 22.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 860.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 28.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 71.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270985",
+            "playerName" : {
+              "givenName" : "Cale",
+              "surname" : "Morton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 83.9
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 12.4,
+            "handballs" : 10.2,
+            "disposals" : 22.7,
+            "marks" : 7.0,
+            "bounces" : 1.6,
+            "tackles" : 1.9,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 17.7,
+            "totalPossessions" : 22.2,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.3,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 87.7,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 3.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270985",
+            "playerName" : {
+              "givenName" : "Cale",
+              "surname" : "Morton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 261.0,
+            "handballs" : 215.0,
+            "disposals" : 476.0,
+            "marks" : 146.0,
+            "bounces" : 33.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 95.0,
+            "uncontestedPossessions" : 372.0,
+            "totalPossessions" : 467.0,
+            "inside50s" : 42.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 45.0,
+            "disposalEfficiency" : 77.1,
+            "clangers" : 41.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1842.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 68.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 75.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270985",
+            "playerName" : {
+              "givenName" : "Cale",
+              "surname" : "Morton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 86.0
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 10.5,
+            "handballs" : 7.8,
+            "disposals" : 18.4,
+            "marks" : 6.2,
+            "bounces" : 1.4,
+            "tackles" : 1.1,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 15.1,
+            "totalPossessions" : 18.9,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 72.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270985",
+            "playerName" : {
+              "givenName" : "Cale",
+              "surname" : "Morton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 200.0,
+            "handballs" : 149.0,
+            "disposals" : 349.0,
+            "marks" : 117.0,
+            "bounces" : 27.0,
+            "tackles" : 20.0,
+            "contestedPossessions" : 73.0,
+            "uncontestedPossessions" : 287.0,
+            "totalPossessions" : 360.0,
+            "inside50s" : 45.0,
+            "marksInside50" : 15.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 71.1,
+            "clangers" : 52.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1378.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 52.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270985",
+            "playerName" : {
+              "givenName" : "Cale",
+              "surname" : "Morton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 72.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 20.0,
+      "handballs" : 11.0,
+      "disposals" : 31.0,
+      "marks" : 9.0,
+      "bounces" : 1.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 9.0,
+      "uncontestedPossessions" : 24.0,
+      "totalPossessions" : 33.0,
+      "inside50s" : 7.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 4.0,
+      "disposalEfficiency" : 77.4,
+      "clangers" : 0.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 120.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : 89.6,
+      "ranking" : 513.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201301427",
+      "player" : {
+        "playerId" : "CD_I270985",
+        "playerName" : {
+          "givenName" : "Cale",
+          "surname" : "Morton"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T150",
+        "teamAbbr" : "WCE",
+        "teamName" : "West Coast Eagles",
+        "teamNickname" : "Eagles"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 80.0,
+        "ranking" : 524,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 80.0,
+        "ranking" : 32,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 80.0,
+        "ranking" : 203,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 76
+  }
+}

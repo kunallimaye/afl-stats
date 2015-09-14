@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I260710",
+    "position" : "Right Forward Pocket",
+    "surname" : "Puopolo",
+    "jumperNumber" : 28,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.9,
+      "behinds" : 0.5,
+      "superGoals" : null,
+      "kicks" : 7.5,
+      "handballs" : 7.4,
+      "disposals" : 14.9,
+      "marks" : 2.5,
+      "bounces" : 0.1,
+      "tackles" : 4.0,
+      "contestedPossessions" : 6.7,
+      "uncontestedPossessions" : 7.9,
+      "totalPossessions" : 14.6,
+      "inside50s" : 2.4,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : null,
+      "clangers" : 1.5,
+      "freesFor" : 1.5,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 66.1,
+      "clearances" : {
+        "centreClearances" : 0.5,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.5
+      },
+      "rebound50s" : 0.5,
+      "goalAssists" : 0.7,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Paul",
+    "bio" : "<p>Doesn&rsquo;t earn the plaudits of some of his more high-profile teammates, but every premiership team needs its foot soldiers and the pint-sized Puopolo fits the bill perfectly. He is primarily a defensive forward and laid the second most tackles at Hawthorn in 2014, but has a devastating burst of speed and knows how to find the goals and to take a contested and, occasionally, spectacular mark. A fine example of the excellent recruiting and outstanding coaching at Hawthorn.</p>\n<p><strong>Draft history: </strong>2010 NAB AFL Draft 4th round selection (Hawthorn) No. 66 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Hawthorn/Player Profiles/2015 - Profiles/PUOPOLO Paul.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1987-12-02T01:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 173,
+      "weightInKg" : 76,
+      "recruitedFrom" : "Norwood (SA)",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 97.0,
+      "behinds" : 53.0,
+      "superGoals" : null,
+      "kicks" : 812.0,
+      "handballs" : 794.0,
+      "disposals" : 1606.0,
+      "marks" : 267.0,
+      "bounces" : 16.0,
+      "tackles" : 436.0,
+      "contestedPossessions" : 722.0,
+      "uncontestedPossessions" : 858.0,
+      "totalPossessions" : 1580.0,
+      "inside50s" : 259.0,
+      "marksInside50" : 57.0,
+      "contestedMarks" : 25.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 111.0,
+      "disposalEfficiency" : 74.3,
+      "clangers" : 157.0,
+      "freesFor" : 159.0,
+      "freesAgainst" : 75.0,
+      "dreamTeamPoints" : 7139.0,
+      "clearances" : {
+        "centreClearances" : 53.0,
+        "stoppageClearances" : 111.0,
+        "totalClearances" : 164.0
+      },
+      "rebound50s" : 49.0,
+      "goalAssists" : 81.0,
+      "goalAccuracy" : 53.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.4,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 6.6,
+            "handballs" : 6.6,
+            "disposals" : 13.2,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 4.9,
+            "contestedPossessions" : 6.4,
+            "uncontestedPossessions" : 6.4,
+            "totalPossessions" : 12.9,
+            "inside50s" : 2.6,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 1.3,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 66.9,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260710",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Puopolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 28.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 132.0,
+            "handballs" : 132.0,
+            "disposals" : 264.0,
+            "marks" : 40.0,
+            "bounces" : 1.0,
+            "tackles" : 99.0,
+            "contestedPossessions" : 129.0,
+            "uncontestedPossessions" : 129.0,
+            "totalPossessions" : 258.0,
+            "inside50s" : 53.0,
+            "marksInside50" : 17.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 73.1,
+            "clangers" : 33.0,
+            "freesFor" : 27.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1338.0,
+            "clearances" : {
+              "centreClearances" : 11.0,
+              "stoppageClearances" : 18.0,
+              "totalClearances" : 29.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 21.0,
+            "goalAccuracy" : 59.6,
+            "ratingPoints" : 398.7,
+            "ranking" : 95.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260710",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Puopolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 78.3
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 7.6,
+            "disposals" : 15.8,
+            "marks" : 2.8,
+            "bounces" : 0.0,
+            "tackles" : 4.4,
+            "contestedPossessions" : 6.3,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 15.3,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 71.5,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260710",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Puopolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 22.0,
+            "behinds" : 16.0,
+            "superGoals" : null,
+            "kicks" : 205.0,
+            "handballs" : 191.0,
+            "disposals" : 396.0,
+            "marks" : 69.0,
+            "bounces" : 0.0,
+            "tackles" : 109.0,
+            "contestedPossessions" : 157.0,
+            "uncontestedPossessions" : 226.0,
+            "totalPossessions" : 383.0,
+            "inside50s" : 71.0,
+            "marksInside50" : 12.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 69.2,
+            "clangers" : 34.0,
+            "freesFor" : 29.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1787.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 32.0,
+              "totalClearances" : 44.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 20.0,
+            "goalAccuracy" : 45.8,
+            "ratingPoints" : 400.0,
+            "ranking" : 105.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260710",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Puopolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 82.8
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 8.3,
+            "handballs" : 8.8,
+            "disposals" : 17.1,
+            "marks" : 2.2,
+            "bounces" : 0.1,
+            "tackles" : 4.4,
+            "contestedPossessions" : 8.3,
+            "uncontestedPossessions" : 8.7,
+            "totalPossessions" : 17.0,
+            "inside50s" : 2.6,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 1.7,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 70.3,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.6
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260710",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Puopolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 182.0,
+            "handballs" : 194.0,
+            "disposals" : 376.0,
+            "marks" : 48.0,
+            "bounces" : 3.0,
+            "tackles" : 96.0,
+            "contestedPossessions" : 182.0,
+            "uncontestedPossessions" : 192.0,
+            "totalPossessions" : 374.0,
+            "inside50s" : 58.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 71.8,
+            "clangers" : 35.0,
+            "freesFor" : 38.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1546.0,
+            "clearances" : {
+              "centreClearances" : 26.0,
+              "stoppageClearances" : 31.0,
+              "totalClearances" : 57.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 16.0,
+            "goalAccuracy" : 57.7,
+            "ratingPoints" : 359.3,
+            "ranking" : 148.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260710",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Puopolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 80.9
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.1,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 5.6,
+            "handballs" : 5.0,
+            "disposals" : 10.6,
+            "marks" : 1.8,
+            "bounces" : 0.2,
+            "tackles" : 3.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 5.4,
+            "totalPossessions" : 10.4,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 1.3,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 50.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260710",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Puopolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 24.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 118.0,
+            "handballs" : 105.0,
+            "disposals" : 223.0,
+            "marks" : 38.0,
+            "bounces" : 5.0,
+            "tackles" : 64.0,
+            "contestedPossessions" : 105.0,
+            "uncontestedPossessions" : 113.0,
+            "totalPossessions" : 218.0,
+            "inside50s" : 42.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 72.6,
+            "clangers" : 32.0,
+            "freesFor" : 28.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1060.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 54.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260710",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Puopolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 72.1
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 8.6,
+            "disposals" : 17.3,
+            "marks" : 3.6,
+            "bounces" : 0.3,
+            "tackles" : 3.4,
+            "contestedPossessions" : 7.5,
+            "uncontestedPossessions" : 9.9,
+            "totalPossessions" : 17.4,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 1.8,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 70.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260710",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Puopolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 175.0,
+            "handballs" : 172.0,
+            "disposals" : 347.0,
+            "marks" : 72.0,
+            "bounces" : 7.0,
+            "tackles" : 68.0,
+            "contestedPossessions" : 150.0,
+            "uncontestedPossessions" : 198.0,
+            "totalPossessions" : 348.0,
+            "inside50s" : 35.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 84.7,
+            "clangers" : 23.0,
+            "freesFor" : 37.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1408.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 18.0,
+              "totalClearances" : 20.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 47.1,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260710",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Puopolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 87.1
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 28.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 132.0,
+      "handballs" : 132.0,
+      "disposals" : 264.0,
+      "marks" : 40.0,
+      "bounces" : 1.0,
+      "tackles" : 99.0,
+      "contestedPossessions" : 129.0,
+      "uncontestedPossessions" : 129.0,
+      "totalPossessions" : 258.0,
+      "inside50s" : 53.0,
+      "marksInside50" : 17.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 12.0,
+      "disposalEfficiency" : 73.1,
+      "clangers" : 33.0,
+      "freesFor" : 27.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1338.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 21.0,
+      "goalAccuracy" : 59.6,
+      "ratingPoints" : 398.7,
+      "ranking" : 95.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I260710",
+        "playerName" : {
+          "givenName" : "Paul",
+          "surname" : "Puopolo"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T80",
+        "teamAbbr" : "HAW",
+        "teamName" : "Hawthorn",
+        "teamNickname" : "Hawks"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 395.9,
+        "ranking" : 96,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 395.9,
+        "ranking" : 13,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 395.9,
+        "ranking" : 9,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 7.3,
+        "ranking" : 103,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 241.3,
+        "ranking" : 78,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 108
+  }
+}

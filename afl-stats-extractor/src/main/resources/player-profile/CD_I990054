@@ -1,0 +1,956 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I990054",
+    "position" : "Interchange",
+    "surname" : "Ramanauskas",
+    "jumperNumber" : 9,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Adam",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1980-11-19T01:00:00.000+0000",
+      "draftYear" : "1998",
+      "heightInCm" : 183,
+      "weightInKg" : 83,
+      "recruitedFrom" : "Noble Park/Dandenong U18",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 63.0,
+      "behinds" : 36.0,
+      "superGoals" : null,
+      "kicks" : 1287.0,
+      "handballs" : 716.0,
+      "disposals" : 2003.0,
+      "marks" : 556.0,
+      "bounces" : 111.0,
+      "tackles" : 239.0,
+      "contestedPossessions" : 654.0,
+      "uncontestedPossessions" : 1296.0,
+      "totalPossessions" : 1950.0,
+      "inside50s" : 416.0,
+      "marksInside50" : 43.0,
+      "contestedMarks" : 52.0,
+      "hitouts" : 41.0,
+      "onePercenters" : 260.0,
+      "disposalEfficiency" : 84.0,
+      "clangers" : 237.0,
+      "freesFor" : 64.0,
+      "freesAgainst" : 89.0,
+      "dreamTeamPoints" : 8169.0,
+      "clearances" : {
+        "centreClearances" : 68.0,
+        "stoppageClearances" : 127.0,
+        "totalClearances" : 195.0
+      },
+      "rebound50s" : 253.0,
+      "goalAssists" : 18.0,
+      "goalAccuracy" : 59.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.8,
+            "handballs" : 5.7,
+            "disposals" : 13.4,
+            "marks" : 4.3,
+            "bounces" : 0.1,
+            "tackles" : 1.6,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 9.6,
+            "totalPossessions" : 13.2,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 54.2,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990054",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Ramanauskas"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 140.0,
+            "handballs" : 102.0,
+            "disposals" : 242.0,
+            "marks" : 77.0,
+            "bounces" : 2.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 65.0,
+            "uncontestedPossessions" : 173.0,
+            "totalPossessions" : 238.0,
+            "inside50s" : 33.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 79.3,
+            "clangers" : 34.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 975.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 17.0
+            },
+            "rebound50s" : 32.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 58.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990054",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Ramanauskas"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 76.4
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 4.8,
+            "disposals" : 12.0,
+            "marks" : 3.8,
+            "bounces" : 0.2,
+            "tackles" : 1.2,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 12.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 50.8,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990054",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Ramanauskas"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 36.0,
+            "handballs" : 24.0,
+            "disposals" : 60.0,
+            "marks" : 19.0,
+            "bounces" : 1.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 15.0,
+            "uncontestedPossessions" : 45.0,
+            "totalPossessions" : 60.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 85.0,
+            "clangers" : 5.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 254.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990054",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Ramanauskas"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 74.8
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990054",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Ramanauskas"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990054",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Ramanauskas"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.3,
+            "handballs" : 5.3,
+            "disposals" : 12.7,
+            "marks" : 3.0,
+            "bounces" : 0.3,
+            "tackles" : 2.7,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 13.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 53.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990054",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Ramanauskas"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 22.0,
+            "handballs" : 16.0,
+            "disposals" : 38.0,
+            "marks" : 9.0,
+            "bounces" : 1.0,
+            "tackles" : 8.0,
+            "contestedPossessions" : 15.0,
+            "uncontestedPossessions" : 24.0,
+            "totalPossessions" : 39.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 81.6,
+            "clangers" : 7.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 159.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990054",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Ramanauskas"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 76.5
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.2,
+            "handballs" : 4.3,
+            "disposals" : 13.5,
+            "marks" : 4.7,
+            "bounces" : 0.5,
+            "tackles" : 1.3,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 8.6,
+            "totalPossessions" : 12.9,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 56.0,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 2.6,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990054",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Ramanauskas"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 220.0,
+            "handballs" : 104.0,
+            "disposals" : 324.0,
+            "marks" : 112.0,
+            "bounces" : 12.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 103.0,
+            "uncontestedPossessions" : 207.0,
+            "totalPossessions" : 310.0,
+            "inside50s" : 42.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 50.0,
+            "disposalEfficiency" : 85.5,
+            "clangers" : 35.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1343.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 26.0,
+              "totalClearances" : 32.0
+            },
+            "rebound50s" : 63.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 46.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990054",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Ramanauskas"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 84.8
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 10.7,
+            "handballs" : 6.3,
+            "disposals" : 17.0,
+            "marks" : 3.4,
+            "bounces" : 0.6,
+            "tackles" : 2.3,
+            "contestedPossessions" : 6.7,
+            "uncontestedPossessions" : 9.7,
+            "totalPossessions" : 16.4,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 0.9,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 69.1,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.9
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990054",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Ramanauskas"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 107.0,
+            "handballs" : 63.0,
+            "disposals" : 170.0,
+            "marks" : 34.0,
+            "bounces" : 6.0,
+            "tackles" : 23.0,
+            "contestedPossessions" : 67.0,
+            "uncontestedPossessions" : 97.0,
+            "totalPossessions" : 164.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 73.5,
+            "clangers" : 9.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 691.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 19.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 44.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990054",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Ramanauskas"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 89.8
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 12.0,
+            "handballs" : 5.4,
+            "disposals" : 17.3,
+            "marks" : 4.7,
+            "bounces" : 1.0,
+            "tackles" : 2.1,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 10.7,
+            "totalPossessions" : 16.6,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.5,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 71.3,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990054",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Ramanauskas"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 275.0,
+            "handballs" : 124.0,
+            "disposals" : 399.0,
+            "marks" : 109.0,
+            "bounces" : 22.0,
+            "tackles" : 49.0,
+            "contestedPossessions" : 137.0,
+            "uncontestedPossessions" : 245.0,
+            "totalPossessions" : 382.0,
+            "inside50s" : 87.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 11.0,
+            "onePercenters" : 68.0,
+            "disposalEfficiency" : 87.5,
+            "clangers" : 43.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1641.0,
+            "clearances" : {
+              "centreClearances" : 18.0,
+              "stoppageClearances" : 29.0,
+              "totalClearances" : 47.0
+            },
+            "rebound50s" : 49.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 65.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990054",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Ramanauskas"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 10.3,
+            "handballs" : 5.0,
+            "disposals" : 15.2,
+            "marks" : 3.6,
+            "bounces" : 1.6,
+            "tackles" : 2.0,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 14.7,
+            "inside50s" : 3.5,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.9,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 61.8,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990054",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Ramanauskas"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 257.0,
+            "handballs" : 124.0,
+            "disposals" : 381.0,
+            "marks" : 90.0,
+            "bounces" : 41.0,
+            "tackles" : 50.0,
+            "contestedPossessions" : 118.0,
+            "uncontestedPossessions" : 250.0,
+            "totalPossessions" : 368.0,
+            "inside50s" : 87.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 17.0,
+            "hitouts" : 22.0,
+            "onePercenters" : 50.0,
+            "disposalEfficiency" : 86.1,
+            "clangers" : 49.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1546.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 26.0,
+              "totalClearances" : 38.0
+            },
+            "rebound50s" : 52.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 81.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990054",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Ramanauskas"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 7.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 140.0,
+      "handballs" : 102.0,
+      "disposals" : 242.0,
+      "marks" : 77.0,
+      "bounces" : 2.0,
+      "tackles" : 28.0,
+      "contestedPossessions" : 65.0,
+      "uncontestedPossessions" : 173.0,
+      "totalPossessions" : 238.0,
+      "inside50s" : 33.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 24.0,
+      "disposalEfficiency" : 79.3,
+      "clangers" : 34.0,
+      "freesFor" : 8.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 975.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 11.0,
+        "totalClearances" : 17.0
+      },
+      "rebound50s" : 32.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 58.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

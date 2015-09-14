@@ -1,0 +1,579 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I292508",
+    "position" : "Ruck Rover",
+    "surname" : "McKeever",
+    "jumperNumber" : 40,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 4.7,
+      "handballs" : 6.4,
+      "disposals" : 11.1,
+      "marks" : 3.4,
+      "bounces" : 0.1,
+      "tackles" : 1.2,
+      "contestedPossessions" : 3.7,
+      "uncontestedPossessions" : 7.2,
+      "totalPossessions" : 10.9,
+      "inside50s" : 0.7,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.2,
+      "hitouts" : 1.5,
+      "onePercenters" : 6.2,
+      "disposalEfficiency" : null,
+      "clangers" : 2.3,
+      "freesFor" : 0.5,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 41.7,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.4,
+        "totalClearances" : 0.4
+      },
+      "rebound50s" : 1.5,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Niall",
+    "bio" : "<p>Niall McKeever is the latest player to be recruited to the Lions from Ireland. He is a tall and athletic prospect who starred for county side Antrim in the local Gaelic league.&nbsp;Like many of his compatriots, his rapid AFL development saw him play senior football within two years of first picking up&nbsp;the oval-shaped ball.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2013 - Profiles/McKEEVER Niall.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1989-02-16T01:00:00.000+0000",
+      "draftYear" : "2012",
+      "heightInCm" : 197,
+      "weightInKg" : 95,
+      "recruitedFrom" : "Ireland",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 2.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 104.0,
+      "handballs" : 140.0,
+      "disposals" : 244.0,
+      "marks" : 75.0,
+      "bounces" : 2.0,
+      "tackles" : 27.0,
+      "contestedPossessions" : 82.0,
+      "uncontestedPossessions" : 158.0,
+      "totalPossessions" : 240.0,
+      "inside50s" : 16.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 34.0,
+      "onePercenters" : 136.0,
+      "disposalEfficiency" : 74.2,
+      "clangers" : 51.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 918.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 8.0,
+        "totalClearances" : 9.0
+      },
+      "rebound50s" : 33.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.7,
+            "handballs" : 6.0,
+            "disposals" : 9.7,
+            "marks" : 2.7,
+            "bounces" : 0.0,
+            "tackles" : 2.3,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 9.7,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.3,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 40.7,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292508",
+            "playerName" : {
+              "givenName" : "Niall",
+              "surname" : "McKeever"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 18.0,
+            "disposals" : 29.0,
+            "marks" : 8.0,
+            "bounces" : 0.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 11.0,
+            "uncontestedPossessions" : 18.0,
+            "totalPossessions" : 29.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 12.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 72.4,
+            "clangers" : 9.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 122.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 61.6,
+            "ranking" : 567.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292508",
+            "playerName" : {
+              "givenName" : "Niall",
+              "surname" : "McKeever"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 85.8
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.2,
+            "handballs" : 6.8,
+            "disposals" : 12.0,
+            "marks" : 3.8,
+            "bounces" : 0.1,
+            "tackles" : 1.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 8.2,
+            "totalPossessions" : 12.2,
+            "inside50s" : 0.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 7.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 43.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292508",
+            "playerName" : {
+              "givenName" : "Niall",
+              "surname" : "McKeever"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 47.0,
+            "handballs" : 61.0,
+            "disposals" : 108.0,
+            "marks" : 34.0,
+            "bounces" : 1.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 36.0,
+            "uncontestedPossessions" : 74.0,
+            "totalPossessions" : 110.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 70.0,
+            "disposalEfficiency" : 75.9,
+            "clangers" : 18.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 390.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292508",
+            "playerName" : {
+              "givenName" : "Niall",
+              "surname" : "McKeever"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 97.8
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.6,
+            "handballs" : 6.1,
+            "disposals" : 10.7,
+            "marks" : 3.3,
+            "bounces" : 0.1,
+            "tackles" : 1.1,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 6.6,
+            "totalPossessions" : 10.1,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 2.0,
+            "onePercenters" : 5.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 40.6,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292508",
+            "playerName" : {
+              "givenName" : "Niall",
+              "surname" : "McKeever"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 46.0,
+            "handballs" : 61.0,
+            "disposals" : 107.0,
+            "marks" : 33.0,
+            "bounces" : 1.0,
+            "tackles" : 11.0,
+            "contestedPossessions" : 35.0,
+            "uncontestedPossessions" : 66.0,
+            "totalPossessions" : 101.0,
+            "inside50s" : 11.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 20.0,
+            "onePercenters" : 58.0,
+            "disposalEfficiency" : 72.9,
+            "clangers" : 24.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 406.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292508",
+            "playerName" : {
+              "givenName" : "Niall",
+              "surname" : "McKeever"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 94.1
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292508",
+            "playerName" : {
+              "givenName" : "Niall",
+              "surname" : "McKeever"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292508",
+            "playerName" : {
+              "givenName" : "Niall",
+              "surname" : "McKeever"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 11.0,
+      "handballs" : 18.0,
+      "disposals" : 29.0,
+      "marks" : 8.0,
+      "bounces" : 0.0,
+      "tackles" : 7.0,
+      "contestedPossessions" : 11.0,
+      "uncontestedPossessions" : 18.0,
+      "totalPossessions" : 29.0,
+      "inside50s" : 2.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 12.0,
+      "onePercenters" : 8.0,
+      "disposalEfficiency" : 72.4,
+      "clangers" : 9.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 6.0,
+      "dreamTeamPoints" : 122.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 100.0,
+      "ratingPoints" : 61.6,
+      "ranking" : 567.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201301427",
+      "player" : {
+        "playerId" : "CD_I292508",
+        "playerName" : {
+          "givenName" : "Niall",
+          "surname" : "McKeever"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 63.0,
+        "ranking" : 565,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 63.0,
+        "ranking" : 34,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 63.0,
+        "ranking" : 178,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 22
+  }
+}

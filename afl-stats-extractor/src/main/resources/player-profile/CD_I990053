@@ -1,0 +1,750 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I990053",
+    "position" : "Interchange",
+    "surname" : "Prendergast",
+    "jumperNumber" : 28,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Ian",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1980-09-02T02:00:00.000+0000",
+      "draftYear" : "1998",
+      "heightInCm" : 192,
+      "weightInKg" : 98,
+      "recruitedFrom" : "Kerang Rovers/Oakleigh U18",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 14.0,
+      "behinds" : 17.0,
+      "superGoals" : null,
+      "kicks" : 365.0,
+      "handballs" : 282.0,
+      "disposals" : 647.0,
+      "marks" : 219.0,
+      "bounces" : 9.0,
+      "tackles" : 132.0,
+      "contestedPossessions" : 284.0,
+      "uncontestedPossessions" : 365.0,
+      "totalPossessions" : 649.0,
+      "inside50s" : 134.0,
+      "marksInside50" : 18.0,
+      "contestedMarks" : 30.0,
+      "hitouts" : 167.0,
+      "onePercenters" : 130.0,
+      "disposalEfficiency" : 78.5,
+      "clangers" : 95.0,
+      "freesFor" : 62.0,
+      "freesAgainst" : 44.0,
+      "dreamTeamPoints" : 3042.0,
+      "clearances" : {
+        "centreClearances" : 29.0,
+        "stoppageClearances" : 55.0,
+        "totalClearances" : 84.0
+      },
+      "rebound50s" : 50.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 37.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 7.0,
+            "disposals" : 15.0,
+            "marks" : 6.7,
+            "bounces" : 0.3,
+            "tackles" : 4.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 9.3,
+            "totalPossessions" : 15.3,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 1.0,
+            "hitouts" : 2.3,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 1.7,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 78.7,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990053",
+            "playerName" : {
+              "givenName" : "Ian",
+              "surname" : "Prendergast"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 24.0,
+            "handballs" : 21.0,
+            "disposals" : 45.0,
+            "marks" : 20.0,
+            "bounces" : 1.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 18.0,
+            "uncontestedPossessions" : 28.0,
+            "totalPossessions" : 46.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 75.6,
+            "clangers" : 3.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 236.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990053",
+            "playerName" : {
+              "givenName" : "Ian",
+              "surname" : "Prendergast"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 64.5
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 4.7,
+            "handballs" : 3.8,
+            "disposals" : 8.5,
+            "marks" : 2.8,
+            "bounces" : 0.1,
+            "tackles" : 2.2,
+            "contestedPossessions" : 3.4,
+            "uncontestedPossessions" : 4.9,
+            "totalPossessions" : 8.3,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 4.2,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 42.1,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990053",
+            "playerName" : {
+              "givenName" : "Ian",
+              "surname" : "Prendergast"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 61.0,
+            "handballs" : 50.0,
+            "disposals" : 111.0,
+            "marks" : 36.0,
+            "bounces" : 1.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 44.0,
+            "uncontestedPossessions" : 64.0,
+            "totalPossessions" : 108.0,
+            "inside50s" : 19.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 55.0,
+            "onePercenters" : 29.0,
+            "disposalEfficiency" : 80.2,
+            "clangers" : 17.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 547.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 21.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990053",
+            "playerName" : {
+              "givenName" : "Ian",
+              "surname" : "Prendergast"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 56.1
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 6.8,
+            "handballs" : 4.2,
+            "disposals" : 11.1,
+            "marks" : 3.8,
+            "bounces" : 0.2,
+            "tackles" : 3.1,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 5.5,
+            "totalPossessions" : 11.3,
+            "inside50s" : 2.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.8,
+            "hitouts" : 4.9,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 58.4,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990053",
+            "playerName" : {
+              "givenName" : "Ian",
+              "surname" : "Prendergast"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 116.0,
+            "handballs" : 72.0,
+            "disposals" : 188.0,
+            "marks" : 65.0,
+            "bounces" : 4.0,
+            "tackles" : 53.0,
+            "contestedPossessions" : 98.0,
+            "uncontestedPossessions" : 94.0,
+            "totalPossessions" : 192.0,
+            "inside50s" : 49.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 83.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 74.5,
+            "clangers" : 41.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 992.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 22.0,
+              "totalClearances" : 31.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 45.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990053",
+            "playerName" : {
+              "givenName" : "Ian",
+              "surname" : "Prendergast"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 75.0
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 4.5,
+            "disposals" : 11.8,
+            "marks" : 3.5,
+            "bounces" : 0.1,
+            "tackles" : 1.2,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 6.5,
+            "totalPossessions" : 11.9,
+            "inside50s" : 3.1,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.6,
+            "hitouts" : 1.0,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 47.8,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990053",
+            "playerName" : {
+              "givenName" : "Ian",
+              "surname" : "Prendergast"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 94.0,
+            "handballs" : 59.0,
+            "disposals" : 153.0,
+            "marks" : 46.0,
+            "bounces" : 1.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 71.0,
+            "uncontestedPossessions" : 84.0,
+            "totalPossessions" : 155.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 13.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 79.7,
+            "clangers" : 19.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 622.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 20.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990053",
+            "playerName" : {
+              "givenName" : "Ian",
+              "surname" : "Prendergast"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 82.8
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 2.9,
+            "handballs" : 4.0,
+            "disposals" : 6.9,
+            "marks" : 2.8,
+            "bounces" : 0.0,
+            "tackles" : 1.3,
+            "contestedPossessions" : 2.1,
+            "uncontestedPossessions" : 4.9,
+            "totalPossessions" : 7.0,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.5,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 29.0,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990053",
+            "playerName" : {
+              "givenName" : "Ian",
+              "surname" : "Prendergast"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 32.0,
+            "handballs" : 44.0,
+            "disposals" : 76.0,
+            "marks" : 31.0,
+            "bounces" : 0.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 23.0,
+            "uncontestedPossessions" : 54.0,
+            "totalPossessions" : 77.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 86.8,
+            "clangers" : 12.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 319.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990053",
+            "playerName" : {
+              "givenName" : "Ian",
+              "surname" : "Prendergast"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 4.7,
+            "handballs" : 4.5,
+            "disposals" : 9.2,
+            "marks" : 2.6,
+            "bounces" : 0.2,
+            "tackles" : 1.2,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 5.1,
+            "totalPossessions" : 8.9,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.4,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 0.4,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.1,
+            "dreamTeamPoints" : 40.7,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990053",
+            "playerName" : {
+              "givenName" : "Ian",
+              "surname" : "Prendergast"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 38.0,
+            "handballs" : 36.0,
+            "disposals" : 74.0,
+            "marks" : 21.0,
+            "bounces" : 2.0,
+            "tackles" : 10.0,
+            "contestedPossessions" : 30.0,
+            "uncontestedPossessions" : 41.0,
+            "totalPossessions" : 71.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 77.0,
+            "clangers" : 3.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 326.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 44.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990053",
+            "playerName" : {
+              "givenName" : "Ian",
+              "surname" : "Prendergast"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 24.0,
+      "handballs" : 21.0,
+      "disposals" : 45.0,
+      "marks" : 20.0,
+      "bounces" : 1.0,
+      "tackles" : 12.0,
+      "contestedPossessions" : 18.0,
+      "uncontestedPossessions" : 28.0,
+      "totalPossessions" : 46.0,
+      "inside50s" : 6.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 7.0,
+      "onePercenters" : 8.0,
+      "disposalEfficiency" : 75.6,
+      "clangers" : 3.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 236.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

@@ -1,0 +1,853 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960255",
+    "position" : "Centre Half Forward",
+    "surname" : "Grant",
+    "jumperNumber" : 3,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Chris",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1972-12-13T01:00:00.000+0000",
+      "draftYear" : "1988",
+      "heightInCm" : 193,
+      "weightInKg" : 98,
+      "recruitedFrom" : "Daylesford ",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 198.0,
+      "behinds" : 127.0,
+      "superGoals" : null,
+      "kicks" : 1434.0,
+      "handballs" : 677.0,
+      "disposals" : 2111.0,
+      "marks" : 807.0,
+      "bounces" : 65.0,
+      "tackles" : 258.0,
+      "contestedPossessions" : 1012.0,
+      "uncontestedPossessions" : 1115.0,
+      "totalPossessions" : 2127.0,
+      "inside50s" : 296.0,
+      "marksInside50" : 240.0,
+      "contestedMarks" : 228.0,
+      "hitouts" : 71.0,
+      "onePercenters" : 354.0,
+      "disposalEfficiency" : 79.2,
+      "clangers" : 324.0,
+      "freesFor" : 161.0,
+      "freesAgainst" : 156.0,
+      "dreamTeamPoints" : 10188.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 109.0,
+        "totalClearances" : 123.0
+      },
+      "rebound50s" : 222.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 58.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 3.0,
+            "disposals" : 10.2,
+            "marks" : 4.4,
+            "bounces" : 0.0,
+            "tackles" : 1.4,
+            "contestedPossessions" : 3.4,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 10.4,
+            "inside50s" : 0.6,
+            "marksInside50" : 1.4,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 49.6,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960255",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 36.0,
+            "handballs" : 15.0,
+            "disposals" : 51.0,
+            "marks" : 22.0,
+            "bounces" : 0.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 17.0,
+            "uncontestedPossessions" : 35.0,
+            "totalPossessions" : 52.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 80.4,
+            "clangers" : 9.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 248.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 57.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960255",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 62.9
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 4.0,
+            "disposals" : 12.0,
+            "marks" : 4.7,
+            "bounces" : 1.3,
+            "tackles" : 1.6,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 7.5,
+            "totalPossessions" : 12.0,
+            "inside50s" : 1.5,
+            "marksInside50" : 1.4,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.2,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 58.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960255",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 28.0,
+            "behinds" : 16.0,
+            "superGoals" : null,
+            "kicks" : 192.0,
+            "handballs" : 97.0,
+            "disposals" : 289.0,
+            "marks" : 113.0,
+            "bounces" : 31.0,
+            "tackles" : 38.0,
+            "contestedPossessions" : 109.0,
+            "uncontestedPossessions" : 180.0,
+            "totalPossessions" : 289.0,
+            "inside50s" : 37.0,
+            "marksInside50" : 33.0,
+            "contestedMarks" : 18.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 58.0,
+            "disposalEfficiency" : 78.9,
+            "clangers" : 46.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 26.0,
+            "dreamTeamPoints" : 1395.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 56.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960255",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 88.9
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.6,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 2.4,
+            "disposals" : 9.6,
+            "marks" : 3.6,
+            "bounces" : 0.4,
+            "tackles" : 2.1,
+            "contestedPossessions" : 3.1,
+            "uncontestedPossessions" : 5.9,
+            "totalPossessions" : 9.0,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 54.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960255",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 26.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 115.0,
+            "handballs" : 39.0,
+            "disposals" : 154.0,
+            "marks" : 58.0,
+            "bounces" : 7.0,
+            "tackles" : 33.0,
+            "contestedPossessions" : 50.0,
+            "uncontestedPossessions" : 94.0,
+            "totalPossessions" : 144.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 15.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 71.0,
+            "disposalEfficiency" : 87.7,
+            "clangers" : 22.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 871.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 22.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 76.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960255",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 86.6
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 5.0,
+            "disposals" : 13.1,
+            "marks" : 4.8,
+            "bounces" : 0.5,
+            "tackles" : 1.5,
+            "contestedPossessions" : 5.9,
+            "uncontestedPossessions" : 7.4,
+            "totalPossessions" : 13.3,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 1.1,
+            "hitouts" : 0.2,
+            "onePercenters" : 3.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 54.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960255",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 180.0,
+            "handballs" : 109.0,
+            "disposals" : 289.0,
+            "marks" : 106.0,
+            "bounces" : 10.0,
+            "tackles" : 32.0,
+            "contestedPossessions" : 130.0,
+            "uncontestedPossessions" : 162.0,
+            "totalPossessions" : 292.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 25.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 85.0,
+            "disposalEfficiency" : 85.8,
+            "clangers" : 32.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1194.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 59.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960255",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 94.5
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 5.0,
+            "disposals" : 14.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 14.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 54.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960255",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 5.0,
+            "disposals" : 14.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 14.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 100.0,
+            "clangers" : 0.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 54.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960255",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 73.7
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 9.3,
+            "handballs" : 5.2,
+            "disposals" : 14.5,
+            "marks" : 5.3,
+            "bounces" : 0.3,
+            "tackles" : 1.5,
+            "contestedPossessions" : 7.1,
+            "uncontestedPossessions" : 7.6,
+            "totalPossessions" : 14.7,
+            "inside50s" : 1.7,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 1.8,
+            "hitouts" : 0.5,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 64.1,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960255",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 17.0,
+            "superGoals" : null,
+            "kicks" : 196.0,
+            "handballs" : 109.0,
+            "disposals" : 305.0,
+            "marks" : 111.0,
+            "bounces" : 6.0,
+            "tackles" : 32.0,
+            "contestedPossessions" : 150.0,
+            "uncontestedPossessions" : 159.0,
+            "totalPossessions" : 309.0,
+            "inside50s" : 35.0,
+            "marksInside50" : 25.0,
+            "contestedMarks" : 38.0,
+            "hitouts" : 11.0,
+            "onePercenters" : 50.0,
+            "disposalEfficiency" : 79.0,
+            "clangers" : 43.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 1347.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 17.0
+            },
+            "rebound50s" : 46.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 47.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960255",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.1,
+            "behinds" : 1.4,
+            "superGoals" : null,
+            "kicks" : 10.4,
+            "handballs" : 4.3,
+            "disposals" : 14.7,
+            "marks" : 5.0,
+            "bounces" : 0.2,
+            "tackles" : 2.6,
+            "contestedPossessions" : 7.5,
+            "uncontestedPossessions" : 7.2,
+            "totalPossessions" : 14.7,
+            "inside50s" : 2.1,
+            "marksInside50" : 2.2,
+            "contestedMarks" : 1.6,
+            "hitouts" : 0.7,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 78.5,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960255",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 46.0,
+            "behinds" : 30.0,
+            "superGoals" : null,
+            "kicks" : 228.0,
+            "handballs" : 95.0,
+            "disposals" : 323.0,
+            "marks" : 110.0,
+            "bounces" : 4.0,
+            "tackles" : 58.0,
+            "contestedPossessions" : 165.0,
+            "uncontestedPossessions" : 159.0,
+            "totalPossessions" : 324.0,
+            "inside50s" : 47.0,
+            "marksInside50" : 49.0,
+            "contestedMarks" : 35.0,
+            "hitouts" : 16.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 75.9,
+            "clangers" : 43.0,
+            "freesFor" : 30.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1728.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 29.0,
+              "totalClearances" : 35.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 60.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960255",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 4.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 36.0,
+      "handballs" : 15.0,
+      "disposals" : 51.0,
+      "marks" : 22.0,
+      "bounces" : 0.0,
+      "tackles" : 7.0,
+      "contestedPossessions" : 17.0,
+      "uncontestedPossessions" : 35.0,
+      "totalPossessions" : 52.0,
+      "inside50s" : 3.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 7.0,
+      "disposalEfficiency" : 80.4,
+      "clangers" : 9.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 5.0,
+      "dreamTeamPoints" : 248.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 6.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 57.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

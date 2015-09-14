@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I292511",
+    "position" : "Right Back Pocket",
+    "surname" : "Tuohy",
+    "jumperNumber" : 42,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 8.4,
+      "handballs" : 5.7,
+      "disposals" : 14.0,
+      "marks" : 3.0,
+      "bounces" : 0.8,
+      "tackles" : 1.9,
+      "contestedPossessions" : 5.0,
+      "uncontestedPossessions" : 8.3,
+      "totalPossessions" : 13.3,
+      "inside50s" : 1.5,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.5,
+      "disposalEfficiency" : null,
+      "clangers" : 1.8,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 53.7,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.6,
+        "totalClearances" : 0.8
+      },
+      "rebound50s" : 2.9,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Zach",
+    "bio" : "<p>A mainstay across Carlton&rsquo;s half-back line, Zach Tuohy continued to show his durability and consistency in 2014.</p>\n<p>The Irishman led the Blues in long kicks and was second in rebounds, playing in every game for the second successive season.</p>\n<p>A crucial part of a rejuvenated Carlton defence, Tuohy will be looking to take his game to the next level in just his fifth AFL season.<br />&nbsp;<br /> <strong>Draft history: </strong>2010 Rookie Draft international selection (Carlton) No. 73.<br /> <br /> <strong>Twitter:</strong> <a href=\"http://twitter.com/zach2e\" target=\"_blank\">@zach2e<br /> </a><strong>Instagram:</strong> <a href=\"http://instagram.com/zach2e\" target=\"_blank\">zach2e</a></p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Carlton/Player Profiles/2015 - Profiles/TUOHY Zach.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1989-12-10T01:00:00.000+0000",
+      "draftYear" : "2012",
+      "heightInCm" : 187,
+      "weightInKg" : 92,
+      "recruitedFrom" : "Ireland",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 34.0,
+      "behinds" : 20.0,
+      "superGoals" : null,
+      "kicks" : 820.0,
+      "handballs" : 554.0,
+      "disposals" : 1374.0,
+      "marks" : 292.0,
+      "bounces" : 75.0,
+      "tackles" : 185.0,
+      "contestedPossessions" : 489.0,
+      "uncontestedPossessions" : 817.0,
+      "totalPossessions" : 1306.0,
+      "inside50s" : 144.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 25.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 243.0,
+      "disposalEfficiency" : 75.4,
+      "clangers" : 172.0,
+      "freesFor" : 49.0,
+      "freesAgainst" : 65.0,
+      "dreamTeamPoints" : 5262.0,
+      "clearances" : {
+        "centreClearances" : 15.0,
+        "stoppageClearances" : 61.0,
+        "totalClearances" : 76.0
+      },
+      "rebound50s" : 285.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 56.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 10.9,
+            "handballs" : 8.0,
+            "disposals" : 18.8,
+            "marks" : 4.9,
+            "bounces" : 1.2,
+            "tackles" : 1.1,
+            "contestedPossessions" : 5.3,
+            "uncontestedPossessions" : 12.1,
+            "totalPossessions" : 17.4,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 68.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 3.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292511",
+            "playerName" : {
+              "givenName" : "Zach",
+              "surname" : "Tuohy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 239.0,
+            "handballs" : 175.0,
+            "disposals" : 414.0,
+            "marks" : 107.0,
+            "bounces" : 26.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 116.0,
+            "uncontestedPossessions" : 267.0,
+            "totalPossessions" : 383.0,
+            "inside50s" : 22.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 44.0,
+            "disposalEfficiency" : 80.4,
+            "clangers" : 43.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1507.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 78.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 75.0,
+            "ratingPoints" : 312.9,
+            "ranking" : 208.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292511",
+            "playerName" : {
+              "givenName" : "Zach",
+              "surname" : "Tuohy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 92.2
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 8.9,
+            "handballs" : 5.1,
+            "disposals" : 14.0,
+            "marks" : 2.9,
+            "bounces" : 0.5,
+            "tackles" : 1.4,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 13.1,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 51.4,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 3.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292511",
+            "playerName" : {
+              "givenName" : "Zach",
+              "surname" : "Tuohy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 196.0,
+            "handballs" : 113.0,
+            "disposals" : 309.0,
+            "marks" : 64.0,
+            "bounces" : 12.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 112.0,
+            "uncontestedPossessions" : 176.0,
+            "totalPossessions" : 288.0,
+            "inside50s" : 43.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 59.0,
+            "disposalEfficiency" : 74.4,
+            "clangers" : 45.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1131.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 19.0,
+              "totalClearances" : 26.0
+            },
+            "rebound50s" : 77.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 325.3,
+            "ranking" : 196.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292511",
+            "playerName" : {
+              "givenName" : "Zach",
+              "surname" : "Tuohy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 91.6
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 7.6,
+            "handballs" : 5.1,
+            "disposals" : 12.7,
+            "marks" : 2.1,
+            "bounces" : 0.8,
+            "tackles" : 2.5,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 6.6,
+            "totalPossessions" : 12.4,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 52.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 2.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292511",
+            "playerName" : {
+              "givenName" : "Zach",
+              "surname" : "Tuohy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 182.0,
+            "handballs" : 123.0,
+            "disposals" : 305.0,
+            "marks" : 51.0,
+            "bounces" : 19.0,
+            "tackles" : 61.0,
+            "contestedPossessions" : 140.0,
+            "uncontestedPossessions" : 158.0,
+            "totalPossessions" : 298.0,
+            "inside50s" : 35.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 62.0,
+            "disposalEfficiency" : 74.1,
+            "clangers" : 28.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 1260.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 17.0
+            },
+            "rebound50s" : 63.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 311.5,
+            "ranking" : 213.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292511",
+            "playerName" : {
+              "givenName" : "Zach",
+              "surname" : "Tuohy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 93.6
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.8,
+            "handballs" : 4.2,
+            "disposals" : 10.9,
+            "marks" : 2.1,
+            "bounces" : 0.5,
+            "tackles" : 3.2,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 6.8,
+            "totalPossessions" : 10.6,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 46.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292511",
+            "playerName" : {
+              "givenName" : "Zach",
+              "surname" : "Tuohy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 129.0,
+            "handballs" : 79.0,
+            "disposals" : 208.0,
+            "marks" : 39.0,
+            "bounces" : 9.0,
+            "tackles" : 60.0,
+            "contestedPossessions" : 73.0,
+            "uncontestedPossessions" : 129.0,
+            "totalPossessions" : 202.0,
+            "inside50s" : 28.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 53.0,
+            "disposalEfficiency" : 71.6,
+            "clangers" : 41.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 881.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 42.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 83.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292511",
+            "playerName" : {
+              "givenName" : "Zach",
+              "surname" : "Tuohy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 86.8
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.7,
+            "handballs" : 5.8,
+            "disposals" : 12.5,
+            "marks" : 2.8,
+            "bounces" : 0.8,
+            "tackles" : 0.8,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 7.9,
+            "totalPossessions" : 12.4,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 43.9,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292511",
+            "playerName" : {
+              "givenName" : "Zach",
+              "surname" : "Tuohy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 74.0,
+            "handballs" : 64.0,
+            "disposals" : 138.0,
+            "marks" : 31.0,
+            "bounces" : 9.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 49.0,
+            "uncontestedPossessions" : 87.0,
+            "totalPossessions" : 136.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 71.0,
+            "clangers" : 15.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 483.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 75.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292511",
+            "playerName" : {
+              "givenName" : "Zach",
+              "surname" : "Tuohy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 74.7
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292511",
+            "playerName" : {
+              "givenName" : "Zach",
+              "surname" : "Tuohy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I292511",
+            "playerName" : {
+              "givenName" : "Zach",
+              "surname" : "Tuohy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 9.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 239.0,
+      "handballs" : 175.0,
+      "disposals" : 414.0,
+      "marks" : 107.0,
+      "bounces" : 26.0,
+      "tackles" : 24.0,
+      "contestedPossessions" : 116.0,
+      "uncontestedPossessions" : 267.0,
+      "totalPossessions" : 383.0,
+      "inside50s" : 22.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 44.0,
+      "disposalEfficiency" : 80.4,
+      "clangers" : 43.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 16.0,
+      "dreamTeamPoints" : 1507.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 13.0,
+        "totalClearances" : 16.0
+      },
+      "rebound50s" : 78.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 75.0,
+      "ratingPoints" : 312.9,
+      "ranking" : 208.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I292511",
+        "playerName" : {
+          "givenName" : "Zach",
+          "surname" : "Tuohy"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T30",
+        "teamAbbr" : "CARL",
+        "teamName" : "Carlton",
+        "teamNickname" : "Blues"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 318.3,
+        "ranking" : 201,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 318.3,
+        "ranking" : 8,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 318.3,
+        "ranking" : 29,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 206.7,
+        "ranking" : 139,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 98
+  }
+}

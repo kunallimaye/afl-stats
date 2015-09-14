@@ -1,0 +1,647 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960102",
+    "position" : "Ruck",
+    "surname" : "Murphy",
+    "jumperNumber" : 28,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Justin",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1976-04-24T02:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 185,
+      "weightInKg" : 85,
+      "recruitedFrom" : "De La Salle O.C./Central U18/Richmond/Geelong/Carlton ",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 84.0,
+      "behinds" : 60.0,
+      "superGoals" : null,
+      "kicks" : 1278.0,
+      "handballs" : 957.0,
+      "disposals" : 2235.0,
+      "marks" : 571.0,
+      "bounces" : 77.0,
+      "tackles" : 229.0,
+      "contestedPossessions" : 715.0,
+      "uncontestedPossessions" : 1537.0,
+      "totalPossessions" : 2252.0,
+      "inside50s" : 424.0,
+      "marksInside50" : 62.0,
+      "contestedMarks" : 35.0,
+      "hitouts" : 3.0,
+      "onePercenters" : 157.0,
+      "disposalEfficiency" : 79.6,
+      "clangers" : 318.0,
+      "freesFor" : 78.0,
+      "freesAgainst" : 93.0,
+      "dreamTeamPoints" : 8743.0,
+      "clearances" : {
+        "centreClearances" : 97.0,
+        "stoppageClearances" : 130.0,
+        "totalClearances" : 227.0
+      },
+      "rebound50s" : 189.0,
+      "goalAssists" : 15.0,
+      "goalAccuracy" : 56.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 8.8,
+            "handballs" : 6.9,
+            "disposals" : 15.8,
+            "marks" : 5.1,
+            "bounces" : 0.5,
+            "tackles" : 1.1,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 10.6,
+            "totalPossessions" : 15.8,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.1,
+            "dreamTeamPoints" : 62.4,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960102",
+            "playerName" : {
+              "givenName" : "Justin",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 150.0,
+            "handballs" : 118.0,
+            "disposals" : 268.0,
+            "marks" : 87.0,
+            "bounces" : 8.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 87.0,
+            "uncontestedPossessions" : 181.0,
+            "totalPossessions" : 268.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 78.4,
+            "clangers" : 29.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 1061.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 32.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960102",
+            "playerName" : {
+              "givenName" : "Justin",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 86.3
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 9.2,
+            "handballs" : 8.9,
+            "disposals" : 18.1,
+            "marks" : 5.3,
+            "bounces" : 0.5,
+            "tackles" : 2.4,
+            "contestedPossessions" : 6.1,
+            "uncontestedPossessions" : 11.7,
+            "totalPossessions" : 17.9,
+            "inside50s" : 3.7,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 76.2,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960102",
+            "playerName" : {
+              "givenName" : "Justin",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 24.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 211.0,
+            "handballs" : 205.0,
+            "disposals" : 416.0,
+            "marks" : 123.0,
+            "bounces" : 12.0,
+            "tackles" : 55.0,
+            "contestedPossessions" : 141.0,
+            "uncontestedPossessions" : 270.0,
+            "totalPossessions" : 411.0,
+            "inside50s" : 86.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 39.0,
+            "disposalEfficiency" : 77.2,
+            "clangers" : 59.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1752.0,
+            "clearances" : {
+              "centreClearances" : 18.0,
+              "stoppageClearances" : 21.0,
+              "totalClearances" : 39.0
+            },
+            "rebound50s" : 28.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 64.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960102",
+            "playerName" : {
+              "givenName" : "Justin",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 95.1
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 5.4,
+            "disposals" : 14.1,
+            "marks" : 3.6,
+            "bounces" : 0.8,
+            "tackles" : 2.7,
+            "contestedPossessions" : 6.1,
+            "uncontestedPossessions" : 7.4,
+            "totalPossessions" : 13.6,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 62.9,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960102",
+            "playerName" : {
+              "givenName" : "Justin",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 140.0,
+            "handballs" : 86.0,
+            "disposals" : 226.0,
+            "marks" : 58.0,
+            "bounces" : 13.0,
+            "tackles" : 43.0,
+            "contestedPossessions" : 98.0,
+            "uncontestedPossessions" : 119.0,
+            "totalPossessions" : 217.0,
+            "inside50s" : 55.0,
+            "marksInside50" : 14.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 81.0,
+            "clangers" : 25.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1007.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 19.0,
+              "totalClearances" : 28.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 53.8,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960102",
+            "playerName" : {
+              "givenName" : "Justin",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 90.5
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 12.2,
+            "handballs" : 7.3,
+            "disposals" : 19.5,
+            "marks" : 5.2,
+            "bounces" : 0.8,
+            "tackles" : 3.2,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 14.2,
+            "totalPossessions" : 19.7,
+            "inside50s" : 3.9,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 3.1,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 83.1,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 1.9
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960102",
+            "playerName" : {
+              "givenName" : "Justin",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 245.0,
+            "handballs" : 146.0,
+            "disposals" : 391.0,
+            "marks" : 104.0,
+            "bounces" : 17.0,
+            "tackles" : 65.0,
+            "contestedPossessions" : 110.0,
+            "uncontestedPossessions" : 285.0,
+            "totalPossessions" : 395.0,
+            "inside50s" : 78.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 78.3,
+            "clangers" : 62.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1663.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 26.0,
+              "totalClearances" : 39.0
+            },
+            "rebound50s" : 50.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 53.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960102",
+            "playerName" : {
+              "givenName" : "Justin",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 12.2,
+            "handballs" : 8.4,
+            "disposals" : 20.7,
+            "marks" : 4.1,
+            "bounces" : 1.1,
+            "tackles" : 1.2,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 15.2,
+            "totalPossessions" : 21.2,
+            "inside50s" : 3.9,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.3,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 70.7,
+            "clearances" : {
+              "centreClearances" : 1.6,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 2.8
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960102",
+            "playerName" : {
+              "givenName" : "Justin",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 220.0,
+            "handballs" : 152.0,
+            "disposals" : 372.0,
+            "marks" : 74.0,
+            "bounces" : 19.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 108.0,
+            "uncontestedPossessions" : 273.0,
+            "totalPossessions" : 381.0,
+            "inside50s" : 70.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 80.4,
+            "clangers" : 60.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 24.0,
+            "dreamTeamPoints" : 1272.0,
+            "clearances" : {
+              "centreClearances" : 29.0,
+              "stoppageClearances" : 22.0,
+              "totalClearances" : 51.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 56.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960102",
+            "playerName" : {
+              "givenName" : "Justin",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 4.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 150.0,
+      "handballs" : 118.0,
+      "disposals" : 268.0,
+      "marks" : 87.0,
+      "bounces" : 8.0,
+      "tackles" : 19.0,
+      "contestedPossessions" : 87.0,
+      "uncontestedPossessions" : 181.0,
+      "totalPossessions" : 268.0,
+      "inside50s" : 40.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 24.0,
+      "disposalEfficiency" : 78.4,
+      "clangers" : 29.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 2.0,
+      "dreamTeamPoints" : 1061.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 8.0,
+        "totalClearances" : 14.0
+      },
+      "rebound50s" : 32.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 40.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

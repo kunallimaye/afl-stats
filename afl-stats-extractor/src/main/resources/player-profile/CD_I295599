@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I295599",
+    "position" : "Left Half Forward",
+    "surname" : "Ambrose",
+    "jumperNumber" : 29,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 5.1,
+      "handballs" : 6.7,
+      "disposals" : 11.7,
+      "marks" : 3.5,
+      "bounces" : 0.0,
+      "tackles" : 4.4,
+      "contestedPossessions" : 4.7,
+      "uncontestedPossessions" : 7.1,
+      "totalPossessions" : 11.7,
+      "inside50s" : 1.7,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.5,
+      "hitouts" : 0.8,
+      "onePercenters" : 1.1,
+      "disposalEfficiency" : null,
+      "clangers" : 1.7,
+      "freesFor" : 0.6,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 59.0,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.5,
+        "totalClearances" : 0.7
+      },
+      "rebound50s" : 0.4,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Patrick",
+    "bio" : "<p>One of Essendon’s success stories last season, Ambrose was quickly elevated off the rookie list to make a big impact at senior level as a mature recruit. Athletic and tough as nails, Ambrose<br>\nkicked three goals in his second game before missing six weeks with a quad injury. He returned to play an important lead-up role in the forward line and impressed with his conversion near goal (13.3).<br>\nHe won a two-year contract through to the end of 2016.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Essendon/Player Profiles/2015 - Profiles/AMBROSE Patrick.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-09-01T02:00:00.000+0000",
+      "draftYear" : "2014",
+      "heightInCm" : 185,
+      "weightInKg" : 77,
+      "recruitedFrom" : null,
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 19.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 163.0,
+      "handballs" : 213.0,
+      "disposals" : 376.0,
+      "marks" : 111.0,
+      "bounces" : 0.0,
+      "tackles" : 142.0,
+      "contestedPossessions" : 150.0,
+      "uncontestedPossessions" : 226.0,
+      "totalPossessions" : 376.0,
+      "inside50s" : 53.0,
+      "marksInside50" : 17.0,
+      "contestedMarks" : 17.0,
+      "hitouts" : 26.0,
+      "onePercenters" : 35.0,
+      "disposalEfficiency" : 75.5,
+      "clangers" : 55.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 32.0,
+      "dreamTeamPoints" : 1887.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 21.0
+      },
+      "rebound50s" : 12.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 51.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 4.6,
+            "handballs" : 7.7,
+            "disposals" : 12.2,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 5.2,
+            "contestedPossessions" : 5.3,
+            "uncontestedPossessions" : 6.9,
+            "totalPossessions" : 12.2,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.4,
+            "hitouts" : 1.6,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 60.4,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295599",
+            "playerName" : {
+              "givenName" : "Patrick",
+              "surname" : "Ambrose"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 73.0,
+            "handballs" : 123.0,
+            "disposals" : 196.0,
+            "marks" : 48.0,
+            "bounces" : 0.0,
+            "tackles" : 83.0,
+            "contestedPossessions" : 85.0,
+            "uncontestedPossessions" : 110.0,
+            "totalPossessions" : 195.0,
+            "inside50s" : 24.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 26.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 73.0,
+            "clangers" : 29.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 967.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : 222.7,
+            "ranking" : 334.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295599",
+            "playerName" : {
+              "givenName" : "Patrick",
+              "surname" : "Ambrose"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 83.8
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 5.6,
+            "handballs" : 5.6,
+            "disposals" : 11.2,
+            "marks" : 3.9,
+            "bounces" : 0.0,
+            "tackles" : 3.7,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 7.2,
+            "totalPossessions" : 11.3,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 57.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295599",
+            "playerName" : {
+              "givenName" : "Patrick",
+              "surname" : "Ambrose"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 90.0,
+            "handballs" : 90.0,
+            "disposals" : 180.0,
+            "marks" : 63.0,
+            "bounces" : 0.0,
+            "tackles" : 59.0,
+            "contestedPossessions" : 65.0,
+            "uncontestedPossessions" : 116.0,
+            "totalPossessions" : 181.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 78.3,
+            "clangers" : 26.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 920.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 61.9,
+            "ratingPoints" : 123.9,
+            "ranking" : 468.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295599",
+            "playerName" : {
+              "givenName" : "Patrick",
+              "surname" : "Ambrose"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 82.4
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 6.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 73.0,
+      "handballs" : 123.0,
+      "disposals" : 196.0,
+      "marks" : 48.0,
+      "bounces" : 0.0,
+      "tackles" : 83.0,
+      "contestedPossessions" : 85.0,
+      "uncontestedPossessions" : 110.0,
+      "totalPossessions" : 195.0,
+      "inside50s" : 24.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 26.0,
+      "onePercenters" : 19.0,
+      "disposalEfficiency" : 73.0,
+      "clangers" : 29.0,
+      "freesFor" : 13.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 967.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 11.0,
+        "totalClearances" : 15.0
+      },
+      "rebound50s" : 11.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 37.5,
+      "ratingPoints" : 222.7,
+      "ranking" : 334.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I295599",
+        "playerName" : {
+          "givenName" : "Patrick",
+          "surname" : "Ambrose"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T50",
+        "teamAbbr" : "ESS",
+        "teamName" : "Essendon",
+        "teamNickname" : "Bombers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 222.7,
+        "ranking" : 337,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 222.7,
+        "ranking" : 22,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 222.7,
+        "ranking" : 45,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 99.2,
+        "ranking" : 371,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 32
+  }
+}

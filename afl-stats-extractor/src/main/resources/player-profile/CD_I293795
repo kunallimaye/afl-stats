@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I293795",
+    "position" : "Full Forward",
+    "surname" : "Taylor",
+    "jumperNumber" : 21,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 4.5,
+      "handballs" : 6.5,
+      "disposals" : 11.0,
+      "marks" : 2.5,
+      "bounces" : 0.0,
+      "tackles" : 2.5,
+      "contestedPossessions" : 4.7,
+      "uncontestedPossessions" : 6.7,
+      "totalPossessions" : 11.4,
+      "inside50s" : 0.5,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.0,
+      "onePercenters" : 3.9,
+      "disposalEfficiency" : null,
+      "clangers" : 0.8,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.4,
+      "dreamTeamPoints" : 44.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.1,
+        "totalClearances" : 0.1
+      },
+      "rebound50s" : 1.9,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jeremy",
+    "bio" : "<p>A mid-sized defender who has battled to play just 10 games in his three seasons.</p>\n\n<p>Taylor is one of the fittest players at the club, but has a few to leapfrog to get back into the best 22.</p>\n\n<p>Has shown he can play at the top level when given a chance, but is out of contract at the end of the year and needs a big season.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GoldCoastSuns/Player Profiles/2014 - Profiles/TAYLOR Jeremy.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-06-17T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 191,
+      "weightInKg" : 90,
+      "recruitedFrom" : "Geelong College/Geelong U18",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 1.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 45.0,
+      "handballs" : 65.0,
+      "disposals" : 110.0,
+      "marks" : 25.0,
+      "bounces" : 0.0,
+      "tackles" : 25.0,
+      "contestedPossessions" : 47.0,
+      "uncontestedPossessions" : 67.0,
+      "totalPossessions" : 114.0,
+      "inside50s" : 5.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 39.0,
+      "disposalEfficiency" : 72.7,
+      "clangers" : 8.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 4.0,
+      "dreamTeamPoints" : 440.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 19.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293795",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Taylor"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293795",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Taylor"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293795",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Taylor"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 40.0,
+            "ranking" : 621.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293795",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Taylor"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.6,
+            "handballs" : 5.7,
+            "disposals" : 9.4,
+            "marks" : 2.4,
+            "bounces" : 0.0,
+            "tackles" : 2.4,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 5.9,
+            "totalPossessions" : 9.6,
+            "inside50s" : 0.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.1,
+            "disposalEfficiency" : null,
+            "clangers" : 0.9,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 38.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293795",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Taylor"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 29.0,
+            "handballs" : 46.0,
+            "disposals" : 75.0,
+            "marks" : 19.0,
+            "bounces" : 0.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 30.0,
+            "uncontestedPossessions" : 47.0,
+            "totalPossessions" : 77.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 72.0,
+            "clangers" : 7.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 308.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293795",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Taylor"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 77.6
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 9.5,
+            "disposals" : 17.5,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 8.5,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 18.5,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.5,
+            "freesFor" : 1.5,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 66.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 4.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293795",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Taylor"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 16.0,
+            "handballs" : 19.0,
+            "disposals" : 35.0,
+            "marks" : 6.0,
+            "bounces" : 0.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 17.0,
+            "uncontestedPossessions" : 20.0,
+            "totalPossessions" : 37.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 74.3,
+            "clangers" : 1.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 132.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293795",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Taylor"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 90.9
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : 0.0,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 0.0,
+      "ranking" : 0.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201401427",
+      "player" : {
+        "playerId" : "CD_I293795",
+        "playerName" : {
+          "givenName" : "Jeremy",
+          "surname" : "Taylor"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1000",
+        "teamAbbr" : "GCFC",
+        "teamName" : "Gold Coast Suns",
+        "teamNickname" : "Suns"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 7.2,
+        "ranking" : 683,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 7.2,
+        "ranking" : 40,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 7.2,
+        "ranking" : 136,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 10
+  }
+}

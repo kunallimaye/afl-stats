@@ -1,0 +1,898 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280012",
+    "position" : "Ruck",
+    "surname" : "Roughead",
+    "jumperNumber" : 23,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 5.3,
+      "handballs" : 5.5,
+      "disposals" : 10.8,
+      "marks" : 4.2,
+      "bounces" : 0.1,
+      "tackles" : 2.8,
+      "contestedPossessions" : 4.5,
+      "uncontestedPossessions" : 6.5,
+      "totalPossessions" : 11.0,
+      "inside50s" : 0.9,
+      "marksInside50" : 0.3,
+      "contestedMarks" : 1.1,
+      "hitouts" : 5.0,
+      "onePercenters" : 5.9,
+      "disposalEfficiency" : null,
+      "clangers" : 1.6,
+      "freesFor" : 0.7,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 54.8,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.5,
+        "totalClearances" : 0.7
+      },
+      "rebound50s" : 1.8,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jordan",
+    "bio" : "<p>Such is his reliability; Jordan Roughead has been trialled in a number of positions throughout his career with great success. In 2014 however, Roughead cemented his spot as the Club's full-back and was named vice-captain ahead of the 2015 season. Roughead was recruited to the Club with the Dogs second round selection in the 2008 AFL Draft (pick 31 overall).</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WesternBulldogs/Player Profiles/2015 - Profiles/ROUGHEAD Jordan.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1990-11-03T01:00:00.000+0000",
+      "draftYear" : "2008",
+      "heightInCm" : 200,
+      "weightInKg" : 101,
+      "recruitedFrom" : "Lake Wendouree/North Ballarat U18",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 16.0,
+      "behinds" : 24.0,
+      "superGoals" : null,
+      "kicks" : 469.0,
+      "handballs" : 482.0,
+      "disposals" : 951.0,
+      "marks" : 373.0,
+      "bounces" : 11.0,
+      "tackles" : 246.0,
+      "contestedPossessions" : 394.0,
+      "uncontestedPossessions" : 572.0,
+      "totalPossessions" : 966.0,
+      "inside50s" : 79.0,
+      "marksInside50" : 26.0,
+      "contestedMarks" : 95.0,
+      "hitouts" : 444.0,
+      "onePercenters" : 523.0,
+      "disposalEfficiency" : 78.8,
+      "clangers" : 145.0,
+      "freesFor" : 62.0,
+      "freesAgainst" : 92.0,
+      "dreamTeamPoints" : 4824.0,
+      "clearances" : {
+        "centreClearances" : 20.0,
+        "stoppageClearances" : 41.0,
+        "totalClearances" : 61.0
+      },
+      "rebound50s" : 158.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 36.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.1,
+            "handballs" : 4.9,
+            "disposals" : 10.0,
+            "marks" : 4.1,
+            "bounces" : 0.0,
+            "tackles" : 3.4,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 5.9,
+            "totalPossessions" : 10.2,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 1.1,
+            "hitouts" : 10.6,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 59.9,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280012",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Roughead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 82.0,
+            "handballs" : 78.0,
+            "disposals" : 160.0,
+            "marks" : 66.0,
+            "bounces" : 0.0,
+            "tackles" : 54.0,
+            "contestedPossessions" : 69.0,
+            "uncontestedPossessions" : 94.0,
+            "totalPossessions" : 163.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 17.0,
+            "hitouts" : 170.0,
+            "onePercenters" : 80.0,
+            "disposalEfficiency" : 79.4,
+            "clangers" : 31.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 958.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 29.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 231.6,
+            "ranking" : 325.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280012",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Roughead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 87.7
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.1,
+            "handballs" : 5.3,
+            "disposals" : 11.4,
+            "marks" : 4.4,
+            "bounces" : 0.2,
+            "tackles" : 2.1,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 7.7,
+            "totalPossessions" : 11.5,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.5,
+            "onePercenters" : 7.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.3,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 47.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280012",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Roughead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 92.0,
+            "handballs" : 79.0,
+            "disposals" : 171.0,
+            "marks" : 66.0,
+            "bounces" : 3.0,
+            "tackles" : 32.0,
+            "contestedPossessions" : 57.0,
+            "uncontestedPossessions" : 115.0,
+            "totalPossessions" : 172.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 115.0,
+            "disposalEfficiency" : 82.5,
+            "clangers" : 28.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 706.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 41.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 287.4,
+            "ranking" : 249.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280012",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Roughead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 88.5
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.3,
+            "handballs" : 5.3,
+            "disposals" : 10.6,
+            "marks" : 4.8,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 6.4,
+            "totalPossessions" : 11.0,
+            "inside50s" : 0.4,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 1.5,
+            "hitouts" : 0.5,
+            "onePercenters" : 8.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 52.0,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280012",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Roughead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 117.0,
+            "handballs" : 117.0,
+            "disposals" : 234.0,
+            "marks" : 105.0,
+            "bounces" : 1.0,
+            "tackles" : 65.0,
+            "contestedPossessions" : 101.0,
+            "uncontestedPossessions" : 140.0,
+            "totalPossessions" : 241.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 33.0,
+            "hitouts" : 12.0,
+            "onePercenters" : 193.0,
+            "disposalEfficiency" : 82.5,
+            "clangers" : 31.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 1144.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 45.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 274.4,
+            "ranking" : 269.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280012",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Roughead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 93.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 5.4,
+            "handballs" : 5.4,
+            "disposals" : 10.8,
+            "marks" : 4.2,
+            "bounces" : 0.2,
+            "tackles" : 2.7,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 11.1,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 1.1,
+            "hitouts" : 5.8,
+            "onePercenters" : 4.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 56.6,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280012",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Roughead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 98.0,
+            "handballs" : 97.0,
+            "disposals" : 195.0,
+            "marks" : 76.0,
+            "bounces" : 3.0,
+            "tackles" : 48.0,
+            "contestedPossessions" : 92.0,
+            "uncontestedPossessions" : 108.0,
+            "totalPossessions" : 200.0,
+            "inside50s" : 21.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 19.0,
+            "hitouts" : 105.0,
+            "onePercenters" : 84.0,
+            "disposalEfficiency" : 75.9,
+            "clangers" : 29.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1018.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 31.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 28.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280012",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Roughead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 82.3
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 4.8,
+            "handballs" : 6.4,
+            "disposals" : 11.2,
+            "marks" : 3.1,
+            "bounces" : 0.1,
+            "tackles" : 3.1,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 6.9,
+            "totalPossessions" : 11.2,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.7,
+            "hitouts" : 8.4,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 57.3,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280012",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Roughead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 43.0,
+            "handballs" : 58.0,
+            "disposals" : 101.0,
+            "marks" : 28.0,
+            "bounces" : 1.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 39.0,
+            "uncontestedPossessions" : 62.0,
+            "totalPossessions" : 101.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 76.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 72.3,
+            "clangers" : 15.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 516.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280012",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Roughead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 75.9
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 4.6,
+            "handballs" : 6.6,
+            "disposals" : 11.2,
+            "marks" : 4.0,
+            "bounces" : 0.4,
+            "tackles" : 2.4,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 6.6,
+            "totalPossessions" : 11.1,
+            "inside50s" : 1.2,
+            "marksInside50" : 1.1,
+            "contestedMarks" : 1.1,
+            "hitouts" : 9.2,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 1.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 60.2,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280012",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Roughead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 37.0,
+            "handballs" : 53.0,
+            "disposals" : 90.0,
+            "marks" : 32.0,
+            "bounces" : 3.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 36.0,
+            "uncontestedPossessions" : 53.0,
+            "totalPossessions" : 89.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 74.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 74.4,
+            "clangers" : 11.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 482.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280012",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Roughead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 65.5
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280012",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Roughead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280012",
+            "playerName" : {
+              "givenName" : "Jordan",
+              "surname" : "Roughead"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 4.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 82.0,
+      "handballs" : 78.0,
+      "disposals" : 160.0,
+      "marks" : 66.0,
+      "bounces" : 0.0,
+      "tackles" : 54.0,
+      "contestedPossessions" : 69.0,
+      "uncontestedPossessions" : 94.0,
+      "totalPossessions" : 163.0,
+      "inside50s" : 17.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 17.0,
+      "hitouts" : 170.0,
+      "onePercenters" : 80.0,
+      "disposalEfficiency" : 79.4,
+      "clangers" : 31.0,
+      "freesFor" : 9.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 958.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 9.0,
+        "totalClearances" : 13.0
+      },
+      "rebound50s" : 29.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : 231.6,
+      "ranking" : 325.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280012",
+        "playerName" : {
+          "givenName" : "Jordan",
+          "surname" : "Roughead"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T140",
+        "teamAbbr" : "WB",
+        "teamName" : "Western Bulldogs",
+        "teamNickname" : "Bulldogs"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 231.6,
+        "ranking" : 325,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 231.6,
+        "ranking" : 17,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 231.6,
+        "ranking" : 21,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 119.3,
+        "ranking" : 319,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2008"
+    },
+    "careerGamesPlayed" : 88
+  }
+}

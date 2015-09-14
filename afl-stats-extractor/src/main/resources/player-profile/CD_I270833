@@ -1,0 +1,682 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I270833",
+    "position" : "Left Wing",
+    "surname" : "Maric",
+    "jumperNumber" : 18,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.5,
+      "behinds" : 0.5,
+      "superGoals" : null,
+      "kicks" : 7.2,
+      "handballs" : 5.0,
+      "disposals" : 12.2,
+      "marks" : 2.9,
+      "bounces" : 0.4,
+      "tackles" : 1.6,
+      "contestedPossessions" : 3.4,
+      "uncontestedPossessions" : 8.7,
+      "totalPossessions" : 12.1,
+      "inside50s" : 2.2,
+      "marksInside50" : 0.4,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.5,
+      "disposalEfficiency" : null,
+      "clangers" : 1.5,
+      "freesFor" : 0.3,
+      "freesAgainst" : 0.4,
+      "dreamTeamPoints" : 49.5,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.1,
+        "totalClearances" : 0.1
+      },
+      "rebound50s" : 0.3,
+      "goalAssists" : 0.6,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Addam",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1990-04-18T02:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 176,
+      "weightInKg" : 76,
+      "recruitedFrom" : null,
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 16.0,
+      "behinds" : 16.0,
+      "superGoals" : null,
+      "kicks" : 222.0,
+      "handballs" : 155.0,
+      "disposals" : 377.0,
+      "marks" : 89.0,
+      "bounces" : 12.0,
+      "tackles" : 51.0,
+      "contestedPossessions" : 106.0,
+      "uncontestedPossessions" : 270.0,
+      "totalPossessions" : 376.0,
+      "inside50s" : 67.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 17.0,
+      "disposalEfficiency" : 68.2,
+      "clangers" : 46.0,
+      "freesFor" : 10.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1533.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 3.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 8.0,
+      "goalAssists" : 18.0,
+      "goalAccuracy" : 40.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 4.3,
+            "disposals" : 8.3,
+            "marks" : 1.5,
+            "bounces" : 0.3,
+            "tackles" : 1.8,
+            "contestedPossessions" : 2.1,
+            "uncontestedPossessions" : 6.1,
+            "totalPossessions" : 8.2,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 32.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270833",
+            "playerName" : {
+              "givenName" : "Addam",
+              "surname" : "Maric"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 40.0,
+            "handballs" : 43.0,
+            "disposals" : 83.0,
+            "marks" : 15.0,
+            "bounces" : 3.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 21.0,
+            "uncontestedPossessions" : 61.0,
+            "totalPossessions" : 82.0,
+            "inside50s" : 11.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 72.3,
+            "clangers" : 14.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 324.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270833",
+            "playerName" : {
+              "givenName" : "Addam",
+              "surname" : "Maric"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 46.1
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 9.4,
+            "handballs" : 5.1,
+            "disposals" : 14.6,
+            "marks" : 3.0,
+            "bounces" : 0.6,
+            "tackles" : 2.1,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 10.2,
+            "totalPossessions" : 14.4,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 61.8,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270833",
+            "playerName" : {
+              "givenName" : "Addam",
+              "surname" : "Maric"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 85.0,
+            "handballs" : 46.0,
+            "disposals" : 131.0,
+            "marks" : 27.0,
+            "bounces" : 5.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 38.0,
+            "uncontestedPossessions" : 92.0,
+            "totalPossessions" : 130.0,
+            "inside50s" : 36.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 60.3,
+            "clangers" : 11.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 556.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 42.1,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270833",
+            "playerName" : {
+              "givenName" : "Addam",
+              "surname" : "Maric"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 73.4
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 5.0,
+            "disposals" : 16.0,
+            "marks" : 5.0,
+            "bounces" : 1.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 11.0,
+            "totalPossessions" : 16.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 60.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270833",
+            "playerName" : {
+              "givenName" : "Addam",
+              "surname" : "Maric"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 5.0,
+            "disposals" : 16.0,
+            "marks" : 5.0,
+            "bounces" : 1.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 11.0,
+            "totalPossessions" : 16.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 56.2,
+            "clangers" : 2.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 60.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270833",
+            "playerName" : {
+              "givenName" : "Addam",
+              "surname" : "Maric"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 78.6
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 5.8,
+            "disposals" : 13.0,
+            "marks" : 3.0,
+            "bounces" : 0.2,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 9.2,
+            "totalPossessions" : 13.3,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 52.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270833",
+            "playerName" : {
+              "givenName" : "Addam",
+              "surname" : "Maric"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 43.0,
+            "handballs" : 35.0,
+            "disposals" : 78.0,
+            "marks" : 18.0,
+            "bounces" : 1.0,
+            "tackles" : 10.0,
+            "contestedPossessions" : 25.0,
+            "uncontestedPossessions" : 55.0,
+            "totalPossessions" : 80.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 73.1,
+            "clangers" : 14.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 313.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 55.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270833",
+            "playerName" : {
+              "givenName" : "Addam",
+              "surname" : "Maric"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 77.9
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.6,
+            "handballs" : 5.2,
+            "disposals" : 13.8,
+            "marks" : 4.8,
+            "bounces" : 0.4,
+            "tackles" : 0.6,
+            "contestedPossessions" : 3.4,
+            "uncontestedPossessions" : 10.2,
+            "totalPossessions" : 13.6,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 56.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270833",
+            "playerName" : {
+              "givenName" : "Addam",
+              "surname" : "Maric"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 43.0,
+            "handballs" : 26.0,
+            "disposals" : 69.0,
+            "marks" : 24.0,
+            "bounces" : 2.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 17.0,
+            "uncontestedPossessions" : 51.0,
+            "totalPossessions" : 68.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 75.4,
+            "clangers" : 5.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 280.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270833",
+            "playerName" : {
+              "givenName" : "Addam",
+              "surname" : "Maric"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 75.8
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 40.0,
+      "handballs" : 43.0,
+      "disposals" : 83.0,
+      "marks" : 15.0,
+      "bounces" : 3.0,
+      "tackles" : 18.0,
+      "contestedPossessions" : 21.0,
+      "uncontestedPossessions" : 61.0,
+      "totalPossessions" : 82.0,
+      "inside50s" : 11.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 4.0,
+      "disposalEfficiency" : 72.3,
+      "clangers" : 14.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 3.0,
+      "dreamTeamPoints" : 324.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 20.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201201427",
+      "player" : {
+        "playerId" : "CD_I270833",
+        "playerName" : {
+          "givenName" : "Addam",
+          "surname" : "Maric"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T120",
+        "teamAbbr" : "RICH",
+        "teamName" : "Richmond",
+        "teamNickname" : "Tigers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 101.0,
+        "ranking" : 479,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 101.0,
+        "ranking" : 26,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 101.0,
+        "ranking" : 114,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 31
+  }
+}

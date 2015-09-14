@@ -1,0 +1,1619 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I220073",
+    "position" : "Centre",
+    "surname" : "Mitchell",
+    "jumperNumber" : 5,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 13.7,
+      "handballs" : 12.4,
+      "disposals" : 26.0,
+      "marks" : 4.0,
+      "bounces" : 0.8,
+      "tackles" : 3.9,
+      "contestedPossessions" : 10.4,
+      "uncontestedPossessions" : 15.8,
+      "totalPossessions" : 26.2,
+      "inside50s" : 3.8,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.1,
+      "onePercenters" : 1.5,
+      "disposalEfficiency" : null,
+      "clangers" : 3.0,
+      "freesFor" : 1.4,
+      "freesAgainst" : 1.3,
+      "dreamTeamPoints" : 92.2,
+      "clearances" : {
+        "centreClearances" : 2.6,
+        "stoppageClearances" : 2.9,
+        "totalClearances" : 5.6
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 0.6,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Sam",
+    "bio" : "<p>The midfield maestro was in ripping touch until a serious hamstring injury in the middle of the season that kept him out for seven matches. In hindsight, the injury might have been a blessing because, fresh and rested, Mitchell played a key role in Hawthorn&rsquo;s barnstorming run to the premiership, averaging 32 possessions during the finals. His Grand Final display was masterful and he almost snared the Norm Smith Medal. Continues to spend time across half-back as a playmaker, but his work in the centre when called upon can be devastating. Uses the ball as well as anyone by hand, kicks equally well on both sides of his body and is showing no signs of slowing down.</p>\n<p><strong>Draft history:</strong> 2001 National AFL Draft 3rd round selection (Hawthorn) No. 36 overall traded by Fremantle for Trent Croad and Luke McPharlin.</p>\n<p>&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Hawthorn/Player Profiles/2015 - Profiles/MITCHELL Sam.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1982-10-12T02:00:00.000+0000",
+      "draftYear" : "2001",
+      "heightInCm" : 179,
+      "weightInKg" : 83,
+      "recruitedFrom" : "Mooroolbark/Eastern U18/Box Hill Hawks",
+      "debutYear" : "2002"
+    },
+    "careerStats" : {
+      "goals" : 67.0,
+      "behinds" : 54.0,
+      "superGoals" : null,
+      "kicks" : 3850.0,
+      "handballs" : 3492.0,
+      "disposals" : 7342.0,
+      "marks" : 1117.0,
+      "bounces" : 229.0,
+      "tackles" : 1087.0,
+      "contestedPossessions" : 2941.0,
+      "uncontestedPossessions" : 4445.0,
+      "totalPossessions" : 7386.0,
+      "inside50s" : 1064.0,
+      "marksInside50" : 48.0,
+      "contestedMarks" : 28.0,
+      "hitouts" : 22.0,
+      "onePercenters" : 431.0,
+      "disposalEfficiency" : 75.2,
+      "clangers" : 835.0,
+      "freesFor" : 406.0,
+      "freesAgainst" : 373.0,
+      "dreamTeamPoints" : 25998.0,
+      "clearances" : {
+        "centreClearances" : 745.0,
+        "stoppageClearances" : 824.0,
+        "totalClearances" : 1569.0
+      },
+      "rebound50s" : 563.0,
+      "goalAssists" : 177.0,
+      "goalAccuracy" : 47.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 15.4,
+            "handballs" : 15.3,
+            "disposals" : 30.8,
+            "marks" : 3.8,
+            "bounces" : 0.4,
+            "tackles" : 4.0,
+            "contestedPossessions" : 10.9,
+            "uncontestedPossessions" : 20.4,
+            "totalPossessions" : 31.3,
+            "inside50s" : 4.1,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 3.7,
+            "freesFor" : 1.7,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 103.9,
+            "clearances" : {
+              "centreClearances" : 1.9,
+              "stoppageClearances" : 3.6,
+              "totalClearances" : 5.4
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 324.0,
+            "handballs" : 322.0,
+            "disposals" : 646.0,
+            "marks" : 80.0,
+            "bounces" : 8.0,
+            "tackles" : 83.0,
+            "contestedPossessions" : 229.0,
+            "uncontestedPossessions" : 428.0,
+            "totalPossessions" : 657.0,
+            "inside50s" : 86.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 44.0,
+            "disposalEfficiency" : 73.1,
+            "clangers" : 78.0,
+            "freesFor" : 35.0,
+            "freesAgainst" : 27.0,
+            "dreamTeamPoints" : 2181.0,
+            "clearances" : {
+              "centreClearances" : 39.0,
+              "stoppageClearances" : 75.0,
+              "totalClearances" : 114.0
+            },
+            "rebound50s" : 50.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 455.5,
+            "ranking" : 49.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 88.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 14.2,
+            "handballs" : 13.8,
+            "disposals" : 28.1,
+            "marks" : 4.9,
+            "bounces" : 0.7,
+            "tackles" : 3.4,
+            "contestedPossessions" : 10.1,
+            "uncontestedPossessions" : 17.8,
+            "totalPossessions" : 27.9,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.2,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.8,
+            "freesFor" : 1.6,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 98.6,
+            "clearances" : {
+              "centreClearances" : 2.7,
+              "stoppageClearances" : 2.5,
+              "totalClearances" : 5.2
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 228.0,
+            "handballs" : 221.0,
+            "disposals" : 449.0,
+            "marks" : 78.0,
+            "bounces" : 12.0,
+            "tackles" : 55.0,
+            "contestedPossessions" : 161.0,
+            "uncontestedPossessions" : 285.0,
+            "totalPossessions" : 446.0,
+            "inside50s" : 51.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 40.0,
+            "disposalEfficiency" : 72.4,
+            "clangers" : 45.0,
+            "freesFor" : 26.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1577.0,
+            "clearances" : {
+              "centreClearances" : 43.0,
+              "stoppageClearances" : 40.0,
+              "totalClearances" : 83.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 481.4,
+            "ranking" : 29.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 82.2
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 15.5,
+            "handballs" : 12.6,
+            "disposals" : 28.0,
+            "marks" : 3.5,
+            "bounces" : 1.1,
+            "tackles" : 3.2,
+            "contestedPossessions" : 9.7,
+            "uncontestedPossessions" : 18.3,
+            "totalPossessions" : 28.0,
+            "inside50s" : 3.5,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 1.1,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 94.5,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 2.4,
+              "totalClearances" : 4.4
+            },
+            "rebound50s" : 2.8,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 371.0,
+            "handballs" : 302.0,
+            "disposals" : 673.0,
+            "marks" : 83.0,
+            "bounces" : 27.0,
+            "tackles" : 78.0,
+            "contestedPossessions" : 232.0,
+            "uncontestedPossessions" : 440.0,
+            "totalPossessions" : 672.0,
+            "inside50s" : 84.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 46.0,
+            "disposalEfficiency" : 73.7,
+            "clangers" : 63.0,
+            "freesFor" : 26.0,
+            "freesAgainst" : 25.0,
+            "dreamTeamPoints" : 2267.0,
+            "clearances" : {
+              "centreClearances" : 49.0,
+              "stoppageClearances" : 57.0,
+              "totalClearances" : 106.0
+            },
+            "rebound50s" : 68.0,
+            "goalAssists" : 21.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 551.3,
+            "ranking" : 13.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 88.8
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 14.4,
+            "handballs" : 12.8,
+            "disposals" : 27.2,
+            "marks" : 3.5,
+            "bounces" : 0.4,
+            "tackles" : 5.5,
+            "contestedPossessions" : 12.5,
+            "uncontestedPossessions" : 14.9,
+            "totalPossessions" : 27.4,
+            "inside50s" : 4.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.9,
+            "freesFor" : 1.6,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 100.5,
+            "clearances" : {
+              "centreClearances" : 3.2,
+              "stoppageClearances" : 3.2,
+              "totalClearances" : 6.5
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 1.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 345.0,
+            "handballs" : 308.0,
+            "disposals" : 653.0,
+            "marks" : 84.0,
+            "bounces" : 9.0,
+            "tackles" : 133.0,
+            "contestedPossessions" : 300.0,
+            "uncontestedPossessions" : 357.0,
+            "totalPossessions" : 657.0,
+            "inside50s" : 100.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 35.0,
+            "disposalEfficiency" : 75.2,
+            "clangers" : 69.0,
+            "freesFor" : 38.0,
+            "freesAgainst" : 37.0,
+            "dreamTeamPoints" : 2413.0,
+            "clearances" : {
+              "centreClearances" : 77.0,
+              "stoppageClearances" : 78.0,
+              "totalClearances" : 155.0
+            },
+            "rebound50s" : 41.0,
+            "goalAssists" : 27.0,
+            "goalAccuracy" : 38.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 88.4
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 17.6,
+            "handballs" : 12.9,
+            "disposals" : 30.5,
+            "marks" : 4.1,
+            "bounces" : 0.5,
+            "tackles" : 4.3,
+            "contestedPossessions" : 13.7,
+            "uncontestedPossessions" : 18.2,
+            "totalPossessions" : 31.9,
+            "inside50s" : 4.7,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 4.0,
+            "freesFor" : 1.8,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 108.9,
+            "clearances" : {
+              "centreClearances" : 2.1,
+              "stoppageClearances" : 3.6,
+              "totalClearances" : 5.7
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 404.0,
+            "handballs" : 297.0,
+            "disposals" : 701.0,
+            "marks" : 94.0,
+            "bounces" : 11.0,
+            "tackles" : 99.0,
+            "contestedPossessions" : 314.0,
+            "uncontestedPossessions" : 419.0,
+            "totalPossessions" : 733.0,
+            "inside50s" : 108.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 67.5,
+            "clangers" : 91.0,
+            "freesFor" : 41.0,
+            "freesAgainst" : 34.0,
+            "dreamTeamPoints" : 2505.0,
+            "clearances" : {
+              "centreClearances" : 48.0,
+              "stoppageClearances" : 83.0,
+              "totalClearances" : 131.0
+            },
+            "rebound50s" : 34.0,
+            "goalAssists" : 19.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 90.1
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 14.8,
+            "handballs" : 12.7,
+            "disposals" : 27.6,
+            "marks" : 4.0,
+            "bounces" : 0.3,
+            "tackles" : 4.7,
+            "contestedPossessions" : 10.7,
+            "uncontestedPossessions" : 17.1,
+            "totalPossessions" : 27.8,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 3.2,
+            "freesFor" : 1.7,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 100.6,
+            "clearances" : {
+              "centreClearances" : 2.2,
+              "stoppageClearances" : 3.3,
+              "totalClearances" : 5.5
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 282.0,
+            "handballs" : 242.0,
+            "disposals" : 524.0,
+            "marks" : 76.0,
+            "bounces" : 6.0,
+            "tackles" : 90.0,
+            "contestedPossessions" : 204.0,
+            "uncontestedPossessions" : 324.0,
+            "totalPossessions" : 528.0,
+            "inside50s" : 65.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 66.6,
+            "clangers" : 60.0,
+            "freesFor" : 33.0,
+            "freesAgainst" : 25.0,
+            "dreamTeamPoints" : 1911.0,
+            "clearances" : {
+              "centreClearances" : 42.0,
+              "stoppageClearances" : 63.0,
+              "totalClearances" : 105.0
+            },
+            "rebound50s" : 38.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 87.6
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 15.7,
+            "handballs" : 14.0,
+            "disposals" : 29.7,
+            "marks" : 5.0,
+            "bounces" : 0.2,
+            "tackles" : 3.0,
+            "contestedPossessions" : 9.1,
+            "uncontestedPossessions" : 20.7,
+            "totalPossessions" : 29.8,
+            "inside50s" : 4.1,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 1.4,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 102.2,
+            "clearances" : {
+              "centreClearances" : 2.5,
+              "stoppageClearances" : 2.6,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 346.0,
+            "handballs" : 308.0,
+            "disposals" : 654.0,
+            "marks" : 111.0,
+            "bounces" : 4.0,
+            "tackles" : 66.0,
+            "contestedPossessions" : 200.0,
+            "uncontestedPossessions" : 456.0,
+            "totalPossessions" : 656.0,
+            "inside50s" : 91.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 76.1,
+            "clangers" : 60.0,
+            "freesFor" : 30.0,
+            "freesAgainst" : 26.0,
+            "dreamTeamPoints" : 2249.0,
+            "clearances" : {
+              "centreClearances" : 54.0,
+              "stoppageClearances" : 57.0,
+              "totalClearances" : 111.0
+            },
+            "rebound50s" : 65.0,
+            "goalAssists" : 14.0,
+            "goalAccuracy" : 70.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 93.3
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 13.0,
+            "handballs" : 14.7,
+            "disposals" : 27.8,
+            "marks" : 3.7,
+            "bounces" : 1.3,
+            "tackles" : 3.7,
+            "contestedPossessions" : 9.6,
+            "uncontestedPossessions" : 18.3,
+            "totalPossessions" : 27.9,
+            "inside50s" : 4.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.5,
+            "freesFor" : 1.5,
+            "freesAgainst" : 1.7,
+            "dreamTeamPoints" : 92.2,
+            "clearances" : {
+              "centreClearances" : 3.2,
+              "stoppageClearances" : 2.5,
+              "totalClearances" : 5.7
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 313.0,
+            "handballs" : 354.0,
+            "disposals" : 667.0,
+            "marks" : 90.0,
+            "bounces" : 31.0,
+            "tackles" : 88.0,
+            "contestedPossessions" : 230.0,
+            "uncontestedPossessions" : 439.0,
+            "totalPossessions" : 669.0,
+            "inside50s" : 108.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 77.8,
+            "clangers" : 85.0,
+            "freesFor" : 36.0,
+            "freesAgainst" : 40.0,
+            "dreamTeamPoints" : 2213.0,
+            "clearances" : {
+              "centreClearances" : 76.0,
+              "stoppageClearances" : 60.0,
+              "totalClearances" : 136.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 16.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 91.7
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 11.4,
+            "handballs" : 14.4,
+            "disposals" : 25.8,
+            "marks" : 5.2,
+            "bounces" : 2.2,
+            "tackles" : 4.2,
+            "contestedPossessions" : 9.9,
+            "uncontestedPossessions" : 16.0,
+            "totalPossessions" : 25.9,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 3.4,
+            "freesFor" : 1.4,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 92.9,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 262.0,
+            "handballs" : 331.0,
+            "disposals" : 593.0,
+            "marks" : 120.0,
+            "bounces" : 51.0,
+            "tackles" : 96.0,
+            "contestedPossessions" : 228.0,
+            "uncontestedPossessions" : 367.0,
+            "totalPossessions" : 595.0,
+            "inside50s" : 87.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 35.0,
+            "disposalEfficiency" : 79.4,
+            "clangers" : 79.0,
+            "freesFor" : 32.0,
+            "freesAgainst" : 34.0,
+            "dreamTeamPoints" : 2137.0,
+            "clearances" : {
+              "centreClearances" : 70.0,
+              "stoppageClearances" : 46.0,
+              "totalClearances" : 116.0
+            },
+            "rebound50s" : 36.0,
+            "goalAssists" : 20.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 92.5
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 14.9,
+            "handballs" : 12.0,
+            "disposals" : 26.9,
+            "marks" : 5.4,
+            "bounces" : 1.5,
+            "tackles" : 3.3,
+            "contestedPossessions" : 10.6,
+            "uncontestedPossessions" : 16.3,
+            "totalPossessions" : 26.9,
+            "inside50s" : 4.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.8,
+            "freesFor" : 1.5,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 96.0,
+            "clearances" : {
+              "centreClearances" : 3.2,
+              "stoppageClearances" : 2.8,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 2.9,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 327.0,
+            "handballs" : 265.0,
+            "disposals" : 592.0,
+            "marks" : 119.0,
+            "bounces" : 34.0,
+            "tackles" : 72.0,
+            "contestedPossessions" : 233.0,
+            "uncontestedPossessions" : 359.0,
+            "totalPossessions" : 592.0,
+            "inside50s" : 95.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 80.1,
+            "clangers" : 61.0,
+            "freesFor" : 33.0,
+            "freesAgainst" : 34.0,
+            "dreamTeamPoints" : 2111.0,
+            "clearances" : {
+              "centreClearances" : 71.0,
+              "stoppageClearances" : 61.0,
+              "totalClearances" : 132.0
+            },
+            "rebound50s" : 63.0,
+            "goalAssists" : 15.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 89.1
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 13.3,
+            "handballs" : 11.2,
+            "disposals" : 24.5,
+            "marks" : 4.4,
+            "bounces" : 1.7,
+            "tackles" : 3.5,
+            "contestedPossessions" : 10.7,
+            "uncontestedPossessions" : 13.8,
+            "totalPossessions" : 24.5,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 3.1,
+            "freesFor" : 1.7,
+            "freesAgainst" : 1.6,
+            "dreamTeamPoints" : 87.5,
+            "clearances" : {
+              "centreClearances" : 3.2,
+              "stoppageClearances" : 3.5,
+              "totalClearances" : 6.7
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 186.0,
+            "handballs" : 157.0,
+            "disposals" : 343.0,
+            "marks" : 62.0,
+            "bounces" : 24.0,
+            "tackles" : 49.0,
+            "contestedPossessions" : 150.0,
+            "uncontestedPossessions" : 193.0,
+            "totalPossessions" : 343.0,
+            "inside50s" : 45.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 85.7,
+            "clangers" : 43.0,
+            "freesFor" : 24.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 1225.0,
+            "clearances" : {
+              "centreClearances" : 45.0,
+              "stoppageClearances" : 49.0,
+              "totalClearances" : 94.0
+            },
+            "rebound50s" : 34.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 84.4
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 10.5,
+            "handballs" : 8.1,
+            "disposals" : 18.6,
+            "marks" : 2.3,
+            "bounces" : 0.1,
+            "tackles" : 3.0,
+            "contestedPossessions" : 11.1,
+            "uncontestedPossessions" : 7.7,
+            "totalPossessions" : 18.8,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.4,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 66.9,
+            "clearances" : {
+              "centreClearances" : 2.8,
+              "stoppageClearances" : 3.2,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 210.0,
+            "handballs" : 162.0,
+            "disposals" : 372.0,
+            "marks" : 47.0,
+            "bounces" : 3.0,
+            "tackles" : 60.0,
+            "contestedPossessions" : 223.0,
+            "uncontestedPossessions" : 154.0,
+            "totalPossessions" : 377.0,
+            "inside50s" : 61.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 35.0,
+            "disposalEfficiency" : 74.2,
+            "clangers" : 40.0,
+            "freesFor" : 28.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1339.0,
+            "clearances" : {
+              "centreClearances" : 56.0,
+              "stoppageClearances" : 64.0,
+              "totalClearances" : 120.0
+            },
+            "rebound50s" : 35.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 45.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 78.8
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 9.5,
+            "handballs" : 8.3,
+            "disposals" : 17.8,
+            "marks" : 2.6,
+            "bounces" : 0.3,
+            "tackles" : 4.2,
+            "contestedPossessions" : 9.7,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 17.8,
+            "inside50s" : 3.3,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 69.0,
+            "clearances" : {
+              "centreClearances" : 2.8,
+              "stoppageClearances" : 3.6,
+              "totalClearances" : 6.4
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 199.0,
+            "handballs" : 174.0,
+            "disposals" : 373.0,
+            "marks" : 54.0,
+            "bounces" : 6.0,
+            "tackles" : 89.0,
+            "contestedPossessions" : 204.0,
+            "uncontestedPossessions" : 169.0,
+            "totalPossessions" : 373.0,
+            "inside50s" : 69.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 79.9,
+            "clangers" : 47.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 1449.0,
+            "clearances" : {
+              "centreClearances" : 59.0,
+              "stoppageClearances" : 76.0,
+              "totalClearances" : 135.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 55.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 74.7
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.9,
+            "handballs" : 5.4,
+            "disposals" : 11.3,
+            "marks" : 2.1,
+            "bounces" : 0.3,
+            "tackles" : 3.2,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 7.7,
+            "totalPossessions" : 11.9,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 46.8,
+            "clearances" : {
+              "centreClearances" : 1.8,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 3.4
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 53.0,
+            "handballs" : 49.0,
+            "disposals" : 102.0,
+            "marks" : 19.0,
+            "bounces" : 3.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 38.0,
+            "uncontestedPossessions" : 69.0,
+            "totalPossessions" : 107.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 83.3,
+            "clangers" : 14.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 421.0,
+            "clearances" : {
+              "centreClearances" : 16.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 31.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Mitchell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 6.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 324.0,
+      "handballs" : 322.0,
+      "disposals" : 646.0,
+      "marks" : 80.0,
+      "bounces" : 8.0,
+      "tackles" : 83.0,
+      "contestedPossessions" : 229.0,
+      "uncontestedPossessions" : 428.0,
+      "totalPossessions" : 657.0,
+      "inside50s" : 86.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 2.0,
+      "onePercenters" : 44.0,
+      "disposalEfficiency" : 73.1,
+      "clangers" : 78.0,
+      "freesFor" : 35.0,
+      "freesAgainst" : 27.0,
+      "dreamTeamPoints" : 2181.0,
+      "clearances" : {
+        "centreClearances" : 39.0,
+        "stoppageClearances" : 75.0,
+        "totalClearances" : 114.0
+      },
+      "rebound50s" : 50.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : 455.5,
+      "ranking" : 49.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I220073",
+        "playerName" : {
+          "givenName" : "Sam",
+          "surname" : "Mitchell"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T80",
+        "teamAbbr" : "HAW",
+        "teamName" : "Hawthorn",
+        "teamNickname" : "Hawks"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 459.8,
+        "ranking" : 47,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 459.8,
+        "ranking" : 7,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 459.8,
+        "ranking" : 27,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 17.0,
+        "ranking" : 15,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 285.7,
+        "ranking" : 34,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2001"
+    },
+    "careerGamesPlayed" : 282
+  }
+}

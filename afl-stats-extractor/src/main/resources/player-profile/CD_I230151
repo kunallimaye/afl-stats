@@ -1,0 +1,1413 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I230151",
+    "position" : "Centre",
+    "surname" : "Moloney",
+    "jumperNumber" : 3,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 10.4,
+      "handballs" : 8.7,
+      "disposals" : 19.0,
+      "marks" : 3.0,
+      "bounces" : 0.9,
+      "tackles" : 3.7,
+      "contestedPossessions" : 8.2,
+      "uncontestedPossessions" : 11.0,
+      "totalPossessions" : 19.2,
+      "inside50s" : 4.4,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.3,
+      "disposalEfficiency" : null,
+      "clangers" : 2.5,
+      "freesFor" : 0.7,
+      "freesAgainst" : 1.1,
+      "dreamTeamPoints" : 71.4,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 2.2,
+        "totalClearances" : 4.2
+      },
+      "rebound50s" : 1.2,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Brent",
+    "bio" : "<p>Former Geelong and Melbourne midfielder Brent Moloney is a 'clearance machine' who made history as the Brisbane Lions' first ever signing under the new Free Agency rule at the end of 2012.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2014 - Profiles/MOLONEY Brent.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1984-01-28T01:00:00.000+0000",
+      "draftYear" : "2003",
+      "heightInCm" : 181,
+      "weightInKg" : 88,
+      "recruitedFrom" : "South Warrnambool/Geelong U18/Geelong",
+      "debutYear" : "2003"
+    },
+    "careerStats" : {
+      "goals" : 46.0,
+      "behinds" : 54.0,
+      "superGoals" : null,
+      "kicks" : 1724.0,
+      "handballs" : 1436.0,
+      "disposals" : 3160.0,
+      "marks" : 500.0,
+      "bounces" : 155.0,
+      "tackles" : 608.0,
+      "contestedPossessions" : 1363.0,
+      "uncontestedPossessions" : 1827.0,
+      "totalPossessions" : 3190.0,
+      "inside50s" : 723.0,
+      "marksInside50" : 21.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 3.0,
+      "onePercenters" : 221.0,
+      "disposalEfficiency" : 73.8,
+      "clangers" : 411.0,
+      "freesFor" : 119.0,
+      "freesAgainst" : 190.0,
+      "dreamTeamPoints" : 11858.0,
+      "clearances" : {
+        "centreClearances" : 328.0,
+        "stoppageClearances" : 362.0,
+        "totalClearances" : 690.0
+      },
+      "rebound50s" : 204.0,
+      "goalAssists" : 45.0,
+      "goalAccuracy" : 38.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 8.6,
+            "handballs" : 11.6,
+            "disposals" : 20.2,
+            "marks" : 1.6,
+            "bounces" : 0.0,
+            "tackles" : 5.6,
+            "contestedPossessions" : 10.4,
+            "uncontestedPossessions" : 10.4,
+            "totalPossessions" : 20.8,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.2,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 74.2,
+            "clearances" : {
+              "centreClearances" : 2.8,
+              "stoppageClearances" : 2.8,
+              "totalClearances" : 5.6
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 43.0,
+            "handballs" : 58.0,
+            "disposals" : 101.0,
+            "marks" : 8.0,
+            "bounces" : 0.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 52.0,
+            "uncontestedPossessions" : 52.0,
+            "totalPossessions" : 104.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 61.4,
+            "clangers" : 16.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 371.0,
+            "clearances" : {
+              "centreClearances" : 14.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 28.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : 219.1,
+            "ranking" : 341.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 72.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 9.7,
+            "disposals" : 19.7,
+            "marks" : 2.6,
+            "bounces" : 0.4,
+            "tackles" : 5.2,
+            "contestedPossessions" : 9.8,
+            "uncontestedPossessions" : 10.2,
+            "totalPossessions" : 20.1,
+            "inside50s" : 3.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 79.0,
+            "clearances" : {
+              "centreClearances" : 1.9,
+              "stoppageClearances" : 3.2,
+              "totalClearances" : 5.2
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 160.0,
+            "handballs" : 156.0,
+            "disposals" : 316.0,
+            "marks" : 41.0,
+            "bounces" : 6.0,
+            "tackles" : 84.0,
+            "contestedPossessions" : 157.0,
+            "uncontestedPossessions" : 164.0,
+            "totalPossessions" : 321.0,
+            "inside50s" : 62.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 68.4,
+            "clangers" : 43.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1264.0,
+            "clearances" : {
+              "centreClearances" : 31.0,
+              "stoppageClearances" : 52.0,
+              "totalClearances" : 83.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 47.1,
+            "ratingPoints" : 326.8,
+            "ranking" : 194.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 74.1
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 9.1,
+            "handballs" : 8.0,
+            "disposals" : 17.1,
+            "marks" : 1.7,
+            "bounces" : 0.3,
+            "tackles" : 3.5,
+            "contestedPossessions" : 8.5,
+            "uncontestedPossessions" : 8.5,
+            "totalPossessions" : 17.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 60.1,
+            "clearances" : {
+              "centreClearances" : 2.1,
+              "stoppageClearances" : 2.6,
+              "totalClearances" : 4.7
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 136.0,
+            "handballs" : 120.0,
+            "disposals" : 256.0,
+            "marks" : 26.0,
+            "bounces" : 4.0,
+            "tackles" : 52.0,
+            "contestedPossessions" : 128.0,
+            "uncontestedPossessions" : 127.0,
+            "totalPossessions" : 255.0,
+            "inside50s" : 60.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 73.8,
+            "clangers" : 37.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 902.0,
+            "clearances" : {
+              "centreClearances" : 31.0,
+              "stoppageClearances" : 39.0,
+              "totalClearances" : 70.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 30.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 76.0
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 12.8,
+            "handballs" : 10.3,
+            "disposals" : 23.1,
+            "marks" : 1.9,
+            "bounces" : 0.6,
+            "tackles" : 5.6,
+            "contestedPossessions" : 13.6,
+            "uncontestedPossessions" : 10.6,
+            "totalPossessions" : 24.2,
+            "inside50s" : 4.2,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 88.2,
+            "clearances" : {
+              "centreClearances" : 3.4,
+              "stoppageClearances" : 3.5,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 282.0,
+            "handballs" : 227.0,
+            "disposals" : 509.0,
+            "marks" : 41.0,
+            "bounces" : 14.0,
+            "tackles" : 124.0,
+            "contestedPossessions" : 299.0,
+            "uncontestedPossessions" : 233.0,
+            "totalPossessions" : 532.0,
+            "inside50s" : 92.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 49.0,
+            "disposalEfficiency" : 72.9,
+            "clangers" : 51.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1940.0,
+            "clearances" : {
+              "centreClearances" : 75.0,
+              "stoppageClearances" : 78.0,
+              "totalClearances" : 153.0
+            },
+            "rebound50s" : 22.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 56.2,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 84.4
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 10.7,
+            "handballs" : 13.1,
+            "disposals" : 23.7,
+            "marks" : 2.2,
+            "bounces" : 1.2,
+            "tackles" : 4.8,
+            "contestedPossessions" : 10.8,
+            "uncontestedPossessions" : 12.7,
+            "totalPossessions" : 23.5,
+            "inside50s" : 4.4,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 3.1,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 81.4,
+            "clearances" : {
+              "centreClearances" : 2.4,
+              "stoppageClearances" : 2.8,
+              "totalClearances" : 5.2
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 192.0,
+            "handballs" : 235.0,
+            "disposals" : 427.0,
+            "marks" : 40.0,
+            "bounces" : 22.0,
+            "tackles" : 86.0,
+            "contestedPossessions" : 195.0,
+            "uncontestedPossessions" : 228.0,
+            "totalPossessions" : 423.0,
+            "inside50s" : 80.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 69.8,
+            "clangers" : 56.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 27.0,
+            "dreamTeamPoints" : 1465.0,
+            "clearances" : {
+              "centreClearances" : 43.0,
+              "stoppageClearances" : 51.0,
+              "totalClearances" : 94.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 14.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 77.9
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 10.9,
+            "handballs" : 13.5,
+            "disposals" : 24.4,
+            "marks" : 4.7,
+            "bounces" : 1.2,
+            "tackles" : 3.7,
+            "contestedPossessions" : 9.2,
+            "uncontestedPossessions" : 15.0,
+            "totalPossessions" : 24.2,
+            "inside50s" : 3.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 88.4,
+            "clearances" : {
+              "centreClearances" : 2.4,
+              "stoppageClearances" : 1.9,
+              "totalClearances" : 4.3
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 229.0,
+            "handballs" : 283.0,
+            "disposals" : 512.0,
+            "marks" : 98.0,
+            "bounces" : 26.0,
+            "tackles" : 78.0,
+            "contestedPossessions" : 194.0,
+            "uncontestedPossessions" : 314.0,
+            "totalPossessions" : 508.0,
+            "inside50s" : 78.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 32.0,
+            "disposalEfficiency" : 77.3,
+            "clangers" : 52.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 1857.0,
+            "clearances" : {
+              "centreClearances" : 50.0,
+              "stoppageClearances" : 40.0,
+              "totalClearances" : 90.0
+            },
+            "rebound50s" : 35.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 63.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 78.2
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 11.7,
+            "handballs" : 9.1,
+            "disposals" : 20.9,
+            "marks" : 5.9,
+            "bounces" : 1.4,
+            "tackles" : 4.7,
+            "contestedPossessions" : 6.2,
+            "uncontestedPossessions" : 15.1,
+            "totalPossessions" : 21.4,
+            "inside50s" : 3.6,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 3.9,
+            "freesFor" : 1.2,
+            "freesAgainst" : 2.2,
+            "dreamTeamPoints" : 86.1,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.1
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 94.0,
+            "handballs" : 73.0,
+            "disposals" : 167.0,
+            "marks" : 47.0,
+            "bounces" : 11.0,
+            "tackles" : 38.0,
+            "contestedPossessions" : 50.0,
+            "uncontestedPossessions" : 121.0,
+            "totalPossessions" : 171.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 71.3,
+            "clangers" : 31.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 689.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 16.0,
+              "totalClearances" : 25.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 74.2
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 9.2,
+            "handballs" : 7.4,
+            "disposals" : 16.6,
+            "marks" : 2.4,
+            "bounces" : 0.5,
+            "tackles" : 2.6,
+            "contestedPossessions" : 6.6,
+            "uncontestedPossessions" : 9.8,
+            "totalPossessions" : 16.4,
+            "inside50s" : 3.6,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 3.2,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 60.4,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.3
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 92.0,
+            "handballs" : 74.0,
+            "disposals" : 166.0,
+            "marks" : 24.0,
+            "bounces" : 5.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 66.0,
+            "uncontestedPossessions" : 98.0,
+            "totalPossessions" : 164.0,
+            "inside50s" : 36.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 74.1,
+            "clangers" : 32.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 604.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 20.0,
+              "totalClearances" : 33.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 55.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 66.4
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 10.3,
+            "handballs" : 5.3,
+            "disposals" : 15.6,
+            "marks" : 3.9,
+            "bounces" : 2.6,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 15.6,
+            "inside50s" : 3.9,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.1,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 59.7,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.3
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 72.0,
+            "handballs" : 37.0,
+            "disposals" : 109.0,
+            "marks" : 27.0,
+            "bounces" : 18.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 39.0,
+            "uncontestedPossessions" : 70.0,
+            "totalPossessions" : 109.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 80.7,
+            "clangers" : 10.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 418.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 64.9
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 12.7,
+            "handballs" : 4.5,
+            "disposals" : 17.2,
+            "marks" : 3.4,
+            "bounces" : 1.1,
+            "tackles" : 2.7,
+            "contestedPossessions" : 6.9,
+            "uncontestedPossessions" : 10.6,
+            "totalPossessions" : 17.4,
+            "inside50s" : 6.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 66.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 3.5
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 267.0,
+            "handballs" : 95.0,
+            "disposals" : 362.0,
+            "marks" : 72.0,
+            "bounces" : 23.0,
+            "tackles" : 56.0,
+            "contestedPossessions" : 144.0,
+            "uncontestedPossessions" : 222.0,
+            "totalPossessions" : 366.0,
+            "inside50s" : 133.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 78.7,
+            "clangers" : 51.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 27.0,
+            "dreamTeamPoints" : 1387.0,
+            "clearances" : {
+              "centreClearances" : 41.0,
+              "stoppageClearances" : 33.0,
+              "totalClearances" : 74.0
+            },
+            "rebound50s" : 41.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 76.3
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 4.0,
+            "disposals" : 12.7,
+            "marks" : 3.7,
+            "bounces" : 0.9,
+            "tackles" : 1.1,
+            "contestedPossessions" : 3.2,
+            "uncontestedPossessions" : 9.5,
+            "totalPossessions" : 12.7,
+            "inside50s" : 4.9,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 50.1,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 130.0,
+            "handballs" : 60.0,
+            "disposals" : 190.0,
+            "marks" : 55.0,
+            "bounces" : 13.0,
+            "tackles" : 16.0,
+            "contestedPossessions" : 48.0,
+            "uncontestedPossessions" : 143.0,
+            "totalPossessions" : 191.0,
+            "inside50s" : 74.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 83.2,
+            "clangers" : 21.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 752.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 17.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 45.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 63.4
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 2.2,
+            "disposals" : 9.2,
+            "marks" : 2.6,
+            "bounces" : 1.6,
+            "tackles" : 1.0,
+            "contestedPossessions" : 2.4,
+            "uncontestedPossessions" : 6.9,
+            "totalPossessions" : 9.2,
+            "inside50s" : 4.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 37.0,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 56.0,
+            "handballs" : 18.0,
+            "disposals" : 74.0,
+            "marks" : 21.0,
+            "bounces" : 13.0,
+            "tackles" : 8.0,
+            "contestedPossessions" : 19.0,
+            "uncontestedPossessions" : 55.0,
+            "totalPossessions" : 74.0,
+            "inside50s" : 36.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 75.7,
+            "clangers" : 11.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 296.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 12.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230151",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Moloney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 57.8
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 43.0,
+      "handballs" : 58.0,
+      "disposals" : 101.0,
+      "marks" : 8.0,
+      "bounces" : 0.0,
+      "tackles" : 28.0,
+      "contestedPossessions" : 52.0,
+      "uncontestedPossessions" : 52.0,
+      "totalPossessions" : 104.0,
+      "inside50s" : 16.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 5.0,
+      "disposalEfficiency" : 61.4,
+      "clangers" : 16.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 7.0,
+      "dreamTeamPoints" : 371.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 14.0,
+        "totalClearances" : 28.0
+      },
+      "rebound50s" : 7.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 25.0,
+      "ratingPoints" : 219.1,
+      "ranking" : 341.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201401427",
+      "player" : {
+        "playerId" : "CD_I230151",
+        "playerName" : {
+          "givenName" : "Brent",
+          "surname" : "Moloney"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 219.1,
+        "ranking" : 340,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 219.1,
+        "ranking" : 18,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 219.1,
+        "ranking" : 123,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 46.2,
+        "ranking" : 488,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2002"
+    },
+    "careerGamesPlayed" : 166
+  }
+}

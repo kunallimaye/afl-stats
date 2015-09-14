@@ -1,0 +1,647 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I210085",
+    "position" : "Centre Half Forward",
+    "surname" : "Siegert",
+    "jumperNumber" : 35,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Andrew",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1982-01-18T01:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 187,
+      "weightInKg" : 91,
+      "recruitedFrom" : "Colac/Geelong U18",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 5.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 236.0,
+      "handballs" : 197.0,
+      "disposals" : 433.0,
+      "marks" : 131.0,
+      "bounces" : 19.0,
+      "tackles" : 67.0,
+      "contestedPossessions" : 123.0,
+      "uncontestedPossessions" : 317.0,
+      "totalPossessions" : 440.0,
+      "inside50s" : 77.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 48.0,
+      "disposalEfficiency" : 82.4,
+      "clangers" : 53.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1741.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 14.0,
+        "totalClearances" : 28.0
+      },
+      "rebound50s" : 43.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 55.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 7.0,
+            "disposals" : 15.2,
+            "marks" : 3.6,
+            "bounces" : 0.6,
+            "tackles" : 2.0,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 15.2,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 59.2,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210085",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Siegert"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 41.0,
+            "handballs" : 35.0,
+            "disposals" : 76.0,
+            "marks" : 18.0,
+            "bounces" : 3.0,
+            "tackles" : 10.0,
+            "contestedPossessions" : 26.0,
+            "uncontestedPossessions" : 50.0,
+            "totalPossessions" : 76.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 84.2,
+            "clangers" : 8.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 296.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210085",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Siegert"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 80.2
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.7,
+            "handballs" : 3.0,
+            "disposals" : 9.7,
+            "marks" : 2.3,
+            "bounces" : 0.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 2.8,
+            "uncontestedPossessions" : 6.7,
+            "totalPossessions" : 9.5,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 39.2,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210085",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Siegert"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 40.0,
+            "handballs" : 18.0,
+            "disposals" : 58.0,
+            "marks" : 14.0,
+            "bounces" : 0.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 17.0,
+            "uncontestedPossessions" : 40.0,
+            "totalPossessions" : 57.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 82.8,
+            "clangers" : 6.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 235.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210085",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Siegert"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 87.1
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.2,
+            "handballs" : 3.5,
+            "disposals" : 9.7,
+            "marks" : 3.5,
+            "bounces" : 0.7,
+            "tackles" : 3.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 7.7,
+            "totalPossessions" : 9.7,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 48.0,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210085",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Siegert"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 25.0,
+            "handballs" : 14.0,
+            "disposals" : 39.0,
+            "marks" : 14.0,
+            "bounces" : 3.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 8.0,
+            "uncontestedPossessions" : 31.0,
+            "totalPossessions" : 39.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 66.7,
+            "clangers" : 8.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 192.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210085",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Siegert"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 73.4
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.2,
+            "handballs" : 6.2,
+            "disposals" : 12.4,
+            "marks" : 4.0,
+            "bounces" : 0.6,
+            "tackles" : 1.8,
+            "contestedPossessions" : 3.4,
+            "uncontestedPossessions" : 9.3,
+            "totalPossessions" : 12.8,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 48.5,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210085",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Siegert"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 130.0,
+            "handballs" : 130.0,
+            "disposals" : 260.0,
+            "marks" : 85.0,
+            "bounces" : 13.0,
+            "tackles" : 38.0,
+            "contestedPossessions" : 72.0,
+            "uncontestedPossessions" : 196.0,
+            "totalPossessions" : 268.0,
+            "inside50s" : 44.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 84.2,
+            "clangers" : 31.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1018.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 26.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210085",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Siegert"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210085",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Siegert"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210085",
+            "playerName" : {
+              "givenName" : "Andrew",
+              "surname" : "Siegert"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 41.0,
+      "handballs" : 35.0,
+      "disposals" : 76.0,
+      "marks" : 18.0,
+      "bounces" : 3.0,
+      "tackles" : 10.0,
+      "contestedPossessions" : 26.0,
+      "uncontestedPossessions" : 50.0,
+      "totalPossessions" : 76.0,
+      "inside50s" : 12.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 7.0,
+      "disposalEfficiency" : 84.2,
+      "clangers" : 8.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 2.0,
+      "dreamTeamPoints" : 296.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 9.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 100.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

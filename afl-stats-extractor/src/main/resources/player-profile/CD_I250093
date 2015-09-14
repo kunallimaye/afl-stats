@@ -1,0 +1,441 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I250093",
+    "position" : "Left Half Back",
+    "surname" : "Smith",
+    "jumperNumber" : 18,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Joshua",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1986-03-05T01:00:00.000+0000",
+      "draftYear" : "2007",
+      "heightInCm" : 195,
+      "weightInKg" : 99,
+      "recruitedFrom" : "Whitford (WA)",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 2.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 76.0,
+      "handballs" : 44.0,
+      "disposals" : 120.0,
+      "marks" : 54.0,
+      "bounces" : 0.0,
+      "tackles" : 25.0,
+      "contestedPossessions" : 34.0,
+      "uncontestedPossessions" : 82.0,
+      "totalPossessions" : 116.0,
+      "inside50s" : 21.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 3.0,
+      "onePercenters" : 23.0,
+      "disposalEfficiency" : 70.8,
+      "clangers" : 22.0,
+      "freesFor" : 6.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 570.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 8.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 16.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 4.0,
+            "disposals" : 11.0,
+            "marks" : 4.7,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 2.5,
+            "uncontestedPossessions" : 8.2,
+            "totalPossessions" : 10.7,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.5,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.2,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 49.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250093",
+            "playerName" : {
+              "givenName" : "Joshua",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 28.0,
+            "handballs" : 16.0,
+            "disposals" : 44.0,
+            "marks" : 19.0,
+            "bounces" : 0.0,
+            "tackles" : 8.0,
+            "contestedPossessions" : 10.0,
+            "uncontestedPossessions" : 33.0,
+            "totalPossessions" : 43.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 65.9,
+            "clangers" : 7.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 198.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250093",
+            "playerName" : {
+              "givenName" : "Joshua",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 91.6
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 6.8,
+            "handballs" : 4.8,
+            "disposals" : 11.6,
+            "marks" : 4.8,
+            "bounces" : 0.0,
+            "tackles" : 2.6,
+            "contestedPossessions" : 4.4,
+            "uncontestedPossessions" : 6.8,
+            "totalPossessions" : 11.2,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 55.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250093",
+            "playerName" : {
+              "givenName" : "Joshua",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 34.0,
+            "handballs" : 24.0,
+            "disposals" : 58.0,
+            "marks" : 24.0,
+            "bounces" : 0.0,
+            "tackles" : 13.0,
+            "contestedPossessions" : 22.0,
+            "uncontestedPossessions" : 34.0,
+            "totalPossessions" : 56.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 70.7,
+            "clangers" : 10.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 275.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 28.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250093",
+            "playerName" : {
+              "givenName" : "Joshua",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 80.4
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 2.0,
+            "disposals" : 9.0,
+            "marks" : 5.5,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 7.5,
+            "totalPossessions" : 8.5,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 48.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250093",
+            "playerName" : {
+              "givenName" : "Joshua",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 14.0,
+            "handballs" : 4.0,
+            "disposals" : 18.0,
+            "marks" : 11.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 15.0,
+            "totalPossessions" : 17.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 83.3,
+            "clangers" : 5.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 97.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250093",
+            "playerName" : {
+              "givenName" : "Joshua",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 74.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 28.0,
+      "handballs" : 16.0,
+      "disposals" : 44.0,
+      "marks" : 19.0,
+      "bounces" : 0.0,
+      "tackles" : 8.0,
+      "contestedPossessions" : 10.0,
+      "uncontestedPossessions" : 33.0,
+      "totalPossessions" : 43.0,
+      "inside50s" : 7.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 2.0,
+      "onePercenters" : 12.0,
+      "disposalEfficiency" : 65.9,
+      "clangers" : 7.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 4.0,
+      "dreamTeamPoints" : 198.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 8.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 0.0,
+      "ranking" : 0.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

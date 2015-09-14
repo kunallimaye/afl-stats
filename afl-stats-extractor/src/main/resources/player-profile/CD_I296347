@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I296347",
+    "position" : "Left Wing",
+    "surname" : "Kelly",
+    "jumperNumber" : 22,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.5,
+      "superGoals" : null,
+      "kicks" : 9.4,
+      "handballs" : 8.2,
+      "disposals" : 17.6,
+      "marks" : 3.5,
+      "bounces" : 0.1,
+      "tackles" : 3.4,
+      "contestedPossessions" : 5.8,
+      "uncontestedPossessions" : 11.8,
+      "totalPossessions" : 17.6,
+      "inside50s" : 2.2,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.7,
+      "disposalEfficiency" : null,
+      "clangers" : 1.9,
+      "freesFor" : 0.4,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 71.5,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 1.2,
+        "totalClearances" : 1.5
+      },
+      "rebound50s" : 0.9,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Joshua",
+    "bio" : "<p>Josh Kelly grew up in Melbourne&rsquo;s south east, beginning his football career as an Auskicker at East Brighton before being drafted from the Sandringham Dragons by the GIANTS at pick two in the 2013 NAB AFL Draft. Kelly, who models his game on Swans co-captain Jarrad McVeigh, is the son of Phil Kelly who played 61 games as a wingman for North Melbourne in the 1980s.<br /> &nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2015 - Profiles/KELLY Josh.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1995-02-12T01:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 183,
+      "weightInKg" : 75,
+      "recruitedFrom" : null,
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 20.0,
+      "behinds" : 19.0,
+      "superGoals" : null,
+      "kicks" : 340.0,
+      "handballs" : 294.0,
+      "disposals" : 634.0,
+      "marks" : 125.0,
+      "bounces" : 5.0,
+      "tackles" : 124.0,
+      "contestedPossessions" : 210.0,
+      "uncontestedPossessions" : 425.0,
+      "totalPossessions" : 635.0,
+      "inside50s" : 79.0,
+      "marksInside50" : 17.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 27.0,
+      "disposalEfficiency" : 69.4,
+      "clangers" : 69.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 2574.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 45.0,
+        "totalClearances" : 54.0
+      },
+      "rebound50s" : 33.0,
+      "goalAssists" : 19.0,
+      "goalAccuracy" : 43.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 9.6,
+            "handballs" : 8.3,
+            "disposals" : 17.9,
+            "marks" : 3.9,
+            "bounces" : 0.2,
+            "tackles" : 3.7,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 12.3,
+            "totalPossessions" : 18.0,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 73.3,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296347",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kelly"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 172.0,
+            "handballs" : 150.0,
+            "disposals" : 322.0,
+            "marks" : 70.0,
+            "bounces" : 3.0,
+            "tackles" : 66.0,
+            "contestedPossessions" : 103.0,
+            "uncontestedPossessions" : 221.0,
+            "totalPossessions" : 324.0,
+            "inside50s" : 37.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 69.6,
+            "clangers" : 34.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1319.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 29.0,
+              "totalClearances" : 32.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 31.8,
+            "ratingPoints" : 256.6,
+            "ranking" : 286.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296347",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Kelly"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 76.2
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 9.3,
+            "handballs" : 8.0,
+            "disposals" : 17.3,
+            "marks" : 3.1,
+            "bounces" : 0.1,
+            "tackles" : 3.2,
+            "contestedPossessions" : 5.9,
+            "uncontestedPossessions" : 11.3,
+            "totalPossessions" : 17.3,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 69.7,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296347",
+            "playerName" : {
+              "givenName" : "Joshua",
+              "surname" : "Kelly"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 168.0,
+            "handballs" : 144.0,
+            "disposals" : 312.0,
+            "marks" : 55.0,
+            "bounces" : 2.0,
+            "tackles" : 58.0,
+            "contestedPossessions" : 107.0,
+            "uncontestedPossessions" : 204.0,
+            "totalPossessions" : 311.0,
+            "inside50s" : 42.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 69.2,
+            "clangers" : 35.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 1255.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 16.0,
+              "totalClearances" : 22.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 54.2,
+            "ratingPoints" : 135.8,
+            "ranking" : 448.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296347",
+            "playerName" : {
+              "givenName" : "Joshua",
+              "surname" : "Kelly"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 70.5
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 7.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 172.0,
+      "handballs" : 150.0,
+      "disposals" : 322.0,
+      "marks" : 70.0,
+      "bounces" : 3.0,
+      "tackles" : 66.0,
+      "contestedPossessions" : 103.0,
+      "uncontestedPossessions" : 221.0,
+      "totalPossessions" : 324.0,
+      "inside50s" : 37.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 12.0,
+      "disposalEfficiency" : 69.6,
+      "clangers" : 34.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1319.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 29.0,
+        "totalClearances" : 32.0
+      },
+      "rebound50s" : 19.0,
+      "goalAssists" : 10.0,
+      "goalAccuracy" : 31.8,
+      "ratingPoints" : 256.6,
+      "ranking" : 286.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I296347",
+        "playerName" : {
+          "givenName" : "Josh",
+          "surname" : "Kelly"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 260.5,
+        "ranking" : 281,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 260.5,
+        "ranking" : 15,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 260.5,
+        "ranking" : 20,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 130.1,
+        "ranking" : 294,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 36
+  }
+}

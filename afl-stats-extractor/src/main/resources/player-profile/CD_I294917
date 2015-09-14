@@ -1,0 +1,270 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I294917",
+    "position" : "Centre Half Back",
+    "surname" : "Folau",
+    "jumperNumber" : 4,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.6,
+      "superGoals" : null,
+      "kicks" : 3.0,
+      "handballs" : 3.2,
+      "disposals" : 6.2,
+      "marks" : 1.7,
+      "bounces" : 0.0,
+      "tackles" : 1.4,
+      "contestedPossessions" : 3.8,
+      "uncontestedPossessions" : 2.7,
+      "totalPossessions" : 6.5,
+      "inside50s" : 0.9,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.6,
+      "hitouts" : 5.0,
+      "onePercenters" : 1.5,
+      "disposalEfficiency" : null,
+      "clangers" : 1.1,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 30.9,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.3,
+        "totalClearances" : 0.4
+      },
+      "rebound50s" : 0.3,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Israel",
+    "bio" : "<p>Israel Folau played thirteen games for the GIANTS in his first season in the AFL competition and made his debut in the club’s first ever match against the Sydney Swans at ANZ Stadium.</p>\n\n<p>Folau spent time in the GIANTS forward line, ruck and back line across his thirteen games, his best performances coming in the GIANTS historic first win over the Gold Coast SUNS and in the final round of the 2012 season against North Melbourne at SKODA Stadium.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2012 - Profiles/folau_israel_o.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1989-04-03T02:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 195,
+      "weightInKg" : 100,
+      "recruitedFrom" : null,
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 2.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 39.0,
+      "handballs" : 41.0,
+      "disposals" : 80.0,
+      "marks" : 22.0,
+      "bounces" : 0.0,
+      "tackles" : 18.0,
+      "contestedPossessions" : 49.0,
+      "uncontestedPossessions" : 35.0,
+      "totalPossessions" : 84.0,
+      "inside50s" : 12.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 65.0,
+      "onePercenters" : 19.0,
+      "disposalEfficiency" : 60.0,
+      "clangers" : 14.0,
+      "freesFor" : 7.0,
+      "freesAgainst" : 9.0,
+      "dreamTeamPoints" : 402.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 5.0
+      },
+      "rebound50s" : 4.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 20.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 3.2,
+            "disposals" : 6.2,
+            "marks" : 1.7,
+            "bounces" : 0.0,
+            "tackles" : 1.4,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 2.7,
+            "totalPossessions" : 6.5,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.6,
+            "hitouts" : 5.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 30.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294917",
+            "playerName" : {
+              "givenName" : "Israel",
+              "surname" : "Folau"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 39.0,
+            "handballs" : 41.0,
+            "disposals" : 80.0,
+            "marks" : 22.0,
+            "bounces" : 0.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 49.0,
+            "uncontestedPossessions" : 35.0,
+            "totalPossessions" : 84.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 65.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 60.0,
+            "clangers" : 14.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 402.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294917",
+            "playerName" : {
+              "givenName" : "Israel",
+              "surname" : "Folau"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 79.7
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 39.0,
+      "handballs" : 41.0,
+      "disposals" : 80.0,
+      "marks" : 22.0,
+      "bounces" : 0.0,
+      "tackles" : 18.0,
+      "contestedPossessions" : 49.0,
+      "uncontestedPossessions" : 35.0,
+      "totalPossessions" : 84.0,
+      "inside50s" : 12.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 65.0,
+      "onePercenters" : 19.0,
+      "disposalEfficiency" : 60.0,
+      "clangers" : 14.0,
+      "freesFor" : 7.0,
+      "freesAgainst" : 9.0,
+      "dreamTeamPoints" : 402.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 5.0
+      },
+      "rebound50s" : 4.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 20.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201201427",
+      "player" : {
+        "playerId" : "CD_I294917",
+        "playerName" : {
+          "givenName" : "Israel",
+          "surname" : "Folau"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 59.0,
+        "ranking" : 542,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 59.0,
+        "ranking" : 24,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 59.0,
+        "ranking" : 128,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 13
+  }
+}

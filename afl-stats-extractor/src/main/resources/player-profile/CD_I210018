@@ -1,0 +1,1506 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I210018",
+    "position" : "Ruck Rover",
+    "surname" : "Kerr",
+    "jumperNumber" : 4,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 10.5,
+      "handballs" : 10.6,
+      "disposals" : 21.1,
+      "marks" : 2.4,
+      "bounces" : 1.7,
+      "tackles" : 3.0,
+      "contestedPossessions" : 10.8,
+      "uncontestedPossessions" : 10.8,
+      "totalPossessions" : 21.6,
+      "inside50s" : 3.0,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.1,
+      "onePercenters" : 1.5,
+      "disposalEfficiency" : null,
+      "clangers" : 2.3,
+      "freesFor" : 1.6,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 74.5,
+      "clearances" : {
+        "centreClearances" : 1.9,
+        "stoppageClearances" : 2.7,
+        "totalClearances" : 4.7
+      },
+      "rebound50s" : 1.3,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Daniel",
+    "bio" : "<p>Returned from a number of injury-plagued seasons to play every game in 2012, including his 200th against North Melbourne in round 15. The dynamic midfielder has endured a torrid run of injuries since 2008, but proved the game was not past him this season, dominating in the finals series and averaging 23 possessions. Managed 10 games in season 2013, but knee issues diminished his output and he decided to hang up the boots at the end of the year.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WestCoastEagles/Player Profiles/2013 - Profiles/kerr-2013-p.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1983-05-16T02:00:00.000+0000",
+      "draftYear" : "2000",
+      "heightInCm" : 178,
+      "weightInKg" : 80,
+      "recruitedFrom" : "East Fremantle (WA)",
+      "debutYear" : "2001"
+    },
+    "careerStats" : {
+      "goals" : 122.0,
+      "behinds" : 93.0,
+      "superGoals" : null,
+      "kicks" : 2313.0,
+      "handballs" : 2325.0,
+      "disposals" : 4638.0,
+      "marks" : 538.0,
+      "bounces" : 375.0,
+      "tackles" : 658.0,
+      "contestedPossessions" : 2368.0,
+      "uncontestedPossessions" : 2374.0,
+      "totalPossessions" : 4742.0,
+      "inside50s" : 651.0,
+      "marksInside50" : 44.0,
+      "contestedMarks" : 53.0,
+      "hitouts" : 16.0,
+      "onePercenters" : 337.0,
+      "disposalEfficiency" : 73.6,
+      "clangers" : 512.0,
+      "freesFor" : 357.0,
+      "freesAgainst" : 212.0,
+      "dreamTeamPoints" : 16397.0,
+      "clearances" : {
+        "centreClearances" : 424.0,
+        "stoppageClearances" : 603.0,
+        "totalClearances" : 1027.0
+      },
+      "rebound50s" : 293.0,
+      "goalAssists" : 80.0,
+      "goalAccuracy" : 49.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.5,
+            "handballs" : 11.2,
+            "disposals" : 20.7,
+            "marks" : 1.7,
+            "bounces" : 0.2,
+            "tackles" : 2.7,
+            "contestedPossessions" : 11.2,
+            "uncontestedPossessions" : 9.9,
+            "totalPossessions" : 21.1,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 68.3,
+            "clearances" : {
+              "centreClearances" : 2.1,
+              "stoppageClearances" : 3.3,
+              "totalClearances" : 5.4
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 95.0,
+            "handballs" : 112.0,
+            "disposals" : 207.0,
+            "marks" : 17.0,
+            "bounces" : 2.0,
+            "tackles" : 27.0,
+            "contestedPossessions" : 112.0,
+            "uncontestedPossessions" : 99.0,
+            "totalPossessions" : 211.0,
+            "inside50s" : 19.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 71.5,
+            "clangers" : 19.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 683.0,
+            "clearances" : {
+              "centreClearances" : 21.0,
+              "stoppageClearances" : 33.0,
+              "totalClearances" : 54.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 401.7,
+            "ranking" : 90.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 73.4
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 12.1,
+            "handballs" : 10.9,
+            "disposals" : 23.0,
+            "marks" : 2.3,
+            "bounces" : 0.6,
+            "tackles" : 2.2,
+            "contestedPossessions" : 11.8,
+            "uncontestedPossessions" : 11.3,
+            "totalPossessions" : 23.2,
+            "inside50s" : 2.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 1.5,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 76.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 3.3,
+              "totalClearances" : 5.4
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 291.0,
+            "handballs" : 261.0,
+            "disposals" : 552.0,
+            "marks" : 56.0,
+            "bounces" : 15.0,
+            "tackles" : 53.0,
+            "contestedPossessions" : 284.0,
+            "uncontestedPossessions" : 272.0,
+            "totalPossessions" : 556.0,
+            "inside50s" : 70.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 35.0,
+            "disposalEfficiency" : 66.3,
+            "clangers" : 59.0,
+            "freesFor" : 36.0,
+            "freesAgainst" : 25.0,
+            "dreamTeamPoints" : 1823.0,
+            "clearances" : {
+              "centreClearances" : 49.0,
+              "stoppageClearances" : 80.0,
+              "totalClearances" : 129.0
+            },
+            "rebound50s" : 38.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 56.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 78.5
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 10.9,
+            "handballs" : 13.7,
+            "disposals" : 24.6,
+            "marks" : 2.2,
+            "bounces" : 0.7,
+            "tackles" : 2.4,
+            "contestedPossessions" : 13.6,
+            "uncontestedPossessions" : 12.2,
+            "totalPossessions" : 25.8,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.7,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 78.2,
+            "clearances" : {
+              "centreClearances" : 2.2,
+              "stoppageClearances" : 3.8,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 174.0,
+            "handballs" : 220.0,
+            "disposals" : 394.0,
+            "marks" : 35.0,
+            "bounces" : 11.0,
+            "tackles" : 38.0,
+            "contestedPossessions" : 218.0,
+            "uncontestedPossessions" : 195.0,
+            "totalPossessions" : 413.0,
+            "inside50s" : 54.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 69.5,
+            "clangers" : 32.0,
+            "freesFor" : 28.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1252.0,
+            "clearances" : {
+              "centreClearances" : 35.0,
+              "stoppageClearances" : 61.0,
+              "totalClearances" : 96.0
+            },
+            "rebound50s" : 22.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 41.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 76.7
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 13.5,
+            "disposals" : 19.5,
+            "marks" : 0.7,
+            "bounces" : 0.5,
+            "tackles" : 3.0,
+            "contestedPossessions" : 11.5,
+            "uncontestedPossessions" : 8.5,
+            "totalPossessions" : 20.0,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 59.2,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 2.5,
+              "totalClearances" : 4.5
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 24.0,
+            "handballs" : 54.0,
+            "disposals" : 78.0,
+            "marks" : 3.0,
+            "bounces" : 2.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 46.0,
+            "uncontestedPossessions" : 34.0,
+            "totalPossessions" : 80.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 71.8,
+            "clangers" : 8.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 237.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 18.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 76.9
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 6.9,
+            "handballs" : 12.5,
+            "disposals" : 19.5,
+            "marks" : 0.6,
+            "bounces" : 1.1,
+            "tackles" : 2.7,
+            "contestedPossessions" : 11.3,
+            "uncontestedPossessions" : 8.5,
+            "totalPossessions" : 19.7,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.8,
+            "freesFor" : 2.6,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 61.9,
+            "clearances" : {
+              "centreClearances" : 1.7,
+              "stoppageClearances" : 2.7,
+              "totalClearances" : 4.5
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 76.0,
+            "handballs" : 138.0,
+            "disposals" : 214.0,
+            "marks" : 7.0,
+            "bounces" : 12.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 124.0,
+            "uncontestedPossessions" : 93.0,
+            "totalPossessions" : 217.0,
+            "inside50s" : 23.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 71.5,
+            "clangers" : 31.0,
+            "freesFor" : 29.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 681.0,
+            "clearances" : {
+              "centreClearances" : 19.0,
+              "stoppageClearances" : 30.0,
+              "totalClearances" : 49.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 58.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 78.3
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 11.9,
+            "handballs" : 11.8,
+            "disposals" : 23.7,
+            "marks" : 2.1,
+            "bounces" : 3.3,
+            "tackles" : 2.4,
+            "contestedPossessions" : 11.0,
+            "uncontestedPossessions" : 13.0,
+            "totalPossessions" : 24.0,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 3.4,
+            "freesFor" : 2.7,
+            "freesAgainst" : 1.6,
+            "dreamTeamPoints" : 76.5,
+            "clearances" : {
+              "centreClearances" : 2.4,
+              "stoppageClearances" : 2.8,
+              "totalClearances" : 5.2
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 131.0,
+            "handballs" : 130.0,
+            "disposals" : 261.0,
+            "marks" : 23.0,
+            "bounces" : 36.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 121.0,
+            "uncontestedPossessions" : 143.0,
+            "totalPossessions" : 264.0,
+            "inside50s" : 25.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 69.3,
+            "clangers" : 37.0,
+            "freesFor" : 30.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 841.0,
+            "clearances" : {
+              "centreClearances" : 26.0,
+              "stoppageClearances" : 31.0,
+              "totalClearances" : 57.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 81.7
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 13.1,
+            "handballs" : 14.0,
+            "disposals" : 27.1,
+            "marks" : 2.7,
+            "bounces" : 3.2,
+            "tackles" : 3.6,
+            "contestedPossessions" : 12.5,
+            "uncontestedPossessions" : 15.0,
+            "totalPossessions" : 27.5,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.2,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 3.1,
+            "freesFor" : 3.1,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 93.2,
+            "clearances" : {
+              "centreClearances" : 2.9,
+              "stoppageClearances" : 2.4,
+              "totalClearances" : 5.2
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 223.0,
+            "handballs" : 238.0,
+            "disposals" : 461.0,
+            "marks" : 46.0,
+            "bounces" : 54.0,
+            "tackles" : 62.0,
+            "contestedPossessions" : 213.0,
+            "uncontestedPossessions" : 255.0,
+            "totalPossessions" : 468.0,
+            "inside50s" : 58.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 38.0,
+            "disposalEfficiency" : 74.0,
+            "clangers" : 52.0,
+            "freesFor" : 52.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1585.0,
+            "clearances" : {
+              "centreClearances" : 49.0,
+              "stoppageClearances" : 40.0,
+              "totalClearances" : 89.0
+            },
+            "rebound50s" : 40.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 86.2
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 11.1,
+            "handballs" : 11.9,
+            "disposals" : 23.0,
+            "marks" : 2.9,
+            "bounces" : 3.8,
+            "tackles" : 3.2,
+            "contestedPossessions" : 11.4,
+            "uncontestedPossessions" : 12.1,
+            "totalPossessions" : 23.5,
+            "inside50s" : 3.1,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.6,
+            "disposalEfficiency" : null,
+            "clangers" : 3.2,
+            "freesFor" : 1.6,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 80.6,
+            "clearances" : {
+              "centreClearances" : 2.4,
+              "stoppageClearances" : 2.4,
+              "totalClearances" : 4.8
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 16.0,
+            "superGoals" : null,
+            "kicks" : 233.0,
+            "handballs" : 249.0,
+            "disposals" : 482.0,
+            "marks" : 61.0,
+            "bounces" : 79.0,
+            "tackles" : 67.0,
+            "contestedPossessions" : 239.0,
+            "uncontestedPossessions" : 255.0,
+            "totalPossessions" : 494.0,
+            "inside50s" : 66.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 54.0,
+            "disposalEfficiency" : 73.0,
+            "clangers" : 68.0,
+            "freesFor" : 33.0,
+            "freesAgainst" : 24.0,
+            "dreamTeamPoints" : 1693.0,
+            "clearances" : {
+              "centreClearances" : 50.0,
+              "stoppageClearances" : 50.0,
+              "totalClearances" : 100.0
+            },
+            "rebound50s" : 29.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 81.6
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 12.0,
+            "handballs" : 8.9,
+            "disposals" : 20.9,
+            "marks" : 3.7,
+            "bounces" : 1.5,
+            "tackles" : 2.7,
+            "contestedPossessions" : 10.3,
+            "uncontestedPossessions" : 11.0,
+            "totalPossessions" : 21.3,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 1.5,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 77.3,
+            "clearances" : {
+              "centreClearances" : 1.8,
+              "stoppageClearances" : 2.8,
+              "totalClearances" : 4.6
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 264.0,
+            "handballs" : 196.0,
+            "disposals" : 460.0,
+            "marks" : 81.0,
+            "bounces" : 34.0,
+            "tackles" : 59.0,
+            "contestedPossessions" : 227.0,
+            "uncontestedPossessions" : 242.0,
+            "totalPossessions" : 469.0,
+            "inside50s" : 74.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 76.5,
+            "clangers" : 50.0,
+            "freesFor" : 34.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1700.0,
+            "clearances" : {
+              "centreClearances" : 39.0,
+              "stoppageClearances" : 62.0,
+              "totalClearances" : 101.0
+            },
+            "rebound50s" : 29.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 36.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 79.0
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 11.6,
+            "handballs" : 8.2,
+            "disposals" : 19.8,
+            "marks" : 3.5,
+            "bounces" : 2.2,
+            "tackles" : 3.2,
+            "contestedPossessions" : 9.2,
+            "uncontestedPossessions" : 11.5,
+            "totalPossessions" : 20.7,
+            "inside50s" : 3.3,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 77.5,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 3.2
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 243.0,
+            "handballs" : 173.0,
+            "disposals" : 416.0,
+            "marks" : 74.0,
+            "bounces" : 47.0,
+            "tackles" : 68.0,
+            "contestedPossessions" : 194.0,
+            "uncontestedPossessions" : 241.0,
+            "totalPossessions" : 435.0,
+            "inside50s" : 70.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 76.7,
+            "clangers" : 37.0,
+            "freesFor" : 26.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1628.0,
+            "clearances" : {
+              "centreClearances" : 30.0,
+              "stoppageClearances" : 38.0,
+              "totalClearances" : 68.0
+            },
+            "rebound50s" : 28.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 46.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 88.0
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 9.7,
+            "handballs" : 9.6,
+            "disposals" : 19.3,
+            "marks" : 2.6,
+            "bounces" : 2.3,
+            "tackles" : 3.5,
+            "contestedPossessions" : 10.4,
+            "uncontestedPossessions" : 9.3,
+            "totalPossessions" : 19.8,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 1.3,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 73.5,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 3.3,
+              "totalClearances" : 5.2
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 203.0,
+            "handballs" : 202.0,
+            "disposals" : 405.0,
+            "marks" : 54.0,
+            "bounces" : 48.0,
+            "tackles" : 74.0,
+            "contestedPossessions" : 219.0,
+            "uncontestedPossessions" : 196.0,
+            "totalPossessions" : 415.0,
+            "inside50s" : 53.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 81.5,
+            "clangers" : 44.0,
+            "freesFor" : 28.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 1544.0,
+            "clearances" : {
+              "centreClearances" : 41.0,
+              "stoppageClearances" : 69.0,
+              "totalClearances" : 110.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 58.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 86.0
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 8.8,
+            "disposals" : 17.9,
+            "marks" : 1.9,
+            "bounces" : 1.3,
+            "tackles" : 3.3,
+            "contestedPossessions" : 8.9,
+            "uncontestedPossessions" : 9.3,
+            "totalPossessions" : 18.2,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 68.0,
+            "clearances" : {
+              "centreClearances" : 1.7,
+              "stoppageClearances" : 2.6,
+              "totalClearances" : 4.2
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 20.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 208.0,
+            "handballs" : 203.0,
+            "disposals" : 411.0,
+            "marks" : 43.0,
+            "bounces" : 30.0,
+            "tackles" : 75.0,
+            "contestedPossessions" : 204.0,
+            "uncontestedPossessions" : 214.0,
+            "totalPossessions" : 418.0,
+            "inside50s" : 78.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 42.0,
+            "disposalEfficiency" : 76.9,
+            "clangers" : 41.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1565.0,
+            "clearances" : {
+              "centreClearances" : 38.0,
+              "stoppageClearances" : 59.0,
+              "totalClearances" : 97.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 57.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.8,
+            "handballs" : 7.8,
+            "disposals" : 15.6,
+            "marks" : 2.0,
+            "bounces" : 0.3,
+            "tackles" : 3.5,
+            "contestedPossessions" : 8.8,
+            "uncontestedPossessions" : 7.1,
+            "totalPossessions" : 15.9,
+            "inside50s" : 2.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 61.3,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.1,
+              "totalClearances" : 3.1
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 148.0,
+            "handballs" : 149.0,
+            "disposals" : 297.0,
+            "marks" : 38.0,
+            "bounces" : 5.0,
+            "tackles" : 67.0,
+            "contestedPossessions" : 167.0,
+            "uncontestedPossessions" : 135.0,
+            "totalPossessions" : 302.0,
+            "inside50s" : 56.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 75.4,
+            "clangers" : 34.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1165.0,
+            "clearances" : {
+              "centreClearances" : 19.0,
+              "stoppageClearances" : 40.0,
+              "totalClearances" : 59.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 53.8,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210018",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Kerr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 4.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 95.0,
+      "handballs" : 112.0,
+      "disposals" : 207.0,
+      "marks" : 17.0,
+      "bounces" : 2.0,
+      "tackles" : 27.0,
+      "contestedPossessions" : 112.0,
+      "uncontestedPossessions" : 99.0,
+      "totalPossessions" : 211.0,
+      "inside50s" : 19.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 3.0,
+      "disposalEfficiency" : 71.5,
+      "clangers" : 19.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 7.0,
+      "dreamTeamPoints" : 683.0,
+      "clearances" : {
+        "centreClearances" : 21.0,
+        "stoppageClearances" : 33.0,
+        "totalClearances" : 54.0
+      },
+      "rebound50s" : 11.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 100.0,
+      "ratingPoints" : 401.7,
+      "ranking" : 90.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201301427",
+      "player" : {
+        "playerId" : "CD_I210018",
+        "playerName" : {
+          "givenName" : "Daniel",
+          "surname" : "Kerr"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T150",
+        "teamAbbr" : "WCE",
+        "teamName" : "West Coast Eagles",
+        "teamNickname" : "Eagles"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 391.0,
+        "ranking" : 102,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 391.0,
+        "ranking" : 6,
+        "ratingType" : "TEAM",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 391.0,
+        "ranking" : 65,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 220
+  }
+}

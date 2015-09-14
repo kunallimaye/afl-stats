@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I293222",
+    "position" : "Centre Half Back",
+    "surname" : "Laird",
+    "jumperNumber" : 29,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 10.3,
+      "handballs" : 9.7,
+      "disposals" : 20.0,
+      "marks" : 4.7,
+      "bounces" : 0.2,
+      "tackles" : 2.6,
+      "contestedPossessions" : 6.6,
+      "uncontestedPossessions" : 13.4,
+      "totalPossessions" : 20.1,
+      "inside50s" : 1.7,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.4,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.4,
+      "disposalEfficiency" : null,
+      "clangers" : 1.9,
+      "freesFor" : 0.8,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 74.9,
+      "clearances" : {
+        "centreClearances" : 0.3,
+        "stoppageClearances" : 0.6,
+        "totalClearances" : 0.9
+      },
+      "rebound50s" : 2.3,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Rory",
+    "bio" : "<p>Adductor issues curtailed Laird’s pre-season, but the former rookie worked his way into the senior side by Round Three and played a total of 16 AFL games. He showed versatility as a role-playing midfielder in addition to his usual post in defence. Laird starred in Adelaide’s Round 10 clash with Carlton, collecting with 28 possessions and 10 marks. He was squeezed out of the team late in the season, but amassed 42 possessions in his only SANFL appearance of the season to earn a recall. Missed Adelaide’s final match of the season after being concussed late in the game against North Melbourne in Hobart. On track to play his 50<sup>th</sup> AFL game in 2015.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/AdelaideCrows/Player Profiles/2015 - Profiles/LAIRD Rory.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-12-29T01:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 178,
+      "weightInKg" : 77,
+      "recruitedFrom" : "Kenilworth/West Adelaide (SANFL)",
+      "debutYear" : "2013"
+    },
+    "careerStats" : {
+      "goals" : 5.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 579.0,
+      "handballs" : 541.0,
+      "disposals" : 1120.0,
+      "marks" : 264.0,
+      "bounces" : 9.0,
+      "tackles" : 146.0,
+      "contestedPossessions" : 370.0,
+      "uncontestedPossessions" : 753.0,
+      "totalPossessions" : 1123.0,
+      "inside50s" : 96.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 20.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 81.0,
+      "disposalEfficiency" : 78.8,
+      "clangers" : 106.0,
+      "freesFor" : 46.0,
+      "freesAgainst" : 28.0,
+      "dreamTeamPoints" : 4195.0,
+      "clearances" : {
+        "centreClearances" : 18.0,
+        "stoppageClearances" : 31.0,
+        "totalClearances" : 49.0
+      },
+      "rebound50s" : 128.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 12.4,
+            "handballs" : 11.8,
+            "disposals" : 24.2,
+            "marks" : 5.7,
+            "bounces" : 0.2,
+            "tackles" : 2.6,
+            "contestedPossessions" : 7.7,
+            "uncontestedPossessions" : 16.3,
+            "totalPossessions" : 24.0,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 88.0,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 3.3,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293222",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Laird"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 273.0,
+            "handballs" : 259.0,
+            "disposals" : 532.0,
+            "marks" : 125.0,
+            "bounces" : 5.0,
+            "tackles" : 58.0,
+            "contestedPossessions" : 170.0,
+            "uncontestedPossessions" : 359.0,
+            "totalPossessions" : 529.0,
+            "inside50s" : 41.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 80.1,
+            "clangers" : 53.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1935.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 16.0,
+              "totalClearances" : 19.0
+            },
+            "rebound50s" : 72.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 28.6,
+            "ratingPoints" : 316.6,
+            "ranking" : 204.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293222",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Laird"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 81.9
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.9,
+            "handballs" : 8.1,
+            "disposals" : 15.9,
+            "marks" : 4.1,
+            "bounces" : 0.1,
+            "tackles" : 2.3,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 11.1,
+            "totalPossessions" : 16.1,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 61.1,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293222",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Laird"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 126.0,
+            "handballs" : 129.0,
+            "disposals" : 255.0,
+            "marks" : 65.0,
+            "bounces" : 2.0,
+            "tackles" : 37.0,
+            "contestedPossessions" : 81.0,
+            "uncontestedPossessions" : 177.0,
+            "totalPossessions" : 258.0,
+            "inside50s" : 34.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 75.3,
+            "clangers" : 31.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 977.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : 257.2,
+            "ranking" : 293.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293222",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Laird"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 75.1
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 8.5,
+            "disposals" : 18.5,
+            "marks" : 4.1,
+            "bounces" : 0.1,
+            "tackles" : 2.8,
+            "contestedPossessions" : 6.6,
+            "uncontestedPossessions" : 12.1,
+            "totalPossessions" : 18.7,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 71.3,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293222",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Laird"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 180.0,
+            "handballs" : 153.0,
+            "disposals" : 333.0,
+            "marks" : 74.0,
+            "bounces" : 2.0,
+            "tackles" : 51.0,
+            "contestedPossessions" : 119.0,
+            "uncontestedPossessions" : 217.0,
+            "totalPossessions" : 336.0,
+            "inside50s" : 21.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 79.6,
+            "clangers" : 22.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 1283.0,
+            "clearances" : {
+              "centreClearances" : 11.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 17.0
+            },
+            "rebound50s" : 35.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 153.3,
+            "ranking" : 416.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293222",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Laird"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 79.2
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293222",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Laird"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293222",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Laird"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 273.0,
+      "handballs" : 259.0,
+      "disposals" : 532.0,
+      "marks" : 125.0,
+      "bounces" : 5.0,
+      "tackles" : 58.0,
+      "contestedPossessions" : 170.0,
+      "uncontestedPossessions" : 359.0,
+      "totalPossessions" : 529.0,
+      "inside50s" : 41.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 34.0,
+      "disposalEfficiency" : 80.1,
+      "clangers" : 53.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1935.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 19.0
+      },
+      "rebound50s" : 72.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 28.6,
+      "ratingPoints" : 316.6,
+      "ranking" : 204.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I293222",
+        "playerName" : {
+          "givenName" : "Rory",
+          "surname" : "Laird"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T10",
+        "teamAbbr" : "ADEL",
+        "teamName" : "Adelaide Crows",
+        "teamNickname" : "Crows"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 319.9,
+        "ranking" : 197,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 319.9,
+        "ranking" : 13,
+        "ratingType" : "TEAM",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 319.9,
+        "ranking" : 28,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 9.6,
+        "ranking" : 71,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 234.3,
+        "ranking" : 90,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 56
+  }
+}

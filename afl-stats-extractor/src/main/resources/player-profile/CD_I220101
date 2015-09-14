@@ -1,0 +1,1300 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I220101",
+    "position" : "Ruck",
+    "surname" : "Seaby",
+    "jumperNumber" : 39,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 4.0,
+      "handballs" : 5.4,
+      "disposals" : 9.4,
+      "marks" : 3.0,
+      "bounces" : 0.1,
+      "tackles" : 1.9,
+      "contestedPossessions" : 4.4,
+      "uncontestedPossessions" : 4.9,
+      "totalPossessions" : 9.3,
+      "inside50s" : 1.0,
+      "marksInside50" : 0.6,
+      "contestedMarks" : 0.7,
+      "hitouts" : 13.3,
+      "onePercenters" : 2.3,
+      "disposalEfficiency" : null,
+      "clangers" : 1.6,
+      "freesFor" : 1.0,
+      "freesAgainst" : 0.9,
+      "dreamTeamPoints" : 54.8,
+      "clearances" : {
+        "centreClearances" : 0.6,
+        "stoppageClearances" : 1.1,
+        "totalClearances" : 1.7
+      },
+      "rebound50s" : 0.5,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Mark",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1984-05-01T02:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 199,
+      "weightInKg" : 101,
+      "recruitedFrom" : null,
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 69.0,
+      "behinds" : 31.0,
+      "superGoals" : null,
+      "kicks" : 476.0,
+      "handballs" : 651.0,
+      "disposals" : 1127.0,
+      "marks" : 366.0,
+      "bounces" : 14.0,
+      "tackles" : 227.0,
+      "contestedPossessions" : 526.0,
+      "uncontestedPossessions" : 592.0,
+      "totalPossessions" : 1118.0,
+      "inside50s" : 124.0,
+      "marksInside50" : 74.0,
+      "contestedMarks" : 81.0,
+      "hitouts" : 1600.0,
+      "onePercenters" : 282.0,
+      "disposalEfficiency" : 77.8,
+      "clangers" : 190.0,
+      "freesFor" : 117.0,
+      "freesAgainst" : 106.0,
+      "dreamTeamPoints" : 6580.0,
+      "clearances" : {
+        "centreClearances" : 76.0,
+        "stoppageClearances" : 130.0,
+        "totalClearances" : 206.0
+      },
+      "rebound50s" : 63.0,
+      "goalAssists" : 33.0,
+      "goalAccuracy" : 64.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 3.6,
+            "handballs" : 8.2,
+            "disposals" : 11.8,
+            "marks" : 1.8,
+            "bounces" : 0.0,
+            "tackles" : 3.8,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 4.6,
+            "totalPossessions" : 11.6,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.8,
+            "hitouts" : 26.4,
+            "onePercenters" : 4.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 1.8,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 74.4,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.4
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 18.0,
+            "handballs" : 41.0,
+            "disposals" : 59.0,
+            "marks" : 9.0,
+            "bounces" : 0.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 35.0,
+            "uncontestedPossessions" : 23.0,
+            "totalPossessions" : 58.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 132.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 79.7,
+            "clangers" : 8.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 372.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 12.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 77.7
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.1,
+            "handballs" : 5.0,
+            "disposals" : 10.1,
+            "marks" : 2.9,
+            "bounces" : 0.0,
+            "tackles" : 3.1,
+            "contestedPossessions" : 6.7,
+            "uncontestedPossessions" : 4.3,
+            "totalPossessions" : 11.0,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 1.1,
+            "hitouts" : 23.0,
+            "onePercenters" : 6.6,
+            "disposalEfficiency" : null,
+            "clangers" : 0.7,
+            "freesFor" : 1.9,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 72.0,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.6
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 36.0,
+            "handballs" : 35.0,
+            "disposals" : 71.0,
+            "marks" : 20.0,
+            "bounces" : 0.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 47.0,
+            "uncontestedPossessions" : 30.0,
+            "totalPossessions" : 77.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 161.0,
+            "onePercenters" : 46.0,
+            "disposalEfficiency" : 71.8,
+            "clangers" : 5.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 504.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 18.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 62.4
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 6.5,
+            "disposals" : 10.5,
+            "marks" : 3.0,
+            "bounces" : 0.2,
+            "tackles" : 2.3,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 5.5,
+            "totalPossessions" : 10.2,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 1.0,
+            "hitouts" : 15.8,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.2,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 58.5,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 24.0,
+            "handballs" : 39.0,
+            "disposals" : 63.0,
+            "marks" : 18.0,
+            "bounces" : 1.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 28.0,
+            "uncontestedPossessions" : 33.0,
+            "totalPossessions" : 61.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 95.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 79.4,
+            "clangers" : 13.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 351.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 51.5
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 3.6,
+            "handballs" : 6.8,
+            "disposals" : 10.4,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 6.2,
+            "totalPossessions" : 10.2,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 12.6,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 51.6,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 18.0,
+            "handballs" : 34.0,
+            "disposals" : 52.0,
+            "marks" : 15.0,
+            "bounces" : 0.0,
+            "tackles" : 10.0,
+            "contestedPossessions" : 20.0,
+            "uncontestedPossessions" : 31.0,
+            "totalPossessions" : 51.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 63.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 78.8,
+            "clangers" : 6.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 258.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 61.2
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 4.6,
+            "handballs" : 5.0,
+            "disposals" : 9.6,
+            "marks" : 3.1,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 4.9,
+            "totalPossessions" : 9.5,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.6,
+            "hitouts" : 10.6,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 53.1,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 64.0,
+            "handballs" : 70.0,
+            "disposals" : 134.0,
+            "marks" : 44.0,
+            "bounces" : 0.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 64.0,
+            "uncontestedPossessions" : 69.0,
+            "totalPossessions" : 133.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 148.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 77.6,
+            "clangers" : 16.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 743.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 18.0,
+              "totalClearances" : 28.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 61.6
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 4.1,
+            "handballs" : 6.1,
+            "disposals" : 10.2,
+            "marks" : 3.4,
+            "bounces" : 0.1,
+            "tackles" : 2.0,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 5.6,
+            "totalPossessions" : 10.1,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.7,
+            "hitouts" : 12.7,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 57.4,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 20.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 98.0,
+            "handballs" : 147.0,
+            "disposals" : 245.0,
+            "marks" : 81.0,
+            "bounces" : 3.0,
+            "tackles" : 48.0,
+            "contestedPossessions" : 109.0,
+            "uncontestedPossessions" : 134.0,
+            "totalPossessions" : 243.0,
+            "inside50s" : 26.0,
+            "marksInside50" : 19.0,
+            "contestedMarks" : 18.0,
+            "hitouts" : 306.0,
+            "onePercenters" : 49.0,
+            "disposalEfficiency" : 77.6,
+            "clangers" : 48.0,
+            "freesFor" : 22.0,
+            "freesAgainst" : 33.0,
+            "dreamTeamPoints" : 1377.0,
+            "clearances" : {
+              "centreClearances" : 15.0,
+              "stoppageClearances" : 29.0,
+              "totalClearances" : 44.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 71.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 63.1
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 3.3,
+            "handballs" : 5.4,
+            "disposals" : 8.7,
+            "marks" : 2.8,
+            "bounces" : 0.3,
+            "tackles" : 1.6,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 4.6,
+            "totalPossessions" : 8.5,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.4,
+            "hitouts" : 12.4,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 49.1,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 76.0,
+            "handballs" : 124.0,
+            "disposals" : 200.0,
+            "marks" : 65.0,
+            "bounces" : 6.0,
+            "tackles" : 36.0,
+            "contestedPossessions" : 91.0,
+            "uncontestedPossessions" : 105.0,
+            "totalPossessions" : 196.0,
+            "inside50s" : 23.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 285.0,
+            "onePercenters" : 42.0,
+            "disposalEfficiency" : 76.5,
+            "clangers" : 43.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1129.0,
+            "clearances" : {
+              "centreClearances" : 14.0,
+              "stoppageClearances" : 25.0,
+              "totalClearances" : 39.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 64.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 58.8
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 4.3,
+            "handballs" : 4.5,
+            "disposals" : 8.7,
+            "marks" : 3.1,
+            "bounces" : 0.2,
+            "tackles" : 1.6,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 4.5,
+            "totalPossessions" : 8.5,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.7,
+            "hitouts" : 11.1,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 51.2,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 81.0,
+            "handballs" : 85.0,
+            "disposals" : 166.0,
+            "marks" : 58.0,
+            "bounces" : 4.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 76.0,
+            "uncontestedPossessions" : 86.0,
+            "totalPossessions" : 162.0,
+            "inside50s" : 19.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 211.0,
+            "onePercenters" : 40.0,
+            "disposalEfficiency" : 79.5,
+            "clangers" : 32.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 972.0,
+            "clearances" : {
+              "centreClearances" : 19.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 33.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 61.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 52.6
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 3.6,
+            "handballs" : 4.5,
+            "disposals" : 8.1,
+            "marks" : 3.3,
+            "bounces" : 0.0,
+            "tackles" : 1.4,
+            "contestedPossessions" : 3.3,
+            "uncontestedPossessions" : 4.8,
+            "totalPossessions" : 8.1,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.8,
+            "hitouts" : 11.7,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 51.4,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 61.0,
+            "handballs" : 76.0,
+            "disposals" : 137.0,
+            "marks" : 56.0,
+            "bounces" : 0.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 56.0,
+            "uncontestedPossessions" : 81.0,
+            "totalPossessions" : 137.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 16.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 199.0,
+            "onePercenters" : 41.0,
+            "disposalEfficiency" : 79.6,
+            "clangers" : 19.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 874.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 63.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 65.1
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I220101",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Seaby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 18.0,
+      "handballs" : 41.0,
+      "disposals" : 59.0,
+      "marks" : 9.0,
+      "bounces" : 0.0,
+      "tackles" : 19.0,
+      "contestedPossessions" : 35.0,
+      "uncontestedPossessions" : 23.0,
+      "totalPossessions" : 58.0,
+      "inside50s" : 7.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 132.0,
+      "onePercenters" : 23.0,
+      "disposalEfficiency" : 79.7,
+      "clangers" : 8.0,
+      "freesFor" : 9.0,
+      "freesAgainst" : 5.0,
+      "dreamTeamPoints" : 372.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 7.0,
+        "totalClearances" : 12.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201201427",
+      "player" : {
+        "playerId" : "CD_I220101",
+        "playerName" : {
+          "givenName" : "Mark",
+          "surname" : "Seaby"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T160",
+        "teamAbbr" : "SYD",
+        "teamName" : "Sydney Swans",
+        "teamNickname" : "Swans"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 107.0,
+        "ranking" : 468,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 107.0,
+        "ranking" : 25,
+        "ratingType" : "TEAM",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 107.0,
+        "ranking" : 32,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 120
+  }
+}

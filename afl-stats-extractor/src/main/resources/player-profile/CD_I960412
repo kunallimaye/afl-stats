@@ -1,0 +1,647 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960412",
+    "position" : "Centre",
+    "surname" : "Graham",
+    "jumperNumber" : 34,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Mark",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1973-03-13T02:00:00.000+0000",
+      "draftYear" : "",
+      "heightInCm" : 190,
+      "weightInKg" : 84,
+      "recruitedFrom" : "Berwick/Hawthorn ",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 29.0,
+      "behinds" : 15.0,
+      "superGoals" : null,
+      "kicks" : 1355.0,
+      "handballs" : 674.0,
+      "disposals" : 2029.0,
+      "marks" : 717.0,
+      "bounces" : 35.0,
+      "tackles" : 203.0,
+      "contestedPossessions" : 720.0,
+      "uncontestedPossessions" : 1249.0,
+      "totalPossessions" : 1969.0,
+      "inside50s" : 194.0,
+      "marksInside50" : 46.0,
+      "contestedMarks" : 80.0,
+      "hitouts" : 124.0,
+      "onePercenters" : 407.0,
+      "disposalEfficiency" : 83.3,
+      "clangers" : 281.0,
+      "freesFor" : 100.0,
+      "freesAgainst" : 106.0,
+      "dreamTeamPoints" : 8471.0,
+      "clearances" : {
+        "centreClearances" : 19.0,
+        "stoppageClearances" : 94.0,
+        "totalClearances" : 113.0
+      },
+      "rebound50s" : 409.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 63.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 4.6,
+            "disposals" : 11.1,
+            "marks" : 3.2,
+            "bounces" : 0.0,
+            "tackles" : 0.8,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 6.1,
+            "totalPossessions" : 10.6,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.6,
+            "onePercenters" : 3.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 41.7,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960412",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Graham"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 130.0,
+            "handballs" : 93.0,
+            "disposals" : 223.0,
+            "marks" : 64.0,
+            "bounces" : 0.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 90.0,
+            "uncontestedPossessions" : 123.0,
+            "totalPossessions" : 213.0,
+            "inside50s" : 32.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 12.0,
+            "onePercenters" : 63.0,
+            "disposalEfficiency" : 83.9,
+            "clangers" : 32.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 834.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960412",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Graham"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 72.8
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 4.2,
+            "disposals" : 12.4,
+            "marks" : 5.1,
+            "bounces" : 0.1,
+            "tackles" : 2.4,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 7.6,
+            "totalPossessions" : 12.3,
+            "inside50s" : 0.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.6,
+            "onePercenters" : 5.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 57.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 3.8,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960412",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Graham"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 156.0,
+            "handballs" : 80.0,
+            "disposals" : 236.0,
+            "marks" : 96.0,
+            "bounces" : 2.0,
+            "tackles" : 45.0,
+            "contestedPossessions" : 89.0,
+            "uncontestedPossessions" : 145.0,
+            "totalPossessions" : 234.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 12.0,
+            "onePercenters" : 102.0,
+            "disposalEfficiency" : 80.1,
+            "clangers" : 36.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1088.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 72.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 75.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960412",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Graham"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 96.4
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 3.4,
+            "disposals" : 11.6,
+            "marks" : 4.6,
+            "bounces" : 0.2,
+            "tackles" : 1.5,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 7.1,
+            "totalPossessions" : 11.2,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.7,
+            "onePercenters" : 4.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 51.4,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960412",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Graham"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 147.0,
+            "handballs" : 61.0,
+            "disposals" : 208.0,
+            "marks" : 83.0,
+            "bounces" : 4.0,
+            "tackles" : 27.0,
+            "contestedPossessions" : 73.0,
+            "uncontestedPossessions" : 128.0,
+            "totalPossessions" : 201.0,
+            "inside50s" : 21.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 12.0,
+            "onePercenters" : 75.0,
+            "disposalEfficiency" : 84.1,
+            "clangers" : 25.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 925.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 40.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960412",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Graham"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 88.9
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 5.7,
+            "disposals" : 14.5,
+            "marks" : 5.0,
+            "bounces" : 0.2,
+            "tackles" : 1.6,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 9.2,
+            "totalPossessions" : 14.1,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.6,
+            "hitouts" : 2.4,
+            "onePercenters" : 4.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 59.8,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960412",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Graham"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 192.0,
+            "handballs" : 126.0,
+            "disposals" : 318.0,
+            "marks" : 111.0,
+            "bounces" : 4.0,
+            "tackles" : 35.0,
+            "contestedPossessions" : 108.0,
+            "uncontestedPossessions" : 202.0,
+            "totalPossessions" : 310.0,
+            "inside50s" : 31.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 52.0,
+            "onePercenters" : 92.0,
+            "disposalEfficiency" : 81.8,
+            "clangers" : 50.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1315.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 17.0,
+              "totalClearances" : 19.0
+            },
+            "rebound50s" : 66.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960412",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Graham"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.3,
+            "handballs" : 4.8,
+            "disposals" : 15.0,
+            "marks" : 5.2,
+            "bounces" : 0.4,
+            "tackles" : 1.5,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 8.6,
+            "totalPossessions" : 14.4,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.6,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 63.6,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 3.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960412",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Graham"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 257.0,
+            "handballs" : 119.0,
+            "disposals" : 376.0,
+            "marks" : 129.0,
+            "bounces" : 11.0,
+            "tackles" : 38.0,
+            "contestedPossessions" : 146.0,
+            "uncontestedPossessions" : 215.0,
+            "totalPossessions" : 361.0,
+            "inside50s" : 38.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 21.0,
+            "hitouts" : 15.0,
+            "onePercenters" : 41.0,
+            "disposalEfficiency" : 85.1,
+            "clangers" : 39.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1591.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 28.0,
+              "totalClearances" : 32.0
+            },
+            "rebound50s" : 77.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960412",
+            "playerName" : {
+              "givenName" : "Mark",
+              "surname" : "Graham"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 130.0,
+      "handballs" : 93.0,
+      "disposals" : 223.0,
+      "marks" : 64.0,
+      "bounces" : 0.0,
+      "tackles" : 17.0,
+      "contestedPossessions" : 90.0,
+      "uncontestedPossessions" : 123.0,
+      "totalPossessions" : 213.0,
+      "inside50s" : 32.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 12.0,
+      "onePercenters" : 63.0,
+      "disposalEfficiency" : 83.9,
+      "clangers" : 32.0,
+      "freesFor" : 13.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 834.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 10.0,
+        "totalClearances" : 13.0
+      },
+      "rebound50s" : 33.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 100.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I295162",
+    "position" : "Right Half Back",
+    "surname" : "Clarke",
+    "jumperNumber" : 42,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 5.8,
+      "handballs" : 4.8,
+      "disposals" : 10.6,
+      "marks" : 4.4,
+      "bounces" : 0.2,
+      "tackles" : 1.3,
+      "contestedPossessions" : 3.9,
+      "uncontestedPossessions" : 6.7,
+      "totalPossessions" : 10.6,
+      "inside50s" : 0.6,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.5,
+      "hitouts" : 0.0,
+      "onePercenters" : 7.5,
+      "disposalEfficiency" : null,
+      "clangers" : 1.9,
+      "freesFor" : 0.4,
+      "freesAgainst" : 0.8,
+      "dreamTeamPoints" : 43.4,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.1,
+        "totalClearances" : 0.1
+      },
+      "rebound50s" : 2.2,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Justin",
+    "bio" : "<p>After being drafted from relative obscurity at the 2011 AFL Rookie Draft, Booleroo product Justin Clarke has rapidly become one of the most promising young key defenders in the AFL competition. At 195cm with terrific speed (he ran 2.97sec for 20m at the State Draft Combine in 2011), he looks to be a long-term prospect for the Lions' backline.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2015 - Profiles/CLARKE Justin.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-11-18T01:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 195,
+      "weightInKg" : 93,
+      "recruitedFrom" : "BMW (SA)/North Adelaide (SANFL)",
+      "debutYear" : "2013"
+    },
+    "careerStats" : {
+      "goals" : 1.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 325.0,
+      "handballs" : 268.0,
+      "disposals" : 593.0,
+      "marks" : 244.0,
+      "bounces" : 12.0,
+      "tackles" : 74.0,
+      "contestedPossessions" : 218.0,
+      "uncontestedPossessions" : 377.0,
+      "totalPossessions" : 595.0,
+      "inside50s" : 34.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 28.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 421.0,
+      "disposalEfficiency" : 77.7,
+      "clangers" : 108.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 45.0,
+      "dreamTeamPoints" : 2433.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 5.0,
+        "totalClearances" : 5.0
+      },
+      "rebound50s" : 122.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 25.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.9,
+            "handballs" : 4.9,
+            "disposals" : 10.9,
+            "marks" : 4.6,
+            "bounces" : 0.1,
+            "tackles" : 1.2,
+            "contestedPossessions" : 4.4,
+            "uncontestedPossessions" : 6.7,
+            "totalPossessions" : 11.1,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.3,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 44.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295162",
+            "playerName" : {
+              "givenName" : "Justin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 119.0,
+            "handballs" : 99.0,
+            "disposals" : 218.0,
+            "marks" : 92.0,
+            "bounces" : 2.0,
+            "tackles" : 25.0,
+            "contestedPossessions" : 88.0,
+            "uncontestedPossessions" : 134.0,
+            "totalPossessions" : 222.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 138.0,
+            "disposalEfficiency" : 79.4,
+            "clangers" : 43.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 881.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 39.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 284.9,
+            "ranking" : 251.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295162",
+            "playerName" : {
+              "givenName" : "Justin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 94.7
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.4,
+            "handballs" : 4.8,
+            "disposals" : 10.2,
+            "marks" : 4.0,
+            "bounces" : 0.3,
+            "tackles" : 1.5,
+            "contestedPossessions" : 3.4,
+            "uncontestedPossessions" : 6.8,
+            "totalPossessions" : 10.2,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 7.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 42.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295162",
+            "playerName" : {
+              "givenName" : "Justin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 119.0,
+            "handballs" : 106.0,
+            "disposals" : 225.0,
+            "marks" : 88.0,
+            "bounces" : 7.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 74.0,
+            "uncontestedPossessions" : 150.0,
+            "totalPossessions" : 224.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 174.0,
+            "disposalEfficiency" : 79.1,
+            "clangers" : 37.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 934.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 47.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 262.7,
+            "ranking" : 284.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295162",
+            "playerName" : {
+              "givenName" : "Justin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 89.4
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.2,
+            "handballs" : 4.5,
+            "disposals" : 10.7,
+            "marks" : 4.6,
+            "bounces" : 0.2,
+            "tackles" : 1.1,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 6.6,
+            "totalPossessions" : 10.6,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 7.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 44.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 2.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295162",
+            "playerName" : {
+              "givenName" : "Justin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 87.0,
+            "handballs" : 63.0,
+            "disposals" : 150.0,
+            "marks" : 64.0,
+            "bounces" : 3.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 56.0,
+            "uncontestedPossessions" : 93.0,
+            "totalPossessions" : 149.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 109.0,
+            "disposalEfficiency" : 73.3,
+            "clangers" : 28.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 618.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 36.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 102.9,
+            "ranking" : 487.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295162",
+            "playerName" : {
+              "givenName" : "Justin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 92.1
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295162",
+            "playerName" : {
+              "givenName" : "Justin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I295162",
+            "playerName" : {
+              "givenName" : "Justin",
+              "surname" : "Clarke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 119.0,
+      "handballs" : 99.0,
+      "disposals" : 218.0,
+      "marks" : 92.0,
+      "bounces" : 2.0,
+      "tackles" : 25.0,
+      "contestedPossessions" : 88.0,
+      "uncontestedPossessions" : 134.0,
+      "totalPossessions" : 222.0,
+      "inside50s" : 15.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 138.0,
+      "disposalEfficiency" : 79.4,
+      "clangers" : 43.0,
+      "freesFor" : 7.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 881.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 39.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 284.9,
+      "ranking" : 251.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I295162",
+        "playerName" : {
+          "givenName" : "Justin",
+          "surname" : "Clarke"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 290.6,
+        "ranking" : 244,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 290.6,
+        "ranking" : 11,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 290.6,
+        "ranking" : 22,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 166.7,
+        "ranking" : 210,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 56
+  }
+}

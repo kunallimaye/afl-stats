@@ -1,0 +1,853 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I970069",
+    "position" : "Ruck",
+    "surname" : "Montgomery",
+    "jumperNumber" : 43,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Brett",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1973-06-01T02:00:00.000+0000",
+      "draftYear" : "1996",
+      "heightInCm" : 180,
+      "weightInKg" : 83,
+      "recruitedFrom" : "Sth Croyd/Ess Res/Springv/WSB/Port Ad",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 79.0,
+      "behinds" : 45.0,
+      "superGoals" : null,
+      "kicks" : 1491.0,
+      "handballs" : 1136.0,
+      "disposals" : 2627.0,
+      "marks" : 987.0,
+      "bounces" : 162.0,
+      "tackles" : 233.0,
+      "contestedPossessions" : 885.0,
+      "uncontestedPossessions" : 1725.0,
+      "totalPossessions" : 2610.0,
+      "inside50s" : 303.0,
+      "marksInside50" : 106.0,
+      "contestedMarks" : 164.0,
+      "hitouts" : 43.0,
+      "onePercenters" : 368.0,
+      "disposalEfficiency" : 84.1,
+      "clangers" : 335.0,
+      "freesFor" : 152.0,
+      "freesAgainst" : 142.0,
+      "dreamTeamPoints" : 10926.0,
+      "clearances" : {
+        "centreClearances" : 32.0,
+        "stoppageClearances" : 76.0,
+        "totalClearances" : 108.0
+      },
+      "rebound50s" : 301.0,
+      "goalAssists" : 26.0,
+      "goalAccuracy" : 61.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 2.0,
+            "disposals" : 2.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 3.0,
+            "totalPossessions" : 3.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : -1.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970069",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Montgomery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 2.0,
+            "disposals" : 2.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 3.0,
+            "totalPossessions" : 3.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 50.0,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : -1.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970069",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Montgomery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 32.0
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 5.3,
+            "disposals" : 11.8,
+            "marks" : 4.5,
+            "bounces" : 1.2,
+            "tackles" : 1.4,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 7.6,
+            "totalPossessions" : 11.8,
+            "inside50s" : 2.0,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 0.9,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 51.9,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970069",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Montgomery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 110.0,
+            "handballs" : 90.0,
+            "disposals" : 200.0,
+            "marks" : 76.0,
+            "bounces" : 20.0,
+            "tackles" : 23.0,
+            "contestedPossessions" : 70.0,
+            "uncontestedPossessions" : 130.0,
+            "totalPossessions" : 200.0,
+            "inside50s" : 34.0,
+            "marksInside50" : 21.0,
+            "contestedMarks" : 15.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 81.5,
+            "clangers" : 35.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 882.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 12.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 63.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970069",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Montgomery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 71.2
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 6.5,
+            "disposals" : 15.5,
+            "marks" : 6.9,
+            "bounces" : 1.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 11.7,
+            "totalPossessions" : 15.7,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.2,
+            "onePercenters" : 3.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 66.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970069",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Montgomery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 208.0,
+            "handballs" : 149.0,
+            "disposals" : 357.0,
+            "marks" : 159.0,
+            "bounces" : 22.0,
+            "tackles" : 35.0,
+            "contestedPossessions" : 93.0,
+            "uncontestedPossessions" : 268.0,
+            "totalPossessions" : 361.0,
+            "inside50s" : 37.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 18.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 75.0,
+            "disposalEfficiency" : 84.6,
+            "clangers" : 53.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 26.0,
+            "dreamTeamPoints" : 1539.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 35.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 69.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970069",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Montgomery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 89.9
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.8,
+            "handballs" : 7.9,
+            "disposals" : 16.6,
+            "marks" : 6.1,
+            "bounces" : 1.7,
+            "tackles" : 1.4,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 12.1,
+            "totalPossessions" : 16.4,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.3,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 67.3,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970069",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Montgomery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 123.0,
+            "handballs" : 110.0,
+            "disposals" : 233.0,
+            "marks" : 85.0,
+            "bounces" : 24.0,
+            "tackles" : 20.0,
+            "contestedPossessions" : 60.0,
+            "uncontestedPossessions" : 169.0,
+            "totalPossessions" : 229.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 85.4,
+            "clangers" : 21.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 942.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 28.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 62.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970069",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Montgomery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 87.1
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.5,
+            "handballs" : 7.2,
+            "disposals" : 15.7,
+            "marks" : 6.4,
+            "bounces" : 0.8,
+            "tackles" : 1.4,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 10.9,
+            "totalPossessions" : 15.5,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.4,
+            "onePercenters" : 3.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 64.6,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970069",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Montgomery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 162.0,
+            "handballs" : 136.0,
+            "disposals" : 298.0,
+            "marks" : 122.0,
+            "bounces" : 16.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 88.0,
+            "uncontestedPossessions" : 207.0,
+            "totalPossessions" : 295.0,
+            "inside50s" : 24.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 15.0,
+            "hitouts" : 8.0,
+            "onePercenters" : 63.0,
+            "disposalEfficiency" : 82.2,
+            "clangers" : 39.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1228.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 38.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 62.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970069",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Montgomery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 89.0
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.2,
+            "handballs" : 6.8,
+            "disposals" : 16.1,
+            "marks" : 6.0,
+            "bounces" : 1.2,
+            "tackles" : 1.2,
+            "contestedPossessions" : 6.1,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 16.1,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 1.1,
+            "hitouts" : 0.2,
+            "onePercenters" : 3.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 67.0,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970069",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Montgomery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 222.0,
+            "handballs" : 164.0,
+            "disposals" : 386.0,
+            "marks" : 145.0,
+            "bounces" : 30.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 147.0,
+            "uncontestedPossessions" : 240.0,
+            "totalPossessions" : 387.0,
+            "inside50s" : 39.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 27.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 79.0,
+            "disposalEfficiency" : 83.7,
+            "clangers" : 38.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1607.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 17.0,
+              "totalClearances" : 25.0
+            },
+            "rebound50s" : 52.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 84.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970069",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Montgomery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 9.5,
+            "handballs" : 8.0,
+            "disposals" : 17.5,
+            "marks" : 5.8,
+            "bounces" : 0.7,
+            "tackles" : 1.5,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 11.2,
+            "totalPossessions" : 17.2,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.9,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 68.5,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970069",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Montgomery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 229.0,
+            "handballs" : 191.0,
+            "disposals" : 420.0,
+            "marks" : 140.0,
+            "bounces" : 17.0,
+            "tackles" : 37.0,
+            "contestedPossessions" : 145.0,
+            "uncontestedPossessions" : 268.0,
+            "totalPossessions" : 413.0,
+            "inside50s" : 42.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 21.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 84.5,
+            "clangers" : 45.0,
+            "freesFor" : 25.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1643.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 48.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 41.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970069",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Montgomery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 2.0,
+      "disposals" : 2.0,
+      "marks" : 1.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 3.0,
+      "totalPossessions" : 3.0,
+      "inside50s" : 1.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : 50.0,
+      "clangers" : 3.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 3.0,
+      "dreamTeamPoints" : -1.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

@@ -1,0 +1,1413 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I230041",
+    "position" : "Right Wing",
+    "surname" : "Cooney",
+    "jumperNumber" : 13,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.9,
+      "behinds" : 0.6,
+      "superGoals" : null,
+      "kicks" : 11.3,
+      "handballs" : 10.2,
+      "disposals" : 21.6,
+      "marks" : 3.9,
+      "bounces" : 1.3,
+      "tackles" : 2.7,
+      "contestedPossessions" : 8.3,
+      "uncontestedPossessions" : 13.3,
+      "totalPossessions" : 21.5,
+      "inside50s" : 3.2,
+      "marksInside50" : 0.6,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.1,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : null,
+      "clangers" : 2.3,
+      "freesFor" : 0.9,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 81.4,
+      "clearances" : {
+        "centreClearances" : 1.8,
+        "stoppageClearances" : 1.9,
+        "totalClearances" : 3.6
+      },
+      "rebound50s" : 1.6,
+      "goalAssists" : 0.6,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Adam",
+    "bio" : "<p>Cooney will bring class, speed and experience to Essendon's midfield after requesting to be traded from the Western Bulldogs at the end of last season. The Brownlow medallist had an inconsistent final season with the Dogs, but finished well with four consecutive games of 20 or more possessions. The 29-year-old agreed to a two-year contract with the Bombers and believes he still has plenty of strong football ahead of him. The influence of coach James Hird and the club's new facilities won him over as Cooney was weighing up rival offers.&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Essendon/Player Profiles/2015 - Profiles/COONEY Adam.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1985-09-30T02:00:00.000+0000",
+      "draftYear" : "2003",
+      "heightInCm" : 187,
+      "weightInKg" : 88,
+      "recruitedFrom" : "West Adelaide (SA)",
+      "debutYear" : "2004"
+    },
+    "careerStats" : {
+      "goals" : 196.0,
+      "behinds" : 133.0,
+      "superGoals" : null,
+      "kicks" : 2604.0,
+      "handballs" : 2353.0,
+      "disposals" : 4957.0,
+      "marks" : 893.0,
+      "bounces" : 295.0,
+      "tackles" : 613.0,
+      "contestedPossessions" : 1906.0,
+      "uncontestedPossessions" : 3050.0,
+      "totalPossessions" : 4956.0,
+      "inside50s" : 731.0,
+      "marksInside50" : 131.0,
+      "contestedMarks" : 48.0,
+      "hitouts" : 19.0,
+      "onePercenters" : 236.0,
+      "disposalEfficiency" : 71.7,
+      "clangers" : 518.0,
+      "freesFor" : 197.0,
+      "freesAgainst" : 153.0,
+      "dreamTeamPoints" : 18715.0,
+      "clearances" : {
+        "centreClearances" : 407.0,
+        "stoppageClearances" : 432.0,
+        "totalClearances" : 839.0
+      },
+      "rebound50s" : 365.0,
+      "goalAssists" : 140.0,
+      "goalAccuracy" : 49.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 11.2,
+            "handballs" : 5.8,
+            "disposals" : 17.0,
+            "marks" : 3.0,
+            "bounces" : 0.1,
+            "tackles" : 2.3,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 11.5,
+            "totalPossessions" : 17.3,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 66.7,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 123.0,
+            "handballs" : 64.0,
+            "disposals" : 187.0,
+            "marks" : 33.0,
+            "bounces" : 1.0,
+            "tackles" : 25.0,
+            "contestedPossessions" : 63.0,
+            "uncontestedPossessions" : 127.0,
+            "totalPossessions" : 190.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 65.2,
+            "clangers" : 33.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 734.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 17.0,
+              "totalClearances" : 24.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 45.5,
+            "ratingPoints" : 284.7,
+            "ranking" : 252.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 77.1
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 10.6,
+            "handballs" : 9.1,
+            "disposals" : 19.7,
+            "marks" : 3.7,
+            "bounces" : 0.7,
+            "tackles" : 3.3,
+            "contestedPossessions" : 7.2,
+            "uncontestedPossessions" : 12.4,
+            "totalPossessions" : 19.6,
+            "inside50s" : 2.9,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 78.6,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 2.6
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 190.0,
+            "handballs" : 164.0,
+            "disposals" : 354.0,
+            "marks" : 67.0,
+            "bounces" : 12.0,
+            "tackles" : 59.0,
+            "contestedPossessions" : 130.0,
+            "uncontestedPossessions" : 223.0,
+            "totalPossessions" : 353.0,
+            "inside50s" : 52.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 70.1,
+            "clangers" : 35.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 1414.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 30.0,
+              "totalClearances" : 47.0
+            },
+            "rebound50s" : 29.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 48.1,
+            "ratingPoints" : 394.5,
+            "ranking" : 116.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 75.2
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 13.8,
+            "handballs" : 11.6,
+            "disposals" : 25.5,
+            "marks" : 4.3,
+            "bounces" : 0.9,
+            "tackles" : 2.3,
+            "contestedPossessions" : 8.5,
+            "uncontestedPossessions" : 17.3,
+            "totalPossessions" : 25.8,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 92.6,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.4
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 19.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 263.0,
+            "handballs" : 221.0,
+            "disposals" : 484.0,
+            "marks" : 82.0,
+            "bounces" : 18.0,
+            "tackles" : 44.0,
+            "contestedPossessions" : 161.0,
+            "uncontestedPossessions" : 329.0,
+            "totalPossessions" : 490.0,
+            "inside50s" : 47.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 73.8,
+            "clangers" : 36.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1760.0,
+            "clearances" : {
+              "centreClearances" : 26.0,
+              "stoppageClearances" : 38.0,
+              "totalClearances" : 64.0
+            },
+            "rebound50s" : 43.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 52.8,
+            "ratingPoints" : 347.6,
+            "ranking" : 167.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 84.4
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 11.6,
+            "handballs" : 9.4,
+            "disposals" : 20.9,
+            "marks" : 2.7,
+            "bounces" : 0.5,
+            "tackles" : 2.6,
+            "contestedPossessions" : 8.1,
+            "uncontestedPossessions" : 12.6,
+            "totalPossessions" : 20.7,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 75.4,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 2.1,
+              "totalClearances" : 3.2
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 162.0,
+            "handballs" : 131.0,
+            "disposals" : 293.0,
+            "marks" : 38.0,
+            "bounces" : 7.0,
+            "tackles" : 37.0,
+            "contestedPossessions" : 114.0,
+            "uncontestedPossessions" : 176.0,
+            "totalPossessions" : 290.0,
+            "inside50s" : 47.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 65.9,
+            "clangers" : 25.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 1055.0,
+            "clearances" : {
+              "centreClearances" : 16.0,
+              "stoppageClearances" : 29.0,
+              "totalClearances" : 45.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 39.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 79.3
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 12.0,
+            "handballs" : 9.9,
+            "disposals" : 21.9,
+            "marks" : 2.9,
+            "bounces" : 0.7,
+            "tackles" : 3.1,
+            "contestedPossessions" : 9.4,
+            "uncontestedPossessions" : 12.5,
+            "totalPossessions" : 21.9,
+            "inside50s" : 4.4,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 3.1,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 79.8,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 2.5,
+              "totalClearances" : 3.8
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 156.0,
+            "handballs" : 129.0,
+            "disposals" : 285.0,
+            "marks" : 38.0,
+            "bounces" : 9.0,
+            "tackles" : 40.0,
+            "contestedPossessions" : 122.0,
+            "uncontestedPossessions" : 163.0,
+            "totalPossessions" : 285.0,
+            "inside50s" : 57.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 62.5,
+            "clangers" : 40.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1037.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 33.0,
+              "totalClearances" : 50.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 81.3
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 13.1,
+            "handballs" : 12.6,
+            "disposals" : 25.7,
+            "marks" : 3.9,
+            "bounces" : 0.5,
+            "tackles" : 3.0,
+            "contestedPossessions" : 10.5,
+            "uncontestedPossessions" : 15.2,
+            "totalPossessions" : 25.7,
+            "inside50s" : 4.1,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 91.4,
+            "clearances" : {
+              "centreClearances" : 2.5,
+              "stoppageClearances" : 2.3,
+              "totalClearances" : 4.8
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 263.0,
+            "handballs" : 252.0,
+            "disposals" : 515.0,
+            "marks" : 79.0,
+            "bounces" : 11.0,
+            "tackles" : 60.0,
+            "contestedPossessions" : 210.0,
+            "uncontestedPossessions" : 305.0,
+            "totalPossessions" : 515.0,
+            "inside50s" : 83.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 70.7,
+            "clangers" : 45.0,
+            "freesFor" : 24.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1828.0,
+            "clearances" : {
+              "centreClearances" : 50.0,
+              "stoppageClearances" : 47.0,
+              "totalClearances" : 97.0
+            },
+            "rebound50s" : 35.0,
+            "goalAssists" : 18.0,
+            "goalAccuracy" : 32.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 79.9
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 12.0,
+            "handballs" : 14.8,
+            "disposals" : 26.8,
+            "marks" : 3.5,
+            "bounces" : 0.8,
+            "tackles" : 2.5,
+            "contestedPossessions" : 10.3,
+            "uncontestedPossessions" : 16.5,
+            "totalPossessions" : 26.7,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 89.7,
+            "clearances" : {
+              "centreClearances" : 2.5,
+              "stoppageClearances" : 2.3,
+              "totalClearances" : 4.8
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 15.0,
+            "superGoals" : null,
+            "kicks" : 277.0,
+            "handballs" : 340.0,
+            "disposals" : 617.0,
+            "marks" : 81.0,
+            "bounces" : 19.0,
+            "tackles" : 58.0,
+            "contestedPossessions" : 236.0,
+            "uncontestedPossessions" : 379.0,
+            "totalPossessions" : 615.0,
+            "inside50s" : 74.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 71.5,
+            "clangers" : 55.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 2063.0,
+            "clearances" : {
+              "centreClearances" : 57.0,
+              "stoppageClearances" : 54.0,
+              "totalClearances" : 111.0
+            },
+            "rebound50s" : 54.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 42.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 78.0
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 12.4,
+            "handballs" : 13.0,
+            "disposals" : 25.5,
+            "marks" : 3.9,
+            "bounces" : 2.0,
+            "tackles" : 2.6,
+            "contestedPossessions" : 10.0,
+            "uncontestedPossessions" : 15.3,
+            "totalPossessions" : 25.3,
+            "inside50s" : 2.9,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 1.3,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 89.8,
+            "clearances" : {
+              "centreClearances" : 2.3,
+              "stoppageClearances" : 1.9,
+              "totalClearances" : 4.2
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 23.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 311.0,
+            "handballs" : 326.0,
+            "disposals" : 637.0,
+            "marks" : 98.0,
+            "bounces" : 49.0,
+            "tackles" : 65.0,
+            "contestedPossessions" : 251.0,
+            "uncontestedPossessions" : 382.0,
+            "totalPossessions" : 633.0,
+            "inside50s" : 72.0,
+            "marksInside50" : 12.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 75.0,
+            "clangers" : 68.0,
+            "freesFor" : 33.0,
+            "freesAgainst" : 25.0,
+            "dreamTeamPoints" : 2245.0,
+            "clearances" : {
+              "centreClearances" : 58.0,
+              "stoppageClearances" : 48.0,
+              "totalClearances" : 106.0
+            },
+            "rebound50s" : 60.0,
+            "goalAssists" : 18.0,
+            "goalAccuracy" : 65.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 83.8
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.3,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 11.9,
+            "handballs" : 9.4,
+            "disposals" : 21.3,
+            "marks" : 5.1,
+            "bounces" : 1.9,
+            "tackles" : 3.6,
+            "contestedPossessions" : 8.2,
+            "uncontestedPossessions" : 13.1,
+            "totalPossessions" : 21.3,
+            "inside50s" : 3.3,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 91.4,
+            "clearances" : {
+              "centreClearances" : 2.1,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 4.1
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 28.0,
+            "behinds" : 21.0,
+            "superGoals" : null,
+            "kicks" : 262.0,
+            "handballs" : 207.0,
+            "disposals" : 469.0,
+            "marks" : 112.0,
+            "bounces" : 42.0,
+            "tackles" : 79.0,
+            "contestedPossessions" : 181.0,
+            "uncontestedPossessions" : 288.0,
+            "totalPossessions" : 469.0,
+            "inside50s" : 73.0,
+            "marksInside50" : 20.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 71.6,
+            "clangers" : 66.0,
+            "freesFor" : 27.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 2011.0,
+            "clearances" : {
+              "centreClearances" : 47.0,
+              "stoppageClearances" : 44.0,
+              "totalClearances" : 91.0
+            },
+            "rebound50s" : 29.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 51.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 87.3
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 10.1,
+            "handballs" : 9.0,
+            "disposals" : 19.1,
+            "marks" : 5.3,
+            "bounces" : 2.0,
+            "tackles" : 2.5,
+            "contestedPossessions" : 6.5,
+            "uncontestedPossessions" : 12.7,
+            "totalPossessions" : 19.2,
+            "inside50s" : 3.1,
+            "marksInside50" : 1.1,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 81.6,
+            "clearances" : {
+              "centreClearances" : 1.6,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.7
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 30.0,
+            "behinds" : 19.0,
+            "superGoals" : null,
+            "kicks" : 242.0,
+            "handballs" : 216.0,
+            "disposals" : 458.0,
+            "marks" : 128.0,
+            "bounces" : 48.0,
+            "tackles" : 60.0,
+            "contestedPossessions" : 155.0,
+            "uncontestedPossessions" : 305.0,
+            "totalPossessions" : 460.0,
+            "inside50s" : 74.0,
+            "marksInside50" : 26.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 72.3,
+            "clangers" : 49.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1959.0,
+            "clearances" : {
+              "centreClearances" : 39.0,
+              "stoppageClearances" : 25.0,
+              "totalClearances" : 64.0
+            },
+            "rebound50s" : 34.0,
+            "goalAssists" : 15.0,
+            "goalAccuracy" : 55.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 89.1
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 10.7,
+            "handballs" : 9.0,
+            "disposals" : 19.7,
+            "marks" : 4.2,
+            "bounces" : 2.9,
+            "tackles" : 2.5,
+            "contestedPossessions" : 7.8,
+            "uncontestedPossessions" : 11.8,
+            "totalPossessions" : 19.6,
+            "inside50s" : 3.5,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 77.9,
+            "clearances" : {
+              "centreClearances" : 2.6,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 4.1
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 21.0,
+            "behinds" : 13.0,
+            "superGoals" : null,
+            "kicks" : 236.0,
+            "handballs" : 198.0,
+            "disposals" : 434.0,
+            "marks" : 93.0,
+            "bounces" : 64.0,
+            "tackles" : 56.0,
+            "contestedPossessions" : 171.0,
+            "uncontestedPossessions" : 260.0,
+            "totalPossessions" : 431.0,
+            "inside50s" : 78.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 29.0,
+            "disposalEfficiency" : 77.6,
+            "clangers" : 44.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1713.0,
+            "clearances" : {
+              "centreClearances" : 58.0,
+              "stoppageClearances" : 33.0,
+              "totalClearances" : 91.0
+            },
+            "rebound50s" : 39.0,
+            "goalAssists" : 18.0,
+            "goalAccuracy" : 55.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 93.4
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 6.3,
+            "handballs" : 5.5,
+            "disposals" : 11.8,
+            "marks" : 2.3,
+            "bounces" : 0.8,
+            "tackles" : 1.6,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 5.9,
+            "totalPossessions" : 11.9,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.4,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 47.2,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 2.6
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 119.0,
+            "handballs" : 105.0,
+            "disposals" : 224.0,
+            "marks" : 44.0,
+            "bounces" : 15.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 114.0,
+            "uncontestedPossessions" : 113.0,
+            "totalPossessions" : 227.0,
+            "inside50s" : 47.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 8.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 74.6,
+            "clangers" : 22.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 896.0,
+            "clearances" : {
+              "centreClearances" : 15.0,
+              "stoppageClearances" : 34.0,
+              "totalClearances" : 49.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 42.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230041",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Cooney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 70.6
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 10.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 123.0,
+      "handballs" : 64.0,
+      "disposals" : 187.0,
+      "marks" : 33.0,
+      "bounces" : 1.0,
+      "tackles" : 25.0,
+      "contestedPossessions" : 63.0,
+      "uncontestedPossessions" : 127.0,
+      "totalPossessions" : 190.0,
+      "inside50s" : 27.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 6.0,
+      "disposalEfficiency" : 65.2,
+      "clangers" : 33.0,
+      "freesFor" : 6.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 734.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 17.0,
+        "totalClearances" : 24.0
+      },
+      "rebound50s" : 11.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 45.5,
+      "ratingPoints" : 284.7,
+      "ranking" : 252.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I230041",
+        "playerName" : {
+          "givenName" : "Adam",
+          "surname" : "Cooney"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T50",
+        "teamAbbr" : "ESS",
+        "teamName" : "Essendon",
+        "teamNickname" : "Bombers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 271.9,
+        "ranking" : 266,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 271.9,
+        "ranking" : 15,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 271.9,
+        "ranking" : 35,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 77.3,
+        "ranking" : 407,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2003"
+    },
+    "careerGamesPlayed" : 230
+  }
+}

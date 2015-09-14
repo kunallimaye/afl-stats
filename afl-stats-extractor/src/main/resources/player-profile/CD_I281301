@@ -1,0 +1,898 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I281301",
+    "position" : "Interchange",
+    "surname" : "Schoenmakers",
+    "jumperNumber" : 25,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 7.8,
+      "handballs" : 4.8,
+      "disposals" : 12.6,
+      "marks" : 4.2,
+      "bounces" : 0.1,
+      "tackles" : 2.3,
+      "contestedPossessions" : 4.9,
+      "uncontestedPossessions" : 7.6,
+      "totalPossessions" : 12.6,
+      "inside50s" : 1.4,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.5,
+      "hitouts" : 0.3,
+      "onePercenters" : 4.3,
+      "disposalEfficiency" : null,
+      "clangers" : 2.4,
+      "freesFor" : 0.6,
+      "freesAgainst" : 1.2,
+      "dreamTeamPoints" : 53.6,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.2,
+        "totalClearances" : 0.3
+      },
+      "rebound50s" : 1.9,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Ryan",
+    "bio" : "<p>The first season back for Schoenmakers from ACL surgery was tough. He played 15 games as a swingman and showed promising signs as a key forward, but struggled for form and confidence as the season grew and was dropped before the finals. His name was bandied about through the trade period, but he delighted the Hawks with his decision to stay and regain his senior berth. On ability alone, he is worthy.&nbsp; </p>\n<p><strong>Draft history:</strong> 2008 NAB AFL Draft 1st round selection (Hawthorn) No. 16 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Hawthorn/Player Profiles/2015 - Profiles/SCHOENMAKERS Ryan.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1990-11-08T01:00:00.000+0000",
+      "draftYear" : "2008",
+      "heightInCm" : 195,
+      "weightInKg" : 94,
+      "recruitedFrom" : "Norwood (SA)",
+      "debutYear" : "2009"
+    },
+    "careerStats" : {
+      "goals" : 24.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 715.0,
+      "handballs" : 446.0,
+      "disposals" : 1161.0,
+      "marks" : 388.0,
+      "bounces" : 9.0,
+      "tackles" : 209.0,
+      "contestedPossessions" : 454.0,
+      "uncontestedPossessions" : 703.0,
+      "totalPossessions" : 1157.0,
+      "inside50s" : 126.0,
+      "marksInside50" : 21.0,
+      "contestedMarks" : 43.0,
+      "hitouts" : 24.0,
+      "onePercenters" : 395.0,
+      "disposalEfficiency" : 72.4,
+      "clangers" : 220.0,
+      "freesFor" : 51.0,
+      "freesAgainst" : 112.0,
+      "dreamTeamPoints" : 4932.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 28.0
+      },
+      "rebound50s" : 173.0,
+      "goalAssists" : 17.0,
+      "goalAccuracy" : 61.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 6.8,
+            "handballs" : 4.5,
+            "disposals" : 11.3,
+            "marks" : 3.5,
+            "bounces" : 0.1,
+            "tackles" : 2.4,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 11.6,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.3,
+            "onePercenters" : 3.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 53.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281301",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Schoenmakers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 89.0,
+            "handballs" : 58.0,
+            "disposals" : 147.0,
+            "marks" : 45.0,
+            "bounces" : 1.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 73.0,
+            "uncontestedPossessions" : 78.0,
+            "totalPossessions" : 151.0,
+            "inside50s" : 22.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 40.0,
+            "disposalEfficiency" : 70.7,
+            "clangers" : 22.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 696.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 64.7,
+            "ratingPoints" : 276.2,
+            "ranking" : 261.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281301",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Schoenmakers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 86.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 9.4,
+            "handballs" : 4.6,
+            "disposals" : 14.0,
+            "marks" : 4.7,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 8.5,
+            "totalPossessions" : 13.7,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.3,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 59.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281301",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Schoenmakers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 141.0,
+            "handballs" : 69.0,
+            "disposals" : 210.0,
+            "marks" : 70.0,
+            "bounces" : 0.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 77.0,
+            "uncontestedPossessions" : 128.0,
+            "totalPossessions" : 205.0,
+            "inside50s" : 26.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 65.0,
+            "disposalEfficiency" : 70.5,
+            "clangers" : 32.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 887.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 214.3,
+            "ranking" : 344.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281301",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Schoenmakers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 92.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.7,
+            "handballs" : 6.5,
+            "disposals" : 13.2,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 7.2,
+            "totalPossessions" : 12.7,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 48.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281301",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Schoenmakers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 27.0,
+            "handballs" : 26.0,
+            "disposals" : 53.0,
+            "marks" : 16.0,
+            "bounces" : 0.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 22.0,
+            "uncontestedPossessions" : 29.0,
+            "totalPossessions" : 51.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 79.2,
+            "clangers" : 8.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 195.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 248.2,
+            "ranking" : 299.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281301",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Schoenmakers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 79.0
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.4,
+            "handballs" : 5.6,
+            "disposals" : 14.0,
+            "marks" : 4.8,
+            "bounces" : 0.1,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 8.1,
+            "totalPossessions" : 13.7,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.8,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 55.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281301",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Schoenmakers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 211.0,
+            "handballs" : 139.0,
+            "disposals" : 350.0,
+            "marks" : 120.0,
+            "bounces" : 2.0,
+            "tackles" : 43.0,
+            "contestedPossessions" : 141.0,
+            "uncontestedPossessions" : 202.0,
+            "totalPossessions" : 343.0,
+            "inside50s" : 25.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 145.0,
+            "disposalEfficiency" : 75.1,
+            "clangers" : 69.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 37.0,
+            "dreamTeamPoints" : 1375.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 61.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 57.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281301",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Schoenmakers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 96.9
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.5,
+            "handballs" : 4.3,
+            "disposals" : 13.7,
+            "marks" : 5.4,
+            "bounces" : 0.2,
+            "tackles" : 2.8,
+            "contestedPossessions" : 5.3,
+            "uncontestedPossessions" : 8.9,
+            "totalPossessions" : 14.2,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.2,
+            "onePercenters" : 5.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.9,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 61.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281301",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Schoenmakers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 104.0,
+            "handballs" : 47.0,
+            "disposals" : 151.0,
+            "marks" : 59.0,
+            "bounces" : 2.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 58.0,
+            "uncontestedPossessions" : 98.0,
+            "totalPossessions" : 156.0,
+            "inside50s" : 20.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 63.0,
+            "disposalEfficiency" : 75.5,
+            "clangers" : 32.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 673.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 28.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281301",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Schoenmakers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 97.9
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 3.9,
+            "disposals" : 11.1,
+            "marks" : 4.1,
+            "bounces" : 0.1,
+            "tackles" : 2.7,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 7.2,
+            "totalPossessions" : 11.3,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 1.4,
+            "onePercenters" : 4.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 51.5,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281301",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Schoenmakers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 79.0,
+            "handballs" : 43.0,
+            "disposals" : 122.0,
+            "marks" : 45.0,
+            "bounces" : 1.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 45.0,
+            "uncontestedPossessions" : 79.0,
+            "totalPossessions" : 124.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 15.0,
+            "onePercenters" : 45.0,
+            "disposalEfficiency" : 65.6,
+            "clangers" : 28.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 567.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 20.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281301",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Schoenmakers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 85.9
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.9,
+            "handballs" : 4.9,
+            "disposals" : 9.8,
+            "marks" : 2.5,
+            "bounces" : 0.2,
+            "tackles" : 2.9,
+            "contestedPossessions" : 3.1,
+            "uncontestedPossessions" : 6.8,
+            "totalPossessions" : 9.9,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 41.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281301",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Schoenmakers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 64.0,
+            "handballs" : 64.0,
+            "disposals" : 128.0,
+            "marks" : 33.0,
+            "bounces" : 3.0,
+            "tackles" : 38.0,
+            "contestedPossessions" : 40.0,
+            "uncontestedPossessions" : 89.0,
+            "totalPossessions" : 129.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 68.7,
+            "clangers" : 29.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 539.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 17.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281301",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Schoenmakers"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 84.2
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 11.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 89.0,
+      "handballs" : 58.0,
+      "disposals" : 147.0,
+      "marks" : 45.0,
+      "bounces" : 1.0,
+      "tackles" : 31.0,
+      "contestedPossessions" : 73.0,
+      "uncontestedPossessions" : 78.0,
+      "totalPossessions" : 151.0,
+      "inside50s" : 22.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 4.0,
+      "onePercenters" : 40.0,
+      "disposalEfficiency" : 70.7,
+      "clangers" : 22.0,
+      "freesFor" : 10.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 696.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 5.0,
+        "totalClearances" : 6.0
+      },
+      "rebound50s" : 11.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 64.7,
+      "ratingPoints" : 276.2,
+      "ranking" : 261.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I281301",
+        "playerName" : {
+          "givenName" : "Ryan",
+          "surname" : "Schoenmakers"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T80",
+        "teamAbbr" : "HAW",
+        "teamName" : "Hawthorn",
+        "teamNickname" : "Hawks"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 276.2,
+        "ranking" : 260,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 276.2,
+        "ranking" : 20,
+        "ratingType" : "TEAM",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 276.2,
+        "ranking" : 25,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 110.2,
+        "ranking" : 339,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2008"
+    },
+    "careerGamesPlayed" : 92
+  }
+}

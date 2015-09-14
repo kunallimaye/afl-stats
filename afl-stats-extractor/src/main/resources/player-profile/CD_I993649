@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I993649",
+    "position" : "Substitute",
+    "surname" : "O'Brien",
+    "jumperNumber" : 47,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 6.8,
+      "handballs" : 7.2,
+      "disposals" : 13.9,
+      "marks" : 2.5,
+      "bounces" : 0.2,
+      "tackles" : 4.0,
+      "contestedPossessions" : 5.7,
+      "uncontestedPossessions" : 9.1,
+      "totalPossessions" : 14.8,
+      "inside50s" : 1.5,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.9,
+      "disposalEfficiency" : null,
+      "clangers" : 2.1,
+      "freesFor" : 1.2,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 56.8,
+      "clearances" : {
+        "centreClearances" : 0.8,
+        "stoppageClearances" : 1.6,
+        "totalClearances" : 2.4
+      },
+      "rebound50s" : 1.5,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Zac",
+    "bio" : "<p>Zac O'Brien is an hard-running midfielder who plied his trade with Yarrawonga, Aberfeldie and Essendon VFL before being drafted to the AFL at the mature age of 23. He has forged a reputation for being a workaholic midfielder, who runs all day, boasts clean hands, and makes smart decisions with the ball.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2015 - Profiles/OBRIEN Zac.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1990-10-27T02:00:00.000+0000",
+      "draftYear" : "2014",
+      "heightInCm" : 183,
+      "weightInKg" : 78,
+      "recruitedFrom" : null,
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 1.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 88.0,
+      "handballs" : 93.0,
+      "disposals" : 181.0,
+      "marks" : 33.0,
+      "bounces" : 2.0,
+      "tackles" : 52.0,
+      "contestedPossessions" : 74.0,
+      "uncontestedPossessions" : 118.0,
+      "totalPossessions" : 192.0,
+      "inside50s" : 20.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 12.0,
+      "disposalEfficiency" : 72.9,
+      "clangers" : 27.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 739.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 19.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.1,
+            "handballs" : 5.9,
+            "disposals" : 13.0,
+            "marks" : 2.5,
+            "bounces" : 0.0,
+            "tackles" : 4.5,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 13.7,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 57.0,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.7
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I993649",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "O'Brien"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 57.0,
+            "handballs" : 47.0,
+            "disposals" : 104.0,
+            "marks" : 20.0,
+            "bounces" : 0.0,
+            "tackles" : 36.0,
+            "contestedPossessions" : 38.0,
+            "uncontestedPossessions" : 72.0,
+            "totalPossessions" : 110.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 72.1,
+            "clangers" : 14.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 456.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 22.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 67.2,
+            "ranking" : 536.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I993649",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "O'Brien"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 63.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.2,
+            "handballs" : 9.2,
+            "disposals" : 15.4,
+            "marks" : 2.6,
+            "bounces" : 0.4,
+            "tackles" : 3.2,
+            "contestedPossessions" : 7.2,
+            "uncontestedPossessions" : 9.2,
+            "totalPossessions" : 16.4,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 1.4,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 56.6,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I993649",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "O'Brien"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 31.0,
+            "handballs" : 46.0,
+            "disposals" : 77.0,
+            "marks" : 13.0,
+            "bounces" : 2.0,
+            "tackles" : 16.0,
+            "contestedPossessions" : 36.0,
+            "uncontestedPossessions" : 46.0,
+            "totalPossessions" : 82.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 74.0,
+            "clangers" : 13.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 283.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 17.2,
+            "ranking" : 654.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I993649",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "O'Brien"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 53.2
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 57.0,
+      "handballs" : 47.0,
+      "disposals" : 104.0,
+      "marks" : 20.0,
+      "bounces" : 0.0,
+      "tackles" : 36.0,
+      "contestedPossessions" : 38.0,
+      "uncontestedPossessions" : 72.0,
+      "totalPossessions" : 110.0,
+      "inside50s" : 15.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 8.0,
+      "disposalEfficiency" : 72.1,
+      "clangers" : 14.0,
+      "freesFor" : 8.0,
+      "freesAgainst" : 7.0,
+      "dreamTeamPoints" : 456.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 13.0,
+        "totalClearances" : 22.0
+      },
+      "rebound50s" : 7.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 67.2,
+      "ranking" : 536.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I993649",
+        "playerName" : {
+          "givenName" : "Zac",
+          "surname" : "O'Brien"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 68.6,
+        "ranking" : 540,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 68.6,
+        "ranking" : 31,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 68.6,
+        "ranking" : 149,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 37.5,
+        "ranking" : 517,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 13
+  }
+}

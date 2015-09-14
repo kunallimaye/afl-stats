@@ -1,0 +1,853 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I200089",
+    "position" : "Left Wing",
+    "surname" : "Godfrey",
+    "jumperNumber" : 30,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Simon",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1980-10-18T02:00:00.000+0000",
+      "draftYear" : "2000",
+      "heightInCm" : 184,
+      "weightInKg" : 86,
+      "recruitedFrom" : "Box Hill",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 23.0,
+      "behinds" : 20.0,
+      "superGoals" : null,
+      "kicks" : 710.0,
+      "handballs" : 607.0,
+      "disposals" : 1317.0,
+      "marks" : 290.0,
+      "bounces" : 13.0,
+      "tackles" : 318.0,
+      "contestedPossessions" : 550.0,
+      "uncontestedPossessions" : 799.0,
+      "totalPossessions" : 1349.0,
+      "inside50s" : 285.0,
+      "marksInside50" : 25.0,
+      "contestedMarks" : 23.0,
+      "hitouts" : 21.0,
+      "onePercenters" : 152.0,
+      "disposalEfficiency" : 73.6,
+      "clangers" : 214.0,
+      "freesFor" : 79.0,
+      "freesAgainst" : 105.0,
+      "dreamTeamPoints" : 5429.0,
+      "clearances" : {
+        "centreClearances" : 93.0,
+        "stoppageClearances" : 112.0,
+        "totalClearances" : 205.0
+      },
+      "rebound50s" : 92.0,
+      "goalAssists" : 34.0,
+      "goalAccuracy" : 40.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.1,
+            "handballs" : 7.5,
+            "disposals" : 13.6,
+            "marks" : 3.6,
+            "bounces" : 0.1,
+            "tackles" : 2.5,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 8.6,
+            "totalPossessions" : 13.6,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 53.4,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200089",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Godfrey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 104.0,
+            "handballs" : 128.0,
+            "disposals" : 232.0,
+            "marks" : 61.0,
+            "bounces" : 1.0,
+            "tackles" : 43.0,
+            "contestedPossessions" : 84.0,
+            "uncontestedPossessions" : 147.0,
+            "totalPossessions" : 231.0,
+            "inside50s" : 34.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 74.1,
+            "clangers" : 39.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 24.0,
+            "dreamTeamPoints" : 907.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 26.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 63.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200089",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Godfrey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 84.4
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 7.8,
+            "handballs" : 5.9,
+            "disposals" : 13.7,
+            "marks" : 3.7,
+            "bounces" : 0.0,
+            "tackles" : 2.4,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 8.6,
+            "totalPossessions" : 14.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 55.7,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200089",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Godfrey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 125.0,
+            "handballs" : 94.0,
+            "disposals" : 219.0,
+            "marks" : 59.0,
+            "bounces" : 0.0,
+            "tackles" : 38.0,
+            "contestedPossessions" : 87.0,
+            "uncontestedPossessions" : 137.0,
+            "totalPossessions" : 224.0,
+            "inside50s" : 48.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 70.3,
+            "clangers" : 35.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 892.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 21.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 36.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200089",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Godfrey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 69.5
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 4.5,
+            "disposals" : 11.5,
+            "marks" : 3.1,
+            "bounces" : 0.2,
+            "tackles" : 3.1,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 7.7,
+            "totalPossessions" : 12.2,
+            "inside50s" : 2.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 51.5,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.9
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200089",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Godfrey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 84.0,
+            "handballs" : 54.0,
+            "disposals" : 138.0,
+            "marks" : 37.0,
+            "bounces" : 2.0,
+            "tackles" : 37.0,
+            "contestedPossessions" : 55.0,
+            "uncontestedPossessions" : 92.0,
+            "totalPossessions" : 147.0,
+            "inside50s" : 35.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 72.5,
+            "clangers" : 24.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 618.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 23.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200089",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Godfrey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 70.1
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 7.8,
+            "handballs" : 4.6,
+            "disposals" : 12.4,
+            "marks" : 2.7,
+            "bounces" : 0.1,
+            "tackles" : 3.4,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 7.1,
+            "totalPossessions" : 12.5,
+            "inside50s" : 3.6,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.5,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 54.4,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.4
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200089",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Godfrey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 109.0,
+            "handballs" : 64.0,
+            "disposals" : 173.0,
+            "marks" : 38.0,
+            "bounces" : 2.0,
+            "tackles" : 48.0,
+            "contestedPossessions" : 76.0,
+            "uncontestedPossessions" : 99.0,
+            "totalPossessions" : 175.0,
+            "inside50s" : 50.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 29.0,
+            "disposalEfficiency" : 70.5,
+            "clangers" : 21.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 762.0,
+            "clearances" : {
+              "centreClearances" : 11.0,
+              "stoppageClearances" : 22.0,
+              "totalClearances" : 33.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 30.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200089",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Godfrey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 65.8
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 7.1,
+            "disposals" : 14.6,
+            "marks" : 2.1,
+            "bounces" : 0.2,
+            "tackles" : 4.5,
+            "contestedPossessions" : 6.7,
+            "uncontestedPossessions" : 8.3,
+            "totalPossessions" : 15.0,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 60.4,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.9
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200089",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Godfrey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 165.0,
+            "handballs" : 157.0,
+            "disposals" : 322.0,
+            "marks" : 47.0,
+            "bounces" : 4.0,
+            "tackles" : 100.0,
+            "contestedPossessions" : 148.0,
+            "uncontestedPossessions" : 182.0,
+            "totalPossessions" : 330.0,
+            "inside50s" : 70.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 37.0,
+            "disposalEfficiency" : 76.4,
+            "clangers" : 49.0,
+            "freesFor" : 22.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 1329.0,
+            "clearances" : {
+              "centreClearances" : 33.0,
+              "stoppageClearances" : 31.0,
+              "totalClearances" : 64.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200089",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Godfrey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 82.2
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 4.8,
+            "handballs" : 4.7,
+            "disposals" : 9.5,
+            "marks" : 2.2,
+            "bounces" : 0.2,
+            "tackles" : 2.9,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 5.5,
+            "totalPossessions" : 9.6,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 39.5,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200089",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Godfrey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 48.0,
+            "handballs" : 47.0,
+            "disposals" : 95.0,
+            "marks" : 22.0,
+            "bounces" : 2.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 41.0,
+            "uncontestedPossessions" : 55.0,
+            "totalPossessions" : 96.0,
+            "inside50s" : 23.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 69.5,
+            "clangers" : 26.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 395.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200089",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Godfrey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.8,
+            "handballs" : 4.9,
+            "disposals" : 10.7,
+            "marks" : 2.2,
+            "bounces" : 0.2,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 6.7,
+            "totalPossessions" : 11.3,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.5,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 42.0,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.9
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200089",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Godfrey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 70.0,
+            "handballs" : 59.0,
+            "disposals" : 129.0,
+            "marks" : 26.0,
+            "bounces" : 2.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 55.0,
+            "uncontestedPossessions" : 81.0,
+            "totalPossessions" : 136.0,
+            "inside50s" : 21.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 79.1,
+            "clangers" : 16.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 504.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 23.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200089",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Godfrey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 7.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 104.0,
+      "handballs" : 128.0,
+      "disposals" : 232.0,
+      "marks" : 61.0,
+      "bounces" : 1.0,
+      "tackles" : 43.0,
+      "contestedPossessions" : 84.0,
+      "uncontestedPossessions" : 147.0,
+      "totalPossessions" : 231.0,
+      "inside50s" : 34.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 24.0,
+      "disposalEfficiency" : 74.1,
+      "clangers" : 39.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 24.0,
+      "dreamTeamPoints" : 907.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 14.0,
+        "totalClearances" : 26.0
+      },
+      "rebound50s" : 10.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 63.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

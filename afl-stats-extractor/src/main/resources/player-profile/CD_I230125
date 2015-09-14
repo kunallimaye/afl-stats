@@ -1,0 +1,1516 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I230125",
+    "position" : "Right Back Pocket",
+    "surname" : "Lonergan",
+    "jumperNumber" : 13,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 5.7,
+      "handballs" : 5.5,
+      "disposals" : 11.2,
+      "marks" : 4.5,
+      "bounces" : 0.1,
+      "tackles" : 1.8,
+      "contestedPossessions" : 4.0,
+      "uncontestedPossessions" : 7.2,
+      "totalPossessions" : 11.3,
+      "inside50s" : 0.7,
+      "marksInside50" : 0.4,
+      "contestedMarks" : 0.8,
+      "hitouts" : 0.1,
+      "onePercenters" : 4.3,
+      "disposalEfficiency" : null,
+      "clangers" : 1.6,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.9,
+      "dreamTeamPoints" : 49.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.1,
+        "totalClearances" : 0.1
+      },
+      "rebound50s" : 1.5,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Tom",
+    "bio" : "<p>&nbsp;</p>\n\n<p>The reliable key defender enjoyed a remarkably consistent campaign last year. Played every game bar one and was Geelong’s go-to man to shut down the competition’s elite power forwards. Secured consecutive top-10 finishes in the Carji Greeves Medal last season before knocking back a lucrative offer from the Western Bulldogs during the trade period to remain until the end of 2016.&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GeelongCats/Player Profiles/2015 - Profiles/LONERGAN Tom.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1984-05-17T02:00:00.000+0000",
+      "draftYear" : "2002",
+      "heightInCm" : 197,
+      "weightInKg" : 95,
+      "recruitedFrom" : "Yarrawonga/Calder U18",
+      "debutYear" : "2005"
+    },
+    "careerStats" : {
+      "goals" : 54.0,
+      "behinds" : 37.0,
+      "superGoals" : null,
+      "kicks" : 935.0,
+      "handballs" : 902.0,
+      "disposals" : 1837.0,
+      "marks" : 735.0,
+      "bounces" : 18.0,
+      "tackles" : 296.0,
+      "contestedPossessions" : 662.0,
+      "uncontestedPossessions" : 1186.0,
+      "totalPossessions" : 1848.0,
+      "inside50s" : 118.0,
+      "marksInside50" : 70.0,
+      "contestedMarks" : 129.0,
+      "hitouts" : 11.0,
+      "onePercenters" : 702.0,
+      "disposalEfficiency" : 81.2,
+      "clangers" : 261.0,
+      "freesFor" : 123.0,
+      "freesAgainst" : 155.0,
+      "dreamTeamPoints" : 8028.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 11.0,
+        "totalClearances" : 14.0
+      },
+      "rebound50s" : 247.0,
+      "goalAssists" : 18.0,
+      "goalAccuracy" : 53.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.5,
+            "handballs" : 5.9,
+            "disposals" : 14.5,
+            "marks" : 6.3,
+            "bounces" : 0.1,
+            "tackles" : 1.3,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 10.7,
+            "totalPossessions" : 14.8,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 1.1,
+            "hitouts" : 0.2,
+            "onePercenters" : 4.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 60.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 162.0,
+            "handballs" : 113.0,
+            "disposals" : 275.0,
+            "marks" : 119.0,
+            "bounces" : 2.0,
+            "tackles" : 25.0,
+            "contestedPossessions" : 79.0,
+            "uncontestedPossessions" : 203.0,
+            "totalPossessions" : 282.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 20.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 83.0,
+            "disposalEfficiency" : 81.8,
+            "clangers" : 28.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1149.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 47.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 270.6,
+            "ranking" : 270.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 88.9
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.9,
+            "handballs" : 5.0,
+            "disposals" : 11.0,
+            "marks" : 4.2,
+            "bounces" : 0.1,
+            "tackles" : 1.8,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 6.8,
+            "totalPossessions" : 10.8,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 46.9,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 136.0,
+            "handballs" : 116.0,
+            "disposals" : 252.0,
+            "marks" : 97.0,
+            "bounces" : 3.0,
+            "tackles" : 42.0,
+            "contestedPossessions" : 93.0,
+            "uncontestedPossessions" : 156.0,
+            "totalPossessions" : 249.0,
+            "inside50s" : 18.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 19.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 107.0,
+            "disposalEfficiency" : 79.0,
+            "clangers" : 33.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1078.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 41.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : 215.3,
+            "ranking" : 345.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 87.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 4.2,
+            "handballs" : 4.2,
+            "disposals" : 8.4,
+            "marks" : 3.4,
+            "bounces" : 0.0,
+            "tackles" : 1.9,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 4.7,
+            "totalPossessions" : 8.4,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 38.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 104.0,
+            "handballs" : 106.0,
+            "disposals" : 210.0,
+            "marks" : 85.0,
+            "bounces" : 0.0,
+            "tackles" : 47.0,
+            "contestedPossessions" : 93.0,
+            "uncontestedPossessions" : 118.0,
+            "totalPossessions" : 211.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 20.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 124.0,
+            "disposalEfficiency" : 78.1,
+            "clangers" : 31.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 960.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 57.1,
+            "ratingPoints" : 214.0,
+            "ranking" : 335.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 91.1
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 4.9,
+            "disposals" : 11.4,
+            "marks" : 4.5,
+            "bounces" : 0.0,
+            "tackles" : 1.8,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 11.5,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 48.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 144.0,
+            "handballs" : 107.0,
+            "disposals" : 251.0,
+            "marks" : 98.0,
+            "bounces" : 0.0,
+            "tackles" : 40.0,
+            "contestedPossessions" : 99.0,
+            "uncontestedPossessions" : 154.0,
+            "totalPossessions" : 253.0,
+            "inside50s" : 18.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 14.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 116.0,
+            "disposalEfficiency" : 79.7,
+            "clangers" : 39.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 25.0,
+            "dreamTeamPoints" : 1064.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 54.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 89.0
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.7,
+            "handballs" : 5.1,
+            "disposals" : 9.9,
+            "marks" : 3.8,
+            "bounces" : 0.1,
+            "tackles" : 2.1,
+            "contestedPossessions" : 4.4,
+            "uncontestedPossessions" : 5.5,
+            "totalPossessions" : 9.9,
+            "inside50s" : 0.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.1,
+            "onePercenters" : 4.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 41.9,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 99.0,
+            "handballs" : 108.0,
+            "disposals" : 207.0,
+            "marks" : 80.0,
+            "bounces" : 2.0,
+            "tackles" : 44.0,
+            "contestedPossessions" : 93.0,
+            "uncontestedPossessions" : 115.0,
+            "totalPossessions" : 208.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 17.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 100.0,
+            "disposalEfficiency" : 87.0,
+            "clangers" : 30.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 880.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 29.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 88.4
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.5,
+            "handballs" : 8.9,
+            "disposals" : 13.4,
+            "marks" : 5.0,
+            "bounces" : 0.4,
+            "tackles" : 2.1,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 9.5,
+            "totalPossessions" : 13.5,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.1,
+            "onePercenters" : 5.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 52.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 99.0,
+            "handballs" : 196.0,
+            "disposals" : 295.0,
+            "marks" : 109.0,
+            "bounces" : 9.0,
+            "tackles" : 46.0,
+            "contestedPossessions" : 88.0,
+            "uncontestedPossessions" : 208.0,
+            "totalPossessions" : 296.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 16.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 115.0,
+            "disposalEfficiency" : 86.4,
+            "clangers" : 38.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 1154.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 32.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 89.5
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 4.4,
+            "handballs" : 7.4,
+            "disposals" : 11.9,
+            "marks" : 4.0,
+            "bounces" : 0.2,
+            "tackles" : 2.2,
+            "contestedPossessions" : 3.2,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 12.2,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.1,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.7,
+            "dreamTeamPoints" : 46.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 40.0,
+            "handballs" : 67.0,
+            "disposals" : 107.0,
+            "marks" : 36.0,
+            "bounces" : 2.0,
+            "tackles" : 20.0,
+            "contestedPossessions" : 29.0,
+            "uncontestedPossessions" : 81.0,
+            "totalPossessions" : 110.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 86.0,
+            "clangers" : 19.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 415.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 90.7
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.2,
+            "behinds" : 1.3,
+            "superGoals" : null,
+            "kicks" : 7.6,
+            "handballs" : 4.4,
+            "disposals" : 11.9,
+            "marks" : 5.4,
+            "bounces" : 0.0,
+            "tackles" : 1.6,
+            "contestedPossessions" : 4.4,
+            "uncontestedPossessions" : 7.6,
+            "totalPossessions" : 12.0,
+            "inside50s" : 1.7,
+            "marksInside50" : 2.8,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.7,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 67.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 36.0,
+            "behinds" : 21.0,
+            "superGoals" : null,
+            "kicks" : 121.0,
+            "handballs" : 70.0,
+            "disposals" : 191.0,
+            "marks" : 87.0,
+            "bounces" : 0.0,
+            "tackles" : 25.0,
+            "contestedPossessions" : 71.0,
+            "uncontestedPossessions" : 121.0,
+            "totalPossessions" : 192.0,
+            "inside50s" : 28.0,
+            "marksInside50" : 45.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 70.7,
+            "clangers" : 36.0,
+            "freesFor" : 27.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 1072.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 56.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 82.8
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 5.7,
+            "handballs" : 2.3,
+            "disposals" : 8.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 2.7,
+            "uncontestedPossessions" : 5.3,
+            "totalPossessions" : 8.0,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 40.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 17.0,
+            "handballs" : 7.0,
+            "disposals" : 24.0,
+            "marks" : 12.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 8.0,
+            "uncontestedPossessions" : 16.0,
+            "totalPossessions" : 24.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 83.3,
+            "clangers" : 4.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 120.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 65.0
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 3.2,
+            "handballs" : 3.0,
+            "disposals" : 6.2,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 0.5,
+            "contestedPossessions" : 2.5,
+            "uncontestedPossessions" : 3.5,
+            "totalPossessions" : 6.0,
+            "inside50s" : 0.2,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 0.7,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 34.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 13.0,
+            "handballs" : 12.0,
+            "disposals" : 25.0,
+            "marks" : 12.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 10.0,
+            "uncontestedPossessions" : 14.0,
+            "totalPossessions" : 24.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 80.0,
+            "clangers" : 3.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 136.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 62.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 54.1
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230125",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lonergan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 162.0,
+      "handballs" : 113.0,
+      "disposals" : 275.0,
+      "marks" : 119.0,
+      "bounces" : 2.0,
+      "tackles" : 25.0,
+      "contestedPossessions" : 79.0,
+      "uncontestedPossessions" : 203.0,
+      "totalPossessions" : 282.0,
+      "inside50s" : 13.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 20.0,
+      "hitouts" : 3.0,
+      "onePercenters" : 83.0,
+      "disposalEfficiency" : 81.8,
+      "clangers" : 28.0,
+      "freesFor" : 9.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1149.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 47.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 270.6,
+      "ranking" : 270.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I230125",
+        "playerName" : {
+          "givenName" : "Tom",
+          "surname" : "Lonergan"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T70",
+        "teamAbbr" : "GEEL",
+        "teamName" : "Geelong Cats",
+        "teamNickname" : "Cats"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 273.9,
+        "ranking" : 262,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 273.9,
+        "ranking" : 17,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 273.9,
+        "ranking" : 25,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 162.9,
+        "ranking" : 217,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2002"
+    },
+    "careerGamesPlayed" : 164
+  }
+}

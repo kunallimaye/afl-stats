@@ -1,0 +1,338 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960356",
+    "position" : "Rover",
+    "surname" : "Steinfort",
+    "jumperNumber" : 15,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Carl",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1977-04-01T02:00:00.000+0000",
+      "draftYear" : "",
+      "heightInCm" : 191,
+      "weightInKg" : 89,
+      "recruitedFrom" : "",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 13.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 455.0,
+      "handballs" : 312.0,
+      "disposals" : 767.0,
+      "marks" : 220.0,
+      "bounces" : 1.0,
+      "tackles" : 144.0,
+      "contestedPossessions" : 270.0,
+      "uncontestedPossessions" : 523.0,
+      "totalPossessions" : 793.0,
+      "inside50s" : 135.0,
+      "marksInside50" : 16.0,
+      "contestedMarks" : 22.0,
+      "hitouts" : 15.0,
+      "onePercenters" : 91.0,
+      "disposalEfficiency" : 80.6,
+      "clangers" : 101.0,
+      "freesFor" : 40.0,
+      "freesAgainst" : 37.0,
+      "dreamTeamPoints" : 3261.0,
+      "clearances" : {
+        "centreClearances" : 45.0,
+        "stoppageClearances" : 48.0,
+        "totalClearances" : 93.0
+      },
+      "rebound50s" : 42.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 46.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.7,
+            "handballs" : 3.7,
+            "disposals" : 9.3,
+            "marks" : 3.2,
+            "bounces" : 0.0,
+            "tackles" : 3.6,
+            "contestedPossessions" : 3.3,
+            "uncontestedPossessions" : 6.3,
+            "totalPossessions" : 9.7,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.8,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 0.9,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 50.9,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960356",
+            "playerName" : {
+              "givenName" : "Carl",
+              "surname" : "Steinfort"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 51.0,
+            "handballs" : 33.0,
+            "disposals" : 84.0,
+            "marks" : 29.0,
+            "bounces" : 0.0,
+            "tackles" : 32.0,
+            "contestedPossessions" : 30.0,
+            "uncontestedPossessions" : 57.0,
+            "totalPossessions" : 87.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 76.2,
+            "clangers" : 8.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 458.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960356",
+            "playerName" : {
+              "givenName" : "Carl",
+              "surname" : "Steinfort"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 5.1,
+            "disposals" : 12.3,
+            "marks" : 3.3,
+            "bounces" : 0.1,
+            "tackles" : 2.7,
+            "contestedPossessions" : 4.4,
+            "uncontestedPossessions" : 8.3,
+            "totalPossessions" : 12.7,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 52.1,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960356",
+            "playerName" : {
+              "givenName" : "Carl",
+              "surname" : "Steinfort"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 130.0,
+            "handballs" : 91.0,
+            "disposals" : 221.0,
+            "marks" : 59.0,
+            "bounces" : 1.0,
+            "tackles" : 49.0,
+            "contestedPossessions" : 79.0,
+            "uncontestedPossessions" : 150.0,
+            "totalPossessions" : 229.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 35.0,
+            "disposalEfficiency" : 80.5,
+            "clangers" : 31.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 937.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 27.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960356",
+            "playerName" : {
+              "givenName" : "Carl",
+              "surname" : "Steinfort"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 3.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 51.0,
+      "handballs" : 33.0,
+      "disposals" : 84.0,
+      "marks" : 29.0,
+      "bounces" : 0.0,
+      "tackles" : 32.0,
+      "contestedPossessions" : 30.0,
+      "uncontestedPossessions" : 57.0,
+      "totalPossessions" : 87.0,
+      "inside50s" : 9.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 7.0,
+      "onePercenters" : 21.0,
+      "disposalEfficiency" : 76.2,
+      "clangers" : 8.0,
+      "freesFor" : 4.0,
+      "freesAgainst" : 2.0,
+      "dreamTeamPoints" : 458.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 9.0,
+        "totalClearances" : 11.0
+      },
+      "rebound50s" : 5.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 60.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I293796",
+    "position" : "Full Back",
+    "surname" : "Delaney",
+    "jumperNumber" : 45,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 9.2,
+      "handballs" : 5.8,
+      "disposals" : 15.0,
+      "marks" : 4.7,
+      "bounces" : 0.7,
+      "tackles" : 2.2,
+      "contestedPossessions" : 4.5,
+      "uncontestedPossessions" : 10.3,
+      "totalPossessions" : 14.8,
+      "inside50s" : 1.3,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 1.3,
+      "hitouts" : 0.0,
+      "onePercenters" : 3.3,
+      "disposalEfficiency" : null,
+      "clangers" : 1.7,
+      "freesFor" : 0.2,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 59.2,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.3,
+        "totalClearances" : 0.3
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Cameron",
+    "bio" : "<p>Former North Melbourne defender who was delisted by the Roos at the end of 2014, but the Cats believe he has plenty of upside. Has battled a toe problem for the past two seasons and has played just one senior game since 2013. Showed promise in five games in 2012 and will add depth to Geelong&rsquo;s key defensive stocks.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GeelongCats/Player Profiles/2015 - Profiles/DELANEY Cameron.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-06-19T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 194,
+      "weightInKg" : 91,
+      "recruitedFrom" : "Grovedale/Geelong U18",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 0.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 55.0,
+      "handballs" : 35.0,
+      "disposals" : 90.0,
+      "marks" : 28.0,
+      "bounces" : 4.0,
+      "tackles" : 13.0,
+      "contestedPossessions" : 27.0,
+      "uncontestedPossessions" : 62.0,
+      "totalPossessions" : 89.0,
+      "inside50s" : 8.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 20.0,
+      "disposalEfficiency" : 74.4,
+      "clangers" : 10.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 6.0,
+      "dreamTeamPoints" : 355.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 12.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293796",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293796",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293796",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 11.1,
+            "ranking" : 671.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293796",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 15.0,
+            "handballs" : 4.0,
+            "disposals" : 19.0,
+            "marks" : 12.0,
+            "bounces" : 2.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 13.0,
+            "totalPossessions" : 18.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 90.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293796",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 15.0,
+            "handballs" : 4.0,
+            "disposals" : 19.0,
+            "marks" : 12.0,
+            "bounces" : 2.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 13.0,
+            "totalPossessions" : 18.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 84.2,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 90.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 49.9,
+            "ranking" : 593.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293796",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 84.0
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 6.2,
+            "disposals" : 14.2,
+            "marks" : 3.2,
+            "bounces" : 0.4,
+            "tackles" : 2.4,
+            "contestedPossessions" : 4.4,
+            "uncontestedPossessions" : 9.8,
+            "totalPossessions" : 14.2,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.2,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 53.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293796",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 40.0,
+            "handballs" : 31.0,
+            "disposals" : 71.0,
+            "marks" : 16.0,
+            "bounces" : 2.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 22.0,
+            "uncontestedPossessions" : 49.0,
+            "totalPossessions" : 71.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 71.8,
+            "clangers" : 9.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 265.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293796",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 91.6
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293796",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293796",
+            "playerName" : {
+              "givenName" : "Cameron",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : 0.0,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 0.0,
+      "ranking" : 0.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I293796",
+        "playerName" : {
+          "givenName" : "Cameron",
+          "surname" : "Delaney"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T70",
+        "teamAbbr" : "GEEL",
+        "teamName" : "Geelong Cats",
+        "teamNickname" : "Cats"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 11.1,
+        "ranking" : 661,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 11.1,
+        "ranking" : 36,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 11.1,
+        "ranking" : 81,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 6
+  }
+}

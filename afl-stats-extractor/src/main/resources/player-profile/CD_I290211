@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I290211",
+    "position" : "Right Back Pocket",
+    "surname" : "Shaw",
+    "jumperNumber" : 34,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 8.3,
+      "handballs" : 3.0,
+      "disposals" : 11.3,
+      "marks" : 3.7,
+      "bounces" : 0.0,
+      "tackles" : 1.8,
+      "contestedPossessions" : 4.0,
+      "uncontestedPossessions" : 7.4,
+      "totalPossessions" : 11.4,
+      "inside50s" : 1.2,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.6,
+      "hitouts" : 0.0,
+      "onePercenters" : 5.6,
+      "disposalEfficiency" : null,
+      "clangers" : 1.6,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.4,
+      "dreamTeamPoints" : 48.9,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.2,
+        "totalClearances" : 0.2
+      },
+      "rebound50s" : 3.3,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Sam",
+    "bio" : "<p>The luckless defender enjoyed a promising start to the 2014 season, playing in five of the Club’s opening seven games before being struck down by a chronic hamstring complaint. Shaw showed strong SANFL form upon his return and helped the SANFL Crows to wins over South Adelaide, Woodville-West Torrens and Glenelg in the second half of the year. Shaw was recalled to the AFL team in Round 21, but was again hampered by soft-tissue concerns. Shaw booked in for corrective hamstring surgery in September.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/AdelaideCrows/Player Profiles/2015 - Profiles/SHAW Sam.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-04-05T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 193,
+      "weightInKg" : 90,
+      "recruitedFrom" : "Xavier College/Oakleigh U18",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 0.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 200.0,
+      "handballs" : 72.0,
+      "disposals" : 272.0,
+      "marks" : 88.0,
+      "bounces" : 0.0,
+      "tackles" : 44.0,
+      "contestedPossessions" : 96.0,
+      "uncontestedPossessions" : 177.0,
+      "totalPossessions" : 273.0,
+      "inside50s" : 28.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 135.0,
+      "disposalEfficiency" : 68.4,
+      "clangers" : 39.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 9.0,
+      "dreamTeamPoints" : 1174.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 5.0,
+        "totalClearances" : 6.0
+      },
+      "rebound50s" : 79.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 4.5,
+            "disposals" : 10.5,
+            "marks" : 3.5,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 9.5,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 38.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290211",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Shaw"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 12.0,
+            "handballs" : 9.0,
+            "disposals" : 21.0,
+            "marks" : 7.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 12.0,
+            "totalPossessions" : 19.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 71.4,
+            "clangers" : 6.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 77.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 49.7,
+            "ranking" : 574.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290211",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Shaw"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 97.2
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 4.3,
+            "disposals" : 10.8,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 2.3,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 10.7,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 45.5,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290211",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Shaw"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 39.0,
+            "handballs" : 26.0,
+            "disposals" : 65.0,
+            "marks" : 18.0,
+            "bounces" : 0.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 22.0,
+            "uncontestedPossessions" : 42.0,
+            "totalPossessions" : 64.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 66.2,
+            "clangers" : 9.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 273.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 65.0,
+            "ranking" : 549.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290211",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Shaw"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 82.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 3.0,
+            "disposals" : 10.5,
+            "marks" : 3.5,
+            "bounces" : 0.0,
+            "tackles" : 2.5,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 11.0,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 48.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290211",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Shaw"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 15.0,
+            "handballs" : 6.0,
+            "disposals" : 21.0,
+            "marks" : 7.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 10.0,
+            "uncontestedPossessions" : 12.0,
+            "totalPossessions" : 22.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 66.7,
+            "clangers" : 2.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 96.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 121.9,
+            "ranking" : 457.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290211",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Shaw"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 88.8
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 9.6,
+            "handballs" : 2.2,
+            "disposals" : 11.8,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 1.6,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 7.9,
+            "totalPossessions" : 12.0,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.1,
+            "onePercenters" : 6.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 52.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 4.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290211",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Shaw"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 134.0,
+            "handballs" : 31.0,
+            "disposals" : 165.0,
+            "marks" : 56.0,
+            "bounces" : 0.0,
+            "tackles" : 23.0,
+            "contestedPossessions" : 57.0,
+            "uncontestedPossessions" : 111.0,
+            "totalPossessions" : 168.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 95.0,
+            "disposalEfficiency" : 69.1,
+            "clangers" : 22.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 728.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 59.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290211",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Shaw"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 81.8
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290211",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Shaw"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290211",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Shaw"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290211",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Shaw"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290211",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Shaw"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 12.0,
+      "handballs" : 9.0,
+      "disposals" : 21.0,
+      "marks" : 7.0,
+      "bounces" : 0.0,
+      "tackles" : 2.0,
+      "contestedPossessions" : 7.0,
+      "uncontestedPossessions" : 12.0,
+      "totalPossessions" : 19.0,
+      "inside50s" : 4.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 8.0,
+      "disposalEfficiency" : 71.4,
+      "clangers" : 6.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 2.0,
+      "dreamTeamPoints" : 77.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 49.7,
+      "ranking" : 574.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I290211",
+        "playerName" : {
+          "givenName" : "Sam",
+          "surname" : "Shaw"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T10",
+        "teamAbbr" : "ADEL",
+        "teamName" : "Adelaide Crows",
+        "teamNickname" : "Crows"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 49.7,
+        "ranking" : 574,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 49.7,
+        "ranking" : 36,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 49.7,
+        "ranking" : 112,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 12.2,
+        "ranking" : 598,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 24
+  }
+}

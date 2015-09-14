@@ -1,0 +1,486 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I294618",
+    "position" : "Right Back Pocket",
+    "surname" : "Paparone",
+    "jumperNumber" : 22,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 9.8,
+      "handballs" : 6.1,
+      "disposals" : 15.8,
+      "marks" : 5.1,
+      "bounces" : 0.2,
+      "tackles" : 1.5,
+      "contestedPossessions" : 4.5,
+      "uncontestedPossessions" : 11.0,
+      "totalPossessions" : 15.5,
+      "inside50s" : 1.4,
+      "marksInside50" : 0.4,
+      "contestedMarks" : 0.4,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.6,
+      "disposalEfficiency" : null,
+      "clangers" : 1.9,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 64.0,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.5,
+        "totalClearances" : 0.6
+      },
+      "rebound50s" : 2.2,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Marco",
+    "bio" : "<p>Marco Paparone is a tall forward with elite endurance who arrived at the Lions from Western Australia via the 2012 AFL National Draft. At 194cm, he covers plenty of ground and is more of a running 'hit-up' forward than your typical 'power' key forward.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2015 - Profiles/PAPARONE Marco.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1994-09-03T02:00:00.000+0000",
+      "draftYear" : "2012",
+      "heightInCm" : 194,
+      "weightInKg" : 87,
+      "recruitedFrom" : "Palmyra (WA)/East Fremantle (WAFL)",
+      "debutYear" : "2013"
+    },
+    "careerStats" : {
+      "goals" : 13.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 440.0,
+      "handballs" : 273.0,
+      "disposals" : 713.0,
+      "marks" : 231.0,
+      "bounces" : 11.0,
+      "tackles" : 69.0,
+      "contestedPossessions" : 204.0,
+      "uncontestedPossessions" : 494.0,
+      "totalPossessions" : 698.0,
+      "inside50s" : 63.0,
+      "marksInside50" : 18.0,
+      "contestedMarks" : 16.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 72.0,
+      "disposalEfficiency" : 71.5,
+      "clangers" : 86.0,
+      "freesFor" : 24.0,
+      "freesAgainst" : 23.0,
+      "dreamTeamPoints" : 2880.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 24.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 101.0,
+      "goalAssists" : 10.0,
+      "goalAccuracy" : 41.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 12.0,
+            "handballs" : 6.9,
+            "disposals" : 18.9,
+            "marks" : 6.4,
+            "bounces" : 0.3,
+            "tackles" : 1.5,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 13.3,
+            "totalPossessions" : 18.1,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 74.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 3.6,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294618",
+            "playerName" : {
+              "givenName" : "Marco",
+              "surname" : "Paparone"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 264.0,
+            "handballs" : 151.0,
+            "disposals" : 415.0,
+            "marks" : 140.0,
+            "bounces" : 7.0,
+            "tackles" : 33.0,
+            "contestedPossessions" : 105.0,
+            "uncontestedPossessions" : 293.0,
+            "totalPossessions" : 398.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 55.0,
+            "disposalEfficiency" : 75.9,
+            "clangers" : 45.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 1640.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 79.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : 225.4,
+            "ranking" : 330.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294618",
+            "playerName" : {
+              "givenName" : "Marco",
+              "surname" : "Paparone"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 89.4
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.9,
+            "handballs" : 5.7,
+            "disposals" : 13.6,
+            "marks" : 3.9,
+            "bounces" : 0.2,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 9.2,
+            "totalPossessions" : 13.7,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 55.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294618",
+            "playerName" : {
+              "givenName" : "Marco",
+              "surname" : "Paparone"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 142.0,
+            "handballs" : 103.0,
+            "disposals" : 245.0,
+            "marks" : 71.0,
+            "bounces" : 3.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 81.0,
+            "uncontestedPossessions" : 165.0,
+            "totalPossessions" : 246.0,
+            "inside50s" : 24.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 68.2,
+            "clangers" : 29.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 994.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 22.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 46.7,
+            "ratingPoints" : 121.4,
+            "ranking" : 468.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294618",
+            "playerName" : {
+              "givenName" : "Marco",
+              "surname" : "Paparone"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 75.4
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 6.8,
+            "handballs" : 3.8,
+            "disposals" : 10.6,
+            "marks" : 4.0,
+            "bounces" : 0.2,
+            "tackles" : 1.0,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 7.2,
+            "totalPossessions" : 10.8,
+            "inside50s" : 2.4,
+            "marksInside50" : 1.6,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 49.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294618",
+            "playerName" : {
+              "givenName" : "Marco",
+              "surname" : "Paparone"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 34.0,
+            "handballs" : 19.0,
+            "disposals" : 53.0,
+            "marks" : 20.0,
+            "bounces" : 1.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 18.0,
+            "uncontestedPossessions" : 36.0,
+            "totalPossessions" : 54.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 52.8,
+            "clangers" : 12.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 246.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 41.7,
+            "ratingPoints" : 18.9,
+            "ranking" : 658.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294618",
+            "playerName" : {
+              "givenName" : "Marco",
+              "surname" : "Paparone"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 71.7
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 264.0,
+      "handballs" : 151.0,
+      "disposals" : 415.0,
+      "marks" : 140.0,
+      "bounces" : 7.0,
+      "tackles" : 33.0,
+      "contestedPossessions" : 105.0,
+      "uncontestedPossessions" : 293.0,
+      "totalPossessions" : 398.0,
+      "inside50s" : 27.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 55.0,
+      "disposalEfficiency" : 75.9,
+      "clangers" : 45.0,
+      "freesFor" : 13.0,
+      "freesAgainst" : 9.0,
+      "dreamTeamPoints" : 1640.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 15.0,
+        "totalClearances" : 16.0
+      },
+      "rebound50s" : 79.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 25.0,
+      "ratingPoints" : 225.4,
+      "ranking" : 330.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I294618",
+        "playerName" : {
+          "givenName" : "Marco",
+          "surname" : "Paparone"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 216.9,
+        "ranking" : 348,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 216.9,
+        "ranking" : 18,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 216.9,
+        "ranking" : 70,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 144.9,
+        "ranking" : 258,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2012"
+    },
+    "careerGamesPlayed" : 45
+  }
+}

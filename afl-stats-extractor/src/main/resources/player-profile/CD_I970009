@@ -1,0 +1,853 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I970009",
+    "position" : "Centre",
+    "surname" : "Heffernan",
+    "jumperNumber" : 26,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Chris",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1979-01-29T01:00:00.000+0000",
+      "draftYear" : "1996",
+      "heightInCm" : 187,
+      "weightInKg" : 81,
+      "recruitedFrom" : "Terang/Geelong U18/Melbourne",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 53.0,
+      "behinds" : 34.0,
+      "superGoals" : null,
+      "kicks" : 1319.0,
+      "handballs" : 863.0,
+      "disposals" : 2182.0,
+      "marks" : 414.0,
+      "bounces" : 89.0,
+      "tackles" : 464.0,
+      "contestedPossessions" : 939.0,
+      "uncontestedPossessions" : 1268.0,
+      "totalPossessions" : 2207.0,
+      "inside50s" : 426.0,
+      "marksInside50" : 41.0,
+      "contestedMarks" : 42.0,
+      "hitouts" : 38.0,
+      "onePercenters" : 282.0,
+      "disposalEfficiency" : 78.9,
+      "clangers" : 315.0,
+      "freesFor" : 144.0,
+      "freesAgainst" : 151.0,
+      "dreamTeamPoints" : 8862.0,
+      "clearances" : {
+        "centreClearances" : 149.0,
+        "stoppageClearances" : 187.0,
+        "totalClearances" : 336.0
+      },
+      "rebound50s" : 211.0,
+      "goalAssists" : 26.0,
+      "goalAccuracy" : 58.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 6.0,
+            "disposals" : 12.0,
+            "marks" : 2.3,
+            "bounces" : 0.6,
+            "tackles" : 3.7,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 8.1,
+            "totalPossessions" : 11.9,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 51.7,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 1.9
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970009",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Heffernan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 42.0,
+            "handballs" : 42.0,
+            "disposals" : 84.0,
+            "marks" : 16.0,
+            "bounces" : 4.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 26.0,
+            "uncontestedPossessions" : 57.0,
+            "totalPossessions" : 83.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 84.5,
+            "clangers" : 12.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 362.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970009",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Heffernan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 66.0
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.1,
+            "handballs" : 7.7,
+            "disposals" : 15.8,
+            "marks" : 3.5,
+            "bounces" : 0.4,
+            "tackles" : 3.8,
+            "contestedPossessions" : 6.4,
+            "uncontestedPossessions" : 9.2,
+            "totalPossessions" : 15.6,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 1.2,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 65.2,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 2.1
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970009",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Heffernan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 154.0,
+            "handballs" : 147.0,
+            "disposals" : 301.0,
+            "marks" : 66.0,
+            "bounces" : 8.0,
+            "tackles" : 72.0,
+            "contestedPossessions" : 122.0,
+            "uncontestedPossessions" : 175.0,
+            "totalPossessions" : 297.0,
+            "inside50s" : 48.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 47.0,
+            "disposalEfficiency" : 76.7,
+            "clangers" : 49.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 1239.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 22.0,
+              "totalClearances" : 39.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970009",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Heffernan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 79.9
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 3.9,
+            "disposals" : 8.9,
+            "marks" : 2.2,
+            "bounces" : 0.9,
+            "tackles" : 3.1,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 5.7,
+            "totalPossessions" : 9.2,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 40.6,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970009",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Heffernan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 45.0,
+            "handballs" : 35.0,
+            "disposals" : 80.0,
+            "marks" : 20.0,
+            "bounces" : 8.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 32.0,
+            "uncontestedPossessions" : 51.0,
+            "totalPossessions" : 83.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 72.5,
+            "clangers" : 13.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 365.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970009",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Heffernan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 61.9
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.2,
+            "handballs" : 6.6,
+            "disposals" : 15.8,
+            "marks" : 2.4,
+            "bounces" : 0.3,
+            "tackles" : 3.9,
+            "contestedPossessions" : 7.8,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 15.8,
+            "inside50s" : 2.9,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.5,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.2,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 63.2,
+            "clearances" : {
+              "centreClearances" : 1.6,
+              "stoppageClearances" : 1.9,
+              "totalClearances" : 3.5
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970009",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Heffernan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 165.0,
+            "handballs" : 119.0,
+            "disposals" : 284.0,
+            "marks" : 44.0,
+            "bounces" : 5.0,
+            "tackles" : 71.0,
+            "contestedPossessions" : 140.0,
+            "uncontestedPossessions" : 144.0,
+            "totalPossessions" : 284.0,
+            "inside50s" : 53.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 9.0,
+            "onePercenters" : 43.0,
+            "disposalEfficiency" : 72.9,
+            "clangers" : 36.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 1138.0,
+            "clearances" : {
+              "centreClearances" : 28.0,
+              "stoppageClearances" : 35.0,
+              "totalClearances" : 63.0
+            },
+            "rebound50s" : 22.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 28.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970009",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Heffernan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 78.3
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.4,
+            "handballs" : 5.7,
+            "disposals" : 15.1,
+            "marks" : 3.0,
+            "bounces" : 1.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 9.9,
+            "totalPossessions" : 15.3,
+            "inside50s" : 3.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.8,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 62.9,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.9
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970009",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Heffernan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 188.0,
+            "handballs" : 115.0,
+            "disposals" : 303.0,
+            "marks" : 60.0,
+            "bounces" : 20.0,
+            "tackles" : 61.0,
+            "contestedPossessions" : 108.0,
+            "uncontestedPossessions" : 199.0,
+            "totalPossessions" : 307.0,
+            "inside50s" : 67.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 17.0,
+            "onePercenters" : 37.0,
+            "disposalEfficiency" : 77.9,
+            "clangers" : 35.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1259.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 25.0,
+              "totalClearances" : 38.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 58.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970009",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Heffernan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 83.0
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.5,
+            "handballs" : 4.4,
+            "disposals" : 12.9,
+            "marks" : 2.5,
+            "bounces" : 0.3,
+            "tackles" : 2.8,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 7.7,
+            "totalPossessions" : 13.1,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 54.1,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970009",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Heffernan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 195.0,
+            "handballs" : 101.0,
+            "disposals" : 296.0,
+            "marks" : 58.0,
+            "bounces" : 7.0,
+            "tackles" : 64.0,
+            "contestedPossessions" : 125.0,
+            "uncontestedPossessions" : 176.0,
+            "totalPossessions" : 301.0,
+            "inside50s" : 47.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 51.0,
+            "disposalEfficiency" : 80.1,
+            "clangers" : 40.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 1245.0,
+            "clearances" : {
+              "centreClearances" : 14.0,
+              "stoppageClearances" : 17.0,
+              "totalClearances" : 31.0
+            },
+            "rebound50s" : 36.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 70.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970009",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Heffernan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 6.9,
+            "handballs" : 4.3,
+            "disposals" : 11.2,
+            "marks" : 2.2,
+            "bounces" : 0.6,
+            "tackles" : 2.1,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 6.8,
+            "totalPossessions" : 11.5,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 45.7,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970009",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Heffernan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 110.0,
+            "handballs" : 69.0,
+            "disposals" : 179.0,
+            "marks" : 36.0,
+            "bounces" : 10.0,
+            "tackles" : 33.0,
+            "contestedPossessions" : 75.0,
+            "uncontestedPossessions" : 109.0,
+            "totalPossessions" : 184.0,
+            "inside50s" : 33.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 82.7,
+            "clangers" : 20.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 731.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 25.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 54.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970009",
+            "playerName" : {
+              "givenName" : "Chris",
+              "surname" : "Heffernan"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 42.0,
+      "handballs" : 42.0,
+      "disposals" : 84.0,
+      "marks" : 16.0,
+      "bounces" : 4.0,
+      "tackles" : 26.0,
+      "contestedPossessions" : 26.0,
+      "uncontestedPossessions" : 57.0,
+      "totalPossessions" : 83.0,
+      "inside50s" : 14.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 17.0,
+      "disposalEfficiency" : 84.5,
+      "clangers" : 12.0,
+      "freesFor" : 6.0,
+      "freesAgainst" : 6.0,
+      "dreamTeamPoints" : 362.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 10.0,
+        "totalClearances" : 13.0
+      },
+      "rebound50s" : 6.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 100.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

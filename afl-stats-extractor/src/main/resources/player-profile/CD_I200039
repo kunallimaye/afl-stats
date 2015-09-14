@@ -1,0 +1,1722 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I200039",
+    "position" : "Centre",
+    "surname" : "Chapman",
+    "jumperNumber" : 3,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.3,
+      "behinds" : 0.7,
+      "superGoals" : null,
+      "kicks" : 12.8,
+      "handballs" : 6.9,
+      "disposals" : 19.7,
+      "marks" : 4.7,
+      "bounces" : 0.7,
+      "tackles" : 3.5,
+      "contestedPossessions" : 6.9,
+      "uncontestedPossessions" : 12.5,
+      "totalPossessions" : 19.5,
+      "inside50s" : 4.0,
+      "marksInside50" : 0.9,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.2,
+      "disposalEfficiency" : null,
+      "clangers" : 2.0,
+      "freesFor" : 1.2,
+      "freesAgainst" : 0.9,
+      "dreamTeamPoints" : 87.6,
+      "clearances" : {
+        "centreClearances" : 0.9,
+        "stoppageClearances" : 1.5,
+        "totalClearances" : 2.4
+      },
+      "rebound50s" : 1.2,
+      "goalAssists" : 0.6,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Paul",
+    "bio" : "<p>The Geelong champion couldn't have started his career at the Bombers any better, kicking four goals to lead Essendon to a round one win over North Melbourne. He continued to have a presence around goals for the Bombers, booting 22 goals from 20 games. He finished the season well after a quieter patch and added plenty of experience, craft and knowledge to the club's forward line. The 33-year-old signed a one year contract extension to play on in 2015.</p>\n\n<p>&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Essendon/Player Profiles/2015 - Profiles/CHAPMAN Paul.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1981-11-05T01:00:00.000+0000",
+      "draftYear" : "1999",
+      "heightInCm" : 179,
+      "weightInKg" : 87,
+      "recruitedFrom" : "North Coburg Saints/Calder U18",
+      "debutYear" : "2000"
+    },
+    "careerStats" : {
+      "goals" : 366.0,
+      "behinds" : 196.0,
+      "superGoals" : null,
+      "kicks" : 3595.0,
+      "handballs" : 1924.0,
+      "disposals" : 5519.0,
+      "marks" : 1326.0,
+      "bounces" : 199.0,
+      "tackles" : 987.0,
+      "contestedPossessions" : 1946.0,
+      "uncontestedPossessions" : 3508.0,
+      "totalPossessions" : 5454.0,
+      "inside50s" : 1107.0,
+      "marksInside50" : 250.0,
+      "contestedMarks" : 96.0,
+      "hitouts" : 6.0,
+      "onePercenters" : 346.0,
+      "disposalEfficiency" : 77.4,
+      "clangers" : 553.0,
+      "freesFor" : 325.0,
+      "freesAgainst" : 254.0,
+      "dreamTeamPoints" : 24520.0,
+      "clearances" : {
+        "centreClearances" : 246.0,
+        "stoppageClearances" : 422.0,
+        "totalClearances" : 668.0
+      },
+      "rebound50s" : 327.0,
+      "goalAssists" : 170.0,
+      "goalAccuracy" : 55.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 5.7,
+            "disposals" : 13.9,
+            "marks" : 2.6,
+            "bounces" : 0.1,
+            "tackles" : 3.4,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 8.1,
+            "totalPossessions" : 13.6,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 62.6,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 74.0,
+            "handballs" : 51.0,
+            "disposals" : 125.0,
+            "marks" : 23.0,
+            "bounces" : 1.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 49.0,
+            "uncontestedPossessions" : 73.0,
+            "totalPossessions" : 122.0,
+            "inside50s" : 22.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 68.0,
+            "clangers" : 19.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 563.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 12.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 47.1,
+            "ratingPoints" : 340.0,
+            "ranking" : 171.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 66.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.1,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 12.5,
+            "handballs" : 7.4,
+            "disposals" : 19.9,
+            "marks" : 5.6,
+            "bounces" : 0.6,
+            "tackles" : 4.1,
+            "contestedPossessions" : 6.3,
+            "uncontestedPossessions" : 13.3,
+            "totalPossessions" : 19.6,
+            "inside50s" : 3.7,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 91.8,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 22.0,
+            "behinds" : 16.0,
+            "superGoals" : null,
+            "kicks" : 250.0,
+            "handballs" : 148.0,
+            "disposals" : 398.0,
+            "marks" : 112.0,
+            "bounces" : 12.0,
+            "tackles" : 83.0,
+            "contestedPossessions" : 126.0,
+            "uncontestedPossessions" : 267.0,
+            "totalPossessions" : 393.0,
+            "inside50s" : 75.0,
+            "marksInside50" : 18.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 76.1,
+            "clangers" : 28.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1836.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 28.0,
+              "totalClearances" : 45.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 51.2,
+            "ratingPoints" : 340.4,
+            "ranking" : 172.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 80.1
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.5,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 11.4,
+            "handballs" : 8.9,
+            "disposals" : 20.2,
+            "marks" : 3.4,
+            "bounces" : 0.5,
+            "tackles" : 4.2,
+            "contestedPossessions" : 7.7,
+            "uncontestedPossessions" : 11.9,
+            "totalPossessions" : 19.6,
+            "inside50s" : 3.9,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.1,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.7,
+            "dreamTeamPoints" : 84.4,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 3.6
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 91.0,
+            "handballs" : 71.0,
+            "disposals" : 162.0,
+            "marks" : 27.0,
+            "bounces" : 4.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 62.0,
+            "uncontestedPossessions" : 95.0,
+            "totalPossessions" : 157.0,
+            "inside50s" : 31.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 73.5,
+            "clangers" : 25.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 675.0,
+            "clearances" : {
+              "centreClearances" : 16.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 29.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 54.5,
+            "ratingPoints" : 412.3,
+            "ranking" : 79.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 72.4
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.7,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 13.9,
+            "handballs" : 6.5,
+            "disposals" : 20.4,
+            "marks" : 5.1,
+            "bounces" : 0.1,
+            "tackles" : 4.5,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 12.8,
+            "totalPossessions" : 19.8,
+            "inside50s" : 3.3,
+            "marksInside50" : 1.3,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 1.1,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 97.0,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 2.4
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 36.0,
+            "behinds" : 15.0,
+            "superGoals" : null,
+            "kicks" : 292.0,
+            "handballs" : 136.0,
+            "disposals" : 428.0,
+            "marks" : 107.0,
+            "bounces" : 3.0,
+            "tackles" : 94.0,
+            "contestedPossessions" : 146.0,
+            "uncontestedPossessions" : 269.0,
+            "totalPossessions" : 415.0,
+            "inside50s" : 69.0,
+            "marksInside50" : 28.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 75.0,
+            "clangers" : 45.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 2036.0,
+            "clearances" : {
+              "centreClearances" : 19.0,
+              "stoppageClearances" : 32.0,
+              "totalClearances" : 51.0
+            },
+            "rebound50s" : 31.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 85.3
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 13.6,
+            "handballs" : 9.9,
+            "disposals" : 23.5,
+            "marks" : 5.3,
+            "bounces" : 0.3,
+            "tackles" : 4.5,
+            "contestedPossessions" : 8.5,
+            "uncontestedPossessions" : 14.6,
+            "totalPossessions" : 23.0,
+            "inside50s" : 4.1,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.2,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 99.3,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.2,
+              "totalClearances" : 3.1
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 24.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 312.0,
+            "handballs" : 228.0,
+            "disposals" : 540.0,
+            "marks" : 122.0,
+            "bounces" : 6.0,
+            "tackles" : 104.0,
+            "contestedPossessions" : 195.0,
+            "uncontestedPossessions" : 335.0,
+            "totalPossessions" : 530.0,
+            "inside50s" : 94.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 77.4,
+            "clangers" : 55.0,
+            "freesFor" : 28.0,
+            "freesAgainst" : 26.0,
+            "dreamTeamPoints" : 2283.0,
+            "clearances" : {
+              "centreClearances" : 22.0,
+              "stoppageClearances" : 50.0,
+              "totalClearances" : 72.0
+            },
+            "rebound50s" : 32.0,
+            "goalAssists" : 20.0,
+            "goalAccuracy" : 52.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 86.8
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 17.2,
+            "handballs" : 11.0,
+            "disposals" : 28.2,
+            "marks" : 5.5,
+            "bounces" : 0.9,
+            "tackles" : 4.1,
+            "contestedPossessions" : 7.6,
+            "uncontestedPossessions" : 20.6,
+            "totalPossessions" : 28.2,
+            "inside50s" : 5.0,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 112.7,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 2.1,
+              "totalClearances" : 3.2
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 23.0,
+            "behinds" : 16.0,
+            "superGoals" : null,
+            "kicks" : 412.0,
+            "handballs" : 264.0,
+            "disposals" : 676.0,
+            "marks" : 133.0,
+            "bounces" : 21.0,
+            "tackles" : 99.0,
+            "contestedPossessions" : 182.0,
+            "uncontestedPossessions" : 495.0,
+            "totalPossessions" : 677.0,
+            "inside50s" : 119.0,
+            "marksInside50" : 16.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 75.9,
+            "clangers" : 52.0,
+            "freesFor" : 33.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 2704.0,
+            "clearances" : {
+              "centreClearances" : 27.0,
+              "stoppageClearances" : 50.0,
+              "totalClearances" : 77.0
+            },
+            "rebound50s" : 58.0,
+            "goalAssists" : 23.0,
+            "goalAccuracy" : 44.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 85.0
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.8,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 17.1,
+            "handballs" : 9.7,
+            "disposals" : 26.8,
+            "marks" : 6.5,
+            "bounces" : 0.6,
+            "tackles" : 2.6,
+            "contestedPossessions" : 7.8,
+            "uncontestedPossessions" : 19.0,
+            "totalPossessions" : 26.8,
+            "inside50s" : 5.3,
+            "marksInside50" : 1.7,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 112.0,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 3.2
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 37.0,
+            "behinds" : 17.0,
+            "superGoals" : null,
+            "kicks" : 342.0,
+            "handballs" : 194.0,
+            "disposals" : 536.0,
+            "marks" : 130.0,
+            "bounces" : 13.0,
+            "tackles" : 53.0,
+            "contestedPossessions" : 156.0,
+            "uncontestedPossessions" : 380.0,
+            "totalPossessions" : 536.0,
+            "inside50s" : 107.0,
+            "marksInside50" : 34.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 76.7,
+            "clangers" : 34.0,
+            "freesFor" : 24.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 2240.0,
+            "clearances" : {
+              "centreClearances" : 30.0,
+              "stoppageClearances" : 35.0,
+              "totalClearances" : 65.0
+            },
+            "rebound50s" : 31.0,
+            "goalAssists" : 19.0,
+            "goalAccuracy" : 53.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 82.0
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.7,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 13.3,
+            "handballs" : 6.9,
+            "disposals" : 20.2,
+            "marks" : 5.3,
+            "bounces" : 1.2,
+            "tackles" : 2.8,
+            "contestedPossessions" : 6.3,
+            "uncontestedPossessions" : 13.4,
+            "totalPossessions" : 19.7,
+            "inside50s" : 4.1,
+            "marksInside50" : 1.3,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 1.4,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 90.4,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 33.0,
+            "behinds" : 13.0,
+            "superGoals" : null,
+            "kicks" : 253.0,
+            "handballs" : 131.0,
+            "disposals" : 384.0,
+            "marks" : 101.0,
+            "bounces" : 22.0,
+            "tackles" : 54.0,
+            "contestedPossessions" : 120.0,
+            "uncontestedPossessions" : 254.0,
+            "totalPossessions" : 374.0,
+            "inside50s" : 78.0,
+            "marksInside50" : 25.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 77.9,
+            "clangers" : 39.0,
+            "freesFor" : 27.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1718.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 24.0,
+              "totalClearances" : 41.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 79.6
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.6,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 15.2,
+            "handballs" : 6.7,
+            "disposals" : 21.9,
+            "marks" : 5.9,
+            "bounces" : 1.1,
+            "tackles" : 3.9,
+            "contestedPossessions" : 7.1,
+            "uncontestedPossessions" : 14.5,
+            "totalPossessions" : 21.6,
+            "inside50s" : 4.8,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 1.1,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 100.3,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 30.0,
+            "behinds" : 15.0,
+            "superGoals" : null,
+            "kicks" : 289.0,
+            "handballs" : 127.0,
+            "disposals" : 416.0,
+            "marks" : 112.0,
+            "bounces" : 21.0,
+            "tackles" : 75.0,
+            "contestedPossessions" : 135.0,
+            "uncontestedPossessions" : 276.0,
+            "totalPossessions" : 411.0,
+            "inside50s" : 91.0,
+            "marksInside50" : 22.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 79.3,
+            "clangers" : 48.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 1905.0,
+            "clearances" : {
+              "centreClearances" : 23.0,
+              "stoppageClearances" : 19.0,
+              "totalClearances" : 42.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 14.0,
+            "goalAccuracy" : 57.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 82.3
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.4,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 15.0,
+            "handballs" : 7.0,
+            "disposals" : 22.0,
+            "marks" : 6.1,
+            "bounces" : 1.5,
+            "tackles" : 4.0,
+            "contestedPossessions" : 7.5,
+            "uncontestedPossessions" : 13.9,
+            "totalPossessions" : 21.4,
+            "inside50s" : 4.0,
+            "marksInside50" : 1.3,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 101.3,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.5
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 31.0,
+            "behinds" : 19.0,
+            "superGoals" : null,
+            "kicks" : 331.0,
+            "handballs" : 153.0,
+            "disposals" : 484.0,
+            "marks" : 134.0,
+            "bounces" : 32.0,
+            "tackles" : 89.0,
+            "contestedPossessions" : 164.0,
+            "uncontestedPossessions" : 306.0,
+            "totalPossessions" : 470.0,
+            "inside50s" : 89.0,
+            "marksInside50" : 28.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 78.9,
+            "clangers" : 45.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 2228.0,
+            "clearances" : {
+              "centreClearances" : 24.0,
+              "stoppageClearances" : 31.0,
+              "totalClearances" : 55.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 16.0,
+            "goalAccuracy" : 55.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 95.0
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.5,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 11.7,
+            "handballs" : 5.1,
+            "disposals" : 16.8,
+            "marks" : 4.0,
+            "bounces" : 0.4,
+            "tackles" : 2.6,
+            "contestedPossessions" : 7.2,
+            "uncontestedPossessions" : 9.6,
+            "totalPossessions" : 16.7,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 76.0,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 29.0,
+            "behinds" : 17.0,
+            "superGoals" : null,
+            "kicks" : 222.0,
+            "handballs" : 97.0,
+            "disposals" : 319.0,
+            "marks" : 76.0,
+            "bounces" : 7.0,
+            "tackles" : 49.0,
+            "contestedPossessions" : 136.0,
+            "uncontestedPossessions" : 182.0,
+            "totalPossessions" : 318.0,
+            "inside50s" : 76.0,
+            "marksInside50" : 14.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 79.3,
+            "clangers" : 35.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1444.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 29.0,
+              "totalClearances" : 41.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 55.8,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 82.4
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.5,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 9.6,
+            "handballs" : 4.5,
+            "disposals" : 14.1,
+            "marks" : 3.8,
+            "bounces" : 0.7,
+            "tackles" : 3.2,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 7.9,
+            "totalPossessions" : 13.8,
+            "inside50s" : 2.9,
+            "marksInside50" : 1.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 69.7,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 38.0,
+            "behinds" : 19.0,
+            "superGoals" : null,
+            "kicks" : 240.0,
+            "handballs" : 113.0,
+            "disposals" : 353.0,
+            "marks" : 96.0,
+            "bounces" : 17.0,
+            "tackles" : 80.0,
+            "contestedPossessions" : 149.0,
+            "uncontestedPossessions" : 197.0,
+            "totalPossessions" : 346.0,
+            "inside50s" : 73.0,
+            "marksInside50" : 27.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 45.0,
+            "disposalEfficiency" : 78.5,
+            "clangers" : 46.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 27.0,
+            "dreamTeamPoints" : 1742.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 29.0,
+              "totalClearances" : 37.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 16.0,
+            "goalAccuracy" : 59.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 90.6
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 10.9,
+            "handballs" : 4.7,
+            "disposals" : 15.5,
+            "marks" : 3.9,
+            "bounces" : 1.4,
+            "tackles" : 2.6,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 9.1,
+            "totalPossessions" : 16.1,
+            "inside50s" : 3.6,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 69.7,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 2.5
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 22.0,
+            "behinds" : 15.0,
+            "superGoals" : null,
+            "kicks" : 239.0,
+            "handballs" : 103.0,
+            "disposals" : 342.0,
+            "marks" : 85.0,
+            "bounces" : 30.0,
+            "tackles" : 58.0,
+            "contestedPossessions" : 154.0,
+            "uncontestedPossessions" : 200.0,
+            "totalPossessions" : 354.0,
+            "inside50s" : 79.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 48.0,
+            "disposalEfficiency" : 82.7,
+            "clangers" : 39.0,
+            "freesFor" : 44.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 1534.0,
+            "clearances" : {
+              "centreClearances" : 14.0,
+              "stoppageClearances" : 40.0,
+              "totalClearances" : 54.0
+            },
+            "rebound50s" : 26.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 52.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 87.4
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 11.1,
+            "handballs" : 4.9,
+            "disposals" : 16.1,
+            "marks" : 2.9,
+            "bounces" : 0.6,
+            "tackles" : 3.2,
+            "contestedPossessions" : 7.3,
+            "uncontestedPossessions" : 8.6,
+            "totalPossessions" : 15.9,
+            "inside50s" : 4.8,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 69.8,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 16.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 178.0,
+            "handballs" : 79.0,
+            "disposals" : 257.0,
+            "marks" : 46.0,
+            "bounces" : 9.0,
+            "tackles" : 52.0,
+            "contestedPossessions" : 117.0,
+            "uncontestedPossessions" : 138.0,
+            "totalPossessions" : 255.0,
+            "inside50s" : 77.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 79.0,
+            "clangers" : 30.0,
+            "freesFor" : 25.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1117.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 27.0,
+              "totalClearances" : 36.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 64.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 6.2,
+            "handballs" : 2.4,
+            "disposals" : 8.7,
+            "marks" : 2.0,
+            "bounces" : 0.1,
+            "tackles" : 2.7,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 4.4,
+            "totalPossessions" : 8.7,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 0.7,
+            "freesFor" : 1.3,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 43.7,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 56.0,
+            "handballs" : 22.0,
+            "disposals" : 78.0,
+            "marks" : 18.0,
+            "bounces" : 1.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 38.0,
+            "uncontestedPossessions" : 40.0,
+            "totalPossessions" : 78.0,
+            "inside50s" : 20.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 78.2,
+            "clangers" : 6.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 393.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200039",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Chapman"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 8.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 74.0,
+      "handballs" : 51.0,
+      "disposals" : 125.0,
+      "marks" : 23.0,
+      "bounces" : 1.0,
+      "tackles" : 31.0,
+      "contestedPossessions" : 49.0,
+      "uncontestedPossessions" : 73.0,
+      "totalPossessions" : 122.0,
+      "inside50s" : 22.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 6.0,
+      "disposalEfficiency" : 68.0,
+      "clangers" : 19.0,
+      "freesFor" : 6.0,
+      "freesAgainst" : 4.0,
+      "dreamTeamPoints" : 563.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 9.0,
+        "totalClearances" : 12.0
+      },
+      "rebound50s" : 5.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 47.1,
+      "ratingPoints" : 340.0,
+      "ranking" : 171.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I200039",
+        "playerName" : {
+          "givenName" : "Paul",
+          "surname" : "Chapman"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T50",
+        "teamAbbr" : "ESS",
+        "teamName" : "Essendon",
+        "teamNickname" : "Bombers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 322.6,
+        "ranking" : 190,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 322.6,
+        "ranking" : 11,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 322.6,
+        "ranking" : 25,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 60.0,
+        "ranking" : 450,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "1999"
+    },
+    "careerGamesPlayed" : 280
+  }
+}

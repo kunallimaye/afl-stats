@@ -1,0 +1,853 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I240158",
+    "position" : "Left Half Back",
+    "surname" : "Murphy",
+    "jumperNumber" : 28,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Ryan",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1985-05-24T02:00:00.000+0000",
+      "draftYear" : "2003",
+      "heightInCm" : 193,
+      "weightInKg" : 92,
+      "recruitedFrom" : "Traralgon/Gippsland U18",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 50.0,
+      "behinds" : 28.0,
+      "superGoals" : null,
+      "kicks" : 241.0,
+      "handballs" : 136.0,
+      "disposals" : 377.0,
+      "marks" : 177.0,
+      "bounces" : 5.0,
+      "tackles" : 46.0,
+      "contestedPossessions" : 133.0,
+      "uncontestedPossessions" : 247.0,
+      "totalPossessions" : 380.0,
+      "inside50s" : 67.0,
+      "marksInside50" : 59.0,
+      "contestedMarks" : 20.0,
+      "hitouts" : 5.0,
+      "onePercenters" : 32.0,
+      "disposalEfficiency" : 78.0,
+      "clangers" : 49.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 25.0,
+      "dreamTeamPoints" : 1986.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 11.0,
+        "totalClearances" : 13.0
+      },
+      "rebound50s" : 14.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 58.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 2.0,
+            "disposals" : 8.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 7.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 67.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240158",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 2.0,
+            "disposals" : 8.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 7.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 75.0,
+            "clangers" : 0.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 67.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240158",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 93.0
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 3.9,
+            "handballs" : 2.0,
+            "disposals" : 5.9,
+            "marks" : 2.6,
+            "bounces" : 0.0,
+            "tackles" : 1.9,
+            "contestedPossessions" : 2.4,
+            "uncontestedPossessions" : 3.3,
+            "totalPossessions" : 5.7,
+            "inside50s" : 0.9,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 38.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240158",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 27.0,
+            "handballs" : 14.0,
+            "disposals" : 41.0,
+            "marks" : 18.0,
+            "bounces" : 0.0,
+            "tackles" : 13.0,
+            "contestedPossessions" : 17.0,
+            "uncontestedPossessions" : 23.0,
+            "totalPossessions" : 40.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 73.2,
+            "clangers" : 8.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 269.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 81.8,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240158",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 78.9
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 1.1,
+            "superGoals" : null,
+            "kicks" : 4.4,
+            "handballs" : 3.4,
+            "disposals" : 7.9,
+            "marks" : 3.4,
+            "bounces" : 0.0,
+            "tackles" : 1.1,
+            "contestedPossessions" : 2.9,
+            "uncontestedPossessions" : 4.7,
+            "totalPossessions" : 7.6,
+            "inside50s" : 2.0,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 38.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240158",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 40.0,
+            "handballs" : 31.0,
+            "disposals" : 71.0,
+            "marks" : 31.0,
+            "bounces" : 0.0,
+            "tackles" : 10.0,
+            "contestedPossessions" : 26.0,
+            "uncontestedPossessions" : 42.0,
+            "totalPossessions" : 68.0,
+            "inside50s" : 18.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 71.8,
+            "clangers" : 13.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 345.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 27.8,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240158",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 75.8
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 4.4,
+            "handballs" : 4.1,
+            "disposals" : 8.6,
+            "marks" : 3.3,
+            "bounces" : 0.0,
+            "tackles" : 0.3,
+            "contestedPossessions" : 2.4,
+            "uncontestedPossessions" : 6.3,
+            "totalPossessions" : 8.7,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.7,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 34.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240158",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 31.0,
+            "handballs" : 29.0,
+            "disposals" : 60.0,
+            "marks" : 23.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 17.0,
+            "uncontestedPossessions" : 44.0,
+            "totalPossessions" : 61.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 78.3,
+            "clangers" : 5.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 243.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240158",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 82.6
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.8,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 7.4,
+            "handballs" : 2.5,
+            "disposals" : 9.9,
+            "marks" : 5.4,
+            "bounces" : 0.2,
+            "tackles" : 0.6,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 6.5,
+            "totalPossessions" : 10.1,
+            "inside50s" : 1.2,
+            "marksInside50" : 2.1,
+            "contestedMarks" : 0.9,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 55.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240158",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 22.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 89.0,
+            "handballs" : 30.0,
+            "disposals" : 119.0,
+            "marks" : 65.0,
+            "bounces" : 3.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 43.0,
+            "uncontestedPossessions" : 78.0,
+            "totalPossessions" : 121.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 25.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 83.2,
+            "clangers" : 12.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 665.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 71.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240158",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 84.6
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 4.4,
+            "handballs" : 2.8,
+            "disposals" : 7.2,
+            "marks" : 3.5,
+            "bounces" : 0.2,
+            "tackles" : 0.7,
+            "contestedPossessions" : 2.2,
+            "uncontestedPossessions" : 5.5,
+            "totalPossessions" : 7.7,
+            "inside50s" : 1.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.1,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 37.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240158",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 44.0,
+            "handballs" : 28.0,
+            "disposals" : 72.0,
+            "marks" : 35.0,
+            "bounces" : 2.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 22.0,
+            "uncontestedPossessions" : 55.0,
+            "totalPossessions" : 77.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 77.8,
+            "clangers" : 10.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 370.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 69.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240158",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 62.8
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.0,
+            "handballs" : 1.0,
+            "disposals" : 3.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 2.5,
+            "uncontestedPossessions" : 0.5,
+            "totalPossessions" : 3.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.5,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 13.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240158",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 2.0,
+            "disposals" : 6.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 1.0,
+            "totalPossessions" : 6.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 83.3,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 27.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240158",
+            "playerName" : {
+              "givenName" : "Ryan",
+              "surname" : "Murphy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 42.7
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 6.0,
+      "handballs" : 2.0,
+      "disposals" : 8.0,
+      "marks" : 3.0,
+      "bounces" : 0.0,
+      "tackles" : 5.0,
+      "contestedPossessions" : 3.0,
+      "uncontestedPossessions" : 4.0,
+      "totalPossessions" : 7.0,
+      "inside50s" : 2.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : 75.0,
+      "clangers" : 0.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 67.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 0.0,
+      "ranking" : 0.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

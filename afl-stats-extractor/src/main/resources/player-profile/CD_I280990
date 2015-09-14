@@ -1,0 +1,898 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280990",
+    "position" : "Centre",
+    "surname" : "Motlop",
+    "jumperNumber" : 32,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.3,
+      "behinds" : 0.8,
+      "superGoals" : null,
+      "kicks" : 11.7,
+      "handballs" : 5.8,
+      "disposals" : 17.4,
+      "marks" : 3.3,
+      "bounces" : 1.6,
+      "tackles" : 2.3,
+      "contestedPossessions" : 5.2,
+      "uncontestedPossessions" : 12.1,
+      "totalPossessions" : 17.2,
+      "inside50s" : 3.7,
+      "marksInside50" : 0.7,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.6,
+      "disposalEfficiency" : null,
+      "clangers" : 2.6,
+      "freesFor" : 0.4,
+      "freesAgainst" : 0.9,
+      "dreamTeamPoints" : 72.2,
+      "clearances" : {
+        "centreClearances" : 0.3,
+        "stoppageClearances" : 0.7,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 0.6,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Steven",
+    "bio" : "<p><br>\n&nbsp;</p>\n\n<p>Consistently excellent in 2013, when he was nominated for the All-Australian squad, Motlop went on to deliver more outstanding highlights of his rare talent last year. The emerging star kicked two audacious checkside goals late in the pulsating nine-point win over Essendon and three majors in the six-point triumph over Carlton in round 21. A knee injury interrupted the start to his season, but he played 17 games.&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GeelongCats/Player Profiles/2015 - Profiles/MOTLOP Steven.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-03-12T02:00:00.000+0000",
+      "draftYear" : "2008",
+      "heightInCm" : 185,
+      "weightInKg" : 79,
+      "recruitedFrom" : "Wanderers (NT)",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 115.0,
+      "behinds" : 74.0,
+      "superGoals" : null,
+      "kicks" : 1026.0,
+      "handballs" : 508.0,
+      "disposals" : 1534.0,
+      "marks" : 294.0,
+      "bounces" : 145.0,
+      "tackles" : 200.0,
+      "contestedPossessions" : 454.0,
+      "uncontestedPossessions" : 1062.0,
+      "totalPossessions" : 1516.0,
+      "inside50s" : 330.0,
+      "marksInside50" : 60.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 50.0,
+      "disposalEfficiency" : 68.6,
+      "clangers" : 227.0,
+      "freesFor" : 37.0,
+      "freesAgainst" : 75.0,
+      "dreamTeamPoints" : 6352.0,
+      "clearances" : {
+        "centreClearances" : 24.0,
+        "stoppageClearances" : 60.0,
+        "totalClearances" : 84.0
+      },
+      "rebound50s" : 92.0,
+      "goalAssists" : 52.0,
+      "goalAccuracy" : 48.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.3,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 14.9,
+            "handballs" : 7.1,
+            "disposals" : 22.0,
+            "marks" : 3.9,
+            "bounces" : 1.2,
+            "tackles" : 3.4,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 16.2,
+            "totalPossessions" : 22.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.2,
+            "disposalEfficiency" : null,
+            "clangers" : 3.2,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 89.7,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280990",
+            "playerName" : {
+              "givenName" : "Steven",
+              "surname" : "Motlop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 26.0,
+            "behinds" : 16.0,
+            "superGoals" : null,
+            "kicks" : 299.0,
+            "handballs" : 142.0,
+            "disposals" : 441.0,
+            "marks" : 78.0,
+            "bounces" : 25.0,
+            "tackles" : 68.0,
+            "contestedPossessions" : 116.0,
+            "uncontestedPossessions" : 324.0,
+            "totalPossessions" : 440.0,
+            "inside50s" : 81.0,
+            "marksInside50" : 21.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 67.8,
+            "clangers" : 65.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 25.0,
+            "dreamTeamPoints" : 1794.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 23.0,
+              "totalClearances" : 35.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 15.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 390.4,
+            "ranking" : 103.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280990",
+            "playerName" : {
+              "givenName" : "Steven",
+              "surname" : "Motlop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 87.2
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 13.4,
+            "handballs" : 6.1,
+            "disposals" : 19.5,
+            "marks" : 4.8,
+            "bounces" : 1.9,
+            "tackles" : 1.6,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 14.4,
+            "totalPossessions" : 19.2,
+            "inside50s" : 4.4,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.9,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 77.4,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280990",
+            "playerName" : {
+              "givenName" : "Steven",
+              "surname" : "Motlop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 16.0,
+            "superGoals" : null,
+            "kicks" : 228.0,
+            "handballs" : 104.0,
+            "disposals" : 332.0,
+            "marks" : 81.0,
+            "bounces" : 33.0,
+            "tackles" : 27.0,
+            "contestedPossessions" : 82.0,
+            "uncontestedPossessions" : 244.0,
+            "totalPossessions" : 326.0,
+            "inside50s" : 74.0,
+            "marksInside50" : 17.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 66.9,
+            "clangers" : 50.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1316.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 41.5,
+            "ratingPoints" : 447.9,
+            "ranking" : 58.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280990",
+            "playerName" : {
+              "givenName" : "Steven",
+              "surname" : "Motlop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 83.8
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.8,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 11.7,
+            "handballs" : 6.1,
+            "disposals" : 17.8,
+            "marks" : 3.2,
+            "bounces" : 2.4,
+            "tackles" : 1.9,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 12.5,
+            "totalPossessions" : 17.7,
+            "inside50s" : 4.3,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 74.9,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280990",
+            "playerName" : {
+              "givenName" : "Steven",
+              "surname" : "Motlop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 44.0,
+            "behinds" : 25.0,
+            "superGoals" : null,
+            "kicks" : 282.0,
+            "handballs" : 146.0,
+            "disposals" : 428.0,
+            "marks" : 78.0,
+            "bounces" : 58.0,
+            "tackles" : 45.0,
+            "contestedPossessions" : 125.0,
+            "uncontestedPossessions" : 301.0,
+            "totalPossessions" : 426.0,
+            "inside50s" : 104.0,
+            "marksInside50" : 14.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 70.6,
+            "clangers" : 58.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 1797.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 17.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 20.0,
+            "goalAccuracy" : 53.0,
+            "ratingPoints" : 434.1,
+            "ranking" : 65.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280990",
+            "playerName" : {
+              "givenName" : "Steven",
+              "surname" : "Motlop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 83.0
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 4.7,
+            "disposals" : 13.5,
+            "marks" : 2.4,
+            "bounces" : 1.2,
+            "tackles" : 2.4,
+            "contestedPossessions" : 5.3,
+            "uncontestedPossessions" : 7.8,
+            "totalPossessions" : 13.1,
+            "inside50s" : 2.9,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 58.3,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280990",
+            "playerName" : {
+              "givenName" : "Steven",
+              "surname" : "Motlop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 26.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 192.0,
+            "handballs" : 104.0,
+            "disposals" : 296.0,
+            "marks" : 52.0,
+            "bounces" : 26.0,
+            "tackles" : 52.0,
+            "contestedPossessions" : 117.0,
+            "uncontestedPossessions" : 171.0,
+            "totalPossessions" : 288.0,
+            "inside50s" : 63.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 68.9,
+            "clangers" : 51.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1283.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 49.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280990",
+            "playerName" : {
+              "givenName" : "Steven",
+              "surname" : "Motlop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 78.0
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 5.7,
+            "handballs" : 3.0,
+            "disposals" : 8.7,
+            "marks" : 1.0,
+            "bounces" : 0.7,
+            "tackles" : 1.7,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 5.2,
+            "totalPossessions" : 8.7,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.7,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 37.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280990",
+            "playerName" : {
+              "givenName" : "Steven",
+              "surname" : "Motlop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 23.0,
+            "handballs" : 12.0,
+            "disposals" : 35.0,
+            "marks" : 4.0,
+            "bounces" : 3.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 14.0,
+            "uncontestedPossessions" : 21.0,
+            "totalPossessions" : 35.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 65.7,
+            "clangers" : 3.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 149.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280990",
+            "playerName" : {
+              "givenName" : "Steven",
+              "surname" : "Motlop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 55.3
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.0,
+            "handballs" : 0.0,
+            "disposals" : 2.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 1.0,
+            "totalPossessions" : 1.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 13.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280990",
+            "playerName" : {
+              "givenName" : "Steven",
+              "surname" : "Motlop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.0,
+            "handballs" : 0.0,
+            "disposals" : 2.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 1.0,
+            "totalPossessions" : 1.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 100.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 13.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280990",
+            "playerName" : {
+              "givenName" : "Steven",
+              "surname" : "Motlop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 16.4
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280990",
+            "playerName" : {
+              "givenName" : "Steven",
+              "surname" : "Motlop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280990",
+            "playerName" : {
+              "givenName" : "Steven",
+              "surname" : "Motlop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 26.0,
+      "behinds" : 16.0,
+      "superGoals" : null,
+      "kicks" : 299.0,
+      "handballs" : 142.0,
+      "disposals" : 441.0,
+      "marks" : 78.0,
+      "bounces" : 25.0,
+      "tackles" : 68.0,
+      "contestedPossessions" : 116.0,
+      "uncontestedPossessions" : 324.0,
+      "totalPossessions" : 440.0,
+      "inside50s" : 81.0,
+      "marksInside50" : 21.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 4.0,
+      "disposalEfficiency" : 67.8,
+      "clangers" : 65.0,
+      "freesFor" : 10.0,
+      "freesAgainst" : 25.0,
+      "dreamTeamPoints" : 1794.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 35.0
+      },
+      "rebound50s" : 30.0,
+      "goalAssists" : 15.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 390.4,
+      "ranking" : 103.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280990",
+        "playerName" : {
+          "givenName" : "Steven",
+          "surname" : "Motlop"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T70",
+        "teamAbbr" : "GEEL",
+        "teamName" : "Geelong Cats",
+        "teamNickname" : "Cats"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 382.0,
+        "ranking" : 114,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 382.0,
+        "ranking" : 10,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 382.0,
+        "ranking" : 8,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 212.0,
+        "ranking" : 129,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2008"
+    },
+    "careerGamesPlayed" : 88
+  }
+}

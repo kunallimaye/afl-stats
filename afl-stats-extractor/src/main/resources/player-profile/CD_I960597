@@ -1,0 +1,956 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960597",
+    "position" : "Left Wing",
+    "surname" : "Grant",
+    "jumperNumber" : 6,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Shannon",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1977-04-19T02:00:00.000+0000",
+      "draftYear" : "1994",
+      "heightInCm" : 180,
+      "weightInKg" : 84,
+      "recruitedFrom" : "Flemington/Western U18/Sydney",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 279.0,
+      "behinds" : 188.0,
+      "superGoals" : null,
+      "kicks" : 2769.0,
+      "handballs" : 1482.0,
+      "disposals" : 4251.0,
+      "marks" : 1114.0,
+      "bounces" : 168.0,
+      "tackles" : 379.0,
+      "contestedPossessions" : 1512.0,
+      "uncontestedPossessions" : 2725.0,
+      "totalPossessions" : 4237.0,
+      "inside50s" : 861.0,
+      "marksInside50" : 252.0,
+      "contestedMarks" : 101.0,
+      "hitouts" : 2.0,
+      "onePercenters" : 234.0,
+      "disposalEfficiency" : 77.3,
+      "clangers" : 467.0,
+      "freesFor" : 194.0,
+      "freesAgainst" : 149.0,
+      "dreamTeamPoints" : 17740.0,
+      "clearances" : {
+        "centreClearances" : 205.0,
+        "stoppageClearances" : 276.0,
+        "totalClearances" : 481.0
+      },
+      "rebound50s" : 286.0,
+      "goalAssists" : 107.0,
+      "goalAccuracy" : 54.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.4,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 6.1,
+            "disposals" : 16.1,
+            "marks" : 5.2,
+            "bounces" : 0.4,
+            "tackles" : 2.0,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 10.1,
+            "totalPossessions" : 15.9,
+            "inside50s" : 3.4,
+            "marksInside50" : 1.5,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 73.9,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960597",
+            "playerName" : {
+              "givenName" : "Shannon",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 29.0,
+            "behinds" : 17.0,
+            "superGoals" : null,
+            "kicks" : 209.0,
+            "handballs" : 129.0,
+            "disposals" : 338.0,
+            "marks" : 110.0,
+            "bounces" : 8.0,
+            "tackles" : 41.0,
+            "contestedPossessions" : 122.0,
+            "uncontestedPossessions" : 212.0,
+            "totalPossessions" : 334.0,
+            "inside50s" : 72.0,
+            "marksInside50" : 32.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 70.4,
+            "clangers" : 40.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1552.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 23.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 16.0,
+            "goalAccuracy" : 55.8,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960597",
+            "playerName" : {
+              "givenName" : "Shannon",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 87.4
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.6,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 11.2,
+            "handballs" : 5.5,
+            "disposals" : 16.7,
+            "marks" : 5.4,
+            "bounces" : 0.6,
+            "tackles" : 1.6,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 11.8,
+            "totalPossessions" : 16.9,
+            "inside50s" : 3.7,
+            "marksInside50" : 1.3,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 76.6,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960597",
+            "playerName" : {
+              "givenName" : "Shannon",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 39.0,
+            "behinds" : 21.0,
+            "superGoals" : null,
+            "kicks" : 281.0,
+            "handballs" : 137.0,
+            "disposals" : 418.0,
+            "marks" : 134.0,
+            "bounces" : 15.0,
+            "tackles" : 40.0,
+            "contestedPossessions" : 128.0,
+            "uncontestedPossessions" : 294.0,
+            "totalPossessions" : 422.0,
+            "inside50s" : 92.0,
+            "marksInside50" : 33.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 69.9,
+            "clangers" : 51.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1915.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 20.0,
+              "totalClearances" : 30.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 22.0,
+            "goalAccuracy" : 55.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960597",
+            "playerName" : {
+              "givenName" : "Shannon",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 88.1
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 13.7,
+            "handballs" : 6.1,
+            "disposals" : 19.8,
+            "marks" : 7.1,
+            "bounces" : 1.1,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 14.3,
+            "totalPossessions" : 19.6,
+            "inside50s" : 3.7,
+            "marksInside50" : 1.9,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 88.1,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960597",
+            "playerName" : {
+              "givenName" : "Shannon",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 21.0,
+            "behinds" : 18.0,
+            "superGoals" : null,
+            "kicks" : 247.0,
+            "handballs" : 109.0,
+            "disposals" : 356.0,
+            "marks" : 127.0,
+            "bounces" : 20.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 94.0,
+            "uncontestedPossessions" : 258.0,
+            "totalPossessions" : 352.0,
+            "inside50s" : 67.0,
+            "marksInside50" : 34.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 70.8,
+            "clangers" : 40.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1586.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 18.0,
+              "totalClearances" : 30.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 48.8,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960597",
+            "playerName" : {
+              "givenName" : "Shannon",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 88.9
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.7,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 12.9,
+            "handballs" : 5.9,
+            "disposals" : 18.7,
+            "marks" : 5.3,
+            "bounces" : 0.6,
+            "tackles" : 1.3,
+            "contestedPossessions" : 7.5,
+            "uncontestedPossessions" : 11.1,
+            "totalPossessions" : 18.6,
+            "inside50s" : 4.3,
+            "marksInside50" : 1.8,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 1.5,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 81.4,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 2.3
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960597",
+            "playerName" : {
+              "givenName" : "Shannon",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 39.0,
+            "behinds" : 24.0,
+            "superGoals" : null,
+            "kicks" : 296.0,
+            "handballs" : 135.0,
+            "disposals" : 431.0,
+            "marks" : 122.0,
+            "bounces" : 13.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 173.0,
+            "uncontestedPossessions" : 255.0,
+            "totalPossessions" : 428.0,
+            "inside50s" : 99.0,
+            "marksInside50" : 42.0,
+            "contestedMarks" : 19.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 74.2,
+            "clangers" : 53.0,
+            "freesFor" : 35.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1873.0,
+            "clearances" : {
+              "centreClearances" : 23.0,
+              "stoppageClearances" : 30.0,
+              "totalClearances" : 53.0
+            },
+            "rebound50s" : 20.0,
+            "goalAssists" : 22.0,
+            "goalAccuracy" : 54.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960597",
+            "playerName" : {
+              "givenName" : "Shannon",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 92.9
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 12.4,
+            "handballs" : 8.8,
+            "disposals" : 21.2,
+            "marks" : 4.0,
+            "bounces" : 0.2,
+            "tackles" : 2.5,
+            "contestedPossessions" : 7.5,
+            "uncontestedPossessions" : 13.5,
+            "totalPossessions" : 21.1,
+            "inside50s" : 4.5,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 83.4,
+            "clearances" : {
+              "centreClearances" : 1.6,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 3.2
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960597",
+            "playerName" : {
+              "givenName" : "Shannon",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 23.0,
+            "behinds" : 18.0,
+            "superGoals" : null,
+            "kicks" : 273.0,
+            "handballs" : 194.0,
+            "disposals" : 467.0,
+            "marks" : 89.0,
+            "bounces" : 5.0,
+            "tackles" : 55.0,
+            "contestedPossessions" : 166.0,
+            "uncontestedPossessions" : 298.0,
+            "totalPossessions" : 464.0,
+            "inside50s" : 100.0,
+            "marksInside50" : 16.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 78.4,
+            "clangers" : 49.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1834.0,
+            "clearances" : {
+              "centreClearances" : 36.0,
+              "stoppageClearances" : 35.0,
+              "totalClearances" : 71.0
+            },
+            "rebound50s" : 31.0,
+            "goalAssists" : 22.0,
+            "goalAccuracy" : 46.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960597",
+            "playerName" : {
+              "givenName" : "Shannon",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 92.1
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.1,
+            "behinds" : 1.1,
+            "superGoals" : null,
+            "kicks" : 14.3,
+            "handballs" : 7.9,
+            "disposals" : 22.3,
+            "marks" : 5.4,
+            "bounces" : 1.6,
+            "tackles" : 2.0,
+            "contestedPossessions" : 6.8,
+            "uncontestedPossessions" : 15.4,
+            "totalPossessions" : 22.3,
+            "inside50s" : 3.9,
+            "marksInside50" : 1.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 89.3,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 2.1
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960597",
+            "playerName" : {
+              "givenName" : "Shannon",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 22.0,
+            "behinds" : 23.0,
+            "superGoals" : null,
+            "kicks" : 287.0,
+            "handballs" : 159.0,
+            "disposals" : 446.0,
+            "marks" : 108.0,
+            "bounces" : 33.0,
+            "tackles" : 41.0,
+            "contestedPossessions" : 137.0,
+            "uncontestedPossessions" : 309.0,
+            "totalPossessions" : 446.0,
+            "inside50s" : 78.0,
+            "marksInside50" : 26.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 78.7,
+            "clangers" : 44.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1786.0,
+            "clearances" : {
+              "centreClearances" : 20.0,
+              "stoppageClearances" : 23.0,
+              "totalClearances" : 43.0
+            },
+            "rebound50s" : 38.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 44.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960597",
+            "playerName" : {
+              "givenName" : "Shannon",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 93.0
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 11.3,
+            "handballs" : 6.3,
+            "disposals" : 17.7,
+            "marks" : 3.8,
+            "bounces" : 1.2,
+            "tackles" : 1.7,
+            "contestedPossessions" : 6.2,
+            "uncontestedPossessions" : 11.6,
+            "totalPossessions" : 17.9,
+            "inside50s" : 4.4,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 68.6,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 2.5
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960597",
+            "playerName" : {
+              "givenName" : "Shannon",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 17.0,
+            "superGoals" : null,
+            "kicks" : 227.0,
+            "handballs" : 127.0,
+            "disposals" : 354.0,
+            "marks" : 76.0,
+            "bounces" : 25.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 125.0,
+            "uncontestedPossessions" : 233.0,
+            "totalPossessions" : 358.0,
+            "inside50s" : 89.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 80.2,
+            "clangers" : 31.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1373.0,
+            "clearances" : {
+              "centreClearances" : 15.0,
+              "stoppageClearances" : 36.0,
+              "totalClearances" : 51.0
+            },
+            "rebound50s" : 22.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960597",
+            "playerName" : {
+              "givenName" : "Shannon",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.3,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 15.7,
+            "handballs" : 8.1,
+            "disposals" : 23.9,
+            "marks" : 5.0,
+            "bounces" : 0.7,
+            "tackles" : 2.3,
+            "contestedPossessions" : 10.4,
+            "uncontestedPossessions" : 13.6,
+            "totalPossessions" : 24.0,
+            "inside50s" : 3.5,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 96.2,
+            "clearances" : {
+              "centreClearances" : 2.4,
+              "stoppageClearances" : 2.2,
+              "totalClearances" : 4.6
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960597",
+            "playerName" : {
+              "givenName" : "Shannon",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 26.0,
+            "behinds" : 21.0,
+            "superGoals" : null,
+            "kicks" : 315.0,
+            "handballs" : 163.0,
+            "disposals" : 478.0,
+            "marks" : 101.0,
+            "bounces" : 14.0,
+            "tackles" : 47.0,
+            "contestedPossessions" : 208.0,
+            "uncontestedPossessions" : 272.0,
+            "totalPossessions" : 480.0,
+            "inside50s" : 70.0,
+            "marksInside50" : 21.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 39.0,
+            "disposalEfficiency" : 82.0,
+            "clangers" : 40.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1924.0,
+            "clearances" : {
+              "centreClearances" : 48.0,
+              "stoppageClearances" : 44.0,
+              "totalClearances" : 92.0
+            },
+            "rebound50s" : 43.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 55.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960597",
+            "playerName" : {
+              "givenName" : "Shannon",
+              "surname" : "Grant"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 29.0,
+      "behinds" : 17.0,
+      "superGoals" : null,
+      "kicks" : 209.0,
+      "handballs" : 129.0,
+      "disposals" : 338.0,
+      "marks" : 110.0,
+      "bounces" : 8.0,
+      "tackles" : 41.0,
+      "contestedPossessions" : 122.0,
+      "uncontestedPossessions" : 212.0,
+      "totalPossessions" : 334.0,
+      "inside50s" : 72.0,
+      "marksInside50" : 32.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 15.0,
+      "disposalEfficiency" : 70.4,
+      "clangers" : 40.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 1552.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 13.0,
+        "totalClearances" : 23.0
+      },
+      "rebound50s" : 6.0,
+      "goalAssists" : 16.0,
+      "goalAccuracy" : 55.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

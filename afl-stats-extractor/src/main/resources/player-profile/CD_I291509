@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291509",
+    "position" : "Left Back Pocket",
+    "surname" : "Kennedy",
+    "jumperNumber" : 40,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 7.8,
+      "handballs" : 7.0,
+      "disposals" : 14.8,
+      "marks" : 4.2,
+      "bounces" : 0.8,
+      "tackles" : 1.8,
+      "contestedPossessions" : 3.5,
+      "uncontestedPossessions" : 11.0,
+      "totalPossessions" : 14.4,
+      "inside50s" : 1.2,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.9,
+      "disposalEfficiency" : null,
+      "clangers" : 1.4,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.4,
+      "dreamTeamPoints" : 56.6,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.3,
+        "totalClearances" : 0.4
+      },
+      "rebound50s" : 2.3,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Adam",
+    "bio" : "<p>Melton&rsquo;s Adam Kennedy joined the GIANTS from the Western Jets in 2011 after being overlooked in the 2010 draft. The defender made an outstanding AFL debut in Round 1, 2012 collecting 28 disposals and taking 11 marks and has gone on to be a key member of the GIANTS defence.<br /> &nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2015 - Profiles/KENNEDY Adam.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-07-12T02:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 181,
+      "weightInKg" : 78,
+      "recruitedFrom" : "Melton (Vic)/Western U18",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 4.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 476.0,
+      "handballs" : 424.0,
+      "disposals" : 900.0,
+      "marks" : 254.0,
+      "bounces" : 46.0,
+      "tackles" : 107.0,
+      "contestedPossessions" : 212.0,
+      "uncontestedPossessions" : 669.0,
+      "totalPossessions" : 881.0,
+      "inside50s" : 72.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 118.0,
+      "disposalEfficiency" : 80.1,
+      "clangers" : 85.0,
+      "freesFor" : 28.0,
+      "freesAgainst" : 23.0,
+      "dreamTeamPoints" : 3454.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 26.0
+      },
+      "rebound50s" : 143.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 40.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 7.0,
+            "disposals" : 15.0,
+            "marks" : 5.0,
+            "bounces" : 0.9,
+            "tackles" : 0.9,
+            "contestedPossessions" : 2.7,
+            "uncontestedPossessions" : 11.9,
+            "totalPossessions" : 14.6,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 0.9,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 57.1,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.9,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291509",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 56.0,
+            "handballs" : 49.0,
+            "disposals" : 105.0,
+            "marks" : 35.0,
+            "bounces" : 6.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 19.0,
+            "uncontestedPossessions" : 83.0,
+            "totalPossessions" : 102.0,
+            "inside50s" : 11.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 86.7,
+            "clangers" : 6.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 400.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 20.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 168.1,
+            "ranking" : 409.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291509",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 79.0
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 7.4,
+            "disposals" : 16.4,
+            "marks" : 4.8,
+            "bounces" : 1.4,
+            "tackles" : 1.9,
+            "contestedPossessions" : 2.8,
+            "uncontestedPossessions" : 13.1,
+            "totalPossessions" : 16.0,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.1,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 64.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291509",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 180.0,
+            "handballs" : 148.0,
+            "disposals" : 328.0,
+            "marks" : 97.0,
+            "bounces" : 28.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 57.0,
+            "uncontestedPossessions" : 263.0,
+            "totalPossessions" : 320.0,
+            "inside50s" : 36.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 43.0,
+            "disposalEfficiency" : 78.4,
+            "clangers" : 29.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 1288.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 55.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : 226.3,
+            "ranking" : 332.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291509",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 84.5
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.3,
+            "handballs" : 6.4,
+            "disposals" : 13.7,
+            "marks" : 3.7,
+            "bounces" : 0.3,
+            "tackles" : 1.8,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 9.6,
+            "totalPossessions" : 13.6,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 52.1,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291509",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 139.0,
+            "handballs" : 121.0,
+            "disposals" : 260.0,
+            "marks" : 71.0,
+            "bounces" : 6.0,
+            "tackles" : 35.0,
+            "contestedPossessions" : 77.0,
+            "uncontestedPossessions" : 182.0,
+            "totalPossessions" : 259.0,
+            "inside50s" : 18.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 32.0,
+            "disposalEfficiency" : 79.2,
+            "clangers" : 30.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 989.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 39.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 186.9,
+            "ranking" : 371.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291509",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 85.1
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.7,
+            "handballs" : 7.1,
+            "disposals" : 13.8,
+            "marks" : 3.4,
+            "bounces" : 0.4,
+            "tackles" : 1.8,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 9.4,
+            "totalPossessions" : 13.3,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 51.8,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291509",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 101.0,
+            "handballs" : 106.0,
+            "disposals" : 207.0,
+            "marks" : 51.0,
+            "bounces" : 6.0,
+            "tackles" : 27.0,
+            "contestedPossessions" : 59.0,
+            "uncontestedPossessions" : 141.0,
+            "totalPossessions" : 200.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 80.2,
+            "clangers" : 20.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 777.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 29.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291509",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 80.7
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 56.0,
+      "handballs" : 49.0,
+      "disposals" : 105.0,
+      "marks" : 35.0,
+      "bounces" : 6.0,
+      "tackles" : 6.0,
+      "contestedPossessions" : 19.0,
+      "uncontestedPossessions" : 83.0,
+      "totalPossessions" : 102.0,
+      "inside50s" : 11.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 9.0,
+      "disposalEfficiency" : 86.7,
+      "clangers" : 6.0,
+      "freesFor" : 4.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 400.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 3.0
+      },
+      "rebound50s" : 20.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 168.1,
+      "ranking" : 409.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291509",
+        "playerName" : {
+          "givenName" : "Adam",
+          "surname" : "Kennedy"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 177.9,
+        "ranking" : 396,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 177.9,
+        "ranking" : 21,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 177.9,
+        "ranking" : 81,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 46.0,
+        "ranking" : 491,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 61
+  }
+}

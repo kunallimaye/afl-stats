@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I294172",
+    "position" : "Full Forward",
+    "surname" : "Gault",
+    "jumperNumber" : 44,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.0,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 4.7,
+      "handballs" : 3.5,
+      "disposals" : 8.2,
+      "marks" : 2.0,
+      "bounces" : 0.0,
+      "tackles" : 2.2,
+      "contestedPossessions" : 4.7,
+      "uncontestedPossessions" : 3.5,
+      "totalPossessions" : 8.2,
+      "inside50s" : 1.0,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.5,
+      "hitouts" : 2.2,
+      "onePercenters" : 2.7,
+      "disposalEfficiency" : null,
+      "clangers" : 1.0,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.2,
+      "dreamTeamPoints" : 44.5,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.5,
+        "totalClearances" : 0.7
+      },
+      "rebound50s" : 0.5,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Corey",
+    "bio" : "<p>An athletic key position player who can be used at either end of the ground. He arrived at the club a growth spurt saw him morph from a midfielder into a makeshift ruckman during his final years with Swan Districts in Western Australian. Gault looms as an intriguing prospect on the eve of his fourth season at the club, having debuted in the final round of 2014 and not looked out of place up forward. Delisted at the end of 2013, Gault was able to make inroads on the rookie list, kicking 13 goals in the VFL after damaging his collarbone earlier in the season. With his injuries behind him and his confidence high after a strong end to 2014, Gault will be looking to further his senior credentials this year.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Collingwood/Player Profiles/2015 - Profiles/GAULT Corey.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-10-28T01:00:00.000+0000",
+      "draftYear" : "2014",
+      "heightInCm" : 199,
+      "weightInKg" : 96,
+      "recruitedFrom" : "Brookton-Pingelly (WA)/Swan Districts (WAFL)",
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 4.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 19.0,
+      "handballs" : 14.0,
+      "disposals" : 33.0,
+      "marks" : 8.0,
+      "bounces" : 0.0,
+      "tackles" : 9.0,
+      "contestedPossessions" : 19.0,
+      "uncontestedPossessions" : 14.0,
+      "totalPossessions" : 33.0,
+      "inside50s" : 4.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 9.0,
+      "onePercenters" : 11.0,
+      "disposalEfficiency" : 75.8,
+      "clangers" : 4.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 178.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 3.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 4.3,
+            "handballs" : 4.3,
+            "disposals" : 8.7,
+            "marks" : 1.7,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 9.0,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 1.7,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 0.7,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 39.0,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294172",
+            "playerName" : {
+              "givenName" : "Corey",
+              "surname" : "Gault"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 13.0,
+            "handballs" : 13.0,
+            "disposals" : 26.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 15.0,
+            "uncontestedPossessions" : 12.0,
+            "totalPossessions" : 27.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 84.6,
+            "clangers" : 2.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 117.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 32.1,
+            "ranking" : 619.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294172",
+            "playerName" : {
+              "givenName" : "Corey",
+              "surname" : "Gault"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 81.5
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 1.0,
+            "disposals" : 7.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 2.0,
+            "totalPossessions" : 6.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 61.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294172",
+            "playerName" : {
+              "givenName" : "Corey",
+              "surname" : "Gault"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 1.0,
+            "disposals" : 7.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 2.0,
+            "totalPossessions" : 6.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 42.9,
+            "clangers" : 2.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 61.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294172",
+            "playerName" : {
+              "givenName" : "Corey",
+              "surname" : "Gault"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 91.8
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294172",
+            "playerName" : {
+              "givenName" : "Corey",
+              "surname" : "Gault"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294172",
+            "playerName" : {
+              "givenName" : "Corey",
+              "surname" : "Gault"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294172",
+            "playerName" : {
+              "givenName" : "Corey",
+              "surname" : "Gault"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294172",
+            "playerName" : {
+              "givenName" : "Corey",
+              "surname" : "Gault"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 13.0,
+      "handballs" : 13.0,
+      "disposals" : 26.0,
+      "marks" : 5.0,
+      "bounces" : 0.0,
+      "tackles" : 5.0,
+      "contestedPossessions" : 15.0,
+      "uncontestedPossessions" : 12.0,
+      "totalPossessions" : 27.0,
+      "inside50s" : 4.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 5.0,
+      "onePercenters" : 7.0,
+      "disposalEfficiency" : 84.6,
+      "clangers" : 2.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 117.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 3.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : 32.1,
+      "ranking" : 619.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I294172",
+        "playerName" : {
+          "givenName" : "Corey",
+          "surname" : "Gault"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T40",
+        "teamAbbr" : "COLL",
+        "teamName" : "Collingwood",
+        "teamNickname" : "Magpies"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 32.1,
+        "ranking" : 619,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 32.1,
+        "ranking" : 37,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 32.1,
+        "ranking" : 58,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 21.5,
+        "ranking" : 561,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 4
+  }
+}

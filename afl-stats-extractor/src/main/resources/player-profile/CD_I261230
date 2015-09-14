@@ -1,0 +1,1001 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I261230",
+    "position" : "Ruck",
+    "surname" : "Lobbe",
+    "jumperNumber" : 23,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 4.9,
+      "handballs" : 5.4,
+      "disposals" : 10.3,
+      "marks" : 2.3,
+      "bounces" : 0.0,
+      "tackles" : 5.2,
+      "contestedPossessions" : 5.7,
+      "uncontestedPossessions" : 4.6,
+      "totalPossessions" : 10.4,
+      "inside50s" : 1.4,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.8,
+      "hitouts" : 27.3,
+      "onePercenters" : 3.2,
+      "disposalEfficiency" : null,
+      "clangers" : 2.8,
+      "freesFor" : 1.3,
+      "freesAgainst" : 1.9,
+      "dreamTeamPoints" : 77.9,
+      "clearances" : {
+        "centreClearances" : 1.2,
+        "stoppageClearances" : 1.4,
+        "totalClearances" : 2.5
+      },
+      "rebound50s" : 0.6,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Matthew",
+    "bio" : "<p>Shouldering the ruck burden virtually single-handedly as the Power&rsquo;s only fit big man by the end of last season, Lobbe became one of the League&rsquo;s best. His dominance in the middle of the ground was incredible at times and he finished fourth in the AFL for hit-outs (761) and tackles (157). Lobbe was fifth in Port&rsquo;s best and fairest and was the only ruckman in the AFL inside the top 20 for tackles last year.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/PortAdelaide/Player Profiles/2015 profiles/LOBBE Matthew.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1989-02-12T01:00:00.000+0000",
+      "draftYear" : "2007",
+      "heightInCm" : 200,
+      "weightInKg" : 97,
+      "recruitedFrom" : "Monbulk/Eastern U18",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 21.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 412.0,
+      "handballs" : 450.0,
+      "disposals" : 862.0,
+      "marks" : 193.0,
+      "bounces" : 0.0,
+      "tackles" : 441.0,
+      "contestedPossessions" : 483.0,
+      "uncontestedPossessions" : 387.0,
+      "totalPossessions" : 870.0,
+      "inside50s" : 114.0,
+      "marksInside50" : 15.0,
+      "contestedMarks" : 64.0,
+      "hitouts" : 2292.0,
+      "onePercenters" : 265.0,
+      "disposalEfficiency" : 65.2,
+      "clangers" : 234.0,
+      "freesFor" : 109.0,
+      "freesAgainst" : 157.0,
+      "dreamTeamPoints" : 6544.0,
+      "clearances" : {
+        "centreClearances" : 98.0,
+        "stoppageClearances" : 114.0,
+        "totalClearances" : 212.0
+      },
+      "rebound50s" : 47.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 65.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.1,
+            "handballs" : 4.2,
+            "disposals" : 8.3,
+            "marks" : 1.8,
+            "bounces" : 0.0,
+            "tackles" : 5.8,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 3.8,
+            "totalPossessions" : 8.5,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.8,
+            "hitouts" : 30.4,
+            "onePercenters" : 3.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 1.4,
+            "freesAgainst" : 1.6,
+            "dreamTeamPoints" : 77.8,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261230",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Lobbe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 70.0,
+            "handballs" : 71.0,
+            "disposals" : 141.0,
+            "marks" : 30.0,
+            "bounces" : 0.0,
+            "tackles" : 98.0,
+            "contestedPossessions" : 80.0,
+            "uncontestedPossessions" : 65.0,
+            "totalPossessions" : 145.0,
+            "inside50s" : 22.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 517.0,
+            "onePercenters" : 60.0,
+            "disposalEfficiency" : 70.2,
+            "clangers" : 44.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 27.0,
+            "dreamTeamPoints" : 1323.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 18.0,
+              "totalClearances" : 30.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 307.7,
+            "ranking" : 215.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261230",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Lobbe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 83.3
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 4.9,
+            "handballs" : 5.6,
+            "disposals" : 10.5,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 6.5,
+            "contestedPossessions" : 6.1,
+            "uncontestedPossessions" : 4.7,
+            "totalPossessions" : 10.8,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.5,
+            "hitouts" : 31.7,
+            "onePercenters" : 3.8,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 1.6,
+            "freesAgainst" : 2.2,
+            "dreamTeamPoints" : 86.5,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 2.9
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261230",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Lobbe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 118.0,
+            "handballs" : 134.0,
+            "disposals" : 252.0,
+            "marks" : 49.0,
+            "bounces" : 0.0,
+            "tackles" : 157.0,
+            "contestedPossessions" : 147.0,
+            "uncontestedPossessions" : 113.0,
+            "totalPossessions" : 260.0,
+            "inside50s" : 31.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 761.0,
+            "onePercenters" : 91.0,
+            "disposalEfficiency" : 67.1,
+            "clangers" : 73.0,
+            "freesFor" : 38.0,
+            "freesAgainst" : 53.0,
+            "dreamTeamPoints" : 2077.0,
+            "clearances" : {
+              "centreClearances" : 29.0,
+              "stoppageClearances" : 40.0,
+              "totalClearances" : 69.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 54.5,
+            "ratingPoints" : 339.8,
+            "ranking" : 173.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261230",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Lobbe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 86.1
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.6,
+            "handballs" : 6.2,
+            "disposals" : 11.8,
+            "marks" : 2.7,
+            "bounces" : 0.0,
+            "tackles" : 4.9,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 5.7,
+            "totalPossessions" : 11.7,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.9,
+            "hitouts" : 28.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.6,
+            "dreamTeamPoints" : 82.3,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 2.6
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261230",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Lobbe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 117.0,
+            "handballs" : 130.0,
+            "disposals" : 247.0,
+            "marks" : 57.0,
+            "bounces" : 0.0,
+            "tackles" : 103.0,
+            "contestedPossessions" : 125.0,
+            "uncontestedPossessions" : 120.0,
+            "totalPossessions" : 245.0,
+            "inside50s" : 35.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 18.0,
+            "hitouts" : 588.0,
+            "onePercenters" : 63.0,
+            "disposalEfficiency" : 61.9,
+            "clangers" : 52.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 33.0,
+            "dreamTeamPoints" : 1729.0,
+            "clearances" : {
+              "centreClearances" : 32.0,
+              "stoppageClearances" : 23.0,
+              "totalClearances" : 55.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 57.1,
+            "ratingPoints" : 226.1,
+            "ranking" : 324.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261230",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Lobbe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 85.4
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 5.1,
+            "handballs" : 5.2,
+            "disposals" : 10.3,
+            "marks" : 2.6,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 5.9,
+            "uncontestedPossessions" : 4.1,
+            "totalPossessions" : 10.0,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.9,
+            "hitouts" : 18.2,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 3.4,
+            "freesFor" : 1.7,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 66.9,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 2.7
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261230",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Lobbe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 46.0,
+            "handballs" : 47.0,
+            "disposals" : 93.0,
+            "marks" : 23.0,
+            "bounces" : 0.0,
+            "tackles" : 36.0,
+            "contestedPossessions" : 53.0,
+            "uncontestedPossessions" : 37.0,
+            "totalPossessions" : 90.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 164.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 66.7,
+            "clangers" : 31.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 602.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 24.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 71.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261230",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Lobbe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 76.1
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.8,
+            "handballs" : 6.4,
+            "disposals" : 12.2,
+            "marks" : 3.2,
+            "bounces" : 0.0,
+            "tackles" : 3.9,
+            "contestedPossessions" : 7.2,
+            "uncontestedPossessions" : 5.1,
+            "totalPossessions" : 12.3,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 1.1,
+            "hitouts" : 22.7,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 3.4,
+            "freesFor" : 1.2,
+            "freesAgainst" : 2.6,
+            "dreamTeamPoints" : 72.2,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 2.1,
+              "totalClearances" : 3.3
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261230",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Lobbe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 58.0,
+            "handballs" : 64.0,
+            "disposals" : 122.0,
+            "marks" : 32.0,
+            "bounces" : 0.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 72.0,
+            "uncontestedPossessions" : 51.0,
+            "totalPossessions" : 123.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 227.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 59.8,
+            "clangers" : 34.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 26.0,
+            "dreamTeamPoints" : 722.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 21.0,
+              "totalClearances" : 33.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261230",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Lobbe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 78.9
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 1.0,
+            "handballs" : 1.3,
+            "disposals" : 2.3,
+            "marks" : 0.7,
+            "bounces" : 0.0,
+            "tackles" : 2.7,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 0.3,
+            "totalPossessions" : 2.3,
+            "inside50s" : 0.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.7,
+            "hitouts" : 11.7,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 30.3,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261230",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Lobbe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 4.0,
+            "disposals" : 7.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 8.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 1.0,
+            "totalPossessions" : 7.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 35.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 85.7,
+            "clangers" : 0.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 91.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261230",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Lobbe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 50.1
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261230",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Lobbe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261230",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Lobbe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261230",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Lobbe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261230",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Lobbe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 5.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 70.0,
+      "handballs" : 71.0,
+      "disposals" : 141.0,
+      "marks" : 30.0,
+      "bounces" : 0.0,
+      "tackles" : 98.0,
+      "contestedPossessions" : 80.0,
+      "uncontestedPossessions" : 65.0,
+      "totalPossessions" : 145.0,
+      "inside50s" : 22.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 517.0,
+      "onePercenters" : 60.0,
+      "disposalEfficiency" : 70.2,
+      "clangers" : 44.0,
+      "freesFor" : 23.0,
+      "freesAgainst" : 27.0,
+      "dreamTeamPoints" : 1323.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 13.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 100.0,
+      "ratingPoints" : 307.7,
+      "ranking" : 215.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I261230",
+        "playerName" : {
+          "givenName" : "Matthew",
+          "surname" : "Lobbe"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T110",
+        "teamAbbr" : "PORT",
+        "teamName" : "Port Adelaide",
+        "teamNickname" : "Power"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 307.1,
+        "ranking" : 220,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 307.1,
+        "ranking" : 15,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 307.1,
+        "ranking" : 12,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 132.7,
+        "ranking" : 286,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2007"
+    },
+    "careerGamesPlayed" : 84
+  }
+}

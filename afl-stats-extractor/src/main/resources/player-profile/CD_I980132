@@ -1,0 +1,750 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I980132",
+    "position" : "Full Back",
+    "surname" : "Bishop",
+    "jumperNumber" : 19,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Matthew",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1975-07-11T02:00:00.000+0000",
+      "draftYear" : "1998",
+      "heightInCm" : 195,
+      "weightInKg" : 95,
+      "recruitedFrom" : "Box Hill/Melbourne",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 5.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 978.0,
+      "handballs" : 468.0,
+      "disposals" : 1446.0,
+      "marks" : 575.0,
+      "bounces" : 128.0,
+      "tackles" : 105.0,
+      "contestedPossessions" : 409.0,
+      "uncontestedPossessions" : 1007.0,
+      "totalPossessions" : 1416.0,
+      "inside50s" : 136.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 61.0,
+      "hitouts" : 97.0,
+      "onePercenters" : 354.0,
+      "disposalEfficiency" : 85.6,
+      "clangers" : 170.0,
+      "freesFor" : 41.0,
+      "freesAgainst" : 72.0,
+      "dreamTeamPoints" : 5974.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 55.0,
+        "totalClearances" : 67.0
+      },
+      "rebound50s" : 412.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 35.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.3,
+            "handballs" : 3.7,
+            "disposals" : 10.0,
+            "marks" : 3.7,
+            "bounces" : 0.5,
+            "tackles" : 0.7,
+            "contestedPossessions" : 2.1,
+            "uncontestedPossessions" : 7.6,
+            "totalPossessions" : 9.7,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 3.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 39.2,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980132",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Bishop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 101.0,
+            "handballs" : 59.0,
+            "disposals" : 160.0,
+            "marks" : 59.0,
+            "bounces" : 8.0,
+            "tackles" : 11.0,
+            "contestedPossessions" : 34.0,
+            "uncontestedPossessions" : 121.0,
+            "totalPossessions" : 155.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 56.0,
+            "disposalEfficiency" : 81.9,
+            "clangers" : 23.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 628.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 34.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980132",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Bishop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 95.8
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.1,
+            "handballs" : 3.8,
+            "disposals" : 10.9,
+            "marks" : 4.6,
+            "bounces" : 1.0,
+            "tackles" : 0.5,
+            "contestedPossessions" : 2.3,
+            "uncontestedPossessions" : 7.7,
+            "totalPossessions" : 10.0,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.1,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 43.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 3.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980132",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Bishop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 142.0,
+            "handballs" : 77.0,
+            "disposals" : 219.0,
+            "marks" : 92.0,
+            "bounces" : 21.0,
+            "tackles" : 10.0,
+            "contestedPossessions" : 47.0,
+            "uncontestedPossessions" : 154.0,
+            "totalPossessions" : 201.0,
+            "inside50s" : 24.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 69.0,
+            "disposalEfficiency" : 84.0,
+            "clangers" : 27.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 876.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 62.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980132",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Bishop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 96.3
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 4.4,
+            "disposals" : 11.5,
+            "marks" : 4.5,
+            "bounces" : 0.9,
+            "tackles" : 1.1,
+            "contestedPossessions" : 2.2,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 11.2,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.3,
+            "onePercenters" : 3.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 47.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 4.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980132",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Bishop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 172.0,
+            "handballs" : 105.0,
+            "disposals" : 277.0,
+            "marks" : 109.0,
+            "bounces" : 21.0,
+            "tackles" : 27.0,
+            "contestedPossessions" : 52.0,
+            "uncontestedPossessions" : 216.0,
+            "totalPossessions" : 268.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 91.0,
+            "disposalEfficiency" : 86.6,
+            "clangers" : 31.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1137.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 101.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980132",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Bishop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 97.9
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.3,
+            "handballs" : 3.4,
+            "disposals" : 10.6,
+            "marks" : 5.1,
+            "bounces" : 1.0,
+            "tackles" : 0.8,
+            "contestedPossessions" : 2.6,
+            "uncontestedPossessions" : 7.8,
+            "totalPossessions" : 10.4,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.5,
+            "onePercenters" : 3.2,
+            "disposalEfficiency" : null,
+            "clangers" : 0.7,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 46.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 3.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980132",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Bishop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 160.0,
+            "handballs" : 74.0,
+            "disposals" : 234.0,
+            "marks" : 112.0,
+            "bounces" : 22.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 57.0,
+            "uncontestedPossessions" : 172.0,
+            "totalPossessions" : 229.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 11.0,
+            "onePercenters" : 71.0,
+            "disposalEfficiency" : 87.6,
+            "clangers" : 15.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 1030.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 72.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980132",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Bishop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 95.5
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.5,
+            "handballs" : 2.9,
+            "disposals" : 11.4,
+            "marks" : 4.7,
+            "bounces" : 0.8,
+            "tackles" : 0.8,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 11.7,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.5,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 48.0,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980132",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Bishop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 212.0,
+            "handballs" : 72.0,
+            "disposals" : 284.0,
+            "marks" : 118.0,
+            "bounces" : 21.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 92.0,
+            "uncontestedPossessions" : 200.0,
+            "totalPossessions" : 292.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 16.0,
+            "hitouts" : 13.0,
+            "onePercenters" : 54.0,
+            "disposalEfficiency" : 87.7,
+            "clangers" : 29.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1200.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 76.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 28.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980132",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Bishop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 1.9,
+            "disposals" : 7.5,
+            "marks" : 3.2,
+            "bounces" : 0.7,
+            "tackles" : 0.7,
+            "contestedPossessions" : 2.7,
+            "uncontestedPossessions" : 4.9,
+            "totalPossessions" : 7.6,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 2.5,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 34.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980132",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Bishop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 61.0,
+            "handballs" : 21.0,
+            "disposals" : 82.0,
+            "marks" : 35.0,
+            "bounces" : 8.0,
+            "tackles" : 8.0,
+            "contestedPossessions" : 30.0,
+            "uncontestedPossessions" : 54.0,
+            "totalPossessions" : 84.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 27.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 85.4,
+            "clangers" : 12.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 379.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980132",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Bishop"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 101.0,
+      "handballs" : 59.0,
+      "disposals" : 160.0,
+      "marks" : 59.0,
+      "bounces" : 8.0,
+      "tackles" : 11.0,
+      "contestedPossessions" : 34.0,
+      "uncontestedPossessions" : 121.0,
+      "totalPossessions" : 155.0,
+      "inside50s" : 12.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 56.0,
+      "disposalEfficiency" : 81.9,
+      "clangers" : 23.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 6.0,
+      "dreamTeamPoints" : 628.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 34.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

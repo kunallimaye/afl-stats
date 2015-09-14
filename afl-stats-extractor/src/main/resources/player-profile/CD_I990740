@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I990740",
+    "position" : "Left Half Forward",
+    "surname" : "Lobb",
+    "jumperNumber" : 37,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 4.1,
+      "handballs" : 3.9,
+      "disposals" : 8.0,
+      "marks" : 3.1,
+      "bounces" : 0.0,
+      "tackles" : 3.1,
+      "contestedPossessions" : 4.4,
+      "uncontestedPossessions" : 3.9,
+      "totalPossessions" : 8.3,
+      "inside50s" : 0.3,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 1.4,
+      "hitouts" : 7.5,
+      "onePercenters" : 3.1,
+      "disposalEfficiency" : null,
+      "clangers" : 1.3,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 52.2,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.2
+      },
+      "rebound50s" : 0.2,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Rory",
+    "bio" : "<p>Rory Lobb is a developing, athletic ruckman from Western Australia who was drafted by the GIANTS at pick 29 in the 2013 NAB AFL Draft. Standing at 206cm tall, Lobb is the tallest player on the GIANTS list and is a good contested mark. From a basketball background, Lobb shows deft touch with his ruck work and has developed the ability to push forward and present an imposing target.<br /><br /></p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2015 - Profiles/LOBB Rory.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-02-09T01:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 205,
+      "weightInKg" : 96,
+      "recruitedFrom" : null,
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 7.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 45.0,
+      "handballs" : 43.0,
+      "disposals" : 88.0,
+      "marks" : 34.0,
+      "bounces" : 0.0,
+      "tackles" : 34.0,
+      "contestedPossessions" : 48.0,
+      "uncontestedPossessions" : 43.0,
+      "totalPossessions" : 91.0,
+      "inside50s" : 3.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 15.0,
+      "hitouts" : 83.0,
+      "onePercenters" : 34.0,
+      "disposalEfficiency" : 78.4,
+      "clangers" : 14.0,
+      "freesFor" : 8.0,
+      "freesAgainst" : 7.0,
+      "dreamTeamPoints" : 574.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 63.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 4.3,
+            "handballs" : 4.0,
+            "disposals" : 8.3,
+            "marks" : 3.2,
+            "bounces" : 0.0,
+            "tackles" : 3.2,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 8.6,
+            "inside50s" : 0.3,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 1.6,
+            "hitouts" : 8.9,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 55.1,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990740",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Lobb"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 39.0,
+            "handballs" : 36.0,
+            "disposals" : 75.0,
+            "marks" : 29.0,
+            "bounces" : 0.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 41.0,
+            "uncontestedPossessions" : 36.0,
+            "totalPossessions" : 77.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 14.0,
+            "hitouts" : 80.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 76.0,
+            "clangers" : 13.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 496.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : 82.2,
+            "ranking" : 518.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990740",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Lobb"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 85.3
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 3.5,
+            "disposals" : 6.5,
+            "marks" : 2.5,
+            "bounces" : 0.0,
+            "tackles" : 2.5,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 3.5,
+            "totalPossessions" : 7.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.5,
+            "hitouts" : 1.5,
+            "onePercenters" : 4.5,
+            "disposalEfficiency" : null,
+            "clangers" : 0.5,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 39.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990740",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Lobb"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 7.0,
+            "disposals" : 13.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 14.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 92.3,
+            "clangers" : 1.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 78.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 11.2,
+            "ranking" : 667.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990740",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Lobb"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 83.6
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 6.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 39.0,
+      "handballs" : 36.0,
+      "disposals" : 75.0,
+      "marks" : 29.0,
+      "bounces" : 0.0,
+      "tackles" : 29.0,
+      "contestedPossessions" : 41.0,
+      "uncontestedPossessions" : 36.0,
+      "totalPossessions" : 77.0,
+      "inside50s" : 3.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 80.0,
+      "onePercenters" : 25.0,
+      "disposalEfficiency" : 76.0,
+      "clangers" : 13.0,
+      "freesFor" : 6.0,
+      "freesAgainst" : 7.0,
+      "dreamTeamPoints" : 496.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 60.0,
+      "ratingPoints" : 82.2,
+      "ranking" : 518.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I990740",
+        "playerName" : {
+          "givenName" : "Rory",
+          "surname" : "Lobb"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 82.2,
+        "ranking" : 519,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 82.2,
+        "ranking" : 31,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 82.2,
+        "ranking" : 42,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 71.0,
+        "ranking" : 423,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 11
+  }
+}

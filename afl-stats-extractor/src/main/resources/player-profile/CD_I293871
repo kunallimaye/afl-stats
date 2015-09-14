@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I293871",
+    "position" : "Right Wing",
+    "surname" : "Crisp",
+    "jumperNumber" : 25,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.5,
+      "superGoals" : null,
+      "kicks" : 10.3,
+      "handballs" : 7.8,
+      "disposals" : 18.1,
+      "marks" : 3.6,
+      "bounces" : 0.4,
+      "tackles" : 4.1,
+      "contestedPossessions" : 7.1,
+      "uncontestedPossessions" : 11.1,
+      "totalPossessions" : 18.3,
+      "inside50s" : 3.4,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.2,
+      "onePercenters" : 1.4,
+      "disposalEfficiency" : null,
+      "clangers" : 2.3,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 77.8,
+      "clearances" : {
+        "centreClearances" : 0.8,
+        "stoppageClearances" : 1.7,
+        "totalClearances" : 2.5
+      },
+      "rebound50s" : 1.2,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jack",
+    "bio" : "<p>A tall midfielder who wins the hard ball and has the ability to spread and use it well in space, Crisp’s versatility helped him make the transition from the rookie list to senior football, where he played the last six games of the 2014 season. The 190cm left-footer has good hands and is noted for his ability around the stoppages, while his run, long kicking and strong tackling are other notable features of his game.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Collingwood/Player Profiles/2015 - Profiles/CRISP Jack.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-10-02T02:00:00.000+0000",
+      "draftYear" : "2012",
+      "heightInCm" : 190,
+      "weightInKg" : 89,
+      "recruitedFrom" : "Myrtleford (Vic)/Murray U18",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 26.0,
+      "behinds" : 22.0,
+      "superGoals" : null,
+      "kicks" : 413.0,
+      "handballs" : 313.0,
+      "disposals" : 726.0,
+      "marks" : 146.0,
+      "bounces" : 15.0,
+      "tackles" : 166.0,
+      "contestedPossessions" : 286.0,
+      "uncontestedPossessions" : 446.0,
+      "totalPossessions" : 732.0,
+      "inside50s" : 135.0,
+      "marksInside50" : 20.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 9.0,
+      "onePercenters" : 57.0,
+      "disposalEfficiency" : 68.5,
+      "clangers" : 91.0,
+      "freesFor" : 29.0,
+      "freesAgainst" : 24.0,
+      "dreamTeamPoints" : 3111.0,
+      "clearances" : {
+        "centreClearances" : 34.0,
+        "stoppageClearances" : 68.0,
+        "totalClearances" : 102.0
+      },
+      "rebound50s" : 50.0,
+      "goalAssists" : 15.0,
+      "goalAccuracy" : 44.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 12.8,
+            "handballs" : 9.2,
+            "disposals" : 22.0,
+            "marks" : 3.9,
+            "bounces" : 0.1,
+            "tackles" : 4.8,
+            "contestedPossessions" : 8.8,
+            "uncontestedPossessions" : 13.5,
+            "totalPossessions" : 22.2,
+            "inside50s" : 4.1,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 91.4,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 2.3,
+              "totalClearances" : 3.5
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293871",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Crisp"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 16.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 282.0,
+            "handballs" : 202.0,
+            "disposals" : 484.0,
+            "marks" : 85.0,
+            "bounces" : 2.0,
+            "tackles" : 106.0,
+            "contestedPossessions" : 193.0,
+            "uncontestedPossessions" : 296.0,
+            "totalPossessions" : 489.0,
+            "inside50s" : 91.0,
+            "marksInside50" : 12.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 32.0,
+            "disposalEfficiency" : 69.2,
+            "clangers" : 59.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 2011.0,
+            "clearances" : {
+              "centreClearances" : 27.0,
+              "stoppageClearances" : 51.0,
+              "totalClearances" : 78.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 57.1,
+            "ratingPoints" : 326.1,
+            "ranking" : 184.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293871",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Crisp"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 84.7
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 10.5,
+            "handballs" : 8.3,
+            "disposals" : 18.8,
+            "marks" : 5.8,
+            "bounces" : 1.0,
+            "tackles" : 2.8,
+            "contestedPossessions" : 7.2,
+            "uncontestedPossessions" : 12.0,
+            "totalPossessions" : 19.2,
+            "inside50s" : 4.3,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 84.5,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293871",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Crisp"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 63.0,
+            "handballs" : 50.0,
+            "disposals" : 113.0,
+            "marks" : 35.0,
+            "bounces" : 6.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 43.0,
+            "uncontestedPossessions" : 72.0,
+            "totalPossessions" : 115.0,
+            "inside50s" : 26.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 66.4,
+            "clangers" : 13.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 507.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : 68.1,
+            "ranking" : 546.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293871",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Crisp"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 80.7
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 2.0,
+            "disposals" : 7.5,
+            "marks" : 2.5,
+            "bounces" : 0.5,
+            "tackles" : 4.5,
+            "contestedPossessions" : 2.5,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 7.5,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 48.5,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293871",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Crisp"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 4.0,
+            "disposals" : 15.0,
+            "marks" : 5.0,
+            "bounces" : 1.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 15.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 66.7,
+            "clangers" : 3.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 97.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 70.1,
+            "ranking" : 554.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293871",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Crisp"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 79.3
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 5.7,
+            "handballs" : 5.7,
+            "disposals" : 11.4,
+            "marks" : 2.1,
+            "bounces" : 0.6,
+            "tackles" : 3.4,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 6.8,
+            "totalPossessions" : 11.3,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.1,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 49.6,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293871",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Crisp"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 57.0,
+            "handballs" : 57.0,
+            "disposals" : 114.0,
+            "marks" : 21.0,
+            "bounces" : 6.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 45.0,
+            "uncontestedPossessions" : 68.0,
+            "totalPossessions" : 113.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 66.7,
+            "clangers" : 16.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 496.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 23.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293871",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Crisp"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 80.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 16.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 282.0,
+      "handballs" : 202.0,
+      "disposals" : 484.0,
+      "marks" : 85.0,
+      "bounces" : 2.0,
+      "tackles" : 106.0,
+      "contestedPossessions" : 193.0,
+      "uncontestedPossessions" : 296.0,
+      "totalPossessions" : 489.0,
+      "inside50s" : 91.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 7.0,
+      "onePercenters" : 32.0,
+      "disposalEfficiency" : 69.2,
+      "clangers" : 59.0,
+      "freesFor" : 23.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 2011.0,
+      "clearances" : {
+        "centreClearances" : 27.0,
+        "stoppageClearances" : 51.0,
+        "totalClearances" : 78.0
+      },
+      "rebound50s" : 33.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 57.1,
+      "ratingPoints" : 326.1,
+      "ranking" : 184.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I293871",
+        "playerName" : {
+          "givenName" : "Jack",
+          "surname" : "Crisp"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T40",
+        "teamAbbr" : "COLL",
+        "teamName" : "Collingwood",
+        "teamNickname" : "Magpies"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 333.9,
+        "ranking" : 174,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 333.9,
+        "ranking" : 8,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 333.9,
+        "ranking" : 78,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 264.1,
+        "ranking" : 54,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 40
+  }
+}

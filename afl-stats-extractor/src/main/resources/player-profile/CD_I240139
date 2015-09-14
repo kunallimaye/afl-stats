@@ -1,0 +1,1413 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I240139",
+    "position" : "Right Half Back",
+    "surname" : "Duffield",
+    "jumperNumber" : 41,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 12.6,
+      "handballs" : 5.6,
+      "disposals" : 18.2,
+      "marks" : 4.8,
+      "bounces" : 0.9,
+      "tackles" : 3.6,
+      "contestedPossessions" : 4.5,
+      "uncontestedPossessions" : 12.5,
+      "totalPossessions" : 17.0,
+      "inside50s" : 2.1,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.1,
+      "onePercenters" : 2.3,
+      "disposalEfficiency" : null,
+      "clangers" : 2.1,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.9,
+      "dreamTeamPoints" : 77.2,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.8,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 3.4,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Paul",
+    "bio" : "<p><strong>Outlook:</strong> A trusty defender for Ross Lyon and now a life member of the club. Duffield has turned 30, but he&rsquo;s still playing near his peak and has plenty to offer Fremantle with his skill and poise.<br /><br /><strong>What the coach says (Michael Prior): </strong>He hasn&rsquo;t missed a beat during the pre-season and is imparting all his knowledge on the younger players so we&rsquo;re really pleased with how he&rsquo;s going.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Fremantle/Player Profiles/2015 - Profiles/DUFFIELD Paul.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1985-02-05T01:00:00.000+0000",
+      "draftYear" : "2006",
+      "heightInCm" : 187,
+      "weightInKg" : 89,
+      "recruitedFrom" : "West Arthur (WA)/South Fremantle (WAFL)",
+      "debutYear" : "2006"
+    },
+    "careerStats" : {
+      "goals" : 33.0,
+      "behinds" : 32.0,
+      "superGoals" : null,
+      "kicks" : 2153.0,
+      "handballs" : 955.0,
+      "disposals" : 3108.0,
+      "marks" : 828.0,
+      "bounces" : 161.0,
+      "tackles" : 616.0,
+      "contestedPossessions" : 775.0,
+      "uncontestedPossessions" : 2133.0,
+      "totalPossessions" : 2908.0,
+      "inside50s" : 367.0,
+      "marksInside50" : 26.0,
+      "contestedMarks" : 52.0,
+      "hitouts" : 10.0,
+      "onePercenters" : 385.0,
+      "disposalEfficiency" : 79.2,
+      "clangers" : 360.0,
+      "freesFor" : 93.0,
+      "freesAgainst" : 147.0,
+      "dreamTeamPoints" : 13209.0,
+      "clearances" : {
+        "centreClearances" : 40.0,
+        "stoppageClearances" : 134.0,
+        "totalClearances" : 174.0
+      },
+      "rebound50s" : 577.0,
+      "goalAssists" : 48.0,
+      "goalAccuracy" : 42.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 9.4,
+            "handballs" : 4.9,
+            "disposals" : 14.3,
+            "marks" : 3.9,
+            "bounces" : 0.3,
+            "tackles" : 3.9,
+            "contestedPossessions" : 2.8,
+            "uncontestedPossessions" : 10.6,
+            "totalPossessions" : 13.4,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 63.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 131.0,
+            "handballs" : 69.0,
+            "disposals" : 200.0,
+            "marks" : 54.0,
+            "bounces" : 4.0,
+            "tackles" : 54.0,
+            "contestedPossessions" : 39.0,
+            "uncontestedPossessions" : 148.0,
+            "totalPossessions" : 187.0,
+            "inside50s" : 26.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 33.0,
+            "disposalEfficiency" : 84.0,
+            "clangers" : 17.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 895.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 277.1,
+            "ranking" : 259.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 82.7
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 12.5,
+            "handballs" : 6.3,
+            "disposals" : 18.7,
+            "marks" : 5.0,
+            "bounces" : 0.2,
+            "tackles" : 4.1,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 13.4,
+            "totalPossessions" : 18.1,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 80.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 3.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 299.0,
+            "handballs" : 151.0,
+            "disposals" : 450.0,
+            "marks" : 121.0,
+            "bounces" : 5.0,
+            "tackles" : 98.0,
+            "contestedPossessions" : 114.0,
+            "uncontestedPossessions" : 321.0,
+            "totalPossessions" : 435.0,
+            "inside50s" : 45.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 48.0,
+            "disposalEfficiency" : 84.2,
+            "clangers" : 44.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1936.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 20.0,
+              "totalClearances" : 21.0
+            },
+            "rebound50s" : 84.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 54.5,
+            "ratingPoints" : 288.9,
+            "ranking" : 254.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 94.2
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 14.5,
+            "handballs" : 3.9,
+            "disposals" : 18.3,
+            "marks" : 5.9,
+            "bounces" : 1.2,
+            "tackles" : 2.9,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 12.2,
+            "totalPossessions" : 16.3,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 79.2,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 3.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 318.0,
+            "handballs" : 85.0,
+            "disposals" : 403.0,
+            "marks" : 130.0,
+            "bounces" : 27.0,
+            "tackles" : 63.0,
+            "contestedPossessions" : 91.0,
+            "uncontestedPossessions" : 268.0,
+            "totalPossessions" : 359.0,
+            "inside50s" : 54.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 51.0,
+            "disposalEfficiency" : 75.2,
+            "clangers" : 43.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1742.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 74.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : 300.8,
+            "ranking" : 224.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 90.1
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 14.3,
+            "handballs" : 4.9,
+            "disposals" : 19.1,
+            "marks" : 5.6,
+            "bounces" : 0.3,
+            "tackles" : 3.6,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 12.9,
+            "totalPossessions" : 17.9,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 82.2,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 3.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 300.0,
+            "handballs" : 102.0,
+            "disposals" : 402.0,
+            "marks" : 117.0,
+            "bounces" : 6.0,
+            "tackles" : 75.0,
+            "contestedPossessions" : 104.0,
+            "uncontestedPossessions" : 271.0,
+            "totalPossessions" : 375.0,
+            "inside50s" : 50.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 50.0,
+            "disposalEfficiency" : 82.1,
+            "clangers" : 43.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1726.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 71.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 88.1
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 10.3,
+            "handballs" : 6.5,
+            "disposals" : 16.9,
+            "marks" : 3.5,
+            "bounces" : 0.4,
+            "tackles" : 4.0,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 10.7,
+            "totalPossessions" : 15.5,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 69.6,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 217.0,
+            "handballs" : 137.0,
+            "disposals" : 354.0,
+            "marks" : 73.0,
+            "bounces" : 9.0,
+            "tackles" : 83.0,
+            "contestedPossessions" : 101.0,
+            "uncontestedPossessions" : 224.0,
+            "totalPossessions" : 325.0,
+            "inside50s" : 46.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 79.1,
+            "clangers" : 42.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1462.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 21.0,
+              "totalClearances" : 28.0
+            },
+            "rebound50s" : 63.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 16.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 84.5
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 14.8,
+            "handballs" : 6.0,
+            "disposals" : 20.8,
+            "marks" : 5.5,
+            "bounces" : 1.8,
+            "tackles" : 3.9,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 13.8,
+            "totalPossessions" : 18.5,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 88.5,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 5.8,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 356.0,
+            "handballs" : 143.0,
+            "disposals" : 499.0,
+            "marks" : 131.0,
+            "bounces" : 43.0,
+            "tackles" : 94.0,
+            "contestedPossessions" : 113.0,
+            "uncontestedPossessions" : 332.0,
+            "totalPossessions" : 445.0,
+            "inside50s" : 44.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 67.0,
+            "disposalEfficiency" : 77.2,
+            "clangers" : 62.0,
+            "freesFor" : 24.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 2125.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 21.0,
+              "totalClearances" : 25.0
+            },
+            "rebound50s" : 140.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 89.9
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 15.7,
+            "handballs" : 6.9,
+            "disposals" : 22.6,
+            "marks" : 4.7,
+            "bounces" : 2.2,
+            "tackles" : 3.6,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 15.7,
+            "totalPossessions" : 21.7,
+            "inside50s" : 2.7,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.3,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 89.4,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 4.1,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 330.0,
+            "handballs" : 144.0,
+            "disposals" : 474.0,
+            "marks" : 98.0,
+            "bounces" : 47.0,
+            "tackles" : 76.0,
+            "contestedPossessions" : 125.0,
+            "uncontestedPossessions" : 330.0,
+            "totalPossessions" : 455.0,
+            "inside50s" : 56.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 42.0,
+            "disposalEfficiency" : 74.3,
+            "clangers" : 64.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 1877.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 29.0,
+              "totalClearances" : 42.0
+            },
+            "rebound50s" : 87.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 31.2,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 92.1
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.5,
+            "handballs" : 4.8,
+            "disposals" : 13.4,
+            "marks" : 4.4,
+            "bounces" : 0.8,
+            "tackles" : 3.6,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 9.7,
+            "totalPossessions" : 13.8,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 63.6,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 94.0,
+            "handballs" : 53.0,
+            "disposals" : 147.0,
+            "marks" : 48.0,
+            "bounces" : 9.0,
+            "tackles" : 40.0,
+            "contestedPossessions" : 45.0,
+            "uncontestedPossessions" : 107.0,
+            "totalPossessions" : 152.0,
+            "inside50s" : 26.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 74.8,
+            "clangers" : 22.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 700.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 71.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 83.6
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 7.8,
+            "handballs" : 5.3,
+            "disposals" : 13.2,
+            "marks" : 3.8,
+            "bounces" : 0.2,
+            "tackles" : 3.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 9.3,
+            "totalPossessions" : 13.3,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.2,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 57.7,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 47.0,
+            "handballs" : 32.0,
+            "disposals" : 79.0,
+            "marks" : 23.0,
+            "bounces" : 1.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 24.0,
+            "uncontestedPossessions" : 56.0,
+            "totalPossessions" : 80.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 78.5,
+            "clangers" : 14.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 346.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 75.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 64.6
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 5.6,
+            "disposals" : 14.3,
+            "marks" : 4.7,
+            "bounces" : 1.4,
+            "tackles" : 2.1,
+            "contestedPossessions" : 3.4,
+            "uncontestedPossessions" : 10.9,
+            "totalPossessions" : 14.3,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 57.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 61.0,
+            "handballs" : 39.0,
+            "disposals" : 100.0,
+            "marks" : 33.0,
+            "bounces" : 10.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 24.0,
+            "uncontestedPossessions" : 76.0,
+            "totalPossessions" : 100.0,
+            "inside50s" : 11.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 32.0,
+            "disposalEfficiency" : 86.0,
+            "clangers" : 9.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 400.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 73.8
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240139",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Duffield"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 131.0,
+      "handballs" : 69.0,
+      "disposals" : 200.0,
+      "marks" : 54.0,
+      "bounces" : 4.0,
+      "tackles" : 54.0,
+      "contestedPossessions" : 39.0,
+      "uncontestedPossessions" : 148.0,
+      "totalPossessions" : 187.0,
+      "inside50s" : 26.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 33.0,
+      "disposalEfficiency" : 84.0,
+      "clangers" : 17.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 6.0,
+      "dreamTeamPoints" : 895.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 5.0,
+        "totalClearances" : 6.0
+      },
+      "rebound50s" : 25.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 277.1,
+      "ranking" : 259.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I240139",
+        "playerName" : {
+          "givenName" : "Paul",
+          "surname" : "Duffield"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T60",
+        "teamAbbr" : "FRE",
+        "teamName" : "Fremantle",
+        "teamNickname" : "Dockers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 277.1,
+        "ranking" : 259,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 277.1,
+        "ranking" : 16,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 277.1,
+        "ranking" : 44,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 77.8,
+        "ranking" : 406,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2003"
+    },
+    "careerGamesPlayed" : 171
+  }
+}

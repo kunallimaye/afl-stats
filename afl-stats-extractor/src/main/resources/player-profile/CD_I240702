@@ -1,0 +1,441 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I240702",
+    "position" : "Interchange",
+    "surname" : "Roach",
+    "jumperNumber" : 8,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Thomas",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1985-09-02T02:00:00.000+0000",
+      "draftYear" : "2003",
+      "heightInCm" : 183,
+      "weightInKg" : 80,
+      "recruitedFrom" : "Carey Grammar/Oakleigh U18",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 1.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 48.0,
+      "handballs" : 32.0,
+      "disposals" : 80.0,
+      "marks" : 11.0,
+      "bounces" : 1.0,
+      "tackles" : 10.0,
+      "contestedPossessions" : 21.0,
+      "uncontestedPossessions" : 57.0,
+      "totalPossessions" : 78.0,
+      "inside50s" : 10.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 7.0,
+      "disposalEfficiency" : 70.0,
+      "clangers" : 9.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 290.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 3.0,
+        "totalClearances" : 6.0
+      },
+      "rebound50s" : 8.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 3.0,
+            "disposals" : 7.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 2.5,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 6.5,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 27.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240702",
+            "playerName" : {
+              "givenName" : "Thomas",
+              "surname" : "Roach"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 6.0,
+            "disposals" : 14.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 13.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 71.4,
+            "clangers" : 2.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 54.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240702",
+            "playerName" : {
+              "givenName" : "Thomas",
+              "surname" : "Roach"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 57.1
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 3.0,
+            "disposals" : 7.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 7.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 22.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240702",
+            "playerName" : {
+              "givenName" : "Thomas",
+              "surname" : "Roach"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 3.0,
+            "disposals" : 7.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 7.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 85.7,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 22.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240702",
+            "playerName" : {
+              "givenName" : "Thomas",
+              "surname" : "Roach"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 50.4
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 4.5,
+            "handballs" : 2.9,
+            "disposals" : 7.4,
+            "marks" : 1.1,
+            "bounces" : 0.1,
+            "tackles" : 0.7,
+            "contestedPossessions" : 1.9,
+            "uncontestedPossessions" : 5.4,
+            "totalPossessions" : 7.2,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 0.9,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 26.7,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240702",
+            "playerName" : {
+              "givenName" : "Thomas",
+              "surname" : "Roach"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 36.0,
+            "handballs" : 23.0,
+            "disposals" : 59.0,
+            "marks" : 9.0,
+            "bounces" : 1.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 15.0,
+            "uncontestedPossessions" : 43.0,
+            "totalPossessions" : 58.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 67.8,
+            "clangers" : 7.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 214.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240702",
+            "playerName" : {
+              "givenName" : "Thomas",
+              "surname" : "Roach"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 44.4
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 8.0,
+      "handballs" : 6.0,
+      "disposals" : 14.0,
+      "marks" : 2.0,
+      "bounces" : 0.0,
+      "tackles" : 3.0,
+      "contestedPossessions" : 5.0,
+      "uncontestedPossessions" : 8.0,
+      "totalPossessions" : 13.0,
+      "inside50s" : 1.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : 71.4,
+      "clangers" : 2.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 54.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 3.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

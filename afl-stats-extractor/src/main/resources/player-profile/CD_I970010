@@ -1,0 +1,956 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I970010",
+    "position" : "Centre Half Forward",
+    "surname" : "Johnson",
+    "jumperNumber" : 14,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jason",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1978-01-25T01:00:00.000+0000",
+      "draftYear" : "1996",
+      "heightInCm" : 181,
+      "weightInKg" : 82,
+      "recruitedFrom" : "Kilmore/Calder U18",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 107.0,
+      "behinds" : 108.0,
+      "superGoals" : null,
+      "kicks" : 2327.0,
+      "handballs" : 1343.0,
+      "disposals" : 3670.0,
+      "marks" : 778.0,
+      "bounces" : 148.0,
+      "tackles" : 478.0,
+      "contestedPossessions" : 1511.0,
+      "uncontestedPossessions" : 2145.0,
+      "totalPossessions" : 3656.0,
+      "inside50s" : 768.0,
+      "marksInside50" : 80.0,
+      "contestedMarks" : 33.0,
+      "hitouts" : 7.0,
+      "onePercenters" : 161.0,
+      "disposalEfficiency" : 73.9,
+      "clangers" : 433.0,
+      "freesFor" : 138.0,
+      "freesAgainst" : 129.0,
+      "dreamTeamPoints" : 14421.0,
+      "clearances" : {
+        "centreClearances" : 376.0,
+        "stoppageClearances" : 358.0,
+        "totalClearances" : 734.0
+      },
+      "rebound50s" : 283.0,
+      "goalAssists" : 47.0,
+      "goalAccuracy" : 45.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 11.7,
+            "disposals" : 22.7,
+            "marks" : 5.5,
+            "bounces" : 1.5,
+            "tackles" : 2.2,
+            "contestedPossessions" : 6.5,
+            "uncontestedPossessions" : 16.7,
+            "totalPossessions" : 23.2,
+            "inside50s" : 3.5,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 3.5,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 84.0,
+            "clearances" : {
+              "centreClearances" : 1.7,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.7
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970010",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 44.0,
+            "handballs" : 47.0,
+            "disposals" : 91.0,
+            "marks" : 22.0,
+            "bounces" : 6.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 26.0,
+            "uncontestedPossessions" : 67.0,
+            "totalPossessions" : 93.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 74.7,
+            "clangers" : 14.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 336.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970010",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 73.6
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 11.9,
+            "handballs" : 8.8,
+            "disposals" : 20.7,
+            "marks" : 6.4,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 15.0,
+            "totalPossessions" : 20.5,
+            "inside50s" : 3.5,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 85.0,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 2.4
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970010",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 119.0,
+            "handballs" : 88.0,
+            "disposals" : 207.0,
+            "marks" : 64.0,
+            "bounces" : 0.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 55.0,
+            "uncontestedPossessions" : 150.0,
+            "totalPossessions" : 205.0,
+            "inside50s" : 35.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 72.5,
+            "clangers" : 24.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 850.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 24.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 30.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970010",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 71.9
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 12.5,
+            "handballs" : 9.1,
+            "disposals" : 21.6,
+            "marks" : 5.8,
+            "bounces" : 0.6,
+            "tackles" : 2.5,
+            "contestedPossessions" : 7.6,
+            "uncontestedPossessions" : 13.4,
+            "totalPossessions" : 21.0,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 87.1,
+            "clearances" : {
+              "centreClearances" : 2.1,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 3.9
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970010",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 237.0,
+            "handballs" : 173.0,
+            "disposals" : 410.0,
+            "marks" : 111.0,
+            "bounces" : 12.0,
+            "tackles" : 47.0,
+            "contestedPossessions" : 144.0,
+            "uncontestedPossessions" : 255.0,
+            "totalPossessions" : 399.0,
+            "inside50s" : 61.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 73.9,
+            "clangers" : 37.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 1654.0,
+            "clearances" : {
+              "centreClearances" : 39.0,
+              "stoppageClearances" : 35.0,
+              "totalClearances" : 74.0
+            },
+            "rebound50s" : 31.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 63.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970010",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 76.4
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 14.0,
+            "handballs" : 8.3,
+            "disposals" : 22.3,
+            "marks" : 5.5,
+            "bounces" : 0.4,
+            "tackles" : 3.6,
+            "contestedPossessions" : 10.0,
+            "uncontestedPossessions" : 12.3,
+            "totalPossessions" : 22.3,
+            "inside50s" : 4.7,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 92.7,
+            "clearances" : {
+              "centreClearances" : 2.3,
+              "stoppageClearances" : 2.1,
+              "totalClearances" : 4.4
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970010",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 308.0,
+            "handballs" : 183.0,
+            "disposals" : 491.0,
+            "marks" : 120.0,
+            "bounces" : 8.0,
+            "tackles" : 80.0,
+            "contestedPossessions" : 220.0,
+            "uncontestedPossessions" : 271.0,
+            "totalPossessions" : 491.0,
+            "inside50s" : 103.0,
+            "marksInside50" : 14.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 70.3,
+            "clangers" : 58.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 2039.0,
+            "clearances" : {
+              "centreClearances" : 50.0,
+              "stoppageClearances" : 47.0,
+              "totalClearances" : 97.0
+            },
+            "rebound50s" : 41.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970010",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 85.6
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 14.6,
+            "handballs" : 9.1,
+            "disposals" : 23.7,
+            "marks" : 4.8,
+            "bounces" : 0.6,
+            "tackles" : 3.0,
+            "contestedPossessions" : 11.5,
+            "uncontestedPossessions" : 11.7,
+            "totalPossessions" : 23.2,
+            "inside50s" : 4.8,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 92.8,
+            "clearances" : {
+              "centreClearances" : 2.1,
+              "stoppageClearances" : 2.8,
+              "totalClearances" : 4.9
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970010",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 16.0,
+            "superGoals" : null,
+            "kicks" : 277.0,
+            "handballs" : 173.0,
+            "disposals" : 450.0,
+            "marks" : 91.0,
+            "bounces" : 12.0,
+            "tackles" : 57.0,
+            "contestedPossessions" : 219.0,
+            "uncontestedPossessions" : 222.0,
+            "totalPossessions" : 441.0,
+            "inside50s" : 92.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 69.3,
+            "clangers" : 37.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1763.0,
+            "clearances" : {
+              "centreClearances" : 39.0,
+              "stoppageClearances" : 54.0,
+              "totalClearances" : 93.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 42.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970010",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 93.7
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 14.3,
+            "handballs" : 7.2,
+            "disposals" : 21.5,
+            "marks" : 4.8,
+            "bounces" : 0.9,
+            "tackles" : 2.3,
+            "contestedPossessions" : 9.2,
+            "uncontestedPossessions" : 12.5,
+            "totalPossessions" : 21.7,
+            "inside50s" : 4.4,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 84.1,
+            "clearances" : {
+              "centreClearances" : 1.7,
+              "stoppageClearances" : 2.4,
+              "totalClearances" : 4.1
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970010",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 13.0,
+            "superGoals" : null,
+            "kicks" : 315.0,
+            "handballs" : 159.0,
+            "disposals" : 474.0,
+            "marks" : 105.0,
+            "bounces" : 19.0,
+            "tackles" : 50.0,
+            "contestedPossessions" : 202.0,
+            "uncontestedPossessions" : 275.0,
+            "totalPossessions" : 477.0,
+            "inside50s" : 96.0,
+            "marksInside50" : 14.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 75.3,
+            "clangers" : 48.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1851.0,
+            "clearances" : {
+              "centreClearances" : 38.0,
+              "stoppageClearances" : 52.0,
+              "totalClearances" : 90.0
+            },
+            "rebound50s" : 39.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 46.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970010",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 87.0
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 13.5,
+            "handballs" : 8.2,
+            "disposals" : 21.7,
+            "marks" : 4.0,
+            "bounces" : 1.7,
+            "tackles" : 3.6,
+            "contestedPossessions" : 8.7,
+            "uncontestedPossessions" : 12.7,
+            "totalPossessions" : 21.5,
+            "inside50s" : 4.2,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 85.7,
+            "clearances" : {
+              "centreClearances" : 2.2,
+              "stoppageClearances" : 2.5,
+              "totalClearances" : 4.7
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970010",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 15.0,
+            "superGoals" : null,
+            "kicks" : 324.0,
+            "handballs" : 196.0,
+            "disposals" : 520.0,
+            "marks" : 95.0,
+            "bounces" : 40.0,
+            "tackles" : 86.0,
+            "contestedPossessions" : 210.0,
+            "uncontestedPossessions" : 306.0,
+            "totalPossessions" : 516.0,
+            "inside50s" : 100.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 76.5,
+            "clangers" : 54.0,
+            "freesFor" : 22.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 2057.0,
+            "clearances" : {
+              "centreClearances" : 52.0,
+              "stoppageClearances" : 60.0,
+              "totalClearances" : 112.0
+            },
+            "rebound50s" : 43.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 41.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970010",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 15.2,
+            "handballs" : 6.7,
+            "disposals" : 21.9,
+            "marks" : 3.6,
+            "bounces" : 1.2,
+            "tackles" : 2.7,
+            "contestedPossessions" : 9.4,
+            "uncontestedPossessions" : 12.6,
+            "totalPossessions" : 22.0,
+            "inside50s" : 5.8,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.9,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 83.5,
+            "clearances" : {
+              "centreClearances" : 3.1,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 5.1
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970010",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 21.0,
+            "behinds" : 19.0,
+            "superGoals" : null,
+            "kicks" : 364.0,
+            "handballs" : 162.0,
+            "disposals" : 526.0,
+            "marks" : 86.0,
+            "bounces" : 29.0,
+            "tackles" : 64.0,
+            "contestedPossessions" : 225.0,
+            "uncontestedPossessions" : 302.0,
+            "totalPossessions" : 527.0,
+            "inside50s" : 139.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 32.0,
+            "disposalEfficiency" : 77.0,
+            "clangers" : 70.0,
+            "freesFor" : 24.0,
+            "freesAgainst" : 32.0,
+            "dreamTeamPoints" : 2004.0,
+            "clearances" : {
+              "centreClearances" : 74.0,
+              "stoppageClearances" : 48.0,
+              "totalClearances" : 122.0
+            },
+            "rebound50s" : 34.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 52.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970010",
+            "playerName" : {
+              "givenName" : "Jason",
+              "surname" : "Johnson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 44.0,
+      "handballs" : 47.0,
+      "disposals" : 91.0,
+      "marks" : 22.0,
+      "bounces" : 6.0,
+      "tackles" : 9.0,
+      "contestedPossessions" : 26.0,
+      "uncontestedPossessions" : 67.0,
+      "totalPossessions" : 93.0,
+      "inside50s" : 14.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 3.0,
+      "disposalEfficiency" : 74.7,
+      "clangers" : 14.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 3.0,
+      "dreamTeamPoints" : 336.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 8.0,
+        "totalClearances" : 15.0
+      },
+      "rebound50s" : 9.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

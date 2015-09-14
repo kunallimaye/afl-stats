@@ -1,0 +1,441 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960278",
+    "position" : "Right Back Pocket",
+    "surname" : "Cox",
+    "jumperNumber" : 24,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Simon",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1977-01-25T01:00:00.000+0000",
+      "draftYear" : "",
+      "heightInCm" : 192,
+      "weightInKg" : 97,
+      "recruitedFrom" : "",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 32.0,
+      "behinds" : 27.0,
+      "superGoals" : null,
+      "kicks" : 681.0,
+      "handballs" : 376.0,
+      "disposals" : 1057.0,
+      "marks" : 353.0,
+      "bounces" : 33.0,
+      "tackles" : 76.0,
+      "contestedPossessions" : 313.0,
+      "uncontestedPossessions" : 693.0,
+      "totalPossessions" : 1006.0,
+      "inside50s" : 198.0,
+      "marksInside50" : 31.0,
+      "contestedMarks" : 34.0,
+      "hitouts" : 22.0,
+      "onePercenters" : 111.0,
+      "disposalEfficiency" : 82.9,
+      "clangers" : 109.0,
+      "freesFor" : 27.0,
+      "freesAgainst" : 26.0,
+      "dreamTeamPoints" : 4348.0,
+      "clearances" : {
+        "centreClearances" : 19.0,
+        "stoppageClearances" : 61.0,
+        "totalClearances" : 80.0
+      },
+      "rebound50s" : 145.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 51.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 8.9,
+            "handballs" : 6.2,
+            "disposals" : 15.1,
+            "marks" : 3.6,
+            "bounces" : 0.4,
+            "tackles" : 1.2,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 8.9,
+            "totalPossessions" : 14.3,
+            "inside50s" : 2.6,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 55.0,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960278",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Cox"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 124.0,
+            "handballs" : 87.0,
+            "disposals" : 211.0,
+            "marks" : 50.0,
+            "bounces" : 6.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 75.0,
+            "uncontestedPossessions" : 125.0,
+            "totalPossessions" : 200.0,
+            "inside50s" : 37.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 82.5,
+            "clangers" : 27.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 770.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 18.0
+            },
+            "rebound50s" : 29.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 22.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960278",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Cox"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 73.9
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 11.5,
+            "handballs" : 7.6,
+            "disposals" : 19.1,
+            "marks" : 5.7,
+            "bounces" : 0.6,
+            "tackles" : 1.8,
+            "contestedPossessions" : 6.1,
+            "uncontestedPossessions" : 12.2,
+            "totalPossessions" : 18.3,
+            "inside50s" : 3.5,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.5,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 78.7,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960278",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Cox"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 15.0,
+            "superGoals" : null,
+            "kicks" : 242.0,
+            "handballs" : 160.0,
+            "disposals" : 402.0,
+            "marks" : 120.0,
+            "bounces" : 12.0,
+            "tackles" : 37.0,
+            "contestedPossessions" : 128.0,
+            "uncontestedPossessions" : 256.0,
+            "totalPossessions" : 384.0,
+            "inside50s" : 74.0,
+            "marksInside50" : 18.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 10.0,
+            "onePercenters" : 47.0,
+            "disposalEfficiency" : 80.8,
+            "clangers" : 41.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1653.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 27.0,
+              "totalClearances" : 36.0
+            },
+            "rebound50s" : 41.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960278",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Cox"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 10.4,
+            "handballs" : 4.8,
+            "disposals" : 15.2,
+            "marks" : 6.4,
+            "bounces" : 0.8,
+            "tackles" : 0.5,
+            "contestedPossessions" : 3.3,
+            "uncontestedPossessions" : 11.1,
+            "totalPossessions" : 14.4,
+            "inside50s" : 3.6,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.1,
+            "dreamTeamPoints" : 65.4,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960278",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Cox"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 166.0,
+            "handballs" : 77.0,
+            "disposals" : 243.0,
+            "marks" : 102.0,
+            "bounces" : 13.0,
+            "tackles" : 8.0,
+            "contestedPossessions" : 53.0,
+            "uncontestedPossessions" : 177.0,
+            "totalPossessions" : 230.0,
+            "inside50s" : 57.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 84.0,
+            "clangers" : 22.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 1046.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 61.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960278",
+            "playerName" : {
+              "givenName" : "Simon",
+              "surname" : "Cox"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 124.0,
+      "handballs" : 87.0,
+      "disposals" : 211.0,
+      "marks" : 50.0,
+      "bounces" : 6.0,
+      "tackles" : 17.0,
+      "contestedPossessions" : 75.0,
+      "uncontestedPossessions" : 125.0,
+      "totalPossessions" : 200.0,
+      "inside50s" : 37.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 4.0,
+      "onePercenters" : 27.0,
+      "disposalEfficiency" : 82.5,
+      "clangers" : 27.0,
+      "freesFor" : 7.0,
+      "freesAgainst" : 7.0,
+      "dreamTeamPoints" : 770.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 15.0,
+        "totalClearances" : 18.0
+      },
+      "rebound50s" : 29.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 22.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

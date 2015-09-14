@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280722",
+    "position" : "Centre Half Forward",
+    "surname" : "Smith",
+    "jumperNumber" : 2,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.5,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 5.2,
+      "handballs" : 6.9,
+      "disposals" : 12.0,
+      "marks" : 2.2,
+      "bounces" : 0.1,
+      "tackles" : 2.1,
+      "contestedPossessions" : 6.8,
+      "uncontestedPossessions" : 5.2,
+      "totalPossessions" : 12.0,
+      "inside50s" : 1.2,
+      "marksInside50" : 0.4,
+      "contestedMarks" : 0.5,
+      "hitouts" : 19.7,
+      "onePercenters" : 2.9,
+      "disposalEfficiency" : null,
+      "clangers" : 2.1,
+      "freesFor" : 1.3,
+      "freesAgainst" : 0.8,
+      "dreamTeamPoints" : 66.1,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 1.6,
+        "totalClearances" : 2.6
+      },
+      "rebound50s" : 0.6,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Zac",
+    "bio" : "<p>Just when it looked like Smith was finding form after 12 months out following a knee reconstruction, he suffered an ankle injury to end his season five weeks early. With fellow ruckman Tom Nicholls also sustaining a long-term knee injury, Smith was rushed back into the senior team in round nine against St Kilda, despite not having played a game since rupturing his ACL the previous year. He impressed in his first few outings but, having to play as a sole ruckman and lacking match fitness, began to taper off before his latest setback. Smith has great mobility around the field, but is still trying to develop his aggression at the stoppages.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GoldCoastSuns/Player Profiles/2015 - Profiles/SMITH Zac.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1990-02-22T01:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 205,
+      "weightInKg" : 100,
+      "recruitedFrom" : "Zillmere (Qld)",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 31.0,
+      "behinds" : 21.0,
+      "superGoals" : null,
+      "kicks" : 335.0,
+      "handballs" : 447.0,
+      "disposals" : 782.0,
+      "marks" : 146.0,
+      "bounces" : 5.0,
+      "tackles" : 136.0,
+      "contestedPossessions" : 439.0,
+      "uncontestedPossessions" : 341.0,
+      "totalPossessions" : 780.0,
+      "inside50s" : 75.0,
+      "marksInside50" : 23.0,
+      "contestedMarks" : 35.0,
+      "hitouts" : 1278.0,
+      "onePercenters" : 186.0,
+      "disposalEfficiency" : 67.9,
+      "clangers" : 134.0,
+      "freesFor" : 87.0,
+      "freesAgainst" : 52.0,
+      "dreamTeamPoints" : 4297.0,
+      "clearances" : {
+        "centreClearances" : 62.0,
+        "stoppageClearances" : 107.0,
+        "totalClearances" : 169.0
+      },
+      "rebound50s" : 42.0,
+      "goalAssists" : 18.0,
+      "goalAccuracy" : 50.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 4.5,
+            "handballs" : 6.5,
+            "disposals" : 11.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 3.2,
+            "contestedPossessions" : 6.7,
+            "uncontestedPossessions" : 4.4,
+            "totalPossessions" : 11.1,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.4,
+            "hitouts" : 24.9,
+            "onePercenters" : 3.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 70.3,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.5
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280722",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 50.0,
+            "handballs" : 71.0,
+            "disposals" : 121.0,
+            "marks" : 22.0,
+            "bounces" : 0.0,
+            "tackles" : 35.0,
+            "contestedPossessions" : 74.0,
+            "uncontestedPossessions" : 48.0,
+            "totalPossessions" : 122.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 274.0,
+            "onePercenters" : 40.0,
+            "disposalEfficiency" : 64.5,
+            "clangers" : 30.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 773.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 18.0,
+              "totalClearances" : 28.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : 201.3,
+            "ranking" : 364.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280722",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 82.2
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 4.7,
+            "handballs" : 6.5,
+            "disposals" : 11.2,
+            "marks" : 1.3,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 6.6,
+            "uncontestedPossessions" : 4.4,
+            "totalPossessions" : 11.0,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 22.9,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 64.7,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 3.2
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280722",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 47.0,
+            "handballs" : 65.0,
+            "disposals" : 112.0,
+            "marks" : 13.0,
+            "bounces" : 0.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 66.0,
+            "uncontestedPossessions" : 44.0,
+            "totalPossessions" : 110.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 229.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 62.5,
+            "clangers" : 19.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 647.0,
+            "clearances" : {
+              "centreClearances" : 15.0,
+              "stoppageClearances" : 17.0,
+              "totalClearances" : 32.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 28.6,
+            "ratingPoints" : 174.4,
+            "ranking" : 385.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280722",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 73.7
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 6.1,
+            "handballs" : 4.2,
+            "disposals" : 10.4,
+            "marks" : 2.0,
+            "bounces" : 0.5,
+            "tackles" : 1.6,
+            "contestedPossessions" : 5.9,
+            "uncontestedPossessions" : 4.5,
+            "totalPossessions" : 10.4,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.6,
+            "hitouts" : 19.2,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 63.2,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280722",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 49.0,
+            "handballs" : 34.0,
+            "disposals" : 83.0,
+            "marks" : 16.0,
+            "bounces" : 4.0,
+            "tackles" : 13.0,
+            "contestedPossessions" : 47.0,
+            "uncontestedPossessions" : 36.0,
+            "totalPossessions" : 83.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 154.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 61.4,
+            "clangers" : 19.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 506.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 218.0,
+            "ranking" : 332.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280722",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 79.8
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 3.4,
+            "handballs" : 9.0,
+            "disposals" : 12.4,
+            "marks" : 2.1,
+            "bounces" : 0.1,
+            "tackles" : 1.2,
+            "contestedPossessions" : 6.6,
+            "uncontestedPossessions" : 5.8,
+            "totalPossessions" : 12.4,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 18.4,
+            "onePercenters" : 2.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 58.4,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.5
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280722",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 54.0,
+            "handballs" : 144.0,
+            "disposals" : 198.0,
+            "marks" : 34.0,
+            "bounces" : 1.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 106.0,
+            "uncontestedPossessions" : 93.0,
+            "totalPossessions" : 199.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 294.0,
+            "onePercenters" : 41.0,
+            "disposalEfficiency" : 73.7,
+            "clangers" : 30.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 934.0,
+            "clearances" : {
+              "centreClearances" : 15.0,
+              "stoppageClearances" : 25.0,
+              "totalClearances" : 40.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 62.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280722",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 84.5
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 6.7,
+            "handballs" : 6.6,
+            "disposals" : 13.4,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 1.9,
+            "contestedPossessions" : 7.4,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 13.4,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.8,
+            "hitouts" : 16.3,
+            "onePercenters" : 3.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.8,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 71.8,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 2.6
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280722",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 135.0,
+            "handballs" : 133.0,
+            "disposals" : 268.0,
+            "marks" : 61.0,
+            "bounces" : 0.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 149.0,
+            "uncontestedPossessions" : 120.0,
+            "totalPossessions" : 269.0,
+            "inside50s" : 30.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 17.0,
+            "hitouts" : 327.0,
+            "onePercenters" : 65.0,
+            "disposalEfficiency" : 69.4,
+            "clangers" : 36.0,
+            "freesFor" : 37.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1437.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 36.0,
+              "totalClearances" : 53.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 48.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280722",
+            "playerName" : {
+              "givenName" : "Zac",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 80.5
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 50.0,
+      "handballs" : 71.0,
+      "disposals" : 121.0,
+      "marks" : 22.0,
+      "bounces" : 0.0,
+      "tackles" : 35.0,
+      "contestedPossessions" : 74.0,
+      "uncontestedPossessions" : 48.0,
+      "totalPossessions" : 122.0,
+      "inside50s" : 9.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 274.0,
+      "onePercenters" : 40.0,
+      "disposalEfficiency" : 64.5,
+      "clangers" : 30.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 9.0,
+      "dreamTeamPoints" : 773.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 28.0
+      },
+      "rebound50s" : 13.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 40.0,
+      "ratingPoints" : 201.3,
+      "ranking" : 364.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280722",
+        "playerName" : {
+          "givenName" : "Zac",
+          "surname" : "Smith"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1000",
+        "teamAbbr" : "GCFC",
+        "teamName" : "Gold Coast Suns",
+        "teamNickname" : "Suns"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 210.4,
+        "ranking" : 352,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 210.4,
+        "ranking" : 21,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 210.4,
+        "ranking" : 24,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 107.4,
+        "ranking" : 345,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 65
+  }
+}

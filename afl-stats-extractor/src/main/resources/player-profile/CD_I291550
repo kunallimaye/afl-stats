@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291550",
+    "position" : "Left Forward Pocket",
+    "surname" : "Walker",
+    "jumperNumber" : 34,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.1,
+      "behinds" : 0.6,
+      "superGoals" : null,
+      "kicks" : 5.2,
+      "handballs" : 3.7,
+      "disposals" : 8.9,
+      "marks" : 3.3,
+      "bounces" : 0.0,
+      "tackles" : 2.2,
+      "contestedPossessions" : 4.6,
+      "uncontestedPossessions" : 4.6,
+      "totalPossessions" : 9.2,
+      "inside50s" : 1.6,
+      "marksInside50" : 1.5,
+      "contestedMarks" : 1.2,
+      "hitouts" : 3.8,
+      "onePercenters" : 1.4,
+      "disposalEfficiency" : null,
+      "clangers" : 2.1,
+      "freesFor" : 0.5,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 49.8,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.8,
+        "totalClearances" : 0.9
+      },
+      "rebound50s" : 0.3,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Josh",
+    "bio" : "<p>&nbsp;</p>\n\n<p>A strong-marking ruck/forward who played seven games and booted 11 goals in 2014 after being elevated to the senior list. With Geelong’s tall stocks decimated, the ultra-competitive big man stood up to be counted and booted three goals in last year’s nail-biting semi-final defeat against North Melbourne.&nbsp;</p>\n\n<p>&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GeelongCats/Player Profiles/2015 - Profiles/WALKER Josh.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-11-12T01:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 196,
+      "weightInKg" : 99,
+      "recruitedFrom" : "Lara/Geelong U18",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 35.0,
+      "behinds" : 19.0,
+      "superGoals" : null,
+      "kicks" : 170.0,
+      "handballs" : 123.0,
+      "disposals" : 293.0,
+      "marks" : 108.0,
+      "bounces" : 0.0,
+      "tackles" : 73.0,
+      "contestedPossessions" : 151.0,
+      "uncontestedPossessions" : 151.0,
+      "totalPossessions" : 302.0,
+      "inside50s" : 54.0,
+      "marksInside50" : 49.0,
+      "contestedMarks" : 41.0,
+      "hitouts" : 127.0,
+      "onePercenters" : 45.0,
+      "disposalEfficiency" : 65.9,
+      "clangers" : 70.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 34.0,
+      "dreamTeamPoints" : 1643.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 27.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 10.0,
+      "goalAssists" : 15.0,
+      "goalAccuracy" : 55.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 4.2,
+            "disposals" : 9.7,
+            "marks" : 3.8,
+            "bounces" : 0.0,
+            "tackles" : 1.6,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 5.2,
+            "totalPossessions" : 10.2,
+            "inside50s" : 2.1,
+            "marksInside50" : 1.8,
+            "contestedMarks" : 1.5,
+            "hitouts" : 4.1,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 52.7,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291550",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Walker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 19.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 88.0,
+            "handballs" : 67.0,
+            "disposals" : 155.0,
+            "marks" : 61.0,
+            "bounces" : 0.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 80.0,
+            "uncontestedPossessions" : 84.0,
+            "totalPossessions" : 164.0,
+            "inside50s" : 34.0,
+            "marksInside50" : 29.0,
+            "contestedMarks" : 24.0,
+            "hitouts" : 66.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 63.9,
+            "clangers" : 30.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 844.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 55.9,
+            "ratingPoints" : 149.7,
+            "ranking" : 436.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291550",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Walker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 77.7
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.6,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 4.4,
+            "handballs" : 3.4,
+            "disposals" : 7.9,
+            "marks" : 3.3,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 4.1,
+            "totalPossessions" : 7.9,
+            "inside50s" : 0.7,
+            "marksInside50" : 1.9,
+            "contestedMarks" : 1.1,
+            "hitouts" : 4.4,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 50.6,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291550",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Walker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 31.0,
+            "handballs" : 24.0,
+            "disposals" : 55.0,
+            "marks" : 23.0,
+            "bounces" : 0.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 26.0,
+            "uncontestedPossessions" : 29.0,
+            "totalPossessions" : 55.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 31.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 74.5,
+            "clangers" : 13.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 354.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 68.7,
+            "ratingPoints" : 58.3,
+            "ranking" : 565.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291550",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Walker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 77.4
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 4.7,
+            "handballs" : 3.7,
+            "disposals" : 8.3,
+            "marks" : 2.7,
+            "bounces" : 0.0,
+            "tackles" : 3.7,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 4.3,
+            "totalPossessions" : 8.7,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 1.7,
+            "hitouts" : 2.3,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.3,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 48.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291550",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Walker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 14.0,
+            "handballs" : 11.0,
+            "disposals" : 25.0,
+            "marks" : 8.0,
+            "bounces" : 0.0,
+            "tackles" : 11.0,
+            "contestedPossessions" : 13.0,
+            "uncontestedPossessions" : 13.0,
+            "totalPossessions" : 26.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 60.0,
+            "clangers" : 9.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 144.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 41.5,
+            "ranking" : 613.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291550",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Walker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 85.5
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 5.3,
+            "handballs" : 3.0,
+            "disposals" : 8.3,
+            "marks" : 2.3,
+            "bounces" : 0.0,
+            "tackles" : 3.1,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 3.6,
+            "totalPossessions" : 8.1,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.6,
+            "hitouts" : 3.3,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.9,
+            "dreamTeamPoints" : 43.0,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291550",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Walker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 37.0,
+            "handballs" : 21.0,
+            "disposals" : 58.0,
+            "marks" : 16.0,
+            "bounces" : 0.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 32.0,
+            "uncontestedPossessions" : 25.0,
+            "totalPossessions" : 57.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 23.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 65.5,
+            "clangers" : 18.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 301.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 30.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291550",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Walker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 80.3
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291550",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Walker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291550",
+            "playerName" : {
+              "givenName" : "Josh",
+              "surname" : "Walker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 19.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 88.0,
+      "handballs" : 67.0,
+      "disposals" : 155.0,
+      "marks" : 61.0,
+      "bounces" : 0.0,
+      "tackles" : 26.0,
+      "contestedPossessions" : 80.0,
+      "uncontestedPossessions" : 84.0,
+      "totalPossessions" : 164.0,
+      "inside50s" : 34.0,
+      "marksInside50" : 29.0,
+      "contestedMarks" : 24.0,
+      "hitouts" : 66.0,
+      "onePercenters" : 20.0,
+      "disposalEfficiency" : 63.9,
+      "clangers" : 30.0,
+      "freesFor" : 8.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 844.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 13.0,
+        "totalClearances" : 15.0
+      },
+      "rebound50s" : 6.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 55.9,
+      "ratingPoints" : 149.7,
+      "ranking" : 436.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291550",
+        "playerName" : {
+          "givenName" : "Josh",
+          "surname" : "Walker"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T70",
+        "teamAbbr" : "GEEL",
+        "teamName" : "Geelong Cats",
+        "teamNickname" : "Cats"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 159.1,
+        "ranking" : 423,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 159.1,
+        "ranking" : 22,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 159.1,
+        "ranking" : 42,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 104.9,
+        "ranking" : 352,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 33
+  }
+}

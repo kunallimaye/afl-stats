@@ -1,0 +1,898 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I290311",
+    "position" : "Ruck Rover",
+    "surname" : "Robinson",
+    "jumperNumber" : 5,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.5,
+      "superGoals" : null,
+      "kicks" : 10.8,
+      "handballs" : 8.6,
+      "disposals" : 19.4,
+      "marks" : 4.2,
+      "bounces" : 0.3,
+      "tackles" : 4.6,
+      "contestedPossessions" : 8.5,
+      "uncontestedPossessions" : 11.1,
+      "totalPossessions" : 19.6,
+      "inside50s" : 3.8,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.4,
+      "hitouts" : 0.5,
+      "onePercenters" : 1.7,
+      "disposalEfficiency" : null,
+      "clangers" : 3.0,
+      "freesFor" : 1.1,
+      "freesAgainst" : 1.2,
+      "dreamTeamPoints" : 82.6,
+      "clearances" : {
+        "centreClearances" : 1.1,
+        "stoppageClearances" : 1.6,
+        "totalClearances" : 2.8
+      },
+      "rebound50s" : 1.1,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Mitch",
+    "bio" : "<p>Mitch Robinsons is a half foward/midfielder who is known for his hardness at the footy.&nbsp;He played 100 games and kicked 58 goals for Carlton before being picked up by Brisbane as a delisted free agent during the 2014 Free Agency Period.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2015 - Profiles/ROBINSON Mitch.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1989-06-07T02:00:00.000+0000",
+      "draftYear" : "2008",
+      "heightInCm" : 185,
+      "weightInKg" : 88,
+      "recruitedFrom" : "Lauderdale/Tas U18/Tas VFL",
+      "debutYear" : "2009"
+    },
+    "careerStats" : {
+      "goals" : 68.0,
+      "behinds" : 64.0,
+      "superGoals" : null,
+      "kicks" : 1303.0,
+      "handballs" : 1044.0,
+      "disposals" : 2347.0,
+      "marks" : 508.0,
+      "bounces" : 31.0,
+      "tackles" : 558.0,
+      "contestedPossessions" : 1025.0,
+      "uncontestedPossessions" : 1349.0,
+      "totalPossessions" : 2374.0,
+      "inside50s" : 460.0,
+      "marksInside50" : 56.0,
+      "contestedMarks" : 45.0,
+      "hitouts" : 63.0,
+      "onePercenters" : 204.0,
+      "disposalEfficiency" : 69.6,
+      "clangers" : 363.0,
+      "freesFor" : 137.0,
+      "freesAgainst" : 144.0,
+      "dreamTeamPoints" : 9993.0,
+      "clearances" : {
+        "centreClearances" : 137.0,
+        "stoppageClearances" : 198.0,
+        "totalClearances" : 335.0
+      },
+      "rebound50s" : 135.0,
+      "goalAssists" : 55.0,
+      "goalAccuracy" : 42.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 10.5,
+            "handballs" : 10.3,
+            "disposals" : 20.9,
+            "marks" : 3.9,
+            "bounces" : 0.1,
+            "tackles" : 6.8,
+            "contestedPossessions" : 9.0,
+            "uncontestedPossessions" : 12.0,
+            "totalPossessions" : 21.0,
+            "inside50s" : 3.7,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.1,
+            "hitouts" : 1.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 3.2,
+            "freesFor" : 1.2,
+            "freesAgainst" : 1.7,
+            "dreamTeamPoints" : 91.0,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 2.5,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290311",
+            "playerName" : {
+              "givenName" : "Mitch",
+              "surname" : "Robinson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 221.0,
+            "handballs" : 217.0,
+            "disposals" : 438.0,
+            "marks" : 81.0,
+            "bounces" : 3.0,
+            "tackles" : 142.0,
+            "contestedPossessions" : 190.0,
+            "uncontestedPossessions" : 252.0,
+            "totalPossessions" : 442.0,
+            "inside50s" : 77.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 20.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 70.8,
+            "clangers" : 67.0,
+            "freesFor" : 25.0,
+            "freesAgainst" : 36.0,
+            "dreamTeamPoints" : 1912.0,
+            "clearances" : {
+              "centreClearances" : 30.0,
+              "stoppageClearances" : 53.0,
+              "totalClearances" : 83.0
+            },
+            "rebound50s" : 35.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 52.6,
+            "ratingPoints" : 360.4,
+            "ranking" : 141.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290311",
+            "playerName" : {
+              "givenName" : "Mitch",
+              "surname" : "Robinson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 80.9
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 10.3,
+            "handballs" : 9.6,
+            "disposals" : 19.9,
+            "marks" : 4.7,
+            "bounces" : 0.2,
+            "tackles" : 4.1,
+            "contestedPossessions" : 9.0,
+            "uncontestedPossessions" : 11.1,
+            "totalPossessions" : 20.1,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.5,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 3.1,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 82.7,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.3
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290311",
+            "playerName" : {
+              "givenName" : "Mitch",
+              "surname" : "Robinson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 124.0,
+            "handballs" : 115.0,
+            "disposals" : 239.0,
+            "marks" : 56.0,
+            "bounces" : 3.0,
+            "tackles" : 49.0,
+            "contestedPossessions" : 108.0,
+            "uncontestedPossessions" : 133.0,
+            "totalPossessions" : 241.0,
+            "inside50s" : 46.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 72.8,
+            "clangers" : 37.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 993.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 19.0,
+              "totalClearances" : 28.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : 369.0,
+            "ranking" : 139.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290311",
+            "playerName" : {
+              "givenName" : "Mitch",
+              "surname" : "Robinson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 79.8
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 11.3,
+            "handballs" : 8.1,
+            "disposals" : 19.4,
+            "marks" : 3.0,
+            "bounces" : 0.2,
+            "tackles" : 3.9,
+            "contestedPossessions" : 9.7,
+            "uncontestedPossessions" : 9.7,
+            "totalPossessions" : 19.3,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 77.5,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.3
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290311",
+            "playerName" : {
+              "givenName" : "Mitch",
+              "surname" : "Robinson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 237.0,
+            "handballs" : 170.0,
+            "disposals" : 407.0,
+            "marks" : 64.0,
+            "bounces" : 4.0,
+            "tackles" : 82.0,
+            "contestedPossessions" : 203.0,
+            "uncontestedPossessions" : 203.0,
+            "totalPossessions" : 406.0,
+            "inside50s" : 79.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 37.0,
+            "disposalEfficiency" : 66.6,
+            "clangers" : 51.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1627.0,
+            "clearances" : {
+              "centreClearances" : 28.0,
+              "stoppageClearances" : 41.0,
+              "totalClearances" : 69.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 44.0,
+            "ratingPoints" : 387.1,
+            "ranking" : 112.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290311",
+            "playerName" : {
+              "givenName" : "Mitch",
+              "surname" : "Robinson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 75.0
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 11.8,
+            "handballs" : 9.2,
+            "disposals" : 21.1,
+            "marks" : 5.2,
+            "bounces" : 0.2,
+            "tackles" : 5.2,
+            "contestedPossessions" : 8.6,
+            "uncontestedPossessions" : 12.9,
+            "totalPossessions" : 21.5,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.9,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 3.4,
+            "freesFor" : 1.3,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 92.9,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.7
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290311",
+            "playerName" : {
+              "givenName" : "Mitch",
+              "surname" : "Robinson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 213.0,
+            "handballs" : 166.0,
+            "disposals" : 379.0,
+            "marks" : 94.0,
+            "bounces" : 4.0,
+            "tackles" : 93.0,
+            "contestedPossessions" : 154.0,
+            "uncontestedPossessions" : 233.0,
+            "totalPossessions" : 387.0,
+            "inside50s" : 69.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 17.0,
+            "onePercenters" : 37.0,
+            "disposalEfficiency" : 69.9,
+            "clangers" : 62.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 25.0,
+            "dreamTeamPoints" : 1672.0,
+            "clearances" : {
+              "centreClearances" : 23.0,
+              "stoppageClearances" : 25.0,
+              "totalClearances" : 48.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 44.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290311",
+            "playerName" : {
+              "givenName" : "Mitch",
+              "surname" : "Robinson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 82.1
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 13.2,
+            "handballs" : 9.3,
+            "disposals" : 22.5,
+            "marks" : 5.3,
+            "bounces" : 0.2,
+            "tackles" : 4.2,
+            "contestedPossessions" : 10.0,
+            "uncontestedPossessions" : 13.1,
+            "totalPossessions" : 23.2,
+            "inside50s" : 4.2,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.7,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 3.3,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 92.1,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 3.2
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290311",
+            "playerName" : {
+              "givenName" : "Mitch",
+              "surname" : "Robinson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 21.0,
+            "superGoals" : null,
+            "kicks" : 304.0,
+            "handballs" : 213.0,
+            "disposals" : 517.0,
+            "marks" : 121.0,
+            "bounces" : 5.0,
+            "tackles" : 97.0,
+            "contestedPossessions" : 231.0,
+            "uncontestedPossessions" : 302.0,
+            "totalPossessions" : 533.0,
+            "inside50s" : 96.0,
+            "marksInside50" : 12.0,
+            "contestedMarks" : 14.0,
+            "hitouts" : 15.0,
+            "onePercenters" : 53.0,
+            "disposalEfficiency" : 67.5,
+            "clangers" : 77.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 28.0,
+            "dreamTeamPoints" : 2119.0,
+            "clearances" : {
+              "centreClearances" : 32.0,
+              "stoppageClearances" : 41.0,
+              "totalClearances" : 73.0
+            },
+            "rebound50s" : 28.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 22.7,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290311",
+            "playerName" : {
+              "givenName" : "Mitch",
+              "surname" : "Robinson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 79.0
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.3,
+            "handballs" : 6.8,
+            "disposals" : 15.1,
+            "marks" : 3.2,
+            "bounces" : 0.2,
+            "tackles" : 4.2,
+            "contestedPossessions" : 6.4,
+            "uncontestedPossessions" : 8.8,
+            "totalPossessions" : 15.2,
+            "inside50s" : 3.7,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.9,
+            "freesFor" : 1.4,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 67.7,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290311",
+            "playerName" : {
+              "givenName" : "Mitch",
+              "surname" : "Robinson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 133.0,
+            "handballs" : 109.0,
+            "disposals" : 242.0,
+            "marks" : 51.0,
+            "bounces" : 4.0,
+            "tackles" : 67.0,
+            "contestedPossessions" : 102.0,
+            "uncontestedPossessions" : 141.0,
+            "totalPossessions" : 243.0,
+            "inside50s" : 60.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 74.8,
+            "clangers" : 47.0,
+            "freesFor" : 22.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 1083.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 24.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290311",
+            "playerName" : {
+              "givenName" : "Mitch",
+              "surname" : "Robinson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 76.6
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 7.1,
+            "handballs" : 5.4,
+            "disposals" : 12.5,
+            "marks" : 4.1,
+            "bounces" : 0.8,
+            "tackles" : 2.8,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 8.5,
+            "totalPossessions" : 13.2,
+            "inside50s" : 3.3,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 58.7,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290311",
+            "playerName" : {
+              "givenName" : "Mitch",
+              "surname" : "Robinson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 71.0,
+            "handballs" : 54.0,
+            "disposals" : 125.0,
+            "marks" : 41.0,
+            "bounces" : 8.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 47.0,
+            "uncontestedPossessions" : 85.0,
+            "totalPossessions" : 132.0,
+            "inside50s" : 33.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 66.4,
+            "clangers" : 22.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 587.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 45.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290311",
+            "playerName" : {
+              "givenName" : "Mitch",
+              "surname" : "Robinson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 70.8
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 10.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 221.0,
+      "handballs" : 217.0,
+      "disposals" : 438.0,
+      "marks" : 81.0,
+      "bounces" : 3.0,
+      "tackles" : 142.0,
+      "contestedPossessions" : 190.0,
+      "uncontestedPossessions" : 252.0,
+      "totalPossessions" : 442.0,
+      "inside50s" : 77.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 20.0,
+      "onePercenters" : 27.0,
+      "disposalEfficiency" : 70.8,
+      "clangers" : 67.0,
+      "freesFor" : 25.0,
+      "freesAgainst" : 36.0,
+      "dreamTeamPoints" : 1912.0,
+      "clearances" : {
+        "centreClearances" : 30.0,
+        "stoppageClearances" : 53.0,
+        "totalClearances" : 83.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 52.6,
+      "ratingPoints" : 360.4,
+      "ranking" : 141.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I290311",
+        "playerName" : {
+          "givenName" : "Mitch",
+          "surname" : "Robinson"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 366.6,
+        "ranking" : 134,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 366.6,
+        "ranking" : 7,
+        "ratingType" : "TEAM",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 366.6,
+        "ranking" : 66,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 220.3,
+        "ranking" : 112,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2008"
+    },
+    "careerGamesPlayed" : 121
+  }
+}

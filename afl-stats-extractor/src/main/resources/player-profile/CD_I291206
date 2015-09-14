@@ -1,0 +1,898 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291206",
+    "position" : "Ruck",
+    "surname" : "Pyke",
+    "jumperNumber" : 38,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.4,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 3.7,
+      "handballs" : 5.4,
+      "disposals" : 9.1,
+      "marks" : 2.5,
+      "bounces" : 0.0,
+      "tackles" : 2.4,
+      "contestedPossessions" : 5.4,
+      "uncontestedPossessions" : 3.6,
+      "totalPossessions" : 9.0,
+      "inside50s" : 1.2,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 1.2,
+      "hitouts" : 21.8,
+      "onePercenters" : 2.4,
+      "disposalEfficiency" : null,
+      "clangers" : 1.9,
+      "freesFor" : 0.9,
+      "freesAgainst" : 1.2,
+      "dreamTeamPoints" : 61.2,
+      "clearances" : {
+        "centreClearances" : 0.5,
+        "stoppageClearances" : 1.2,
+        "totalClearances" : 1.7
+      },
+      "rebound50s" : 0.4,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Mike",
+    "bio" : "<p><span style=\"font-family: arial,helvetica,sans-serif; font-size: small;\">The big ruckman had a delayed start to last year&rsquo;s pre-season campaign due to surgery which limited his influence in the early part of the season, before being struck down by a hamstring injury.</span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif; font-size: small;\">But he built his form over the second half of the season, including a career-best 53 hit-outs against Carlton in round 17. </span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif; font-size: small;\">He&rsquo;ll be looking to return to his absolute best this year as he approaches game 100.</span><br /> <br /><span style=\"font-family: arial,helvetica,sans-serif; font-size: small;\"> <strong>Draft history:</strong> 2009 Rookie Draft selection (Sydney) No. 57; 2010 NAB AFL Draft rookie elevation (Sydney) selection No. 101.</span></p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/SydneySwans/Player Profiles/2014 Profiles/PYKE Mike.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1984-03-24T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 201,
+      "weightInKg" : 104,
+      "recruitedFrom" : "Canada",
+      "debutYear" : "2009"
+    },
+    "careerStats" : {
+      "goals" : 48.0,
+      "behinds" : 29.0,
+      "superGoals" : null,
+      "kicks" : 403.0,
+      "handballs" : 588.0,
+      "disposals" : 991.0,
+      "marks" : 276.0,
+      "bounces" : 0.0,
+      "tackles" : 267.0,
+      "contestedPossessions" : 593.0,
+      "uncontestedPossessions" : 388.0,
+      "totalPossessions" : 981.0,
+      "inside50s" : 132.0,
+      "marksInside50" : 59.0,
+      "contestedMarks" : 134.0,
+      "hitouts" : 2372.0,
+      "onePercenters" : 266.0,
+      "disposalEfficiency" : 71.3,
+      "clangers" : 208.0,
+      "freesFor" : 101.0,
+      "freesAgainst" : 132.0,
+      "dreamTeamPoints" : 6675.0,
+      "clearances" : {
+        "centreClearances" : 59.0,
+        "stoppageClearances" : 131.0,
+        "totalClearances" : 190.0
+      },
+      "rebound50s" : 47.0,
+      "goalAssists" : 25.0,
+      "goalAccuracy" : 59.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 5.2,
+            "disposals" : 8.2,
+            "marks" : 1.9,
+            "bounces" : 0.0,
+            "tackles" : 2.5,
+            "contestedPossessions" : 4.4,
+            "uncontestedPossessions" : 3.7,
+            "totalPossessions" : 8.2,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.7,
+            "hitouts" : 26.3,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.7,
+            "dreamTeamPoints" : 58.5,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291206",
+            "playerName" : {
+              "givenName" : "Mike",
+              "surname" : "Pyke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 57.0,
+            "handballs" : 98.0,
+            "disposals" : 155.0,
+            "marks" : 36.0,
+            "bounces" : 0.0,
+            "tackles" : 48.0,
+            "contestedPossessions" : 84.0,
+            "uncontestedPossessions" : 71.0,
+            "totalPossessions" : 155.0,
+            "inside50s" : 24.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 500.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 71.6,
+            "clangers" : 43.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 32.0,
+            "dreamTeamPoints" : 1112.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 21.0,
+              "totalClearances" : 30.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 296.1,
+            "ranking" : 236.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291206",
+            "playerName" : {
+              "givenName" : "Mike",
+              "surname" : "Pyke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 83.3
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 4.6,
+            "handballs" : 4.9,
+            "disposals" : 9.5,
+            "marks" : 2.2,
+            "bounces" : 0.0,
+            "tackles" : 2.4,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 3.6,
+            "totalPossessions" : 9.4,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 1.1,
+            "hitouts" : 27.6,
+            "onePercenters" : 3.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.3,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 67.1,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.4
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291206",
+            "playerName" : {
+              "givenName" : "Mike",
+              "surname" : "Pyke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 88.0,
+            "handballs" : 93.0,
+            "disposals" : 181.0,
+            "marks" : 42.0,
+            "bounces" : 0.0,
+            "tackles" : 45.0,
+            "contestedPossessions" : 110.0,
+            "uncontestedPossessions" : 68.0,
+            "totalPossessions" : 178.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 20.0,
+            "hitouts" : 525.0,
+            "onePercenters" : 67.0,
+            "disposalEfficiency" : 64.1,
+            "clangers" : 36.0,
+            "freesFor" : 24.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1275.0,
+            "clearances" : {
+              "centreClearances" : 15.0,
+              "stoppageClearances" : 30.0,
+              "totalClearances" : 45.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 30.0,
+            "ratingPoints" : 341.1,
+            "ranking" : 171.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291206",
+            "playerName" : {
+              "givenName" : "Mike",
+              "surname" : "Pyke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 84.7
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.1,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 4.9,
+            "handballs" : 6.1,
+            "disposals" : 11.0,
+            "marks" : 3.6,
+            "bounces" : 0.0,
+            "tackles" : 2.1,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 3.6,
+            "totalPossessions" : 10.7,
+            "inside50s" : 1.4,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 2.1,
+            "hitouts" : 21.8,
+            "onePercenters" : 2.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 72.5,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291206",
+            "playerName" : {
+              "givenName" : "Mike",
+              "surname" : "Pyke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 28.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 123.0,
+            "handballs" : 153.0,
+            "disposals" : 276.0,
+            "marks" : 89.0,
+            "bounces" : 0.0,
+            "tackles" : 53.0,
+            "contestedPossessions" : 176.0,
+            "uncontestedPossessions" : 91.0,
+            "totalPossessions" : 267.0,
+            "inside50s" : 34.0,
+            "marksInside50" : 30.0,
+            "contestedMarks" : 52.0,
+            "hitouts" : 546.0,
+            "onePercenters" : 66.0,
+            "disposalEfficiency" : 68.8,
+            "clangers" : 50.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 28.0,
+            "dreamTeamPoints" : 1813.0,
+            "clearances" : {
+              "centreClearances" : 19.0,
+              "stoppageClearances" : 22.0,
+              "totalClearances" : 41.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 73.7,
+            "ratingPoints" : 330.1,
+            "ranking" : 185.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291206",
+            "playerName" : {
+              "givenName" : "Mike",
+              "surname" : "Pyke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 88.9
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 3.9,
+            "handballs" : 6.2,
+            "disposals" : 10.1,
+            "marks" : 3.3,
+            "bounces" : 0.0,
+            "tackles" : 2.7,
+            "contestedPossessions" : 5.9,
+            "uncontestedPossessions" : 4.4,
+            "totalPossessions" : 10.4,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 1.6,
+            "hitouts" : 21.3,
+            "onePercenters" : 3.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 66.4,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291206",
+            "playerName" : {
+              "givenName" : "Mike",
+              "surname" : "Pyke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 70.0,
+            "handballs" : 112.0,
+            "disposals" : 182.0,
+            "marks" : 59.0,
+            "bounces" : 0.0,
+            "tackles" : 48.0,
+            "contestedPossessions" : 107.0,
+            "uncontestedPossessions" : 80.0,
+            "totalPossessions" : 187.0,
+            "inside50s" : 20.0,
+            "marksInside50" : 15.0,
+            "contestedMarks" : 29.0,
+            "hitouts" : 384.0,
+            "onePercenters" : 55.0,
+            "disposalEfficiency" : 74.7,
+            "clangers" : 35.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1196.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 27.0,
+              "totalClearances" : 32.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291206",
+            "playerName" : {
+              "givenName" : "Mike",
+              "surname" : "Pyke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 78.8
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 3.5,
+            "disposals" : 7.5,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 2.5,
+            "totalPossessions" : 7.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.5,
+            "hitouts" : 13.5,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : null,
+            "clangers" : 4.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 2.5,
+            "dreamTeamPoints" : 49.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291206",
+            "playerName" : {
+              "givenName" : "Mike",
+              "surname" : "Pyke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 7.0,
+            "disposals" : 15.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 9.0,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 14.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 27.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 53.3,
+            "clangers" : 8.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 98.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291206",
+            "playerName" : {
+              "givenName" : "Mike",
+              "surname" : "Pyke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 64.2
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 2.7,
+            "handballs" : 4.8,
+            "disposals" : 7.5,
+            "marks" : 2.4,
+            "bounces" : 0.0,
+            "tackles" : 3.1,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 3.1,
+            "totalPossessions" : 7.4,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.9,
+            "hitouts" : 16.2,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 1.2,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 52.6,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291206",
+            "playerName" : {
+              "givenName" : "Mike",
+              "surname" : "Pyke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 49.0,
+            "handballs" : 86.0,
+            "disposals" : 135.0,
+            "marks" : 43.0,
+            "bounces" : 0.0,
+            "tackles" : 55.0,
+            "contestedPossessions" : 78.0,
+            "uncontestedPossessions" : 55.0,
+            "totalPossessions" : 133.0,
+            "inside50s" : 20.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 17.0,
+            "hitouts" : 292.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 80.0,
+            "clangers" : 24.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 947.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 22.0,
+              "totalClearances" : 29.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291206",
+            "playerName" : {
+              "givenName" : "Mike",
+              "surname" : "Pyke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 56.4
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 1.0,
+            "handballs" : 4.9,
+            "disposals" : 5.9,
+            "marks" : 0.4,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 2.2,
+            "totalPossessions" : 5.9,
+            "inside50s" : 0.4,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 12.2,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 29.2,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291206",
+            "playerName" : {
+              "givenName" : "Mike",
+              "surname" : "Pyke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 39.0,
+            "disposals" : 47.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 29.0,
+            "uncontestedPossessions" : 18.0,
+            "totalPossessions" : 47.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 98.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 80.9,
+            "clangers" : 12.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 234.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291206",
+            "playerName" : {
+              "givenName" : "Mike",
+              "surname" : "Pyke"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 42.9
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 4.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 57.0,
+      "handballs" : 98.0,
+      "disposals" : 155.0,
+      "marks" : 36.0,
+      "bounces" : 0.0,
+      "tackles" : 48.0,
+      "contestedPossessions" : 84.0,
+      "uncontestedPossessions" : 71.0,
+      "totalPossessions" : 155.0,
+      "inside50s" : 24.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 500.0,
+      "onePercenters" : 36.0,
+      "disposalEfficiency" : 71.6,
+      "clangers" : 43.0,
+      "freesFor" : 13.0,
+      "freesAgainst" : 32.0,
+      "dreamTeamPoints" : 1112.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 7.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 296.1,
+      "ranking" : 236.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291206",
+        "playerName" : {
+          "givenName" : "Mike",
+          "surname" : "Pyke"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T160",
+        "teamAbbr" : "SYD",
+        "teamName" : "Sydney Swans",
+        "teamNickname" : "Swans"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 291.3,
+        "ranking" : 242,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 291.3,
+        "ranking" : 16,
+        "ratingType" : "TEAM",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 291.3,
+        "ranking" : 14,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 3.3,
+        "ranking" : 159,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 139.9,
+        "ranking" : 269,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2008"
+    },
+    "careerGamesPlayed" : 109
+  }
+}

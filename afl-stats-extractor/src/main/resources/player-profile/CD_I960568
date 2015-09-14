@@ -1,0 +1,338 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960568",
+    "position" : "Right Forward Pocket",
+    "surname" : "Loewe",
+    "jumperNumber" : 23,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Stewart",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1968-05-23T02:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 194,
+      "weightInKg" : 108,
+      "recruitedFrom" : null,
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 92.0,
+      "behinds" : 50.0,
+      "superGoals" : null,
+      "kicks" : 640.0,
+      "handballs" : 368.0,
+      "disposals" : 1008.0,
+      "marks" : 436.0,
+      "bounces" : 18.0,
+      "tackles" : 83.0,
+      "contestedPossessions" : 552.0,
+      "uncontestedPossessions" : 473.0,
+      "totalPossessions" : 1025.0,
+      "inside50s" : 180.0,
+      "marksInside50" : 120.0,
+      "contestedMarks" : 166.0,
+      "hitouts" : 642.0,
+      "onePercenters" : 85.0,
+      "disposalEfficiency" : 76.8,
+      "clangers" : 179.0,
+      "freesFor" : 86.0,
+      "freesAgainst" : 69.0,
+      "dreamTeamPoints" : 5419.0,
+      "clearances" : {
+        "centreClearances" : 31.0,
+        "stoppageClearances" : 114.0,
+        "totalClearances" : 145.0
+      },
+      "rebound50s" : 52.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 63.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 6.6,
+            "handballs" : 5.2,
+            "disposals" : 11.8,
+            "marks" : 4.7,
+            "bounces" : 0.1,
+            "tackles" : 1.8,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 6.3,
+            "totalPossessions" : 11.8,
+            "inside50s" : 2.0,
+            "marksInside50" : 1.6,
+            "contestedMarks" : 1.2,
+            "hitouts" : 8.6,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 65.8,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960568",
+            "playerName" : {
+              "givenName" : "Stewart",
+              "surname" : "Loewe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 112.0,
+            "handballs" : 89.0,
+            "disposals" : 201.0,
+            "marks" : 80.0,
+            "bounces" : 2.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 94.0,
+            "uncontestedPossessions" : 107.0,
+            "totalPossessions" : 201.0,
+            "inside50s" : 34.0,
+            "marksInside50" : 27.0,
+            "contestedMarks" : 21.0,
+            "hitouts" : 147.0,
+            "onePercenters" : 29.0,
+            "disposalEfficiency" : 78.1,
+            "clangers" : 32.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1118.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 20.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 65.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960568",
+            "playerName" : {
+              "givenName" : "Stewart",
+              "surname" : "Loewe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.9,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 5.3,
+            "disposals" : 14.3,
+            "marks" : 5.4,
+            "bounces" : 0.1,
+            "tackles" : 1.0,
+            "contestedPossessions" : 8.8,
+            "uncontestedPossessions" : 5.2,
+            "totalPossessions" : 14.0,
+            "inside50s" : 2.5,
+            "marksInside50" : 1.8,
+            "contestedMarks" : 2.5,
+            "hitouts" : 7.4,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 75.8,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960568",
+            "playerName" : {
+              "givenName" : "Stewart",
+              "surname" : "Loewe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 19.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 90.0,
+            "handballs" : 53.0,
+            "disposals" : 143.0,
+            "marks" : 54.0,
+            "bounces" : 1.0,
+            "tackles" : 10.0,
+            "contestedPossessions" : 88.0,
+            "uncontestedPossessions" : 52.0,
+            "totalPossessions" : 140.0,
+            "inside50s" : 25.0,
+            "marksInside50" : 18.0,
+            "contestedMarks" : 25.0,
+            "hitouts" : 74.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 70.6,
+            "clangers" : 22.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 758.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 76.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960568",
+            "playerName" : {
+              "givenName" : "Stewart",
+              "surname" : "Loewe"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 17.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 112.0,
+      "handballs" : 89.0,
+      "disposals" : 201.0,
+      "marks" : 80.0,
+      "bounces" : 2.0,
+      "tackles" : 31.0,
+      "contestedPossessions" : 94.0,
+      "uncontestedPossessions" : 107.0,
+      "totalPossessions" : 201.0,
+      "inside50s" : 34.0,
+      "marksInside50" : 27.0,
+      "contestedMarks" : 21.0,
+      "hitouts" : 147.0,
+      "onePercenters" : 29.0,
+      "disposalEfficiency" : 78.1,
+      "clangers" : 32.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1118.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 15.0,
+        "totalClearances" : 20.0
+      },
+      "rebound50s" : 15.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 65.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

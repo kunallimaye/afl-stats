@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I290306",
+    "position" : "Right Half Back",
+    "surname" : "Hampton",
+    "jumperNumber" : 2,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 8.9,
+      "handballs" : 5.8,
+      "disposals" : 14.8,
+      "marks" : 3.5,
+      "bounces" : 1.4,
+      "tackles" : 2.8,
+      "contestedPossessions" : 4.5,
+      "uncontestedPossessions" : 9.5,
+      "totalPossessions" : 14.1,
+      "inside50s" : 1.7,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.1,
+      "onePercenters" : 1.8,
+      "disposalEfficiency" : null,
+      "clangers" : 2.2,
+      "freesFor" : 0.8,
+      "freesAgainst" : 0.8,
+      "dreamTeamPoints" : 60.0,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.4,
+        "totalClearances" : 0.5
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Curtly",
+    "bio" : "<p>Alice Springs&rsquo; Curtly Hampton arrived at the GIANTS as a Northern Territory Zone Selection in 2010, two years before the club would begin in the AFL. Hampton spent 2011 playing with the GIANTS in the NEAFL competition before making his debut in the GIANTS&rsquo; inaugural game against the Sydney Swans in Round 1, 2012. Originally drafted as an athletic forward and midfielder, Hampton switched to defence and has enjoyed success as a rebounding defender, playing off the back-line for the GIANTS. Hampton was named in the GIANTS&rsquo; emerging leaders group before the 2014 season.<br /> &nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2015 - Profiles/HAMPTON Curtly.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-03-10T02:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 186,
+      "weightInKg" : 88,
+      "recruitedFrom" : "Pioneers (NT)/NT Thunder (NT)",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 10.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 456.0,
+      "handballs" : 298.0,
+      "disposals" : 754.0,
+      "marks" : 179.0,
+      "bounces" : 71.0,
+      "tackles" : 142.0,
+      "contestedPossessions" : 230.0,
+      "uncontestedPossessions" : 487.0,
+      "totalPossessions" : 717.0,
+      "inside50s" : 87.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 3.0,
+      "onePercenters" : 94.0,
+      "disposalEfficiency" : 69.4,
+      "clangers" : 114.0,
+      "freesFor" : 39.0,
+      "freesAgainst" : 41.0,
+      "dreamTeamPoints" : 3061.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 27.0
+      },
+      "rebound50s" : 153.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 4.6,
+            "disposals" : 11.6,
+            "marks" : 3.0,
+            "bounces" : 0.8,
+            "tackles" : 2.8,
+            "contestedPossessions" : 2.8,
+            "uncontestedPossessions" : 8.4,
+            "totalPossessions" : 11.2,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 48.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 2.6,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290306",
+            "playerName" : {
+              "givenName" : "Curtly",
+              "surname" : "Hampton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 35.0,
+            "handballs" : 23.0,
+            "disposals" : 58.0,
+            "marks" : 15.0,
+            "bounces" : 4.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 14.0,
+            "uncontestedPossessions" : 42.0,
+            "totalPossessions" : 56.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 74.1,
+            "clangers" : 10.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 241.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 148.7,
+            "ranking" : 437.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290306",
+            "playerName" : {
+              "givenName" : "Curtly",
+              "surname" : "Hampton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 65.1
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.7,
+            "handballs" : 7.1,
+            "disposals" : 16.8,
+            "marks" : 3.6,
+            "bounces" : 1.1,
+            "tackles" : 3.5,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 11.5,
+            "totalPossessions" : 17.2,
+            "inside50s" : 2.6,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 68.3,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290306",
+            "playerName" : {
+              "givenName" : "Curtly",
+              "surname" : "Hampton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 107.0,
+            "handballs" : 78.0,
+            "disposals" : 185.0,
+            "marks" : 40.0,
+            "bounces" : 12.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 63.0,
+            "uncontestedPossessions" : 126.0,
+            "totalPossessions" : 189.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 73.5,
+            "clangers" : 23.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 751.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 26.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : 222.2,
+            "ranking" : 338.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290306",
+            "playerName" : {
+              "givenName" : "Curtly",
+              "surname" : "Hampton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 80.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.1,
+            "handballs" : 6.5,
+            "disposals" : 15.6,
+            "marks" : 4.0,
+            "bounces" : 1.8,
+            "tackles" : 3.2,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 9.7,
+            "totalPossessions" : 14.4,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 64.3,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 3.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290306",
+            "playerName" : {
+              "givenName" : "Curtly",
+              "surname" : "Hampton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 164.0,
+            "handballs" : 117.0,
+            "disposals" : 281.0,
+            "marks" : 72.0,
+            "bounces" : 33.0,
+            "tackles" : 58.0,
+            "contestedPossessions" : 85.0,
+            "uncontestedPossessions" : 174.0,
+            "totalPossessions" : 259.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 70.5,
+            "clangers" : 46.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1158.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 67.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : 188.8,
+            "ranking" : 368.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290306",
+            "playerName" : {
+              "givenName" : "Curtly",
+              "surname" : "Hampton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 81.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 8.8,
+            "handballs" : 4.7,
+            "disposals" : 13.5,
+            "marks" : 3.1,
+            "bounces" : 1.3,
+            "tackles" : 1.8,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 8.5,
+            "totalPossessions" : 12.5,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 53.6,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 2.8,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290306",
+            "playerName" : {
+              "givenName" : "Curtly",
+              "surname" : "Hampton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 150.0,
+            "handballs" : 80.0,
+            "disposals" : 230.0,
+            "marks" : 52.0,
+            "bounces" : 22.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 68.0,
+            "uncontestedPossessions" : 145.0,
+            "totalPossessions" : 213.0,
+            "inside50s" : 19.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 63.0,
+            "clangers" : 35.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 911.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 47.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 35.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290306",
+            "playerName" : {
+              "givenName" : "Curtly",
+              "surname" : "Hampton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 81.9
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 35.0,
+      "handballs" : 23.0,
+      "disposals" : 58.0,
+      "marks" : 15.0,
+      "bounces" : 4.0,
+      "tackles" : 14.0,
+      "contestedPossessions" : 14.0,
+      "uncontestedPossessions" : 42.0,
+      "totalPossessions" : 56.0,
+      "inside50s" : 12.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 8.0,
+      "disposalEfficiency" : 74.1,
+      "clangers" : 10.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 4.0,
+      "dreamTeamPoints" : 241.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 13.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 148.7,
+      "ranking" : 437.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I290306",
+        "playerName" : {
+          "givenName" : "Curtly",
+          "surname" : "Hampton"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 136.8,
+        "ranking" : 456,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 136.8,
+        "ranking" : 28,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 136.8,
+        "ranking" : 96,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 27.7,
+        "ranking" : 539,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 51
+  }
+}

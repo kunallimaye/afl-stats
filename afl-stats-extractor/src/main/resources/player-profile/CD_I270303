@@ -1,0 +1,898 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I270303",
+    "position" : "Full Back",
+    "surname" : "Delaney",
+    "jumperNumber" : 21,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 4.5,
+      "handballs" : 4.7,
+      "disposals" : 9.3,
+      "marks" : 3.8,
+      "bounces" : 0.2,
+      "tackles" : 1.9,
+      "contestedPossessions" : 3.3,
+      "uncontestedPossessions" : 5.8,
+      "totalPossessions" : 9.1,
+      "inside50s" : 0.2,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.5,
+      "hitouts" : 0.1,
+      "onePercenters" : 5.5,
+      "disposalEfficiency" : null,
+      "clangers" : 1.3,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.8,
+      "dreamTeamPoints" : 40.5,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.1,
+        "totalClearances" : 0.1
+      },
+      "rebound50s" : 1.3,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Luke",
+    "bio" : "<p>A strong key position defender, Delaney joined St Kilda in the 2013 trade period to boost the club’s backline.</p>\n\n<p>In 26 games with North Melbourne across five seasons he matched it with some of the competition’s best marking forwards, but struggled for consistent game time behind Nathan Grima and Scott Thompson.</p>\n\n<p>Now a Saint, Delaney will be committed to partially solving St Kilda’s key defensive quandary along with GWS recruit Josh Bruce.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/StKilda/Player Profiles/2015 - Profiles/DELANEY Luke.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1989-06-24T02:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 194,
+      "weightInKg" : 97,
+      "recruitedFrom" : "Grovedale/Geelong U18",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 1.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 268.0,
+      "handballs" : 278.0,
+      "disposals" : 546.0,
+      "marks" : 222.0,
+      "bounces" : 13.0,
+      "tackles" : 114.0,
+      "contestedPossessions" : 197.0,
+      "uncontestedPossessions" : 341.0,
+      "totalPossessions" : 538.0,
+      "inside50s" : 13.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 28.0,
+      "hitouts" : 4.0,
+      "onePercenters" : 326.0,
+      "disposalEfficiency" : 84.2,
+      "clangers" : 78.0,
+      "freesFor" : 39.0,
+      "freesAgainst" : 47.0,
+      "dreamTeamPoints" : 2391.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 6.0,
+        "totalClearances" : 8.0
+      },
+      "rebound50s" : 79.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.6,
+            "handballs" : 5.0,
+            "disposals" : 8.6,
+            "marks" : 4.1,
+            "bounces" : 0.1,
+            "tackles" : 1.7,
+            "contestedPossessions" : 2.7,
+            "uncontestedPossessions" : 5.8,
+            "totalPossessions" : 8.5,
+            "inside50s" : 0.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 6.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 37.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270303",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 40.0,
+            "handballs" : 55.0,
+            "disposals" : 95.0,
+            "marks" : 45.0,
+            "bounces" : 1.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 30.0,
+            "uncontestedPossessions" : 64.0,
+            "totalPossessions" : 94.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 68.0,
+            "disposalEfficiency" : 88.4,
+            "clangers" : 17.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 408.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 169.2,
+            "ranking" : 406.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270303",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 92.2
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.2,
+            "handballs" : 3.9,
+            "disposals" : 8.1,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 1.8,
+            "contestedPossessions" : 3.1,
+            "uncontestedPossessions" : 5.1,
+            "totalPossessions" : 8.2,
+            "inside50s" : 0.1,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 38.0,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270303",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 92.0,
+            "handballs" : 86.0,
+            "disposals" : 178.0,
+            "marks" : 87.0,
+            "bounces" : 0.0,
+            "tackles" : 40.0,
+            "contestedPossessions" : 68.0,
+            "uncontestedPossessions" : 112.0,
+            "totalPossessions" : 180.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 113.0,
+            "disposalEfficiency" : 82.6,
+            "clangers" : 27.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 835.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 139.8,
+            "ranking" : 441.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270303",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 92.8
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.2,
+            "handballs" : 4.4,
+            "disposals" : 10.6,
+            "marks" : 4.6,
+            "bounces" : 1.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 3.2,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 10.2,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.2,
+            "disposalEfficiency" : null,
+            "clangers" : 0.6,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 48.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270303",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 31.0,
+            "handballs" : 22.0,
+            "disposals" : 53.0,
+            "marks" : 23.0,
+            "bounces" : 5.0,
+            "tackles" : 10.0,
+            "contestedPossessions" : 16.0,
+            "uncontestedPossessions" : 35.0,
+            "totalPossessions" : 51.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 84.9,
+            "clangers" : 3.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 244.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 84.7,
+            "ranking" : 527.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270303",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 92.2
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.6,
+            "handballs" : 5.3,
+            "disposals" : 10.9,
+            "marks" : 3.7,
+            "bounces" : 0.5,
+            "tackles" : 1.8,
+            "contestedPossessions" : 3.4,
+            "uncontestedPossessions" : 7.2,
+            "totalPossessions" : 10.6,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.2,
+            "onePercenters" : 6.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 44.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270303",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 73.0,
+            "handballs" : 69.0,
+            "disposals" : 142.0,
+            "marks" : 48.0,
+            "bounces" : 7.0,
+            "tackles" : 23.0,
+            "contestedPossessions" : 44.0,
+            "uncontestedPossessions" : 94.0,
+            "totalPossessions" : 138.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 85.0,
+            "disposalEfficiency" : 81.0,
+            "clangers" : 22.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 582.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270303",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 93.6
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 5.7,
+            "disposals" : 9.7,
+            "marks" : 2.4,
+            "bounces" : 0.0,
+            "tackles" : 2.7,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 4.5,
+            "totalPossessions" : 9.4,
+            "inside50s" : 0.1,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 40.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270303",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 32.0,
+            "handballs" : 46.0,
+            "disposals" : 78.0,
+            "marks" : 19.0,
+            "bounces" : 0.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 39.0,
+            "uncontestedPossessions" : 36.0,
+            "totalPossessions" : 75.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 39.0,
+            "disposalEfficiency" : 87.2,
+            "clangers" : 9.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 322.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270303",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 97.8
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270303",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270303",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270303",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270303",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Delaney"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T100",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 40.0,
+      "handballs" : 55.0,
+      "disposals" : 95.0,
+      "marks" : 45.0,
+      "bounces" : 1.0,
+      "tackles" : 19.0,
+      "contestedPossessions" : 30.0,
+      "uncontestedPossessions" : 64.0,
+      "totalPossessions" : 94.0,
+      "inside50s" : 2.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 68.0,
+      "disposalEfficiency" : 88.4,
+      "clangers" : 17.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 408.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 12.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 169.2,
+      "ranking" : 406.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I270303",
+        "playerName" : {
+          "givenName" : "Luke",
+          "surname" : "Delaney"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T130",
+        "teamAbbr" : "STK",
+        "teamName" : "St Kilda",
+        "teamNickname" : "Saints"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 168.2,
+        "ranking" : 406,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 168.2,
+        "ranking" : 22,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 168.2,
+        "ranking" : 43,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 55.3,
+        "ranking" : 462,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2008"
+    },
+    "careerGamesPlayed" : 59
+  }
+}

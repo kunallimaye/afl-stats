@@ -1,0 +1,853 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I970022",
+    "position" : "Interchange",
+    "surname" : "Whitnall",
+    "jumperNumber" : 8,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Lance",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1979-08-23T02:00:00.000+0000",
+      "draftYear" : "1996",
+      "heightInCm" : 192,
+      "weightInKg" : 100,
+      "recruitedFrom" : "Lalor/Northern U18",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 283.0,
+      "behinds" : 189.0,
+      "superGoals" : null,
+      "kicks" : 1891.0,
+      "handballs" : 732.0,
+      "disposals" : 2623.0,
+      "marks" : 1198.0,
+      "bounces" : 69.0,
+      "tackles" : 192.0,
+      "contestedPossessions" : 1062.0,
+      "uncontestedPossessions" : 1553.0,
+      "totalPossessions" : 2615.0,
+      "inside50s" : 474.0,
+      "marksInside50" : 368.0,
+      "contestedMarks" : 291.0,
+      "hitouts" : 397.0,
+      "onePercenters" : 462.0,
+      "disposalEfficiency" : 72.9,
+      "clangers" : 427.0,
+      "freesFor" : 181.0,
+      "freesAgainst" : 135.0,
+      "dreamTeamPoints" : 13559.0,
+      "clearances" : {
+        "centreClearances" : 17.0,
+        "stoppageClearances" : 100.0,
+        "totalClearances" : 117.0
+      },
+      "rebound50s" : 272.0,
+      "goalAssists" : 46.0,
+      "goalAccuracy" : 57.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.3,
+            "behinds" : 1.1,
+            "superGoals" : null,
+            "kicks" : 9.9,
+            "handballs" : 3.6,
+            "disposals" : 13.5,
+            "marks" : 5.7,
+            "bounces" : 0.4,
+            "tackles" : 1.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 8.1,
+            "totalPossessions" : 13.1,
+            "inside50s" : 2.5,
+            "marksInside50" : 1.4,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.5,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.3,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 67.3,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970022",
+            "playerName" : {
+              "givenName" : "Lance",
+              "surname" : "Whitnall"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 19.0,
+            "behinds" : 16.0,
+            "superGoals" : null,
+            "kicks" : 148.0,
+            "handballs" : 54.0,
+            "disposals" : 202.0,
+            "marks" : 86.0,
+            "bounces" : 6.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 75.0,
+            "uncontestedPossessions" : 122.0,
+            "totalPossessions" : 197.0,
+            "inside50s" : 37.0,
+            "marksInside50" : 21.0,
+            "contestedMarks" : 15.0,
+            "hitouts" : 22.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 67.8,
+            "clangers" : 25.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1009.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 12.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 45.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970022",
+            "playerName" : {
+              "givenName" : "Lance",
+              "surname" : "Whitnall"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 81.3
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 12.9,
+            "handballs" : 5.9,
+            "disposals" : 18.8,
+            "marks" : 8.0,
+            "bounces" : 1.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 6.3,
+            "uncontestedPossessions" : 12.4,
+            "totalPossessions" : 18.7,
+            "inside50s" : 1.8,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 1.5,
+            "hitouts" : 1.0,
+            "onePercenters" : 4.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 83.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 3.5,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970022",
+            "playerName" : {
+              "givenName" : "Lance",
+              "surname" : "Whitnall"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 284.0,
+            "handballs" : 130.0,
+            "disposals" : 414.0,
+            "marks" : 177.0,
+            "bounces" : 21.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 138.0,
+            "uncontestedPossessions" : 273.0,
+            "totalPossessions" : 411.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 27.0,
+            "contestedMarks" : 33.0,
+            "hitouts" : 23.0,
+            "onePercenters" : 93.0,
+            "disposalEfficiency" : 77.8,
+            "clangers" : 53.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1838.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 77.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 57.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970022",
+            "playerName" : {
+              "givenName" : "Lance",
+              "surname" : "Whitnall"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 98.0
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.1,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 10.4,
+            "handballs" : 5.0,
+            "disposals" : 15.4,
+            "marks" : 6.3,
+            "bounces" : 0.5,
+            "tackles" : 0.9,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 9.7,
+            "totalPossessions" : 15.2,
+            "inside50s" : 1.5,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 1.1,
+            "hitouts" : 2.2,
+            "onePercenters" : 3.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 72.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970022",
+            "playerName" : {
+              "givenName" : "Lance",
+              "surname" : "Whitnall"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 24.0,
+            "behinds" : 21.0,
+            "superGoals" : null,
+            "kicks" : 229.0,
+            "handballs" : 110.0,
+            "disposals" : 339.0,
+            "marks" : 139.0,
+            "bounces" : 12.0,
+            "tackles" : 20.0,
+            "contestedPossessions" : 122.0,
+            "uncontestedPossessions" : 213.0,
+            "totalPossessions" : 335.0,
+            "inside50s" : 34.0,
+            "marksInside50" : 27.0,
+            "contestedMarks" : 25.0,
+            "hitouts" : 49.0,
+            "onePercenters" : 84.0,
+            "disposalEfficiency" : 73.7,
+            "clangers" : 57.0,
+            "freesFor" : 22.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 1583.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 67.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 51.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970022",
+            "playerName" : {
+              "givenName" : "Lance",
+              "surname" : "Whitnall"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 96.5
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.3,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 7.4,
+            "handballs" : 3.2,
+            "disposals" : 10.6,
+            "marks" : 3.9,
+            "bounces" : 0.3,
+            "tackles" : 0.9,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 5.9,
+            "totalPossessions" : 10.7,
+            "inside50s" : 2.5,
+            "marksInside50" : 1.1,
+            "contestedMarks" : 0.7,
+            "hitouts" : 2.7,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 53.1,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970022",
+            "playerName" : {
+              "givenName" : "Lance",
+              "surname" : "Whitnall"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 24.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 141.0,
+            "handballs" : 61.0,
+            "disposals" : 202.0,
+            "marks" : 75.0,
+            "bounces" : 6.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 91.0,
+            "uncontestedPossessions" : 113.0,
+            "totalPossessions" : 204.0,
+            "inside50s" : 48.0,
+            "marksInside50" : 20.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 52.0,
+            "onePercenters" : 41.0,
+            "disposalEfficiency" : 69.8,
+            "clangers" : 34.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1009.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 17.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 54.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970022",
+            "playerName" : {
+              "givenName" : "Lance",
+              "surname" : "Whitnall"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 80.5
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 11.4,
+            "handballs" : 3.5,
+            "disposals" : 14.9,
+            "marks" : 6.1,
+            "bounces" : 0.3,
+            "tackles" : 1.1,
+            "contestedPossessions" : 6.7,
+            "uncontestedPossessions" : 8.3,
+            "totalPossessions" : 15.0,
+            "inside50s" : 3.7,
+            "marksInside50" : 1.4,
+            "contestedMarks" : 1.5,
+            "hitouts" : 2.2,
+            "onePercenters" : 3.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 71.1,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970022",
+            "playerName" : {
+              "givenName" : "Lance",
+              "surname" : "Whitnall"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 137.0,
+            "handballs" : 42.0,
+            "disposals" : 179.0,
+            "marks" : 73.0,
+            "bounces" : 4.0,
+            "tackles" : 13.0,
+            "contestedPossessions" : 80.0,
+            "uncontestedPossessions" : 100.0,
+            "totalPossessions" : 180.0,
+            "inside50s" : 45.0,
+            "marksInside50" : 17.0,
+            "contestedMarks" : 18.0,
+            "hitouts" : 26.0,
+            "onePercenters" : 43.0,
+            "disposalEfficiency" : 73.2,
+            "clangers" : 31.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 853.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 20.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 44.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970022",
+            "playerName" : {
+              "givenName" : "Lance",
+              "surname" : "Whitnall"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 97.1
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.2,
+            "superGoals" : null,
+            "kicks" : 11.6,
+            "handballs" : 3.2,
+            "disposals" : 14.9,
+            "marks" : 7.4,
+            "bounces" : 0.3,
+            "tackles" : 1.1,
+            "contestedPossessions" : 6.1,
+            "uncontestedPossessions" : 8.7,
+            "totalPossessions" : 14.8,
+            "inside50s" : 3.2,
+            "marksInside50" : 2.1,
+            "contestedMarks" : 2.1,
+            "hitouts" : 2.9,
+            "onePercenters" : 2.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.6,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 83.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970022",
+            "playerName" : {
+              "givenName" : "Lance",
+              "surname" : "Whitnall"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 28.0,
+            "behinds" : 17.0,
+            "superGoals" : null,
+            "kicks" : 163.0,
+            "handballs" : 45.0,
+            "disposals" : 208.0,
+            "marks" : 103.0,
+            "bounces" : 4.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 85.0,
+            "uncontestedPossessions" : 122.0,
+            "totalPossessions" : 207.0,
+            "inside50s" : 45.0,
+            "marksInside50" : 30.0,
+            "contestedMarks" : 29.0,
+            "hitouts" : 41.0,
+            "onePercenters" : 40.0,
+            "disposalEfficiency" : 73.6,
+            "clangers" : 34.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1167.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 58.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970022",
+            "playerName" : {
+              "givenName" : "Lance",
+              "surname" : "Whitnall"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.8,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 10.8,
+            "handballs" : 3.6,
+            "disposals" : 14.4,
+            "marks" : 7.0,
+            "bounces" : 0.3,
+            "tackles" : 1.3,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 8.5,
+            "totalPossessions" : 14.0,
+            "inside50s" : 2.3,
+            "marksInside50" : 1.9,
+            "contestedMarks" : 2.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 78.9,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970022",
+            "playerName" : {
+              "givenName" : "Lance",
+              "surname" : "Whitnall"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 37.0,
+            "behinds" : 21.0,
+            "superGoals" : null,
+            "kicks" : 227.0,
+            "handballs" : 76.0,
+            "disposals" : 303.0,
+            "marks" : 146.0,
+            "bounces" : 7.0,
+            "tackles" : 27.0,
+            "contestedPossessions" : 117.0,
+            "uncontestedPossessions" : 178.0,
+            "totalPossessions" : 295.0,
+            "inside50s" : 49.0,
+            "marksInside50" : 39.0,
+            "contestedMarks" : 41.0,
+            "hitouts" : 41.0,
+            "onePercenters" : 48.0,
+            "disposalEfficiency" : 76.2,
+            "clangers" : 35.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 1656.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 19.0,
+              "totalClearances" : 23.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 63.8,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I970022",
+            "playerName" : {
+              "givenName" : "Lance",
+              "surname" : "Whitnall"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 19.0,
+      "behinds" : 16.0,
+      "superGoals" : null,
+      "kicks" : 148.0,
+      "handballs" : 54.0,
+      "disposals" : 202.0,
+      "marks" : 86.0,
+      "bounces" : 6.0,
+      "tackles" : 15.0,
+      "contestedPossessions" : 75.0,
+      "uncontestedPossessions" : 122.0,
+      "totalPossessions" : 197.0,
+      "inside50s" : 37.0,
+      "marksInside50" : 21.0,
+      "contestedMarks" : 15.0,
+      "hitouts" : 22.0,
+      "onePercenters" : 31.0,
+      "disposalEfficiency" : 67.8,
+      "clangers" : 25.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1009.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 10.0,
+        "totalClearances" : 12.0
+      },
+      "rebound50s" : 25.0,
+      "goalAssists" : 11.0,
+      "goalAccuracy" : 45.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280018",
+    "position" : "Right Half Forward",
+    "surname" : "Gordon",
+    "jumperNumber" : 22,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.8,
+      "behinds" : 0.6,
+      "superGoals" : null,
+      "kicks" : 6.5,
+      "handballs" : 4.1,
+      "disposals" : 10.6,
+      "marks" : 3.6,
+      "bounces" : 0.3,
+      "tackles" : 1.9,
+      "contestedPossessions" : 4.0,
+      "uncontestedPossessions" : 7.0,
+      "totalPossessions" : 11.0,
+      "inside50s" : 2.3,
+      "marksInside50" : 0.9,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.7,
+      "disposalEfficiency" : null,
+      "clangers" : 2.0,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.9,
+      "dreamTeamPoints" : 49.4,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.2,
+        "totalClearances" : 0.2
+      },
+      "rebound50s" : 0.3,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Nathan",
+    "bio" : "<p>A mature-age half-forward from the SANFL, Gordon earns his second AFL chance after a standout season with North Adelaide. The 24-year-old plays an exciting style of football as a goal kicking forward while pushing into the midfield where his endurance and strong marking are assets.&nbsp;<br>\n<br>\n<b>Previous AFL club</b>: Sydney (2011: 2 games, 1 goal).</p>\n\n<p><b>Draft history:</b> 2010 Rookie Draft selection (Sydney) No. 71;&nbsp;<br>\n2013 AFL Draft 3rd round selection (Richmond) No. 50 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Richmond/Player Profiles/2015 - Profiles/GORDON Nathan.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1990-02-12T01:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 186,
+      "weightInKg" : 86,
+      "recruitedFrom" : "East Coast Eagles (NSW)",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 19.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 150.0,
+      "handballs" : 94.0,
+      "disposals" : 244.0,
+      "marks" : 82.0,
+      "bounces" : 8.0,
+      "tackles" : 43.0,
+      "contestedPossessions" : 92.0,
+      "uncontestedPossessions" : 160.0,
+      "totalPossessions" : 252.0,
+      "inside50s" : 53.0,
+      "marksInside50" : 20.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 15.0,
+      "disposalEfficiency" : 66.0,
+      "clangers" : 46.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1136.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 5.0
+      },
+      "rebound50s" : 8.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 52.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 6.1,
+            "handballs" : 5.1,
+            "disposals" : 11.2,
+            "marks" : 3.4,
+            "bounces" : 0.2,
+            "tackles" : 1.2,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 7.3,
+            "totalPossessions" : 11.3,
+            "inside50s" : 2.7,
+            "marksInside50" : 1.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 47.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280018",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Gordon"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 55.0,
+            "handballs" : 46.0,
+            "disposals" : 101.0,
+            "marks" : 31.0,
+            "bounces" : 2.0,
+            "tackles" : 11.0,
+            "contestedPossessions" : 36.0,
+            "uncontestedPossessions" : 66.0,
+            "totalPossessions" : 102.0,
+            "inside50s" : 24.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 62.4,
+            "clangers" : 20.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 425.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 53.8,
+            "ratingPoints" : 120.9,
+            "ranking" : 477.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280018",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Gordon"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 62.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 3.4,
+            "disposals" : 10.7,
+            "marks" : 3.9,
+            "bounces" : 0.5,
+            "tackles" : 2.4,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 11.2,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 53.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280018",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Gordon"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 87.0,
+            "handballs" : 41.0,
+            "disposals" : 128.0,
+            "marks" : 47.0,
+            "bounces" : 6.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 50.0,
+            "uncontestedPossessions" : 84.0,
+            "totalPossessions" : 134.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 68.0,
+            "clangers" : 24.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 640.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 55.0,
+            "ratingPoints" : 59.2,
+            "ranking" : 564.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280018",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Gordon"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 67.5
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280018",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Gordon"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280018",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Gordon"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 3.5,
+            "disposals" : 7.5,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 8.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 35.5,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280018",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Gordon"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 7.0,
+            "disposals" : 15.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 16.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 73.3,
+            "clangers" : 2.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 71.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280018",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Gordon"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 72.5
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280018",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Gordon"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280018",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Gordon"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 7.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 55.0,
+      "handballs" : 46.0,
+      "disposals" : 101.0,
+      "marks" : 31.0,
+      "bounces" : 2.0,
+      "tackles" : 11.0,
+      "contestedPossessions" : 36.0,
+      "uncontestedPossessions" : 66.0,
+      "totalPossessions" : 102.0,
+      "inside50s" : 24.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 5.0,
+      "disposalEfficiency" : 62.4,
+      "clangers" : 20.0,
+      "freesFor" : 4.0,
+      "freesAgainst" : 7.0,
+      "dreamTeamPoints" : 425.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 53.8,
+      "ratingPoints" : 120.9,
+      "ranking" : 477.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280018",
+        "playerName" : {
+          "givenName" : "Nathan",
+          "surname" : "Gordon"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T120",
+        "teamAbbr" : "RICH",
+        "teamName" : "Richmond",
+        "teamNickname" : "Tigers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 120.9,
+        "ranking" : 476,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 120.9,
+        "ranking" : 27,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 120.9,
+        "ranking" : 66,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 44.5,
+        "ranking" : 499,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 23
+  }
+}

@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I261224",
+    "position" : "Left Wing",
+    "surname" : "Zorko",
+    "jumperNumber" : 15,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.0,
+      "behinds" : 0.8,
+      "superGoals" : null,
+      "kicks" : 10.9,
+      "handballs" : 9.1,
+      "disposals" : 20.0,
+      "marks" : 3.6,
+      "bounces" : 1.2,
+      "tackles" : 5.2,
+      "contestedPossessions" : 8.6,
+      "uncontestedPossessions" : 11.5,
+      "totalPossessions" : 20.1,
+      "inside50s" : 3.8,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.1,
+      "onePercenters" : 1.5,
+      "disposalEfficiency" : null,
+      "clangers" : 2.7,
+      "freesFor" : 1.2,
+      "freesAgainst" : 1.3,
+      "dreamTeamPoints" : 86.1,
+      "clearances" : {
+        "centreClearances" : 0.7,
+        "stoppageClearances" : 2.2,
+        "totalClearances" : 2.9
+      },
+      "rebound50s" : 1.1,
+      "goalAssists" : 0.7,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Dayne",
+    "bio" : "<p>A quick and gutsy midfielder, Dayne Zorko dominated the local Queensland competition for a number of years before getting his chance at an AFL career. He has since made an immediate impact at the elite level, displaying the pace, skill and determination to run through the middle, or even provide an effective small forward option.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2015 - Profiles/ZORKO Dayne.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1989-02-09T01:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 174,
+      "weightInKg" : 78,
+      "recruitedFrom" : "Surfers Paradise (Qld)/Broadbeach (Qld)",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 78.0,
+      "behinds" : 68.0,
+      "superGoals" : null,
+      "kicks" : 883.0,
+      "handballs" : 734.0,
+      "disposals" : 1617.0,
+      "marks" : 288.0,
+      "bounces" : 96.0,
+      "tackles" : 420.0,
+      "contestedPossessions" : 697.0,
+      "uncontestedPossessions" : 932.0,
+      "totalPossessions" : 1629.0,
+      "inside50s" : 307.0,
+      "marksInside50" : 43.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 6.0,
+      "onePercenters" : 121.0,
+      "disposalEfficiency" : 68.7,
+      "clangers" : 217.0,
+      "freesFor" : 96.0,
+      "freesAgainst" : 109.0,
+      "dreamTeamPoints" : 6972.0,
+      "clearances" : {
+        "centreClearances" : 53.0,
+        "stoppageClearances" : 178.0,
+        "totalClearances" : 231.0
+      },
+      "rebound50s" : 93.0,
+      "goalAssists" : 56.0,
+      "goalAccuracy" : 45.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 13.6,
+            "handballs" : 9.3,
+            "disposals" : 23.0,
+            "marks" : 4.5,
+            "bounces" : 1.1,
+            "tackles" : 3.9,
+            "contestedPossessions" : 9.4,
+            "uncontestedPossessions" : 13.8,
+            "totalPossessions" : 23.2,
+            "inside50s" : 3.1,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.2,
+            "freesFor" : 1.3,
+            "freesAgainst" : 1.6,
+            "dreamTeamPoints" : 90.3,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 2.9,
+              "totalClearances" : 3.2
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261224",
+            "playerName" : {
+              "givenName" : "Dayne",
+              "surname" : "Zorko"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 18.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 300.0,
+            "handballs" : 205.0,
+            "disposals" : 505.0,
+            "marks" : 98.0,
+            "bounces" : 25.0,
+            "tackles" : 85.0,
+            "contestedPossessions" : 207.0,
+            "uncontestedPossessions" : 303.0,
+            "totalPossessions" : 510.0,
+            "inside50s" : 69.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 69.7,
+            "clangers" : 71.0,
+            "freesFor" : 29.0,
+            "freesAgainst" : 35.0,
+            "dreamTeamPoints" : 1987.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 64.0,
+              "totalClearances" : 71.0
+            },
+            "rebound50s" : 48.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 47.4,
+            "ratingPoints" : 501.7,
+            "ranking" : 22.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261224",
+            "playerName" : {
+              "givenName" : "Dayne",
+              "surname" : "Zorko"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 83.0
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 10.6,
+            "handballs" : 11.6,
+            "disposals" : 22.2,
+            "marks" : 2.8,
+            "bounces" : 1.7,
+            "tackles" : 5.5,
+            "contestedPossessions" : 9.5,
+            "uncontestedPossessions" : 12.7,
+            "totalPossessions" : 22.2,
+            "inside50s" : 4.2,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.9,
+            "freesFor" : 1.2,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 87.9,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 2.9,
+              "totalClearances" : 4.1
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261224",
+            "playerName" : {
+              "givenName" : "Dayne",
+              "surname" : "Zorko"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 18.0,
+            "behinds" : 16.0,
+            "superGoals" : null,
+            "kicks" : 222.0,
+            "handballs" : 244.0,
+            "disposals" : 466.0,
+            "marks" : 59.0,
+            "bounces" : 36.0,
+            "tackles" : 115.0,
+            "contestedPossessions" : 200.0,
+            "uncontestedPossessions" : 266.0,
+            "totalPossessions" : 466.0,
+            "inside50s" : 88.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 47.0,
+            "disposalEfficiency" : 65.9,
+            "clangers" : 60.0,
+            "freesFor" : 25.0,
+            "freesAgainst" : 32.0,
+            "dreamTeamPoints" : 1846.0,
+            "clearances" : {
+              "centreClearances" : 27.0,
+              "stoppageClearances" : 60.0,
+              "totalClearances" : 87.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : 482.5,
+            "ranking" : 28.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261224",
+            "playerName" : {
+              "givenName" : "Dayne",
+              "surname" : "Zorko"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 82.7
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 1.2,
+            "superGoals" : null,
+            "kicks" : 8.8,
+            "handballs" : 6.3,
+            "disposals" : 15.1,
+            "marks" : 2.6,
+            "bounces" : 1.0,
+            "tackles" : 5.3,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 8.1,
+            "totalPossessions" : 15.2,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 1.1,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 73.8,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261224",
+            "playerName" : {
+              "givenName" : "Dayne",
+              "surname" : "Zorko"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 26.0,
+            "behinds" : 27.0,
+            "superGoals" : null,
+            "kicks" : 193.0,
+            "handballs" : 139.0,
+            "disposals" : 332.0,
+            "marks" : 57.0,
+            "bounces" : 21.0,
+            "tackles" : 117.0,
+            "contestedPossessions" : 155.0,
+            "uncontestedPossessions" : 179.0,
+            "totalPossessions" : 334.0,
+            "inside50s" : 70.0,
+            "marksInside50" : 17.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 67.5,
+            "clangers" : 50.0,
+            "freesFor" : 24.0,
+            "freesAgainst" : 27.0,
+            "dreamTeamPoints" : 1624.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 27.0,
+              "totalClearances" : 40.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 17.0,
+            "goalAccuracy" : 43.3,
+            "ratingPoints" : 472.9,
+            "ranking" : 36.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261224",
+            "playerName" : {
+              "givenName" : "Dayne",
+              "surname" : "Zorko"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 83.5
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 10.5,
+            "handballs" : 9.1,
+            "disposals" : 19.6,
+            "marks" : 4.6,
+            "bounces" : 0.9,
+            "tackles" : 6.4,
+            "contestedPossessions" : 8.4,
+            "uncontestedPossessions" : 11.5,
+            "totalPossessions" : 19.9,
+            "inside50s" : 5.0,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 94.7,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 2.1
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261224",
+            "playerName" : {
+              "givenName" : "Dayne",
+              "surname" : "Zorko"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 16.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 168.0,
+            "handballs" : 146.0,
+            "disposals" : 314.0,
+            "marks" : 74.0,
+            "bounces" : 14.0,
+            "tackles" : 103.0,
+            "contestedPossessions" : 135.0,
+            "uncontestedPossessions" : 184.0,
+            "totalPossessions" : 319.0,
+            "inside50s" : 80.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 72.6,
+            "clangers" : 36.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1515.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 27.0,
+              "totalClearances" : 33.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 14.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261224",
+            "playerName" : {
+              "givenName" : "Dayne",
+              "surname" : "Zorko"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 78.4
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 18.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 300.0,
+      "handballs" : 205.0,
+      "disposals" : 505.0,
+      "marks" : 98.0,
+      "bounces" : 25.0,
+      "tackles" : 85.0,
+      "contestedPossessions" : 207.0,
+      "uncontestedPossessions" : 303.0,
+      "totalPossessions" : 510.0,
+      "inside50s" : 69.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 23.0,
+      "disposalEfficiency" : 69.7,
+      "clangers" : 71.0,
+      "freesFor" : 29.0,
+      "freesAgainst" : 35.0,
+      "dreamTeamPoints" : 1987.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 64.0,
+        "totalClearances" : 71.0
+      },
+      "rebound50s" : 48.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 47.4,
+      "ratingPoints" : 501.7,
+      "ranking" : 22.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I261224",
+        "playerName" : {
+          "givenName" : "Dayne",
+          "surname" : "Zorko"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 509.2,
+        "ranking" : 18,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 509.2,
+        "ranking" : 1,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 509.2,
+        "ranking" : 3,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 287.8,
+        "ranking" : 33,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 81
+  }
+}

@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I281374",
+    "position" : "Interchange",
+    "surname" : "Howard",
+    "jumperNumber" : 30,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 8.2,
+      "handballs" : 5.8,
+      "disposals" : 14.1,
+      "marks" : 3.4,
+      "bounces" : 0.4,
+      "tackles" : 1.7,
+      "contestedPossessions" : 4.3,
+      "uncontestedPossessions" : 9.7,
+      "totalPossessions" : 14.0,
+      "inside50s" : 1.7,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.9,
+      "disposalEfficiency" : null,
+      "clangers" : 1.9,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.8,
+      "dreamTeamPoints" : 52.8,
+      "clearances" : {
+        "centreClearances" : 0.4,
+        "stoppageClearances" : 0.8,
+        "totalClearances" : 1.3
+      },
+      "rebound50s" : 1.6,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Christian",
+    "bio" : "<p>Splitting his time between the wing and halfback line, Howard has been diligently working on his craft in recent seasons. Splitting his time between the senior side and VFL, the South Australian recruit is an accurate kick with good endurance. Howard came to the Bulldogs through the 2009 AFL National Draft with the Club’s first round selection (pick number 15 overall).</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WesternBulldogs/Player Profiles/2014 - Profiles/HOWARD Christian.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-03-19T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 187,
+      "weightInKg" : 83,
+      "recruitedFrom" : "Glenelg (SA)",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 3.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 165.0,
+      "handballs" : 117.0,
+      "disposals" : 282.0,
+      "marks" : 69.0,
+      "bounces" : 9.0,
+      "tackles" : 34.0,
+      "contestedPossessions" : 86.0,
+      "uncontestedPossessions" : 195.0,
+      "totalPossessions" : 281.0,
+      "inside50s" : 35.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 38.0,
+      "disposalEfficiency" : 77.7,
+      "clangers" : 39.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1057.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 17.0,
+        "totalClearances" : 26.0
+      },
+      "rebound50s" : 32.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 20.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 3.5,
+            "disposals" : 7.5,
+            "marks" : 0.5,
+            "bounces" : 0.0,
+            "tackles" : 2.5,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 5.5,
+            "totalPossessions" : 7.5,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 30.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281374",
+            "playerName" : {
+              "givenName" : "Christian",
+              "surname" : "Howard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 7.0,
+            "disposals" : 15.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 11.0,
+            "totalPossessions" : 15.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 60.0,
+            "clangers" : 2.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 61.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 14.0,
+            "ranking" : 662.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281374",
+            "playerName" : {
+              "givenName" : "Christian",
+              "surname" : "Howard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 59.7
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 2.0,
+            "disposals" : 9.0,
+            "marks" : 0.0,
+            "bounces" : 1.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 10.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 31.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281374",
+            "playerName" : {
+              "givenName" : "Christian",
+              "surname" : "Howard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 2.0,
+            "disposals" : 9.0,
+            "marks" : 0.0,
+            "bounces" : 1.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 10.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 77.8,
+            "clangers" : 0.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 31.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 79.9,
+            "ranking" : 534.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281374",
+            "playerName" : {
+              "givenName" : "Christian",
+              "surname" : "Howard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 84.3
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 9.3,
+            "handballs" : 7.1,
+            "disposals" : 16.4,
+            "marks" : 4.5,
+            "bounces" : 0.6,
+            "tackles" : 1.5,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 11.5,
+            "totalPossessions" : 16.4,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 60.0,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281374",
+            "playerName" : {
+              "givenName" : "Christian",
+              "surname" : "Howard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 102.0,
+            "handballs" : 78.0,
+            "disposals" : 180.0,
+            "marks" : 49.0,
+            "bounces" : 7.0,
+            "tackles" : 16.0,
+            "contestedPossessions" : 53.0,
+            "uncontestedPossessions" : 127.0,
+            "totalPossessions" : 180.0,
+            "inside50s" : 18.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 81.7,
+            "clangers" : 20.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 660.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 18.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281374",
+            "playerName" : {
+              "givenName" : "Christian",
+              "surname" : "Howard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 82.2
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 5.0,
+            "disposals" : 13.0,
+            "marks" : 3.2,
+            "bounces" : 0.2,
+            "tackles" : 2.0,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 8.7,
+            "totalPossessions" : 12.8,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.8,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 50.8,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281374",
+            "playerName" : {
+              "givenName" : "Christian",
+              "surname" : "Howard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 48.0,
+            "handballs" : 30.0,
+            "disposals" : 78.0,
+            "marks" : 19.0,
+            "bounces" : 1.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 25.0,
+            "uncontestedPossessions" : 52.0,
+            "totalPossessions" : 77.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 71.8,
+            "clangers" : 17.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 305.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 14.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281374",
+            "playerName" : {
+              "givenName" : "Christian",
+              "surname" : "Howard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 67.5
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281374",
+            "playerName" : {
+              "givenName" : "Christian",
+              "surname" : "Howard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281374",
+            "playerName" : {
+              "givenName" : "Christian",
+              "surname" : "Howard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 8.0,
+      "handballs" : 7.0,
+      "disposals" : 15.0,
+      "marks" : 1.0,
+      "bounces" : 0.0,
+      "tackles" : 5.0,
+      "contestedPossessions" : 4.0,
+      "uncontestedPossessions" : 11.0,
+      "totalPossessions" : 15.0,
+      "inside50s" : 5.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.0,
+      "disposalEfficiency" : 60.0,
+      "clangers" : 2.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 61.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 14.0,
+      "ranking" : 662.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201401427",
+      "player" : {
+        "playerId" : "CD_I281374",
+        "playerName" : {
+          "givenName" : "Christian",
+          "surname" : "Howard"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T140",
+        "teamAbbr" : "WB",
+        "teamName" : "Western Bulldogs",
+        "teamNickname" : "Bulldogs"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 10.3,
+        "ranking" : 676,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 10.3,
+        "ranking" : 40,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 10.3,
+        "ranking" : 141,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 6.6,
+        "ranking" : 633,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 20
+  }
+}

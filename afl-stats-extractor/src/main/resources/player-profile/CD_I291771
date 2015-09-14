@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291771",
+    "position" : "Left Half Forward",
+    "surname" : "Smith",
+    "jumperNumber" : 10,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.9,
+      "behinds" : 0.8,
+      "superGoals" : null,
+      "kicks" : 11.2,
+      "handballs" : 7.1,
+      "disposals" : 18.3,
+      "marks" : 3.4,
+      "bounces" : 1.2,
+      "tackles" : 4.5,
+      "contestedPossessions" : 6.4,
+      "uncontestedPossessions" : 11.9,
+      "totalPossessions" : 18.4,
+      "inside50s" : 3.4,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.1,
+      "onePercenters" : 0.9,
+      "disposalEfficiency" : null,
+      "clangers" : 2.5,
+      "freesFor" : 1.1,
+      "freesAgainst" : 0.8,
+      "dreamTeamPoints" : 80.9,
+      "clearances" : {
+        "centreClearances" : 0.3,
+        "stoppageClearances" : 1.7,
+        "totalClearances" : 2.1
+      },
+      "rebound50s" : 1.1,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Devon",
+    "bio" : "<p><strong>Junior Clubs:</strong>&nbsp;Lara<br /> <strong>Debut: </strong>2012<br /> <strong>Recruited From:&nbsp;</strong>Lara/Geelong U18<br /> <strong>Brownlow Votes:</strong> 4<br /><strong>Community Ambassador:</strong> Gungahlin GIANTS</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2015 - Profiles/SMITH Devon.png.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-05-20T02:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 174,
+      "weightInKg" : 75,
+      "recruitedFrom" : "Lara (Vic)/Geelong U18",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 69.0,
+      "behinds" : 65.0,
+      "superGoals" : null,
+      "kicks" : 884.0,
+      "handballs" : 564.0,
+      "disposals" : 1448.0,
+      "marks" : 269.0,
+      "bounces" : 96.0,
+      "tackles" : 359.0,
+      "contestedPossessions" : 508.0,
+      "uncontestedPossessions" : 943.0,
+      "totalPossessions" : 1451.0,
+      "inside50s" : 267.0,
+      "marksInside50" : 43.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 5.0,
+      "onePercenters" : 72.0,
+      "disposalEfficiency" : 65.8,
+      "clangers" : 200.0,
+      "freesFor" : 84.0,
+      "freesAgainst" : 66.0,
+      "dreamTeamPoints" : 6393.0,
+      "clearances" : {
+        "centreClearances" : 26.0,
+        "stoppageClearances" : 136.0,
+        "totalClearances" : 162.0
+      },
+      "rebound50s" : 83.0,
+      "goalAssists" : 33.0,
+      "goalAccuracy" : 37.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 12.1,
+            "handballs" : 7.0,
+            "disposals" : 19.1,
+            "marks" : 3.5,
+            "bounces" : 1.6,
+            "tackles" : 4.9,
+            "contestedPossessions" : 6.5,
+            "uncontestedPossessions" : 12.6,
+            "totalPossessions" : 19.2,
+            "inside50s" : 3.5,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 86.0,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.9,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291771",
+            "playerName" : {
+              "givenName" : "Devon",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 20.0,
+            "superGoals" : null,
+            "kicks" : 243.0,
+            "handballs" : 140.0,
+            "disposals" : 383.0,
+            "marks" : 70.0,
+            "bounces" : 33.0,
+            "tackles" : 98.0,
+            "contestedPossessions" : 131.0,
+            "uncontestedPossessions" : 253.0,
+            "totalPossessions" : 384.0,
+            "inside50s" : 71.0,
+            "marksInside50" : 14.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 64.5,
+            "clangers" : 44.0,
+            "freesFor" : 24.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1721.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 39.0,
+              "totalClearances" : 45.0
+            },
+            "rebound50s" : 20.0,
+            "goalAssists" : 14.0,
+            "goalAccuracy" : 32.1,
+            "ratingPoints" : 436.5,
+            "ranking" : 64.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291771",
+            "playerName" : {
+              "givenName" : "Devon",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 85.0
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 13.6,
+            "handballs" : 7.9,
+            "disposals" : 21.5,
+            "marks" : 4.2,
+            "bounces" : 1.2,
+            "tackles" : 4.5,
+            "contestedPossessions" : 6.6,
+            "uncontestedPossessions" : 15.0,
+            "totalPossessions" : 21.6,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 1.3,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 94.0,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291771",
+            "playerName" : {
+              "givenName" : "Devon",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 26.0,
+            "behinds" : 15.0,
+            "superGoals" : null,
+            "kicks" : 286.0,
+            "handballs" : 166.0,
+            "disposals" : 452.0,
+            "marks" : 89.0,
+            "bounces" : 26.0,
+            "tackles" : 95.0,
+            "contestedPossessions" : 139.0,
+            "uncontestedPossessions" : 314.0,
+            "totalPossessions" : 453.0,
+            "inside50s" : 79.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 69.7,
+            "clangers" : 62.0,
+            "freesFor" : 27.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1975.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 41.0,
+              "totalClearances" : 43.0
+            },
+            "rebound50s" : 31.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 49.1,
+            "ratingPoints" : 408.6,
+            "ranking" : 99.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291771",
+            "playerName" : {
+              "givenName" : "Devon",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 86.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 10.1,
+            "handballs" : 6.3,
+            "disposals" : 16.4,
+            "marks" : 2.7,
+            "bounces" : 1.2,
+            "tackles" : 4.5,
+            "contestedPossessions" : 6.4,
+            "uncontestedPossessions" : 9.9,
+            "totalPossessions" : 16.3,
+            "inside50s" : 3.7,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.3,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 73.9,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291771",
+            "playerName" : {
+              "givenName" : "Devon",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 16.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 181.0,
+            "handballs" : 114.0,
+            "disposals" : 295.0,
+            "marks" : 49.0,
+            "bounces" : 21.0,
+            "tackles" : 81.0,
+            "contestedPossessions" : 115.0,
+            "uncontestedPossessions" : 179.0,
+            "totalPossessions" : 294.0,
+            "inside50s" : 66.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 64.1,
+            "clangers" : 47.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1330.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 31.0,
+              "totalClearances" : 40.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 37.2,
+            "ratingPoints" : 296.6,
+            "ranking" : 235.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291771",
+            "playerName" : {
+              "givenName" : "Devon",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 84.2
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 7.2,
+            "disposals" : 15.9,
+            "marks" : 3.0,
+            "bounces" : 0.8,
+            "tackles" : 4.2,
+            "contestedPossessions" : 6.1,
+            "uncontestedPossessions" : 9.8,
+            "totalPossessions" : 16.0,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 68.3,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291771",
+            "playerName" : {
+              "givenName" : "Devon",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 19.0,
+            "superGoals" : null,
+            "kicks" : 174.0,
+            "handballs" : 144.0,
+            "disposals" : 318.0,
+            "marks" : 61.0,
+            "bounces" : 16.0,
+            "tackles" : 85.0,
+            "contestedPossessions" : 123.0,
+            "uncontestedPossessions" : 197.0,
+            "totalPossessions" : 320.0,
+            "inside50s" : 51.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 63.2,
+            "clangers" : 47.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1367.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 25.0,
+              "totalClearances" : 34.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 28.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291771",
+            "playerName" : {
+              "givenName" : "Devon",
+              "surname" : "Smith"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 79.5
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 17.0,
+      "behinds" : 20.0,
+      "superGoals" : null,
+      "kicks" : 243.0,
+      "handballs" : 140.0,
+      "disposals" : 383.0,
+      "marks" : 70.0,
+      "bounces" : 33.0,
+      "tackles" : 98.0,
+      "contestedPossessions" : 131.0,
+      "uncontestedPossessions" : 253.0,
+      "totalPossessions" : 384.0,
+      "inside50s" : 71.0,
+      "marksInside50" : 14.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 20.0,
+      "disposalEfficiency" : 64.5,
+      "clangers" : 44.0,
+      "freesFor" : 24.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1721.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 39.0,
+        "totalClearances" : 45.0
+      },
+      "rebound50s" : 20.0,
+      "goalAssists" : 14.0,
+      "goalAccuracy" : 32.1,
+      "ratingPoints" : 436.5,
+      "ranking" : 64.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291771",
+        "playerName" : {
+          "givenName" : "Devon",
+          "surname" : "Smith"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 436.9,
+        "ranking" : 63,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 436.9,
+        "ranking" : 4,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 436.9,
+        "ranking" : 5,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 237.2,
+        "ranking" : 88,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 79
+  }
+}

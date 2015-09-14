@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I298409",
+    "position" : "Centre Half Back",
+    "surname" : "Pearce",
+    "jumperNumber" : 25,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 5.6,
+      "handballs" : 5.0,
+      "disposals" : 10.6,
+      "marks" : 3.8,
+      "bounces" : 0.0,
+      "tackles" : 1.5,
+      "contestedPossessions" : 4.3,
+      "uncontestedPossessions" : 6.9,
+      "totalPossessions" : 11.2,
+      "inside50s" : 0.6,
+      "marksInside50" : 0.3,
+      "contestedMarks" : 0.6,
+      "hitouts" : 0.2,
+      "onePercenters" : 4.8,
+      "disposalEfficiency" : null,
+      "clangers" : 1.7,
+      "freesFor" : 0.4,
+      "freesAgainst" : 0.8,
+      "dreamTeamPoints" : 44.2,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.1,
+        "totalClearances" : 0.1
+      },
+      "rebound50s" : 1.2,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Alex",
+    "bio" : "<p><strong>Outlook:</strong> Very promising defender who developed in the WAFL last year. He has the body to play AFL and may very well get his chance this season.<br /><br /><strong>What the coach says (Roger Hayden): </strong>Was going really well early in the pre-season with some really good times in his 3km time trial. A stress reaction in his legs forced us to back off a little but he looks like a likely type.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Fremantle/Player Profiles/2015 - Profiles/PEARCE Alex.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1995-06-09T02:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 200,
+      "weightInKg" : 92,
+      "recruitedFrom" : "Ulverstone (Tas)/Devonport (Tas)",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 3.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 73.0,
+      "handballs" : 65.0,
+      "disposals" : 138.0,
+      "marks" : 50.0,
+      "bounces" : 0.0,
+      "tackles" : 20.0,
+      "contestedPossessions" : 56.0,
+      "uncontestedPossessions" : 90.0,
+      "totalPossessions" : 146.0,
+      "inside50s" : 8.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 3.0,
+      "onePercenters" : 63.0,
+      "disposalEfficiency" : 73.9,
+      "clangers" : 22.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 575.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 15.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 30.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 5.6,
+            "handballs" : 5.0,
+            "disposals" : 10.6,
+            "marks" : 3.8,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 6.9,
+            "totalPossessions" : 11.2,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.2,
+            "onePercenters" : 4.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 44.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I298409",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Pearce"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 73.0,
+            "handballs" : 65.0,
+            "disposals" : 138.0,
+            "marks" : 50.0,
+            "bounces" : 0.0,
+            "tackles" : 20.0,
+            "contestedPossessions" : 56.0,
+            "uncontestedPossessions" : 90.0,
+            "totalPossessions" : 146.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 63.0,
+            "disposalEfficiency" : 73.9,
+            "clangers" : 22.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 575.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 30.0,
+            "ratingPoints" : 70.2,
+            "ranking" : 534.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I298409",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Pearce"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 88.9
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I298409",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Pearce"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I298409",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Pearce"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 3.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 73.0,
+      "handballs" : 65.0,
+      "disposals" : 138.0,
+      "marks" : 50.0,
+      "bounces" : 0.0,
+      "tackles" : 20.0,
+      "contestedPossessions" : 56.0,
+      "uncontestedPossessions" : 90.0,
+      "totalPossessions" : 146.0,
+      "inside50s" : 8.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 3.0,
+      "onePercenters" : 63.0,
+      "disposalEfficiency" : 73.9,
+      "clangers" : 22.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 575.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 15.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 30.0,
+      "ratingPoints" : 70.2,
+      "ranking" : 534.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I298409",
+        "playerName" : {
+          "givenName" : "Alex",
+          "surname" : "Pearce"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T60",
+        "teamAbbr" : "FRE",
+        "teamName" : "Fremantle",
+        "teamNickname" : "Dockers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 70.2,
+        "ranking" : 536,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 70.2,
+        "ranking" : 28,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 70.2,
+        "ranking" : 63,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 70.2,
+        "ranking" : 427,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 13
+  }
+}

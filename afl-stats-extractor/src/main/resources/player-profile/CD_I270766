@@ -1,0 +1,486 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I270766",
+    "position" : "Interchange",
+    "surname" : "Milera",
+    "jumperNumber" : 32,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.0,
+      "behinds" : 0.8,
+      "superGoals" : null,
+      "kicks" : 7.2,
+      "handballs" : 4.8,
+      "disposals" : 12.0,
+      "marks" : 3.3,
+      "bounces" : 1.6,
+      "tackles" : 2.5,
+      "contestedPossessions" : 4.1,
+      "uncontestedPossessions" : 8.0,
+      "totalPossessions" : 12.1,
+      "inside50s" : 2.6,
+      "marksInside50" : 0.8,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.1,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : null,
+      "clangers" : 2.0,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 56.6,
+      "clearances" : {
+        "centreClearances" : 0.3,
+        "stoppageClearances" : 0.6,
+        "totalClearances" : 0.9
+      },
+      "rebound50s" : 0.6,
+      "goalAssists" : 0.7,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Terry",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1988-01-08T01:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 183,
+      "weightInKg" : 77,
+      "recruitedFrom" : "Port Adelaide (SANFL)",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 31.0,
+      "behinds" : 24.0,
+      "superGoals" : null,
+      "kicks" : 215.0,
+      "handballs" : 144.0,
+      "disposals" : 359.0,
+      "marks" : 100.0,
+      "bounces" : 48.0,
+      "tackles" : 74.0,
+      "contestedPossessions" : 122.0,
+      "uncontestedPossessions" : 241.0,
+      "totalPossessions" : 363.0,
+      "inside50s" : 79.0,
+      "marksInside50" : 25.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 4.0,
+      "onePercenters" : 29.0,
+      "disposalEfficiency" : 69.9,
+      "clangers" : 60.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1698.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 28.0
+      },
+      "rebound50s" : 18.0,
+      "goalAssists" : 22.0,
+      "goalAccuracy" : 50.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 6.4,
+            "handballs" : 6.8,
+            "disposals" : 13.2,
+            "marks" : 3.8,
+            "bounces" : 2.4,
+            "tackles" : 3.4,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 8.2,
+            "totalPossessions" : 13.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 63.6,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270766",
+            "playerName" : {
+              "givenName" : "Terry",
+              "surname" : "Milera"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 32.0,
+            "handballs" : 34.0,
+            "disposals" : 66.0,
+            "marks" : 19.0,
+            "bounces" : 12.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 24.0,
+            "uncontestedPossessions" : 41.0,
+            "totalPossessions" : 65.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 72.7,
+            "clangers" : 7.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 318.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 137.8,
+            "ranking" : 443.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270766",
+            "playerName" : {
+              "givenName" : "Terry",
+              "surname" : "Milera"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 83.8
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 4.1,
+            "disposals" : 11.1,
+            "marks" : 3.2,
+            "bounces" : 1.8,
+            "tackles" : 1.8,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 7.3,
+            "totalPossessions" : 10.9,
+            "inside50s" : 2.6,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 49.8,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 1.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270766",
+            "playerName" : {
+              "givenName" : "Terry",
+              "surname" : "Milera"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 70.0,
+            "handballs" : 41.0,
+            "disposals" : 111.0,
+            "marks" : 32.0,
+            "bounces" : 18.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 36.0,
+            "uncontestedPossessions" : 73.0,
+            "totalPossessions" : 109.0,
+            "inside50s" : 26.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 64.9,
+            "clangers" : 22.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 498.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 38.9,
+            "ratingPoints" : 198.7,
+            "ranking" : 352.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270766",
+            "playerName" : {
+              "givenName" : "Terry",
+              "surname" : "Milera"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 69.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.3,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 7.9,
+            "handballs" : 4.6,
+            "disposals" : 12.5,
+            "marks" : 3.3,
+            "bounces" : 1.2,
+            "tackles" : 2.6,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 8.5,
+            "totalPossessions" : 12.6,
+            "inside50s" : 2.9,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 59.8,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270766",
+            "playerName" : {
+              "givenName" : "Terry",
+              "surname" : "Milera"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 19.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 118.0,
+            "handballs" : 69.0,
+            "disposals" : 187.0,
+            "marks" : 49.0,
+            "bounces" : 18.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 62.0,
+            "uncontestedPossessions" : 127.0,
+            "totalPossessions" : 189.0,
+            "inside50s" : 43.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 72.7,
+            "clangers" : 31.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 897.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 17.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 57.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270766",
+            "playerName" : {
+              "givenName" : "Terry",
+              "surname" : "Milera"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 80.1
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 5.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 32.0,
+      "handballs" : 34.0,
+      "disposals" : 66.0,
+      "marks" : 19.0,
+      "bounces" : 12.0,
+      "tackles" : 17.0,
+      "contestedPossessions" : 24.0,
+      "uncontestedPossessions" : 41.0,
+      "totalPossessions" : 65.0,
+      "inside50s" : 10.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 6.0,
+      "disposalEfficiency" : 72.7,
+      "clangers" : 7.0,
+      "freesFor" : 7.0,
+      "freesAgainst" : 4.0,
+      "dreamTeamPoints" : 318.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 5.0
+      },
+      "rebound50s" : 5.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 137.8,
+      "ranking" : 443.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201401427",
+      "player" : {
+        "playerId" : "CD_I270766",
+        "playerName" : {
+          "givenName" : "Terry",
+          "surname" : "Milera"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T130",
+        "teamAbbr" : "STK",
+        "teamName" : "St Kilda",
+        "teamNickname" : "Saints"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 125.0,
+        "ranking" : 465,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 125.0,
+        "ranking" : 27,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 125.0,
+        "ranking" : 55,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 51.0,
+        "ranking" : 478,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 30
+  }
+}

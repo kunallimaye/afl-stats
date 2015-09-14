@@ -1,0 +1,956 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I240731",
+    "position" : "Left Back Pocket",
+    "surname" : "Jones",
+    "jumperNumber" : 99,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Brett",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1982-08-06T02:00:00.000+0000",
+      "draftYear" : "",
+      "heightInCm" : 190,
+      "weightInKg" : 90,
+      "recruitedFrom" : "",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 6.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 808.0,
+      "handballs" : 704.0,
+      "disposals" : 1512.0,
+      "marks" : 452.0,
+      "bounces" : 67.0,
+      "tackles" : 165.0,
+      "contestedPossessions" : 470.0,
+      "uncontestedPossessions" : 1034.0,
+      "totalPossessions" : 1504.0,
+      "inside50s" : 111.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 57.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 345.0,
+      "disposalEfficiency" : 79.4,
+      "clangers" : 198.0,
+      "freesFor" : 54.0,
+      "freesAgainst" : 71.0,
+      "dreamTeamPoints" : 5735.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 46.0,
+        "totalClearances" : 53.0
+      },
+      "rebound50s" : 261.0,
+      "goalAssists" : 16.0,
+      "goalAccuracy" : 35.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240731",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240731",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.1,
+            "handballs" : 7.6,
+            "disposals" : 15.7,
+            "marks" : 4.4,
+            "bounces" : 0.1,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 10.5,
+            "totalPossessions" : 15.4,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 57.9,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240731",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 81.0,
+            "handballs" : 76.0,
+            "disposals" : 157.0,
+            "marks" : 44.0,
+            "bounces" : 1.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 49.0,
+            "uncontestedPossessions" : 105.0,
+            "totalPossessions" : 154.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 80.3,
+            "clangers" : 21.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 579.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240731",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 85.3
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.3,
+            "handballs" : 5.7,
+            "disposals" : 12.0,
+            "marks" : 3.6,
+            "bounces" : 0.4,
+            "tackles" : 1.4,
+            "contestedPossessions" : 3.4,
+            "uncontestedPossessions" : 8.3,
+            "totalPossessions" : 11.8,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 46.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240731",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 57.0,
+            "handballs" : 51.0,
+            "disposals" : 108.0,
+            "marks" : 32.0,
+            "bounces" : 4.0,
+            "tackles" : 13.0,
+            "contestedPossessions" : 31.0,
+            "uncontestedPossessions" : 75.0,
+            "totalPossessions" : 106.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 74.1,
+            "clangers" : 16.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 415.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240731",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 75.7
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 10.5,
+            "handballs" : 7.1,
+            "disposals" : 17.6,
+            "marks" : 6.4,
+            "bounces" : 0.8,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 12.8,
+            "totalPossessions" : 17.9,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 70.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240731",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 147.0,
+            "handballs" : 100.0,
+            "disposals" : 247.0,
+            "marks" : 89.0,
+            "bounces" : 11.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 71.0,
+            "uncontestedPossessions" : 179.0,
+            "totalPossessions" : 250.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 43.0,
+            "disposalEfficiency" : 77.3,
+            "clangers" : 29.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 983.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 41.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240731",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 88.6
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.7,
+            "handballs" : 9.2,
+            "disposals" : 19.0,
+            "marks" : 4.8,
+            "bounces" : 1.5,
+            "tackles" : 1.8,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 15.0,
+            "totalPossessions" : 19.0,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 67.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 3.1,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240731",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 233.0,
+            "handballs" : 222.0,
+            "disposals" : 455.0,
+            "marks" : 115.0,
+            "bounces" : 35.0,
+            "tackles" : 43.0,
+            "contestedPossessions" : 96.0,
+            "uncontestedPossessions" : 359.0,
+            "totalPossessions" : 455.0,
+            "inside50s" : 34.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 16.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 109.0,
+            "disposalEfficiency" : 81.5,
+            "clangers" : 50.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1617.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 75.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240731",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 89.1
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 6.9,
+            "disposals" : 13.4,
+            "marks" : 3.7,
+            "bounces" : 0.2,
+            "tackles" : 1.4,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 8.4,
+            "totalPossessions" : 13.5,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 49.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240731",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 97.0,
+            "handballs" : 104.0,
+            "disposals" : 201.0,
+            "marks" : 56.0,
+            "bounces" : 3.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 77.0,
+            "uncontestedPossessions" : 126.0,
+            "totalPossessions" : 203.0,
+            "inside50s" : 18.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 45.0,
+            "disposalEfficiency" : 78.6,
+            "clangers" : 26.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 743.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 38.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240731",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 76.3
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.4,
+            "handballs" : 5.4,
+            "disposals" : 11.8,
+            "marks" : 4.4,
+            "bounces" : 0.5,
+            "tackles" : 1.5,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 6.6,
+            "totalPossessions" : 11.4,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 47.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240731",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 140.0,
+            "handballs" : 119.0,
+            "disposals" : 259.0,
+            "marks" : 96.0,
+            "bounces" : 10.0,
+            "tackles" : 32.0,
+            "contestedPossessions" : 105.0,
+            "uncontestedPossessions" : 146.0,
+            "totalPossessions" : 251.0,
+            "inside50s" : 25.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 81.0,
+            "disposalEfficiency" : 81.5,
+            "clangers" : 50.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1053.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 49.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240731",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 80.8
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.6,
+            "handballs" : 4.0,
+            "disposals" : 10.6,
+            "marks" : 2.5,
+            "bounces" : 0.4,
+            "tackles" : 1.9,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 5.5,
+            "totalPossessions" : 10.6,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.9,
+            "disposalEfficiency" : null,
+            "clangers" : 0.7,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 43.1,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240731",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 53.0,
+            "handballs" : 32.0,
+            "disposals" : 85.0,
+            "marks" : 20.0,
+            "bounces" : 3.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 41.0,
+            "uncontestedPossessions" : 44.0,
+            "totalPossessions" : 85.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 75.3,
+            "clangers" : 6.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 345.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240731",
+            "playerName" : {
+              "givenName" : "Brett",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 70.4
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : 0.0,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

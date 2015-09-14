@@ -1,0 +1,1162 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I200031",
+    "position" : "Interchange",
+    "surname" : "Hasleby",
+    "jumperNumber" : 4,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Paul",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1981-06-12T02:00:00.000+0000",
+      "draftYear" : "1999",
+      "heightInCm" : 182,
+      "weightInKg" : 87,
+      "recruitedFrom" : "East Fremantle (WA)",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 131.0,
+      "behinds" : 110.0,
+      "superGoals" : null,
+      "kicks" : 2290.0,
+      "handballs" : 2197.0,
+      "disposals" : 4487.0,
+      "marks" : 882.0,
+      "bounces" : 92.0,
+      "tackles" : 578.0,
+      "contestedPossessions" : 1876.0,
+      "uncontestedPossessions" : 2582.0,
+      "totalPossessions" : 4458.0,
+      "inside50s" : 744.0,
+      "marksInside50" : 150.0,
+      "contestedMarks" : 106.0,
+      "hitouts" : 19.0,
+      "onePercenters" : 278.0,
+      "disposalEfficiency" : 77.1,
+      "clangers" : 421.0,
+      "freesFor" : 182.0,
+      "freesAgainst" : 153.0,
+      "dreamTeamPoints" : 16860.0,
+      "clearances" : {
+        "centreClearances" : 380.0,
+        "stoppageClearances" : 471.0,
+        "totalClearances" : 851.0
+      },
+      "rebound50s" : 217.0,
+      "goalAssists" : 79.0,
+      "goalAccuracy" : 48.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.1,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 6.9,
+            "handballs" : 10.0,
+            "disposals" : 17.0,
+            "marks" : 4.2,
+            "bounces" : 0.0,
+            "tackles" : 2.8,
+            "contestedPossessions" : 6.8,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 16.8,
+            "inside50s" : 2.1,
+            "marksInside50" : 1.5,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 71.6,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 22.0,
+            "behinds" : 15.0,
+            "superGoals" : null,
+            "kicks" : 139.0,
+            "handballs" : 201.0,
+            "disposals" : 340.0,
+            "marks" : 85.0,
+            "bounces" : 0.0,
+            "tackles" : 57.0,
+            "contestedPossessions" : 137.0,
+            "uncontestedPossessions" : 200.0,
+            "totalPossessions" : 337.0,
+            "inside50s" : 42.0,
+            "marksInside50" : 31.0,
+            "contestedMarks" : 15.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 69.7,
+            "clangers" : 29.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1432.0,
+            "clearances" : {
+              "centreClearances" : 14.0,
+              "stoppageClearances" : 23.0,
+              "totalClearances" : 37.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 17.0,
+            "goalAccuracy" : 46.8,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 74.5
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.3,
+            "handballs" : 14.9,
+            "disposals" : 24.2,
+            "marks" : 4.3,
+            "bounces" : 0.4,
+            "tackles" : 2.5,
+            "contestedPossessions" : 9.8,
+            "uncontestedPossessions" : 14.2,
+            "totalPossessions" : 24.0,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 81.6,
+            "clearances" : {
+              "centreClearances" : 1.6,
+              "stoppageClearances" : 2.6,
+              "totalClearances" : 4.2
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 205.0,
+            "handballs" : 328.0,
+            "disposals" : 533.0,
+            "marks" : 94.0,
+            "bounces" : 9.0,
+            "tackles" : 54.0,
+            "contestedPossessions" : 215.0,
+            "uncontestedPossessions" : 313.0,
+            "totalPossessions" : 528.0,
+            "inside50s" : 62.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 75.0,
+            "clangers" : 56.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1795.0,
+            "clearances" : {
+              "centreClearances" : 36.0,
+              "stoppageClearances" : 57.0,
+              "totalClearances" : 93.0
+            },
+            "rebound50s" : 26.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 77.2
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 10.5,
+            "handballs" : 12.0,
+            "disposals" : 22.5,
+            "marks" : 4.3,
+            "bounces" : 0.5,
+            "tackles" : 3.2,
+            "contestedPossessions" : 8.5,
+            "uncontestedPossessions" : 13.7,
+            "totalPossessions" : 22.2,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 83.0,
+            "clearances" : {
+              "centreClearances" : 1.9,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.9
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 210.0,
+            "handballs" : 241.0,
+            "disposals" : 451.0,
+            "marks" : 86.0,
+            "bounces" : 10.0,
+            "tackles" : 64.0,
+            "contestedPossessions" : 170.0,
+            "uncontestedPossessions" : 274.0,
+            "totalPossessions" : 444.0,
+            "inside50s" : 65.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 73.8,
+            "clangers" : 37.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1660.0,
+            "clearances" : {
+              "centreClearances" : 38.0,
+              "stoppageClearances" : 41.0,
+              "totalClearances" : 79.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 42.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 69.9
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 8.8,
+            "handballs" : 9.6,
+            "disposals" : 18.4,
+            "marks" : 4.4,
+            "bounces" : 0.2,
+            "tackles" : 3.1,
+            "contestedPossessions" : 6.9,
+            "uncontestedPossessions" : 11.3,
+            "totalPossessions" : 18.2,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.2,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 72.2,
+            "clearances" : {
+              "centreClearances" : 1.6,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 3.1
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 141.0,
+            "handballs" : 153.0,
+            "disposals" : 294.0,
+            "marks" : 71.0,
+            "bounces" : 4.0,
+            "tackles" : 49.0,
+            "contestedPossessions" : 110.0,
+            "uncontestedPossessions" : 181.0,
+            "totalPossessions" : 291.0,
+            "inside50s" : 31.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 78.6,
+            "clangers" : 28.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1155.0,
+            "clearances" : {
+              "centreClearances" : 26.0,
+              "stoppageClearances" : 23.0,
+              "totalClearances" : 49.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 76.6
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 10.2,
+            "handballs" : 10.4,
+            "disposals" : 20.6,
+            "marks" : 4.4,
+            "bounces" : 0.8,
+            "tackles" : 3.3,
+            "contestedPossessions" : 8.7,
+            "uncontestedPossessions" : 11.4,
+            "totalPossessions" : 20.1,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 80.4,
+            "clearances" : {
+              "centreClearances" : 2.2,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 4.2
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 225.0,
+            "handballs" : 228.0,
+            "disposals" : 453.0,
+            "marks" : 96.0,
+            "bounces" : 17.0,
+            "tackles" : 72.0,
+            "contestedPossessions" : 192.0,
+            "uncontestedPossessions" : 250.0,
+            "totalPossessions" : 442.0,
+            "inside50s" : 70.0,
+            "marksInside50" : 15.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 49.0,
+            "disposalEfficiency" : 85.4,
+            "clangers" : 42.0,
+            "freesFor" : 22.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1769.0,
+            "clearances" : {
+              "centreClearances" : 49.0,
+              "stoppageClearances" : 44.0,
+              "totalClearances" : 93.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 62.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 87.2
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 13.4,
+            "handballs" : 11.0,
+            "disposals" : 24.5,
+            "marks" : 3.8,
+            "bounces" : 0.5,
+            "tackles" : 4.4,
+            "contestedPossessions" : 10.8,
+            "uncontestedPossessions" : 13.3,
+            "totalPossessions" : 24.1,
+            "inside50s" : 4.9,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 92.4,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 2.4,
+              "totalClearances" : 4.5
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 295.0,
+            "handballs" : 243.0,
+            "disposals" : 538.0,
+            "marks" : 84.0,
+            "bounces" : 10.0,
+            "tackles" : 97.0,
+            "contestedPossessions" : 238.0,
+            "uncontestedPossessions" : 293.0,
+            "totalPossessions" : 531.0,
+            "inside50s" : 107.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 33.0,
+            "disposalEfficiency" : 77.9,
+            "clangers" : 40.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 2032.0,
+            "clearances" : {
+              "centreClearances" : 45.0,
+              "stoppageClearances" : 53.0,
+              "totalClearances" : 98.0
+            },
+            "rebound50s" : 40.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 31.8,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 93.6
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 14.8,
+            "handballs" : 9.6,
+            "disposals" : 24.4,
+            "marks" : 5.7,
+            "bounces" : 0.9,
+            "tackles" : 2.2,
+            "contestedPossessions" : 10.9,
+            "uncontestedPossessions" : 13.3,
+            "totalPossessions" : 24.2,
+            "inside50s" : 4.5,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 93.7,
+            "clearances" : {
+              "centreClearances" : 2.3,
+              "stoppageClearances" : 2.3,
+              "totalClearances" : 4.7
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 17.0,
+            "superGoals" : null,
+            "kicks" : 341.0,
+            "handballs" : 220.0,
+            "disposals" : 561.0,
+            "marks" : 132.0,
+            "bounces" : 21.0,
+            "tackles" : 51.0,
+            "contestedPossessions" : 250.0,
+            "uncontestedPossessions" : 306.0,
+            "totalPossessions" : 556.0,
+            "inside50s" : 103.0,
+            "marksInside50" : 24.0,
+            "contestedMarks" : 16.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 77.7,
+            "clangers" : 48.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 2155.0,
+            "clearances" : {
+              "centreClearances" : 54.0,
+              "stoppageClearances" : 53.0,
+              "totalClearances" : 107.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 18.0,
+            "goalAccuracy" : 41.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 91.4
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 11.9,
+            "handballs" : 10.3,
+            "disposals" : 22.1,
+            "marks" : 4.4,
+            "bounces" : 0.4,
+            "tackles" : 2.5,
+            "contestedPossessions" : 9.7,
+            "uncontestedPossessions" : 12.7,
+            "totalPossessions" : 22.4,
+            "inside50s" : 4.2,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.9,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 83.9,
+            "clearances" : {
+              "centreClearances" : 1.7,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.6
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 18.0,
+            "behinds" : 15.0,
+            "superGoals" : null,
+            "kicks" : 261.0,
+            "handballs" : 226.0,
+            "disposals" : 487.0,
+            "marks" : 97.0,
+            "bounces" : 9.0,
+            "tackles" : 54.0,
+            "contestedPossessions" : 213.0,
+            "uncontestedPossessions" : 279.0,
+            "totalPossessions" : 492.0,
+            "inside50s" : 92.0,
+            "marksInside50" : 19.0,
+            "contestedMarks" : 19.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 33.0,
+            "disposalEfficiency" : 77.2,
+            "clangers" : 48.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1846.0,
+            "clearances" : {
+              "centreClearances" : 37.0,
+              "stoppageClearances" : 65.0,
+              "totalClearances" : 102.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 51.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 9.6,
+            "handballs" : 9.4,
+            "disposals" : 19.0,
+            "marks" : 3.5,
+            "bounces" : 0.1,
+            "tackles" : 1.6,
+            "contestedPossessions" : 8.4,
+            "uncontestedPossessions" : 10.7,
+            "totalPossessions" : 19.2,
+            "inside50s" : 3.5,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 69.2,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 2.2,
+              "totalClearances" : 3.7
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 15.0,
+            "superGoals" : null,
+            "kicks" : 193.0,
+            "handballs" : 188.0,
+            "disposals" : 381.0,
+            "marks" : 70.0,
+            "bounces" : 3.0,
+            "tackles" : 32.0,
+            "contestedPossessions" : 169.0,
+            "uncontestedPossessions" : 215.0,
+            "totalPossessions" : 384.0,
+            "inside50s" : 71.0,
+            "marksInside50" : 19.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 78.2,
+            "clangers" : 30.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 1384.0,
+            "clearances" : {
+              "centreClearances" : 30.0,
+              "stoppageClearances" : 45.0,
+              "totalClearances" : 75.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 48.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200031",
+            "playerName" : {
+              "givenName" : "Paul",
+              "surname" : "Hasleby"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 22.0,
+      "behinds" : 15.0,
+      "superGoals" : null,
+      "kicks" : 139.0,
+      "handballs" : 201.0,
+      "disposals" : 340.0,
+      "marks" : 85.0,
+      "bounces" : 0.0,
+      "tackles" : 57.0,
+      "contestedPossessions" : 137.0,
+      "uncontestedPossessions" : 200.0,
+      "totalPossessions" : 337.0,
+      "inside50s" : 42.0,
+      "marksInside50" : 31.0,
+      "contestedMarks" : 15.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 27.0,
+      "disposalEfficiency" : 69.7,
+      "clangers" : 29.0,
+      "freesFor" : 16.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1432.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 37.0
+      },
+      "rebound50s" : 9.0,
+      "goalAssists" : 17.0,
+      "goalAccuracy" : 46.8,
+      "ratingPoints" : 0.0,
+      "ranking" : 0.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

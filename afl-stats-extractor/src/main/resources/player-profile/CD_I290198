@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I290198",
+    "position" : "Full Back",
+    "surname" : "Astbury",
+    "jumperNumber" : 12,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 6.1,
+      "handballs" : 4.5,
+      "disposals" : 10.6,
+      "marks" : 3.4,
+      "bounces" : 0.2,
+      "tackles" : 1.6,
+      "contestedPossessions" : 3.4,
+      "uncontestedPossessions" : 7.2,
+      "totalPossessions" : 10.6,
+      "inside50s" : 0.5,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.1,
+      "onePercenters" : 3.6,
+      "disposalEfficiency" : null,
+      "clangers" : 1.0,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.4,
+      "dreamTeamPoints" : 44.4,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.3,
+        "totalClearances" : 0.3
+      },
+      "rebound50s" : 1.4,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "David",
+    "bio" : "<p>Injuries continue to halt the tall and athletic defender’s progress, but he showed his quality in a number of games in 2013. Started the season with a foot problem and suffered leg and hamstring<br>\ninjuries through the year, playing five AFL games. Displayed an ability to marshal the defence at VFL level and lock down on key forwards. Highly rated and clearly capable at the top level when given an injury-free run.<br>\n<br>\n<b>Draft history</b>: 2009 AFL Draft 3rd round selection (Richmond) No. 35 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Richmond/Player Profiles/2015 - Profiles/ASTBURY David.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-02-26T01:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 195,
+      "weightInKg" : 95,
+      "recruitedFrom" : "Tatyoon/North Ballarat U18",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 8.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 249.0,
+      "handballs" : 184.0,
+      "disposals" : 433.0,
+      "marks" : 139.0,
+      "bounces" : 9.0,
+      "tackles" : 64.0,
+      "contestedPossessions" : 141.0,
+      "uncontestedPossessions" : 295.0,
+      "totalPossessions" : 436.0,
+      "inside50s" : 20.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 3.0,
+      "onePercenters" : 149.0,
+      "disposalEfficiency" : 77.8,
+      "clangers" : 40.0,
+      "freesFor" : 25.0,
+      "freesAgainst" : 16.0,
+      "dreamTeamPoints" : 1821.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 13.0,
+        "totalClearances" : 13.0
+      },
+      "rebound50s" : 56.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 53.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 5.5,
+            "disposals" : 10.5,
+            "marks" : 3.5,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 2.7,
+            "uncontestedPossessions" : 7.5,
+            "totalPossessions" : 10.2,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.7,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 45.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290198",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Astbury"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 20.0,
+            "handballs" : 22.0,
+            "disposals" : 42.0,
+            "marks" : 14.0,
+            "bounces" : 0.0,
+            "tackles" : 8.0,
+            "contestedPossessions" : 11.0,
+            "uncontestedPossessions" : 30.0,
+            "totalPossessions" : 41.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 85.7,
+            "clangers" : 3.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 183.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 90.5,
+            "ranking" : 511.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290198",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Astbury"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 97.4
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.9,
+            "handballs" : 4.6,
+            "disposals" : 13.5,
+            "marks" : 5.2,
+            "bounces" : 0.1,
+            "tackles" : 1.9,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 13.6,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.6,
+            "disposalEfficiency" : null,
+            "clangers" : 0.9,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 58.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 2.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290198",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Astbury"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 71.0,
+            "handballs" : 37.0,
+            "disposals" : 108.0,
+            "marks" : 42.0,
+            "bounces" : 1.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 29.0,
+            "uncontestedPossessions" : 80.0,
+            "totalPossessions" : 109.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 53.0,
+            "disposalEfficiency" : 78.7,
+            "clangers" : 7.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 465.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 98.1,
+            "ranking" : 497.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290198",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Astbury"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 92.8
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 4.4,
+            "disposals" : 10.4,
+            "marks" : 3.6,
+            "bounces" : 0.8,
+            "tackles" : 0.4,
+            "contestedPossessions" : 3.4,
+            "uncontestedPossessions" : 7.2,
+            "totalPossessions" : 10.6,
+            "inside50s" : 0.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.8,
+            "disposalEfficiency" : null,
+            "clangers" : 0.6,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 39.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290198",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Astbury"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 30.0,
+            "handballs" : 22.0,
+            "disposals" : 52.0,
+            "marks" : 18.0,
+            "bounces" : 4.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 17.0,
+            "uncontestedPossessions" : 36.0,
+            "totalPossessions" : 53.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 84.6,
+            "clangers" : 3.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 195.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 48.5,
+            "ranking" : 597.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290198",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Astbury"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 74.4
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 3.0,
+            "disposals" : 6.0,
+            "marks" : 2.5,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 3.0,
+            "totalPossessions" : 6.0,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 35.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290198",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Astbury"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 6.0,
+            "disposals" : 12.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 12.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 91.7,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 70.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290198",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Astbury"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 89.0
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.4,
+            "handballs" : 2.8,
+            "disposals" : 5.2,
+            "marks" : 0.6,
+            "bounces" : 0.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 2.6,
+            "uncontestedPossessions" : 3.0,
+            "totalPossessions" : 5.6,
+            "inside50s" : 0.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.4,
+            "onePercenters" : 3.8,
+            "disposalEfficiency" : null,
+            "clangers" : 0.4,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 20.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290198",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Astbury"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 12.0,
+            "handballs" : 14.0,
+            "disposals" : 26.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 13.0,
+            "uncontestedPossessions" : 15.0,
+            "totalPossessions" : 28.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 88.5,
+            "clangers" : 2.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 100.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290198",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Astbury"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 77.0
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 4.9,
+            "disposals" : 11.4,
+            "marks" : 3.4,
+            "bounces" : 0.2,
+            "tackles" : 1.7,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 7.5,
+            "totalPossessions" : 11.4,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 47.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290198",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Astbury"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 110.0,
+            "handballs" : 83.0,
+            "disposals" : 193.0,
+            "marks" : 57.0,
+            "bounces" : 4.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 65.0,
+            "uncontestedPossessions" : 128.0,
+            "totalPossessions" : 193.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 71.5,
+            "clangers" : 22.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 808.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 41.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290198",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Astbury"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 90.2
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 20.0,
+      "handballs" : 22.0,
+      "disposals" : 42.0,
+      "marks" : 14.0,
+      "bounces" : 0.0,
+      "tackles" : 8.0,
+      "contestedPossessions" : 11.0,
+      "uncontestedPossessions" : 30.0,
+      "totalPossessions" : 41.0,
+      "inside50s" : 4.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 20.0,
+      "disposalEfficiency" : 85.7,
+      "clangers" : 3.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 183.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 4.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 100.0,
+      "ratingPoints" : 90.5,
+      "ranking" : 511.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I290198",
+        "playerName" : {
+          "givenName" : "David",
+          "surname" : "Astbury"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T120",
+        "teamAbbr" : "RICH",
+        "teamName" : "Richmond",
+        "teamNickname" : "Tigers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 90.5,
+        "ranking" : 512,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 90.5,
+        "ranking" : 30,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 90.5,
+        "ranking" : 60,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 25.9,
+        "ranking" : 543,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 41
+  }
+}

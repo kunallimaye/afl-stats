@@ -1,0 +1,280 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I996483",
+    "position" : "Interchange",
+    "surname" : "McLean",
+    "jumperNumber" : 16,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.5,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 7.0,
+      "handballs" : 8.5,
+      "disposals" : 15.5,
+      "marks" : 4.5,
+      "bounces" : 0.5,
+      "tackles" : 1.5,
+      "contestedPossessions" : 5.7,
+      "uncontestedPossessions" : 10.2,
+      "totalPossessions" : 16.0,
+      "inside50s" : 2.0,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.5,
+      "disposalEfficiency" : null,
+      "clangers" : 1.5,
+      "freesFor" : 2.0,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 61.0,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.2
+      },
+      "rebound50s" : 1.2,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Toby",
+    "bio" : "<p>Toby McLean is a creative small forward/midfielder with exceptional leap and marking ability for his size.</p>\n\n<p>Crafty around goal, agile and prolific ball-winner, McLean averaged 22 disposals from 20 games and kicked 32 goals in an outstanding first year in the TAC Cup.&nbsp;</p>\n\n<p>The 18 year-old was runner-up in the TAC Cup’s league best and fairest award, and was named best on ground in the Oakleigh Chargers’ TAC Cup Grand Final win in September over the Calder Cannons.</p>\n\n<p>McLean started his year as a forward, but forged his way into the Chargers’ midfield proving a crucial ingredient in their successful season, recording multiple 30+ disposal games.</p>\n\n<p>At the NAB AFL Draft Combine, McLean finished equal-third in the kicking test (27/30).</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WesternBulldogs/Player Profiles/2015 - Profiles/MCLEAN Toby.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1996-01-31T01:00:00.000+0000",
+      "draftYear" : "2014",
+      "heightInCm" : 180,
+      "weightInKg" : 72,
+      "recruitedFrom" : "Narre Warren/Oakleigh Chagers (U18)",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 2.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 28.0,
+      "handballs" : 34.0,
+      "disposals" : 62.0,
+      "marks" : 18.0,
+      "bounces" : 2.0,
+      "tackles" : 6.0,
+      "contestedPossessions" : 23.0,
+      "uncontestedPossessions" : 41.0,
+      "totalPossessions" : 64.0,
+      "inside50s" : 8.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.0,
+      "disposalEfficiency" : 82.3,
+      "clangers" : 6.0,
+      "freesFor" : 8.0,
+      "freesAgainst" : 2.0,
+      "dreamTeamPoints" : 244.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 5.0
+      },
+      "rebound50s" : 5.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 40.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 8.5,
+            "disposals" : 15.5,
+            "marks" : 4.5,
+            "bounces" : 0.5,
+            "tackles" : 1.5,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 10.2,
+            "totalPossessions" : 16.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 61.0,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I996483",
+            "playerName" : {
+              "givenName" : "Toby",
+              "surname" : "McLean"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 28.0,
+            "handballs" : 34.0,
+            "disposals" : 62.0,
+            "marks" : 18.0,
+            "bounces" : 2.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 23.0,
+            "uncontestedPossessions" : 41.0,
+            "totalPossessions" : 64.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 82.3,
+            "clangers" : 6.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 244.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : 37.6,
+            "ranking" : 609.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I996483",
+            "playerName" : {
+              "givenName" : "Toby",
+              "surname" : "McLean"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 65.8
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 28.0,
+      "handballs" : 34.0,
+      "disposals" : 62.0,
+      "marks" : 18.0,
+      "bounces" : 2.0,
+      "tackles" : 6.0,
+      "contestedPossessions" : 23.0,
+      "uncontestedPossessions" : 41.0,
+      "totalPossessions" : 64.0,
+      "inside50s" : 8.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.0,
+      "disposalEfficiency" : 82.3,
+      "clangers" : 6.0,
+      "freesFor" : 8.0,
+      "freesAgainst" : 2.0,
+      "dreamTeamPoints" : 244.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 5.0
+      },
+      "rebound50s" : 5.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 40.0,
+      "ratingPoints" : 37.6,
+      "ranking" : 609.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I996483",
+        "playerName" : {
+          "givenName" : "Toby",
+          "surname" : "McLean"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T140",
+        "teamAbbr" : "WB",
+        "teamName" : "Western Bulldogs",
+        "teamNickname" : "Bulldogs"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 37.6,
+        "ranking" : 608,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 37.6,
+        "ranking" : 36,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 37.6,
+        "ranking" : 92,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 37.6,
+        "ranking" : 516,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2014"
+    },
+    "careerGamesPlayed" : 4
+  }
+}

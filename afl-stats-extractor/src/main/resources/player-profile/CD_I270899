@@ -1,0 +1,1001 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I270899",
+    "position" : "Full Back",
+    "surname" : "Laidler",
+    "jumperNumber" : 11,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 7.9,
+      "handballs" : 6.8,
+      "disposals" : 14.7,
+      "marks" : 4.0,
+      "bounces" : 0.0,
+      "tackles" : 1.9,
+      "contestedPossessions" : 5.6,
+      "uncontestedPossessions" : 9.1,
+      "totalPossessions" : 14.7,
+      "inside50s" : 1.4,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.4,
+      "hitouts" : 0.0,
+      "onePercenters" : 3.7,
+      "disposalEfficiency" : null,
+      "clangers" : 1.6,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 55.9,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.4,
+        "totalClearances" : 0.4
+      },
+      "rebound50s" : 2.3,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jeremy",
+    "bio" : null,
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/SydneySwans/Player Profiles/2015 Profiles/LAIDLER Jeremy.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1989-08-05T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 190,
+      "weightInKg" : 89,
+      "recruitedFrom" : "Doutta Stars/Calder U18/Geelong",
+      "debutYear" : "2009"
+    },
+    "careerStats" : {
+      "goals" : 7.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 531.0,
+      "handballs" : 454.0,
+      "disposals" : 985.0,
+      "marks" : 266.0,
+      "bounces" : 2.0,
+      "tackles" : 126.0,
+      "contestedPossessions" : 373.0,
+      "uncontestedPossessions" : 611.0,
+      "totalPossessions" : 984.0,
+      "inside50s" : 95.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 25.0,
+      "hitouts" : 2.0,
+      "onePercenters" : 251.0,
+      "disposalEfficiency" : 77.6,
+      "clangers" : 105.0,
+      "freesFor" : 37.0,
+      "freesAgainst" : 49.0,
+      "dreamTeamPoints" : 3745.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 24.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 151.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 43.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.9,
+            "handballs" : 7.7,
+            "disposals" : 15.5,
+            "marks" : 3.5,
+            "bounces" : 0.0,
+            "tackles" : 1.6,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 9.7,
+            "totalPossessions" : 15.2,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 55.1,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270899",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Laidler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 173.0,
+            "handballs" : 169.0,
+            "disposals" : 342.0,
+            "marks" : 76.0,
+            "bounces" : 1.0,
+            "tackles" : 36.0,
+            "contestedPossessions" : 121.0,
+            "uncontestedPossessions" : 214.0,
+            "totalPossessions" : 335.0,
+            "inside50s" : 31.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 58.0,
+            "disposalEfficiency" : 80.4,
+            "clangers" : 31.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1213.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 56.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 291.8,
+            "ranking" : 239.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270899",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Laidler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 76.7
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.6,
+            "handballs" : 7.5,
+            "disposals" : 14.1,
+            "marks" : 3.2,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.8,
+            "uncontestedPossessions" : 8.2,
+            "totalPossessions" : 14.1,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 50.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270899",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Laidler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 125.0,
+            "handballs" : 142.0,
+            "disposals" : 267.0,
+            "marks" : 61.0,
+            "bounces" : 0.0,
+            "tackles" : 32.0,
+            "contestedPossessions" : 111.0,
+            "uncontestedPossessions" : 156.0,
+            "totalPossessions" : 267.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 61.0,
+            "disposalEfficiency" : 74.2,
+            "clangers" : 26.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 968.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : 158.2,
+            "ranking" : 419.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270899",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Laidler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 76.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 1.0,
+            "disposals" : 4.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 2.0,
+            "totalPossessions" : 3.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 34.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270899",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Laidler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 1.0,
+            "disposals" : 4.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 2.0,
+            "totalPossessions" : 3.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 75.0,
+            "clangers" : 2.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 34.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 41.9,
+            "ranking" : 614.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270899",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Laidler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 66.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.7,
+            "handballs" : 5.0,
+            "disposals" : 11.7,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 6.2,
+            "totalPossessions" : 11.7,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 45.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270899",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Laidler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 27.0,
+            "handballs" : 20.0,
+            "disposals" : 47.0,
+            "marks" : 16.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 22.0,
+            "uncontestedPossessions" : 25.0,
+            "totalPossessions" : 47.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 32.0,
+            "disposalEfficiency" : 74.5,
+            "clangers" : 6.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 183.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270899",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Laidler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 77.3
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 10.3,
+            "handballs" : 5.5,
+            "disposals" : 15.8,
+            "marks" : 5.8,
+            "bounces" : 0.1,
+            "tackles" : 2.2,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 10.4,
+            "totalPossessions" : 16.1,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 66.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270899",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Laidler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 195.0,
+            "handballs" : 105.0,
+            "disposals" : 300.0,
+            "marks" : 110.0,
+            "bounces" : 1.0,
+            "tackles" : 42.0,
+            "contestedPossessions" : 108.0,
+            "uncontestedPossessions" : 198.0,
+            "totalPossessions" : 306.0,
+            "inside50s" : 21.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 89.0,
+            "disposalEfficiency" : 77.0,
+            "clangers" : 38.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 1256.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 51.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270899",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Laidler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 84.3
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 11.0,
+            "disposals" : 16.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 16.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 61.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270899",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Laidler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 11.0,
+            "disposals" : 16.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 16.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 87.5,
+            "clangers" : 1.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 61.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270899",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Laidler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 85.2
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 6.0,
+            "disposals" : 9.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 10.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 30.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270899",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Laidler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 6.0,
+            "disposals" : 9.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 10.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 88.9,
+            "clangers" : 1.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 30.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270899",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Laidler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 82.6
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270899",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Laidler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I270899",
+            "playerName" : {
+              "givenName" : "Jeremy",
+              "surname" : "Laidler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 173.0,
+      "handballs" : 169.0,
+      "disposals" : 342.0,
+      "marks" : 76.0,
+      "bounces" : 1.0,
+      "tackles" : 36.0,
+      "contestedPossessions" : 121.0,
+      "uncontestedPossessions" : 214.0,
+      "totalPossessions" : 335.0,
+      "inside50s" : 31.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 2.0,
+      "onePercenters" : 58.0,
+      "disposalEfficiency" : 80.4,
+      "clangers" : 31.0,
+      "freesFor" : 9.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 1213.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 6.0,
+        "totalClearances" : 10.0
+      },
+      "rebound50s" : 56.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : 291.8,
+      "ranking" : 239.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I270899",
+        "playerName" : {
+          "givenName" : "Jeremy",
+          "surname" : "Laidler"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T160",
+        "teamAbbr" : "SYD",
+        "teamName" : "Sydney Swans",
+        "teamNickname" : "Swans"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 295.5,
+        "ranking" : 237,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 295.5,
+        "ranking" : 15,
+        "ratingType" : "TEAM",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 295.5,
+        "ranking" : 40,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 12.1,
+        "ranking" : 46,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 192.3,
+        "ranking" : 168,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2007"
+    },
+    "careerGamesPlayed" : 67
+  }
+}

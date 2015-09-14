@@ -1,0 +1,956 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I230173",
+    "position" : "Left Half Back",
+    "surname" : "Pettigrew",
+    "jumperNumber" : 36,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Michael",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1985-03-16T02:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 193,
+      "weightInKg" : 92,
+      "recruitedFrom" : null,
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 25.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 665.0,
+      "handballs" : 465.0,
+      "disposals" : 1130.0,
+      "marks" : 359.0,
+      "bounces" : 155.0,
+      "tackles" : 193.0,
+      "contestedPossessions" : 368.0,
+      "uncontestedPossessions" : 747.0,
+      "totalPossessions" : 1115.0,
+      "inside50s" : 111.0,
+      "marksInside50" : 23.0,
+      "contestedMarks" : 39.0,
+      "hitouts" : 6.0,
+      "onePercenters" : 377.0,
+      "disposalEfficiency" : 76.0,
+      "clangers" : 200.0,
+      "freesFor" : 49.0,
+      "freesAgainst" : 93.0,
+      "dreamTeamPoints" : 4710.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 30.0,
+        "totalClearances" : 36.0
+      },
+      "rebound50s" : 231.0,
+      "goalAssists" : 22.0,
+      "goalAccuracy" : 65.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 2.2,
+            "disposals" : 10.5,
+            "marks" : 3.3,
+            "bounces" : 0.4,
+            "tackles" : 2.3,
+            "contestedPossessions" : 3.3,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 10.3,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 46.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 3.5,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230173",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Pettigrew"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 99.0,
+            "handballs" : 27.0,
+            "disposals" : 126.0,
+            "marks" : 40.0,
+            "bounces" : 5.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 40.0,
+            "uncontestedPossessions" : 84.0,
+            "totalPossessions" : 124.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 58.0,
+            "disposalEfficiency" : 69.8,
+            "clangers" : 25.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 558.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 42.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230173",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Pettigrew"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 90.5
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 2.0,
+            "disposals" : 7.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 6.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 30.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230173",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Pettigrew"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 2.0,
+            "disposals" : 7.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 6.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 85.7,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 30.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230173",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Pettigrew"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 70.3
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.9,
+            "handballs" : 6.1,
+            "disposals" : 13.0,
+            "marks" : 3.4,
+            "bounces" : 0.9,
+            "tackles" : 2.1,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 8.6,
+            "totalPossessions" : 12.5,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 49.2,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230173",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Pettigrew"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 96.0,
+            "handballs" : 86.0,
+            "disposals" : 182.0,
+            "marks" : 47.0,
+            "bounces" : 13.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 54.0,
+            "uncontestedPossessions" : 121.0,
+            "totalPossessions" : 175.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 73.0,
+            "disposalEfficiency" : 77.5,
+            "clangers" : 29.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 689.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 28.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230173",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Pettigrew"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 87.8
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 6.0,
+            "disposals" : 13.0,
+            "marks" : 3.9,
+            "bounces" : 1.3,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 8.8,
+            "totalPossessions" : 12.8,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 49.9,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 3.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230173",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Pettigrew"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 140.0,
+            "handballs" : 121.0,
+            "disposals" : 261.0,
+            "marks" : 79.0,
+            "bounces" : 27.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 80.0,
+            "uncontestedPossessions" : 177.0,
+            "totalPossessions" : 257.0,
+            "inside50s" : 20.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 69.0,
+            "disposalEfficiency" : 75.5,
+            "clangers" : 49.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 24.0,
+            "dreamTeamPoints" : 998.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 62.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 75.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230173",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Pettigrew"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 87.9
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.4,
+            "handballs" : 5.1,
+            "disposals" : 11.5,
+            "marks" : 4.0,
+            "bounces" : 3.4,
+            "tackles" : 1.8,
+            "contestedPossessions" : 3.6,
+            "uncontestedPossessions" : 7.9,
+            "totalPossessions" : 11.5,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 3.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.1,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 45.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230173",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Pettigrew"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 160.0,
+            "handballs" : 127.0,
+            "disposals" : 287.0,
+            "marks" : 99.0,
+            "bounces" : 85.0,
+            "tackles" : 45.0,
+            "contestedPossessions" : 89.0,
+            "uncontestedPossessions" : 198.0,
+            "totalPossessions" : 287.0,
+            "inside50s" : 37.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 90.0,
+            "disposalEfficiency" : 76.0,
+            "clangers" : 49.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 25.0,
+            "dreamTeamPoints" : 1148.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 59.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230173",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Pettigrew"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 92.6
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 3.9,
+            "disposals" : 9.9,
+            "marks" : 3.4,
+            "bounces" : 1.2,
+            "tackles" : 1.9,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 5.9,
+            "totalPossessions" : 9.7,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.1,
+            "onePercenters" : 3.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 45.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230173",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Pettigrew"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 96.0,
+            "handballs" : 62.0,
+            "disposals" : 158.0,
+            "marks" : 54.0,
+            "bounces" : 19.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 60.0,
+            "uncontestedPossessions" : 95.0,
+            "totalPossessions" : 155.0,
+            "inside50s" : 11.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 53.0,
+            "disposalEfficiency" : 78.5,
+            "clangers" : 27.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 734.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 55.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230173",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Pettigrew"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 81.1
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 4.9,
+            "handballs" : 2.7,
+            "disposals" : 7.6,
+            "marks" : 2.8,
+            "bounces" : 0.4,
+            "tackles" : 1.7,
+            "contestedPossessions" : 3.1,
+            "uncontestedPossessions" : 4.8,
+            "totalPossessions" : 7.9,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 40.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230173",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Pettigrew"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 64.0,
+            "handballs" : 35.0,
+            "disposals" : 99.0,
+            "marks" : 37.0,
+            "bounces" : 5.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 40.0,
+            "uncontestedPossessions" : 63.0,
+            "totalPossessions" : 103.0,
+            "inside50s" : 21.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 76.8,
+            "clangers" : 20.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 520.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 91.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230173",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Pettigrew"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 67.7
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.5,
+            "handballs" : 2.5,
+            "disposals" : 5.0,
+            "marks" : 0.5,
+            "bounces" : 0.5,
+            "tackles" : 0.5,
+            "contestedPossessions" : 1.5,
+            "uncontestedPossessions" : 2.5,
+            "totalPossessions" : 4.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 16.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230173",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Pettigrew"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 5.0,
+            "disposals" : 10.0,
+            "marks" : 1.0,
+            "bounces" : 1.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 8.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 90.0,
+            "clangers" : 0.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 33.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230173",
+            "playerName" : {
+              "givenName" : "Michael",
+              "surname" : "Pettigrew"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 77.8
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 99.0,
+      "handballs" : 27.0,
+      "disposals" : 126.0,
+      "marks" : 40.0,
+      "bounces" : 5.0,
+      "tackles" : 28.0,
+      "contestedPossessions" : 40.0,
+      "uncontestedPossessions" : 84.0,
+      "totalPossessions" : 124.0,
+      "inside50s" : 12.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 58.0,
+      "disposalEfficiency" : 69.8,
+      "clangers" : 25.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 558.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 5.0
+      },
+      "rebound50s" : 42.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

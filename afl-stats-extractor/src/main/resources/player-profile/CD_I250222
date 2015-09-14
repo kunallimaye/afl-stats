@@ -1,0 +1,1207 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I250222",
+    "position" : "Ruck Rover",
+    "surname" : "Jones",
+    "jumperNumber" : 2,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.5,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 11.2,
+      "handballs" : 10.9,
+      "disposals" : 22.1,
+      "marks" : 2.9,
+      "bounces" : 0.6,
+      "tackles" : 3.6,
+      "contestedPossessions" : 8.3,
+      "uncontestedPossessions" : 13.9,
+      "totalPossessions" : 22.2,
+      "inside50s" : 3.4,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : null,
+      "clangers" : 2.5,
+      "freesFor" : 1.2,
+      "freesAgainst" : 1.1,
+      "dreamTeamPoints" : 79.4,
+      "clearances" : {
+        "centreClearances" : 1.7,
+        "stoppageClearances" : 2.3,
+        "totalClearances" : 3.9
+      },
+      "rebound50s" : 1.6,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Nathan",
+    "bio" : "<p>Won his third consecutive best and fairest in his first season as co-captain, demonstrating that he will get better as the team gets better. A ball magnet, he was at his best early in the season and drew praise from coach Paul Roos. Jones averaged 27 disposals a game and took on and beat some of the game’s best. Jones is making the most of his talent, is respected throughout the League and is capable of willing his team to victory.<br>\n<br>\n<b>Player honours: </b>best and fairest 2012, 2013, 2014; 2nd best and fairest 2007; NAB AFL Rising Star nominee 2006, 2007; co-captain 2014; captain since 2015.<br>\n<br>\n<b>Brownlow Medal: </b>2014 votes 13; career votes 46.<br>\n<br>\n<b>Draft history:</b> 2005 NAB AFL Draft 1st round selection (Melbourne) No. 12 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Melbourne/Player Profiles/2015 - Profiles/JONES Nathan.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1988-01-20T01:00:00.000+0000",
+      "draftYear" : "2005",
+      "heightInCm" : 180,
+      "weightInKg" : 86,
+      "recruitedFrom" : "Mt Eliza/Dandenong U18",
+      "debutYear" : "2006"
+    },
+    "careerStats" : {
+      "goals" : 95.0,
+      "behinds" : 74.0,
+      "superGoals" : null,
+      "kicks" : 2245.0,
+      "handballs" : 2196.0,
+      "disposals" : 4441.0,
+      "marks" : 585.0,
+      "bounces" : 121.0,
+      "tackles" : 717.0,
+      "contestedPossessions" : 1671.0,
+      "uncontestedPossessions" : 2797.0,
+      "totalPossessions" : 4468.0,
+      "inside50s" : 676.0,
+      "marksInside50" : 43.0,
+      "contestedMarks" : 19.0,
+      "hitouts" : 6.0,
+      "onePercenters" : 205.0,
+      "disposalEfficiency" : 72.8,
+      "clangers" : 510.0,
+      "freesFor" : 244.0,
+      "freesAgainst" : 229.0,
+      "dreamTeamPoints" : 15957.0,
+      "clearances" : {
+        "centreClearances" : 332.0,
+        "stoppageClearances" : 453.0,
+        "totalClearances" : 785.0
+      },
+      "rebound50s" : 317.0,
+      "goalAssists" : 84.0,
+      "goalAccuracy" : 48.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 12.2,
+            "handballs" : 11.6,
+            "disposals" : 23.8,
+            "marks" : 2.4,
+            "bounces" : 0.0,
+            "tackles" : 4.3,
+            "contestedPossessions" : 9.9,
+            "uncontestedPossessions" : 14.1,
+            "totalPossessions" : 24.0,
+            "inside50s" : 4.4,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 1.2,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 85.8,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 3.2,
+              "totalClearances" : 4.7
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 268.0,
+            "handballs" : 255.0,
+            "disposals" : 523.0,
+            "marks" : 53.0,
+            "bounces" : 1.0,
+            "tackles" : 95.0,
+            "contestedPossessions" : 217.0,
+            "uncontestedPossessions" : 310.0,
+            "totalPossessions" : 527.0,
+            "inside50s" : 97.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 69.8,
+            "clangers" : 58.0,
+            "freesFor" : 27.0,
+            "freesAgainst" : 24.0,
+            "dreamTeamPoints" : 1887.0,
+            "clearances" : {
+              "centreClearances" : 33.0,
+              "stoppageClearances" : 71.0,
+              "totalClearances" : 104.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 54.5,
+            "ratingPoints" : 414.6,
+            "ranking" : 85.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 80.3
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 14.1,
+            "handballs" : 13.6,
+            "disposals" : 27.7,
+            "marks" : 2.9,
+            "bounces" : 0.5,
+            "tackles" : 5.2,
+            "contestedPossessions" : 11.6,
+            "uncontestedPossessions" : 16.1,
+            "totalPossessions" : 27.7,
+            "inside50s" : 3.6,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 2.2,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 101.0,
+            "clearances" : {
+              "centreClearances" : 2.7,
+              "stoppageClearances" : 3.5,
+              "totalClearances" : 6.3
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 311.0,
+            "handballs" : 299.0,
+            "disposals" : 610.0,
+            "marks" : 64.0,
+            "bounces" : 11.0,
+            "tackles" : 115.0,
+            "contestedPossessions" : 255.0,
+            "uncontestedPossessions" : 355.0,
+            "totalPossessions" : 610.0,
+            "inside50s" : 79.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 73.4,
+            "clangers" : 49.0,
+            "freesFor" : 48.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 2222.0,
+            "clearances" : {
+              "centreClearances" : 60.0,
+              "stoppageClearances" : 78.0,
+              "totalClearances" : 138.0
+            },
+            "rebound50s" : 39.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 43.7,
+            "ratingPoints" : 403.7,
+            "ranking" : 103.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 87.5
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 10.6,
+            "handballs" : 12.5,
+            "disposals" : 23.1,
+            "marks" : 2.1,
+            "bounces" : 0.6,
+            "tackles" : 3.5,
+            "contestedPossessions" : 10.9,
+            "uncontestedPossessions" : 12.3,
+            "totalPossessions" : 23.2,
+            "inside50s" : 2.7,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 77.6,
+            "clearances" : {
+              "centreClearances" : 2.8,
+              "stoppageClearances" : 3.1,
+              "totalClearances" : 5.9
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 233.0,
+            "handballs" : 276.0,
+            "disposals" : 509.0,
+            "marks" : 46.0,
+            "bounces" : 13.0,
+            "tackles" : 76.0,
+            "contestedPossessions" : 240.0,
+            "uncontestedPossessions" : 270.0,
+            "totalPossessions" : 510.0,
+            "inside50s" : 60.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 71.7,
+            "clangers" : 59.0,
+            "freesFor" : 44.0,
+            "freesAgainst" : 28.0,
+            "dreamTeamPoints" : 1708.0,
+            "clearances" : {
+              "centreClearances" : 61.0,
+              "stoppageClearances" : 69.0,
+              "totalClearances" : 130.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : 401.1,
+            "ranking" : 91.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 86.8
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 12.6,
+            "handballs" : 12.0,
+            "disposals" : 24.6,
+            "marks" : 2.1,
+            "bounces" : 0.8,
+            "tackles" : 4.5,
+            "contestedPossessions" : 10.3,
+            "uncontestedPossessions" : 14.5,
+            "totalPossessions" : 24.9,
+            "inside50s" : 3.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 1.9,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 88.6,
+            "clearances" : {
+              "centreClearances" : 2.2,
+              "stoppageClearances" : 3.4,
+              "totalClearances" : 5.6
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 16.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 265.0,
+            "handballs" : 251.0,
+            "disposals" : 516.0,
+            "marks" : 45.0,
+            "bounces" : 16.0,
+            "tackles" : 95.0,
+            "contestedPossessions" : 217.0,
+            "uncontestedPossessions" : 305.0,
+            "totalPossessions" : 522.0,
+            "inside50s" : 73.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 76.4,
+            "clangers" : 63.0,
+            "freesFor" : 39.0,
+            "freesAgainst" : 32.0,
+            "dreamTeamPoints" : 1861.0,
+            "clearances" : {
+              "centreClearances" : 46.0,
+              "stoppageClearances" : 72.0,
+              "totalClearances" : 118.0
+            },
+            "rebound50s" : 26.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 59.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 80.8
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 12.1,
+            "handballs" : 11.0,
+            "disposals" : 23.0,
+            "marks" : 4.5,
+            "bounces" : 0.8,
+            "tackles" : 3.1,
+            "contestedPossessions" : 7.6,
+            "uncontestedPossessions" : 15.9,
+            "totalPossessions" : 23.5,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 86.0,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 266.0,
+            "handballs" : 241.0,
+            "disposals" : 507.0,
+            "marks" : 100.0,
+            "bounces" : 17.0,
+            "tackles" : 69.0,
+            "contestedPossessions" : 167.0,
+            "uncontestedPossessions" : 350.0,
+            "totalPossessions" : 517.0,
+            "inside50s" : 83.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 39.0,
+            "disposalEfficiency" : 73.0,
+            "clangers" : 58.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 24.0,
+            "dreamTeamPoints" : 1893.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 32.0,
+              "totalClearances" : 44.0
+            },
+            "rebound50s" : 47.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 53.8,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 86.8
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 10.3,
+            "disposals" : 19.3,
+            "marks" : 2.5,
+            "bounces" : 0.6,
+            "tackles" : 2.8,
+            "contestedPossessions" : 6.3,
+            "uncontestedPossessions" : 12.9,
+            "totalPossessions" : 19.2,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 66.8,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.5
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 198.0,
+            "handballs" : 227.0,
+            "disposals" : 425.0,
+            "marks" : 54.0,
+            "bounces" : 14.0,
+            "tackles" : 62.0,
+            "contestedPossessions" : 138.0,
+            "uncontestedPossessions" : 284.0,
+            "totalPossessions" : 422.0,
+            "inside50s" : 70.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 72.7,
+            "clangers" : 47.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 24.0,
+            "dreamTeamPoints" : 1470.0,
+            "clearances" : {
+              "centreClearances" : 25.0,
+              "stoppageClearances" : 30.0,
+              "totalClearances" : 55.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 36.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 77.5
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 10.4,
+            "handballs" : 11.7,
+            "disposals" : 22.1,
+            "marks" : 3.8,
+            "bounces" : 0.3,
+            "tackles" : 2.0,
+            "contestedPossessions" : 6.5,
+            "uncontestedPossessions" : 16.0,
+            "totalPossessions" : 22.5,
+            "inside50s" : 3.7,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 75.6,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.6
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 209.0,
+            "handballs" : 234.0,
+            "disposals" : 443.0,
+            "marks" : 77.0,
+            "bounces" : 7.0,
+            "tackles" : 41.0,
+            "contestedPossessions" : 130.0,
+            "uncontestedPossessions" : 320.0,
+            "totalPossessions" : 450.0,
+            "inside50s" : 75.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 72.5,
+            "clangers" : 50.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 1513.0,
+            "clearances" : {
+              "centreClearances" : 24.0,
+              "stoppageClearances" : 29.0,
+              "totalClearances" : 53.0
+            },
+            "rebound50s" : 37.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 79.8
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 10.1,
+            "handballs" : 10.5,
+            "disposals" : 20.6,
+            "marks" : 3.1,
+            "bounces" : 0.5,
+            "tackles" : 2.5,
+            "contestedPossessions" : 7.1,
+            "uncontestedPossessions" : 13.4,
+            "totalPossessions" : 20.6,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 70.5,
+            "clearances" : {
+              "centreClearances" : 1.6,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 3.3
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 212.0,
+            "handballs" : 220.0,
+            "disposals" : 432.0,
+            "marks" : 65.0,
+            "bounces" : 11.0,
+            "tackles" : 53.0,
+            "contestedPossessions" : 150.0,
+            "uncontestedPossessions" : 282.0,
+            "totalPossessions" : 432.0,
+            "inside50s" : 48.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 71.1,
+            "clangers" : 62.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 28.0,
+            "dreamTeamPoints" : 1481.0,
+            "clearances" : {
+              "centreClearances" : 33.0,
+              "stoppageClearances" : 37.0,
+              "totalClearances" : 70.0
+            },
+            "rebound50s" : 34.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 80.1
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 10.4,
+            "handballs" : 7.0,
+            "disposals" : 17.4,
+            "marks" : 2.9,
+            "bounces" : 1.2,
+            "tackles" : 4.1,
+            "contestedPossessions" : 6.3,
+            "uncontestedPossessions" : 11.4,
+            "totalPossessions" : 17.7,
+            "inside50s" : 3.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 70.4,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.8
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 219.0,
+            "handballs" : 146.0,
+            "disposals" : 365.0,
+            "marks" : 61.0,
+            "bounces" : 26.0,
+            "tackles" : 86.0,
+            "contestedPossessions" : 133.0,
+            "uncontestedPossessions" : 239.0,
+            "totalPossessions" : 372.0,
+            "inside50s" : 69.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 70.7,
+            "clangers" : 52.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 24.0,
+            "dreamTeamPoints" : 1479.0,
+            "clearances" : {
+              "centreClearances" : 29.0,
+              "stoppageClearances" : 30.0,
+              "totalClearances" : 59.0
+            },
+            "rebound50s" : 40.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 55.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 75.4
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 5.9,
+            "disposals" : 13.9,
+            "marks" : 2.5,
+            "bounces" : 0.6,
+            "tackles" : 3.1,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 10.2,
+            "totalPossessions" : 14.0,
+            "inside50s" : 2.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 55.4,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 64.0,
+            "handballs" : 47.0,
+            "disposals" : 111.0,
+            "marks" : 20.0,
+            "bounces" : 5.0,
+            "tackles" : 25.0,
+            "contestedPossessions" : 30.0,
+            "uncontestedPossessions" : 82.0,
+            "totalPossessions" : 112.0,
+            "inside50s" : 22.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 82.9,
+            "clangers" : 12.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 443.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250222",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Jones"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 60.2
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 12.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 268.0,
+      "handballs" : 255.0,
+      "disposals" : 523.0,
+      "marks" : 53.0,
+      "bounces" : 1.0,
+      "tackles" : 95.0,
+      "contestedPossessions" : 217.0,
+      "uncontestedPossessions" : 310.0,
+      "totalPossessions" : 527.0,
+      "inside50s" : 97.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 13.0,
+      "disposalEfficiency" : 69.8,
+      "clangers" : 58.0,
+      "freesFor" : 27.0,
+      "freesAgainst" : 24.0,
+      "dreamTeamPoints" : 1887.0,
+      "clearances" : {
+        "centreClearances" : 33.0,
+        "stoppageClearances" : 71.0,
+        "totalClearances" : 104.0
+      },
+      "rebound50s" : 21.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 54.5,
+      "ratingPoints" : 414.6,
+      "ranking" : 85.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I250222",
+        "playerName" : {
+          "givenName" : "Nathan",
+          "surname" : "Jones"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T90",
+        "teamAbbr" : "MELB",
+        "teamName" : "Melbourne",
+        "teamNickname" : "Demons"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 423.2,
+        "ranking" : 74,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 423.2,
+        "ranking" : 1,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 423.2,
+        "ranking" : 41,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 255.3,
+        "ranking" : 65,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2005"
+    },
+    "careerGamesPlayed" : 201
+  }
+}

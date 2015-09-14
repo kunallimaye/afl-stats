@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I296211",
+    "position" : "Right Wing",
+    "surname" : "Taylor",
+    "jumperNumber" : 28,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.7,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 9.7,
+      "handballs" : 9.2,
+      "disposals" : 18.9,
+      "marks" : 4.1,
+      "bounces" : 0.7,
+      "tackles" : 1.7,
+      "contestedPossessions" : 5.2,
+      "uncontestedPossessions" : 13.7,
+      "totalPossessions" : 18.9,
+      "inside50s" : 2.2,
+      "marksInside50" : 0.4,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.5,
+      "disposalEfficiency" : null,
+      "clangers" : 2.1,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 70.3,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.1
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Lewis",
+    "bio" : "<p>He might be the Lions' shortest player at just 173cm, but what Lewis Taylor lacks in size, he more than makes up for in on-field ability. The former Geelong Falcon is a powerful, quick and skilful midfielder, who proved to be one of the steals of the 2013 AFL National Draft.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2015 - Profiles/TAYLOR Lewis.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1995-02-17T01:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 173,
+      "weightInKg" : 77,
+      "recruitedFrom" : null,
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 29.0,
+      "behinds" : 18.0,
+      "superGoals" : null,
+      "kicks" : 427.0,
+      "handballs" : 403.0,
+      "disposals" : 830.0,
+      "marks" : 180.0,
+      "bounces" : 31.0,
+      "tackles" : 77.0,
+      "contestedPossessions" : 227.0,
+      "uncontestedPossessions" : 604.0,
+      "totalPossessions" : 831.0,
+      "inside50s" : 96.0,
+      "marksInside50" : 18.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 21.0,
+      "disposalEfficiency" : 72.5,
+      "clangers" : 93.0,
+      "freesFor" : 25.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 3092.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 43.0,
+        "totalClearances" : 47.0
+      },
+      "rebound50s" : 46.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 48.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 10.5,
+            "handballs" : 10.4,
+            "disposals" : 20.9,
+            "marks" : 4.2,
+            "bounces" : 1.2,
+            "tackles" : 1.5,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 15.7,
+            "totalPossessions" : 21.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 74.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296211",
+            "playerName" : {
+              "givenName" : "Lewis",
+              "surname" : "Taylor"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 230.0,
+            "handballs" : 229.0,
+            "disposals" : 459.0,
+            "marks" : 92.0,
+            "bounces" : 26.0,
+            "tackles" : 33.0,
+            "contestedPossessions" : 118.0,
+            "uncontestedPossessions" : 345.0,
+            "totalPossessions" : 463.0,
+            "inside50s" : 45.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 74.7,
+            "clangers" : 60.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1644.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 26.0,
+              "totalClearances" : 27.0
+            },
+            "rebound50s" : 32.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 54.8,
+            "ratingPoints" : 280.3,
+            "ranking" : 255.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296211",
+            "playerName" : {
+              "givenName" : "Lewis",
+              "surname" : "Taylor"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 83.2
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 7.9,
+            "disposals" : 16.9,
+            "marks" : 4.0,
+            "bounces" : 0.2,
+            "tackles" : 2.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 11.8,
+            "totalPossessions" : 16.7,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 65.8,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296211",
+            "playerName" : {
+              "givenName" : "Lewis",
+              "surname" : "Taylor"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 197.0,
+            "handballs" : 174.0,
+            "disposals" : 371.0,
+            "marks" : 88.0,
+            "bounces" : 5.0,
+            "tackles" : 44.0,
+            "contestedPossessions" : 109.0,
+            "uncontestedPossessions" : 259.0,
+            "totalPossessions" : 368.0,
+            "inside50s" : 51.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 69.8,
+            "clangers" : 33.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 1448.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 17.0,
+              "totalClearances" : 20.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 41.4,
+            "ratingPoints" : 166.7,
+            "ranking" : 398.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296211",
+            "playerName" : {
+              "givenName" : "Lewis",
+              "surname" : "Taylor"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 84.2
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 17.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 230.0,
+      "handballs" : 229.0,
+      "disposals" : 459.0,
+      "marks" : 92.0,
+      "bounces" : 26.0,
+      "tackles" : 33.0,
+      "contestedPossessions" : 118.0,
+      "uncontestedPossessions" : 345.0,
+      "totalPossessions" : 463.0,
+      "inside50s" : 45.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 9.0,
+      "disposalEfficiency" : 74.7,
+      "clangers" : 60.0,
+      "freesFor" : 9.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1644.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 27.0
+      },
+      "rebound50s" : 32.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 54.8,
+      "ratingPoints" : 280.3,
+      "ranking" : 255.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I296211",
+        "playerName" : {
+          "givenName" : "Lewis",
+          "surname" : "Taylor"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 290.5,
+        "ranking" : 245,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 290.5,
+        "ranking" : 12,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 290.5,
+        "ranking" : 96,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 181.9,
+        "ranking" : 179,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 44
+  }
+}

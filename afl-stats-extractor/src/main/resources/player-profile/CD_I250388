@@ -1,0 +1,544 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I250388",
+    "position" : "Left Forward Pocket",
+    "surname" : "Wonaemirri",
+    "jumperNumber" : 39,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Austin",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1988-10-02T02:00:00.000+0000",
+      "draftYear" : "",
+      "heightInCm" : 176,
+      "weightInKg" : 80,
+      "recruitedFrom" : "",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 37.0,
+      "behinds" : 18.0,
+      "superGoals" : null,
+      "kicks" : 201.0,
+      "handballs" : 139.0,
+      "disposals" : 340.0,
+      "marks" : 118.0,
+      "bounces" : 15.0,
+      "tackles" : 112.0,
+      "contestedPossessions" : 124.0,
+      "uncontestedPossessions" : 219.0,
+      "totalPossessions" : 343.0,
+      "inside50s" : 55.0,
+      "marksInside50" : 36.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 32.0,
+      "disposalEfficiency" : 68.8,
+      "clangers" : 49.0,
+      "freesFor" : 29.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1889.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 11.0,
+        "totalClearances" : 11.0
+      },
+      "rebound50s" : 8.0,
+      "goalAssists" : 16.0,
+      "goalAccuracy" : 53.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.4,
+            "superGoals" : null,
+            "kicks" : 7.8,
+            "handballs" : 4.4,
+            "disposals" : 12.2,
+            "marks" : 4.6,
+            "bounces" : 0.2,
+            "tackles" : 3.6,
+            "contestedPossessions" : 4.4,
+            "uncontestedPossessions" : 7.8,
+            "totalPossessions" : 12.2,
+            "inside50s" : 1.2,
+            "marksInside50" : 1.8,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 65.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250388",
+            "playerName" : {
+              "givenName" : "Austin",
+              "surname" : "Wonaemirri"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 39.0,
+            "handballs" : 22.0,
+            "disposals" : 61.0,
+            "marks" : 23.0,
+            "bounces" : 1.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 22.0,
+            "uncontestedPossessions" : 39.0,
+            "totalPossessions" : 61.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 60.7,
+            "clangers" : 12.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 327.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 41.7,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250388",
+            "playerName" : {
+              "givenName" : "Austin",
+              "surname" : "Wonaemirri"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 74.9
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 5.4,
+            "handballs" : 4.4,
+            "disposals" : 9.7,
+            "marks" : 2.5,
+            "bounces" : 0.1,
+            "tackles" : 4.0,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 5.6,
+            "totalPossessions" : 9.9,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 54.6,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250388",
+            "playerName" : {
+              "givenName" : "Austin",
+              "surname" : "Wonaemirri"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 43.0,
+            "handballs" : 35.0,
+            "disposals" : 78.0,
+            "marks" : 20.0,
+            "bounces" : 1.0,
+            "tackles" : 32.0,
+            "contestedPossessions" : 34.0,
+            "uncontestedPossessions" : 45.0,
+            "totalPossessions" : 79.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 65.4,
+            "clangers" : 10.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 437.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 44.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250388",
+            "playerName" : {
+              "givenName" : "Austin",
+              "surname" : "Wonaemirri"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 75.4
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250388",
+            "playerName" : {
+              "givenName" : "Austin",
+              "surname" : "Wonaemirri"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250388",
+            "playerName" : {
+              "givenName" : "Austin",
+              "surname" : "Wonaemirri"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.6,
+            "handballs" : 4.6,
+            "disposals" : 11.2,
+            "marks" : 4.2,
+            "bounces" : 0.7,
+            "tackles" : 3.4,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 7.5,
+            "totalPossessions" : 11.3,
+            "inside50s" : 2.1,
+            "marksInside50" : 1.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 62.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250388",
+            "playerName" : {
+              "givenName" : "Austin",
+              "surname" : "Wonaemirri"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 24.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 119.0,
+            "handballs" : 82.0,
+            "disposals" : 201.0,
+            "marks" : 75.0,
+            "bounces" : 13.0,
+            "tackles" : 62.0,
+            "contestedPossessions" : 68.0,
+            "uncontestedPossessions" : 135.0,
+            "totalPossessions" : 203.0,
+            "inside50s" : 37.0,
+            "marksInside50" : 20.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 72.6,
+            "clangers" : 27.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1125.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 61.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250388",
+            "playerName" : {
+              "givenName" : "Austin",
+              "surname" : "Wonaemirri"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 81.6
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 5.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 39.0,
+      "handballs" : 22.0,
+      "disposals" : 61.0,
+      "marks" : 23.0,
+      "bounces" : 1.0,
+      "tackles" : 18.0,
+      "contestedPossessions" : 22.0,
+      "uncontestedPossessions" : 39.0,
+      "totalPossessions" : 61.0,
+      "inside50s" : 6.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 9.0,
+      "disposalEfficiency" : 60.7,
+      "clangers" : 12.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 5.0,
+      "dreamTeamPoints" : 327.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 41.7,
+      "ratingPoints" : 0.0,
+      "ranking" : 0.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

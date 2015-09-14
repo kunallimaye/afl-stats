@@ -1,0 +1,750 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I210011",
+    "position" : "Right Forward Pocket",
+    "surname" : "Sporn",
+    "jumperNumber" : 36,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Trent",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1982-09-23T02:00:00.000+0000",
+      "draftYear" : "2000",
+      "heightInCm" : 187,
+      "weightInKg" : 85,
+      "recruitedFrom" : "North Adelaide (SA)",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 8.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 325.0,
+      "handballs" : 175.0,
+      "disposals" : 500.0,
+      "marks" : 150.0,
+      "bounces" : 24.0,
+      "tackles" : 103.0,
+      "contestedPossessions" : 193.0,
+      "uncontestedPossessions" : 309.0,
+      "totalPossessions" : 502.0,
+      "inside50s" : 70.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 20.0,
+      "hitouts" : 9.0,
+      "onePercenters" : 119.0,
+      "disposalEfficiency" : 78.6,
+      "clangers" : 63.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 2207.0,
+      "clearances" : {
+        "centreClearances" : 17.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 43.0
+      },
+      "rebound50s" : 73.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 6.9,
+            "handballs" : 2.7,
+            "disposals" : 9.6,
+            "marks" : 3.7,
+            "bounces" : 0.6,
+            "tackles" : 2.1,
+            "contestedPossessions" : 2.6,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 9.6,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 46.7,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210011",
+            "playerName" : {
+              "givenName" : "Trent",
+              "surname" : "Sporn"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 62.0,
+            "handballs" : 24.0,
+            "disposals" : 86.0,
+            "marks" : 33.0,
+            "bounces" : 5.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 23.0,
+            "uncontestedPossessions" : 63.0,
+            "totalPossessions" : 86.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 76.7,
+            "clangers" : 10.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 420.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210011",
+            "playerName" : {
+              "givenName" : "Trent",
+              "surname" : "Sporn"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 57.4
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.6,
+            "handballs" : 2.6,
+            "disposals" : 8.3,
+            "marks" : 3.2,
+            "bounces" : 0.1,
+            "tackles" : 1.4,
+            "contestedPossessions" : 3.1,
+            "uncontestedPossessions" : 5.5,
+            "totalPossessions" : 8.6,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 35.9,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210011",
+            "playerName" : {
+              "givenName" : "Trent",
+              "surname" : "Sporn"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 62.0,
+            "handballs" : 29.0,
+            "disposals" : 91.0,
+            "marks" : 35.0,
+            "bounces" : 1.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 34.0,
+            "uncontestedPossessions" : 61.0,
+            "totalPossessions" : 95.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 81.3,
+            "clangers" : 17.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 395.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210011",
+            "playerName" : {
+              "givenName" : "Trent",
+              "surname" : "Sporn"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 76.7
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 4.1,
+            "disposals" : 11.1,
+            "marks" : 3.1,
+            "bounces" : 0.9,
+            "tackles" : 2.9,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 11.2,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.4,
+            "onePercenters" : 2.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 51.9,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210011",
+            "playerName" : {
+              "givenName" : "Trent",
+              "surname" : "Sporn"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 56.0,
+            "handballs" : 33.0,
+            "disposals" : 89.0,
+            "marks" : 25.0,
+            "bounces" : 7.0,
+            "tackles" : 23.0,
+            "contestedPossessions" : 42.0,
+            "uncontestedPossessions" : 48.0,
+            "totalPossessions" : 90.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 73.0,
+            "clangers" : 11.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 415.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210011",
+            "playerName" : {
+              "givenName" : "Trent",
+              "surname" : "Sporn"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 83.2
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.6,
+            "handballs" : 3.3,
+            "disposals" : 9.9,
+            "marks" : 1.7,
+            "bounces" : 0.5,
+            "tackles" : 2.4,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 5.1,
+            "totalPossessions" : 9.9,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.2,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 41.4,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210011",
+            "playerName" : {
+              "givenName" : "Trent",
+              "surname" : "Sporn"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 93.0,
+            "handballs" : 46.0,
+            "disposals" : 139.0,
+            "marks" : 24.0,
+            "bounces" : 7.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 66.0,
+            "uncontestedPossessions" : 72.0,
+            "totalPossessions" : 138.0,
+            "inside50s" : 23.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 77.0,
+            "clangers" : 18.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 579.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210011",
+            "playerName" : {
+              "givenName" : "Trent",
+              "surname" : "Sporn"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 90.8
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 5.4,
+            "disposals" : 11.9,
+            "marks" : 4.1,
+            "bounces" : 0.5,
+            "tackles" : 1.5,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 8.1,
+            "totalPossessions" : 11.6,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 0.9,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 49.7,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210011",
+            "playerName" : {
+              "givenName" : "Trent",
+              "surname" : "Sporn"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 52.0,
+            "handballs" : 43.0,
+            "disposals" : 95.0,
+            "marks" : 33.0,
+            "bounces" : 4.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 28.0,
+            "uncontestedPossessions" : 65.0,
+            "totalPossessions" : 93.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 85.3,
+            "clangers" : 7.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 398.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210011",
+            "playerName" : {
+              "givenName" : "Trent",
+              "surname" : "Sporn"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210011",
+            "playerName" : {
+              "givenName" : "Trent",
+              "surname" : "Sporn"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I210011",
+            "playerName" : {
+              "givenName" : "Trent",
+              "surname" : "Sporn"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T30",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 62.0,
+      "handballs" : 24.0,
+      "disposals" : 86.0,
+      "marks" : 33.0,
+      "bounces" : 5.0,
+      "tackles" : 19.0,
+      "contestedPossessions" : 23.0,
+      "uncontestedPossessions" : 63.0,
+      "totalPossessions" : 86.0,
+      "inside50s" : 14.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 1.0,
+      "onePercenters" : 16.0,
+      "disposalEfficiency" : 76.7,
+      "clangers" : 10.0,
+      "freesFor" : 4.0,
+      "freesAgainst" : 3.0,
+      "dreamTeamPoints" : 420.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 5.0,
+        "totalClearances" : 8.0
+      },
+      "rebound50s" : 5.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

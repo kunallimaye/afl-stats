@@ -1,0 +1,647 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960222",
+    "position" : "Ruck Rover",
+    "surname" : "Primus",
+    "jumperNumber" : 1,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Matthew",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1975-01-12T01:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 198,
+      "weightInKg" : 109,
+      "recruitedFrom" : "Grovedale/Geel Res/Norwood (SA)/Fitzroy",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 66.0,
+      "behinds" : 33.0,
+      "superGoals" : null,
+      "kicks" : 538.0,
+      "handballs" : 622.0,
+      "disposals" : 1160.0,
+      "marks" : 336.0,
+      "bounces" : 5.0,
+      "tackles" : 235.0,
+      "contestedPossessions" : 677.0,
+      "uncontestedPossessions" : 499.0,
+      "totalPossessions" : 1176.0,
+      "inside50s" : 143.0,
+      "marksInside50" : 65.0,
+      "contestedMarks" : 59.0,
+      "hitouts" : 1732.0,
+      "onePercenters" : 129.0,
+      "disposalEfficiency" : 80.3,
+      "clangers" : 283.0,
+      "freesFor" : 151.0,
+      "freesAgainst" : 182.0,
+      "dreamTeamPoints" : 6572.0,
+      "clearances" : {
+        "centreClearances" : 105.0,
+        "stoppageClearances" : 255.0,
+        "totalClearances" : 360.0
+      },
+      "rebound50s" : 80.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 62.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 4.8,
+            "handballs" : 4.8,
+            "disposals" : 9.7,
+            "marks" : 2.8,
+            "bounces" : 0.0,
+            "tackles" : 1.9,
+            "contestedPossessions" : 5.3,
+            "uncontestedPossessions" : 4.4,
+            "totalPossessions" : 9.7,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.3,
+            "hitouts" : 16.1,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.8,
+            "freesFor" : 2.1,
+            "freesAgainst" : 1.6,
+            "dreamTeamPoints" : 58.1,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 2.6
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960222",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Primus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 87.0,
+            "handballs" : 87.0,
+            "disposals" : 174.0,
+            "marks" : 50.0,
+            "bounces" : 0.0,
+            "tackles" : 35.0,
+            "contestedPossessions" : 96.0,
+            "uncontestedPossessions" : 79.0,
+            "totalPossessions" : 175.0,
+            "inside50s" : 26.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 289.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 70.1,
+            "clangers" : 51.0,
+            "freesFor" : 37.0,
+            "freesAgainst" : 29.0,
+            "dreamTeamPoints" : 1046.0,
+            "clearances" : {
+              "centreClearances" : 16.0,
+              "stoppageClearances" : 30.0,
+              "totalClearances" : 46.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960222",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Primus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 76.7
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 5.0,
+            "disposals" : 12.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 12.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 11.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 4.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 95.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960222",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Primus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 5.0,
+            "disposals" : 12.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 12.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 11.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 83.3,
+            "clangers" : 4.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 95.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 80.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960222",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Primus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 63.4
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 3.8,
+            "handballs" : 3.0,
+            "disposals" : 6.8,
+            "marks" : 2.4,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 3.3,
+            "uncontestedPossessions" : 3.2,
+            "totalPossessions" : 6.6,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.4,
+            "hitouts" : 12.3,
+            "onePercenters" : 0.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 0.9,
+            "freesAgainst" : 2.3,
+            "dreamTeamPoints" : 41.0,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960222",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Primus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 34.0,
+            "handballs" : 27.0,
+            "disposals" : 61.0,
+            "marks" : 22.0,
+            "bounces" : 0.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 30.0,
+            "uncontestedPossessions" : 29.0,
+            "totalPossessions" : 59.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 111.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 75.4,
+            "clangers" : 24.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 369.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 83.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960222",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Primus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 64.8
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 5.8,
+            "handballs" : 7.5,
+            "disposals" : 13.3,
+            "marks" : 3.8,
+            "bounces" : 0.1,
+            "tackles" : 3.1,
+            "contestedPossessions" : 7.5,
+            "uncontestedPossessions" : 6.2,
+            "totalPossessions" : 13.6,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.6,
+            "hitouts" : 20.4,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.9,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 80.1,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.1,
+              "totalClearances" : 4.1
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960222",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Primus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 23.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 140.0,
+            "handballs" : 180.0,
+            "disposals" : 320.0,
+            "marks" : 91.0,
+            "bounces" : 3.0,
+            "tackles" : 74.0,
+            "contestedPossessions" : 179.0,
+            "uncontestedPossessions" : 148.0,
+            "totalPossessions" : 327.0,
+            "inside50s" : 38.0,
+            "marksInside50" : 18.0,
+            "contestedMarks" : 14.0,
+            "hitouts" : 490.0,
+            "onePercenters" : 50.0,
+            "disposalEfficiency" : 83.7,
+            "clangers" : 53.0,
+            "freesFor" : 46.0,
+            "freesAgainst" : 36.0,
+            "dreamTeamPoints" : 1923.0,
+            "clearances" : {
+              "centreClearances" : 23.0,
+              "stoppageClearances" : 75.0,
+              "totalClearances" : 98.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 71.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960222",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Primus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.2,
+            "handballs" : 7.0,
+            "disposals" : 13.3,
+            "marks" : 3.9,
+            "bounces" : 0.0,
+            "tackles" : 2.7,
+            "contestedPossessions" : 8.4,
+            "uncontestedPossessions" : 5.1,
+            "totalPossessions" : 13.5,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.8,
+            "hitouts" : 22.2,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 3.1,
+            "freesFor" : 1.4,
+            "freesAgainst" : 2.4,
+            "dreamTeamPoints" : 74.3,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 3.1,
+              "totalClearances" : 4.3
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960222",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Primus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 137.0,
+            "handballs" : 155.0,
+            "disposals" : 292.0,
+            "marks" : 85.0,
+            "bounces" : 1.0,
+            "tackles" : 60.0,
+            "contestedPossessions" : 185.0,
+            "uncontestedPossessions" : 113.0,
+            "totalPossessions" : 298.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 18.0,
+            "hitouts" : 488.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 81.8,
+            "clangers" : 68.0,
+            "freesFor" : 31.0,
+            "freesAgainst" : 53.0,
+            "dreamTeamPoints" : 1635.0,
+            "clearances" : {
+              "centreClearances" : 26.0,
+              "stoppageClearances" : 68.0,
+              "totalClearances" : 94.0
+            },
+            "rebound50s" : 26.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 64.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960222",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Primus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T110",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 12.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 87.0,
+      "handballs" : 87.0,
+      "disposals" : 174.0,
+      "marks" : 50.0,
+      "bounces" : 0.0,
+      "tackles" : 35.0,
+      "contestedPossessions" : 96.0,
+      "uncontestedPossessions" : 79.0,
+      "totalPossessions" : 175.0,
+      "inside50s" : 26.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 289.0,
+      "onePercenters" : 24.0,
+      "disposalEfficiency" : 70.1,
+      "clangers" : 51.0,
+      "freesFor" : 37.0,
+      "freesAgainst" : 29.0,
+      "dreamTeamPoints" : 1046.0,
+      "clearances" : {
+        "centreClearances" : 16.0,
+        "stoppageClearances" : 30.0,
+        "totalClearances" : 46.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 42.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I290073",
+    "position" : "Forward",
+    "surname" : "Lloyd",
+    "jumperNumber" : 27,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.1,
+      "behinds" : 0.6,
+      "superGoals" : null,
+      "kicks" : 6.4,
+      "handballs" : 4.4,
+      "disposals" : 10.9,
+      "marks" : 3.2,
+      "bounces" : 0.2,
+      "tackles" : 2.4,
+      "contestedPossessions" : 4.5,
+      "uncontestedPossessions" : 6.3,
+      "totalPossessions" : 10.8,
+      "inside50s" : 2.2,
+      "marksInside50" : 0.9,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.5,
+      "disposalEfficiency" : null,
+      "clangers" : 1.4,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 54.4,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.4,
+        "totalClearances" : 0.6
+      },
+      "rebound50s" : 0.1,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Sam",
+    "bio" : "<p>A mature-age forward from the VFL, Lloyd kicked 38 goals in 17 games in his debut season with Frankston in 2013. He represented a combined VFL team against the WAFL and kicked four goals in one of his best performances for the season. Strong at ground level and in the air for his size, he is creative and reads the play well.</p>\n\n<p><b>Draft history</b>: 2013 NAB AFL Draft 4th round selection (Richmond) No. 66 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Richmond/Player Profiles/2015 - Profiles/LLOYD Sam.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1990-03-03T01:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 180,
+      "weightInKg" : 83,
+      "recruitedFrom" : "Deniliquin (NSW)/Geelong Grammar (Vic)/Frankston (VFL)",
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 23.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 129.0,
+      "handballs" : 89.0,
+      "disposals" : 218.0,
+      "marks" : 65.0,
+      "bounces" : 4.0,
+      "tackles" : 49.0,
+      "contestedPossessions" : 91.0,
+      "uncontestedPossessions" : 126.0,
+      "totalPossessions" : 217.0,
+      "inside50s" : 44.0,
+      "marksInside50" : 18.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 10.0,
+      "disposalEfficiency" : 68.8,
+      "clangers" : 29.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1089.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 9.0,
+        "totalClearances" : 12.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 56.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.1,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 5.9,
+            "handballs" : 4.3,
+            "disposals" : 10.2,
+            "marks" : 3.2,
+            "bounces" : 0.3,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 5.7,
+            "totalPossessions" : 10.5,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 48.7,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Lloyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 71.0,
+            "handballs" : 52.0,
+            "disposals" : 123.0,
+            "marks" : 38.0,
+            "bounces" : 4.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 57.0,
+            "uncontestedPossessions" : 69.0,
+            "totalPossessions" : 126.0,
+            "inside50s" : 28.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 71.5,
+            "clangers" : 17.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 585.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 56.5,
+            "ratingPoints" : 133.0,
+            "ranking" : 460.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Lloyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 57.1
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 4.6,
+            "disposals" : 11.9,
+            "marks" : 3.4,
+            "bounces" : 0.0,
+            "tackles" : 3.5,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 7.1,
+            "totalPossessions" : 11.4,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 63.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Lloyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 58.0,
+            "handballs" : 37.0,
+            "disposals" : 95.0,
+            "marks" : 27.0,
+            "bounces" : 0.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 34.0,
+            "uncontestedPossessions" : 57.0,
+            "totalPossessions" : 91.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 65.3,
+            "clangers" : 12.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 504.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 55.6,
+            "ratingPoints" : 51.5,
+            "ranking" : 581.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290073",
+            "playerName" : {
+              "givenName" : "Sam",
+              "surname" : "Lloyd"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 76.5
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 13.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 71.0,
+      "handballs" : 52.0,
+      "disposals" : 123.0,
+      "marks" : 38.0,
+      "bounces" : 4.0,
+      "tackles" : 21.0,
+      "contestedPossessions" : 57.0,
+      "uncontestedPossessions" : 69.0,
+      "totalPossessions" : 126.0,
+      "inside50s" : 28.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 4.0,
+      "disposalEfficiency" : 71.5,
+      "clangers" : 17.0,
+      "freesFor" : 8.0,
+      "freesAgainst" : 8.0,
+      "dreamTeamPoints" : 585.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 6.0,
+        "totalClearances" : 9.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 56.5,
+      "ratingPoints" : 133.0,
+      "ranking" : 460.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I290073",
+        "playerName" : {
+          "givenName" : "Sam",
+          "surname" : "Lloyd"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T120",
+        "teamAbbr" : "RICH",
+        "teamName" : "Richmond",
+        "teamNickname" : "Tigers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 133.0,
+        "ranking" : 460,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 133.0,
+        "ranking" : 26,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 133.0,
+        "ranking" : 63,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 81.5,
+        "ranking" : 398,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 20
+  }
+}

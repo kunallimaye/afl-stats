@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291802",
+    "position" : "Full Back",
+    "surname" : "Bugg",
+    "jumperNumber" : 14,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 7.6,
+      "handballs" : 8.1,
+      "disposals" : 15.7,
+      "marks" : 3.3,
+      "bounces" : 0.2,
+      "tackles" : 3.1,
+      "contestedPossessions" : 4.8,
+      "uncontestedPossessions" : 10.7,
+      "totalPossessions" : 15.6,
+      "inside50s" : 1.1,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.9,
+      "disposalEfficiency" : null,
+      "clangers" : 1.9,
+      "freesFor" : 1.2,
+      "freesAgainst" : 0.9,
+      "dreamTeamPoints" : 61.6,
+      "clearances" : {
+        "centreClearances" : 0.3,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.3
+      },
+      "rebound50s" : 1.8,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Tomas",
+    "bio" : "<p>Tomas Bugg was a pre-listed selection for the GIANTS in 2010, completing his schooling in Melbourne before relocating to western Sydney in late 2011. The former Caulfield Grammar student made his debut in Round 1, 2012 with the midfielder earning a NAB AFL Rising Star nomination later that season.<br /> &nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2015 - Profiles/BUGG Tomas.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-04-05T02:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 184,
+      "weightInKg" : 80,
+      "recruitedFrom" : "Gembrook (Vic)/Caulfield Grammar (Vic)/Gippsland U18",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 16.0,
+      "behinds" : 16.0,
+      "superGoals" : null,
+      "kicks" : 495.0,
+      "handballs" : 528.0,
+      "disposals" : 1023.0,
+      "marks" : 214.0,
+      "bounces" : 16.0,
+      "tackles" : 201.0,
+      "contestedPossessions" : 313.0,
+      "uncontestedPossessions" : 698.0,
+      "totalPossessions" : 1011.0,
+      "inside50s" : 70.0,
+      "marksInside50" : 15.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 121.0,
+      "disposalEfficiency" : 75.3,
+      "clangers" : 123.0,
+      "freesFor" : 79.0,
+      "freesAgainst" : 57.0,
+      "dreamTeamPoints" : 4007.0,
+      "clearances" : {
+        "centreClearances" : 18.0,
+        "stoppageClearances" : 66.0,
+        "totalClearances" : 84.0
+      },
+      "rebound50s" : 114.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 41.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 8.8,
+            "disposals" : 16.0,
+            "marks" : 2.9,
+            "bounces" : 0.2,
+            "tackles" : 2.7,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 11.4,
+            "totalPossessions" : 16.0,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 59.1,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291802",
+            "playerName" : {
+              "givenName" : "Tomas",
+              "surname" : "Bugg"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 115.0,
+            "handballs" : 141.0,
+            "disposals" : 256.0,
+            "marks" : 46.0,
+            "bounces" : 3.0,
+            "tackles" : 43.0,
+            "contestedPossessions" : 74.0,
+            "uncontestedPossessions" : 182.0,
+            "totalPossessions" : 256.0,
+            "inside50s" : 19.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 76.6,
+            "clangers" : 30.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 945.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 20.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : 189.6,
+            "ranking" : 376.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291802",
+            "playerName" : {
+              "givenName" : "Tomas",
+              "surname" : "Bugg"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 87.1
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 7.8,
+            "handballs" : 7.1,
+            "disposals" : 14.9,
+            "marks" : 3.3,
+            "bounces" : 0.2,
+            "tackles" : 3.7,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 10.1,
+            "totalPossessions" : 14.8,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 62.9,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291802",
+            "playerName" : {
+              "givenName" : "Tomas",
+              "surname" : "Bugg"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 133.0,
+            "handballs" : 121.0,
+            "disposals" : 254.0,
+            "marks" : 56.0,
+            "bounces" : 4.0,
+            "tackles" : 63.0,
+            "contestedPossessions" : 81.0,
+            "uncontestedPossessions" : 171.0,
+            "totalPossessions" : 252.0,
+            "inside50s" : 20.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 71.3,
+            "clangers" : 30.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1070.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 24.0,
+              "totalClearances" : 29.0
+            },
+            "rebound50s" : 28.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 36.4,
+            "ratingPoints" : 167.8,
+            "ranking" : 392.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291802",
+            "playerName" : {
+              "givenName" : "Tomas",
+              "surname" : "Bugg"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 82.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 6.9,
+            "handballs" : 7.1,
+            "disposals" : 14.0,
+            "marks" : 2.9,
+            "bounces" : 0.1,
+            "tackles" : 2.7,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 9.1,
+            "totalPossessions" : 13.9,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.4,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 54.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291802",
+            "playerName" : {
+              "givenName" : "Tomas",
+              "surname" : "Bugg"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 97.0,
+            "handballs" : 99.0,
+            "disposals" : 196.0,
+            "marks" : 40.0,
+            "bounces" : 1.0,
+            "tackles" : 38.0,
+            "contestedPossessions" : 66.0,
+            "uncontestedPossessions" : 128.0,
+            "totalPossessions" : 194.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 76.0,
+            "clangers" : 26.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 762.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 22.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 30.0,
+            "ratingPoints" : 181.5,
+            "ranking" : 379.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291802",
+            "playerName" : {
+              "givenName" : "Tomas",
+              "surname" : "Bugg"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 82.4
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.3,
+            "handballs" : 9.3,
+            "disposals" : 17.6,
+            "marks" : 4.0,
+            "bounces" : 0.4,
+            "tackles" : 3.2,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 12.1,
+            "totalPossessions" : 17.2,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 1.1,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 68.3,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291802",
+            "playerName" : {
+              "givenName" : "Tomas",
+              "surname" : "Bugg"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 150.0,
+            "handballs" : 167.0,
+            "disposals" : 317.0,
+            "marks" : 72.0,
+            "bounces" : 8.0,
+            "tackles" : 57.0,
+            "contestedPossessions" : 92.0,
+            "uncontestedPossessions" : 217.0,
+            "totalPossessions" : 309.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 42.0,
+            "disposalEfficiency" : 76.3,
+            "clangers" : 37.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 1230.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 16.0,
+              "totalClearances" : 20.0
+            },
+            "rebound50s" : 41.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 54.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291802",
+            "playerName" : {
+              "givenName" : "Tomas",
+              "surname" : "Bugg"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 85.5
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 3.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 115.0,
+      "handballs" : 141.0,
+      "disposals" : 256.0,
+      "marks" : 46.0,
+      "bounces" : 3.0,
+      "tackles" : 43.0,
+      "contestedPossessions" : 74.0,
+      "uncontestedPossessions" : 182.0,
+      "totalPossessions" : 256.0,
+      "inside50s" : 19.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 25.0,
+      "disposalEfficiency" : 76.6,
+      "clangers" : 30.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 945.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 13.0,
+        "totalClearances" : 20.0
+      },
+      "rebound50s" : 23.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 42.9,
+      "ratingPoints" : 189.6,
+      "ranking" : 376.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291802",
+        "playerName" : {
+          "givenName" : "Tomas",
+          "surname" : "Bugg"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 188.1,
+        "ranking" : 382,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 188.1,
+        "ranking" : 20,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 188.1,
+        "ranking" : 79,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 97.0,
+        "ranking" : 376,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 65
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I297406",
+    "position" : "Right Back Pocket",
+    "surname" : "Cutler",
+    "jumperNumber" : 26,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 8.9,
+      "handballs" : 5.6,
+      "disposals" : 14.5,
+      "marks" : 3.4,
+      "bounces" : 0.8,
+      "tackles" : 1.1,
+      "contestedPossessions" : 3.1,
+      "uncontestedPossessions" : 10.7,
+      "totalPossessions" : 13.8,
+      "inside50s" : 1.7,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.6,
+      "disposalEfficiency" : null,
+      "clangers" : 2.2,
+      "freesFor" : 0.1,
+      "freesAgainst" : 0.4,
+      "dreamTeamPoints" : 52.6,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.6,
+        "totalClearances" : 0.7
+      },
+      "rebound50s" : 2.7,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Tom",
+    "bio" : "<p>Cutler is a 190cm &nbsp;utility who has the capacity to play just about anywhere, but spent most of his junior years as a third tall defender. Known for his good game sense and intelligence, he generally makes smart decisions and is equipped with good skills by hand and foot.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2015 - Profiles/CUTLER Tom.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1995-02-20T01:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 190,
+      "weightInKg" : 85,
+      "recruitedFrom" : null,
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 3.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 161.0,
+      "handballs" : 100.0,
+      "disposals" : 261.0,
+      "marks" : 62.0,
+      "bounces" : 14.0,
+      "tackles" : 20.0,
+      "contestedPossessions" : 56.0,
+      "uncontestedPossessions" : 193.0,
+      "totalPossessions" : 249.0,
+      "inside50s" : 30.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 28.0,
+      "disposalEfficiency" : 74.3,
+      "clangers" : 39.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 8.0,
+      "dreamTeamPoints" : 946.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 11.0,
+        "totalClearances" : 12.0
+      },
+      "rebound50s" : 48.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 60.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.6,
+            "handballs" : 6.6,
+            "disposals" : 16.3,
+            "marks" : 3.5,
+            "bounces" : 0.3,
+            "tackles" : 1.3,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 11.5,
+            "totalPossessions" : 15.3,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.1,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 57.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 2.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I297406",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Cutler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 106.0,
+            "handballs" : 73.0,
+            "disposals" : 179.0,
+            "marks" : 38.0,
+            "bounces" : 3.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 41.0,
+            "uncontestedPossessions" : 127.0,
+            "totalPossessions" : 168.0,
+            "inside50s" : 23.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 73.7,
+            "clangers" : 26.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 631.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 32.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 87.6,
+            "ranking" : 513.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I297406",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Cutler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 74.4
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.9,
+            "handballs" : 3.9,
+            "disposals" : 11.7,
+            "marks" : 3.4,
+            "bounces" : 1.6,
+            "tackles" : 0.9,
+            "contestedPossessions" : 2.1,
+            "uncontestedPossessions" : 9.4,
+            "totalPossessions" : 11.6,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 45.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I297406",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Cutler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 55.0,
+            "handballs" : 27.0,
+            "disposals" : 82.0,
+            "marks" : 24.0,
+            "bounces" : 11.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 15.0,
+            "uncontestedPossessions" : 66.0,
+            "totalPossessions" : 81.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 75.6,
+            "clangers" : 13.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 315.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 27.7,
+            "ranking" : 632.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I297406",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Cutler"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 59.2
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 106.0,
+      "handballs" : 73.0,
+      "disposals" : 179.0,
+      "marks" : 38.0,
+      "bounces" : 3.0,
+      "tackles" : 14.0,
+      "contestedPossessions" : 41.0,
+      "uncontestedPossessions" : 127.0,
+      "totalPossessions" : 168.0,
+      "inside50s" : 23.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 20.0,
+      "disposalEfficiency" : 73.7,
+      "clangers" : 26.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 4.0,
+      "dreamTeamPoints" : 631.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 7.0,
+        "totalClearances" : 8.0
+      },
+      "rebound50s" : 32.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : 87.6,
+      "ranking" : 513.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I297406",
+        "playerName" : {
+          "givenName" : "Tom",
+          "surname" : "Cutler"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 90.0,
+        "ranking" : 514,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 90.0,
+        "ranking" : 30,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 90.0,
+        "ranking" : 104,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 62.3,
+        "ranking" : 443,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 18
+  }
+}

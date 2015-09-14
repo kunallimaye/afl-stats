@@ -1,0 +1,1300 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I230254",
+    "position" : "Left Wing",
+    "surname" : "Selwood",
+    "jumperNumber" : 37,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 9.6,
+      "handballs" : 8.7,
+      "disposals" : 18.2,
+      "marks" : 4.5,
+      "bounces" : 0.6,
+      "tackles" : 2.6,
+      "contestedPossessions" : 6.2,
+      "uncontestedPossessions" : 12.1,
+      "totalPossessions" : 18.3,
+      "inside50s" : 1.9,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.1,
+      "onePercenters" : 1.9,
+      "disposalEfficiency" : null,
+      "clangers" : 2.2,
+      "freesFor" : 1.7,
+      "freesAgainst" : 0.8,
+      "dreamTeamPoints" : 71.2,
+      "clearances" : {
+        "centreClearances" : 0.6,
+        "stoppageClearances" : 1.1,
+        "totalClearances" : 1.7
+      },
+      "rebound50s" : 1.8,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Adam",
+    "bio" : "<p>The respected senior Eagle made way for younger brother Scott to become the club’s No. 1 run-with player, but remained a consistent shutdown option, both in the midfield and in defence. Leadership and willingness to put his body on the line remain great assets.<b>&nbsp;&nbsp;&nbsp;</b></p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WestCoastEagles/Player Profiles/2012 - Profiles/selwood_adam_o.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1984-05-01T02:00:00.000+0000",
+      "draftYear" : "2002",
+      "heightInCm" : 189,
+      "weightInKg" : 83,
+      "recruitedFrom" : "Sandhurst/Bendigo U18",
+      "debutYear" : "2003"
+    },
+    "careerStats" : {
+      "goals" : 43.0,
+      "behinds" : 37.0,
+      "superGoals" : null,
+      "kicks" : 1788.0,
+      "handballs" : 1618.0,
+      "disposals" : 3406.0,
+      "marks" : 843.0,
+      "bounces" : 107.0,
+      "tackles" : 495.0,
+      "contestedPossessions" : 1160.0,
+      "uncontestedPossessions" : 2255.0,
+      "totalPossessions" : 3415.0,
+      "inside50s" : 352.0,
+      "marksInside50" : 31.0,
+      "contestedMarks" : 49.0,
+      "hitouts" : 23.0,
+      "onePercenters" : 353.0,
+      "disposalEfficiency" : 74.0,
+      "clangers" : 404.0,
+      "freesFor" : 319.0,
+      "freesAgainst" : 142.0,
+      "dreamTeamPoints" : 13320.0,
+      "clearances" : {
+        "centreClearances" : 119.0,
+        "stoppageClearances" : 204.0,
+        "totalClearances" : 323.0
+      },
+      "rebound50s" : 345.0,
+      "goalAssists" : 39.0,
+      "goalAccuracy" : 45.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.8,
+            "handballs" : 4.2,
+            "disposals" : 11.0,
+            "marks" : 2.3,
+            "bounces" : 0.0,
+            "tackles" : 1.4,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 6.1,
+            "totalPossessions" : 10.8,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 1.6,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 41.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 61.0,
+            "handballs" : 38.0,
+            "disposals" : 99.0,
+            "marks" : 21.0,
+            "bounces" : 0.0,
+            "tackles" : 13.0,
+            "contestedPossessions" : 42.0,
+            "uncontestedPossessions" : 55.0,
+            "totalPossessions" : 97.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 67.7,
+            "clangers" : 15.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 376.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 150.4,
+            "ranking" : 417.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 81.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.7,
+            "handballs" : 5.8,
+            "disposals" : 13.6,
+            "marks" : 3.5,
+            "bounces" : 0.0,
+            "tackles" : 2.1,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 8.4,
+            "totalPossessions" : 13.7,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.9,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 54.3,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 155.0,
+            "handballs" : 117.0,
+            "disposals" : 272.0,
+            "marks" : 70.0,
+            "bounces" : 0.0,
+            "tackles" : 42.0,
+            "contestedPossessions" : 105.0,
+            "uncontestedPossessions" : 169.0,
+            "totalPossessions" : 274.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 38.0,
+            "disposalEfficiency" : 72.1,
+            "clangers" : 48.0,
+            "freesFor" : 38.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1086.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 19.0
+            },
+            "rebound50s" : 41.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 80.0
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.8,
+            "handballs" : 7.4,
+            "disposals" : 17.2,
+            "marks" : 4.1,
+            "bounces" : 0.4,
+            "tackles" : 2.3,
+            "contestedPossessions" : 6.2,
+            "uncontestedPossessions" : 10.9,
+            "totalPossessions" : 17.1,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.7,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 65.7,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 245.0,
+            "handballs" : 184.0,
+            "disposals" : 429.0,
+            "marks" : 102.0,
+            "bounces" : 11.0,
+            "tackles" : 57.0,
+            "contestedPossessions" : 155.0,
+            "uncontestedPossessions" : 273.0,
+            "totalPossessions" : 428.0,
+            "inside50s" : 33.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 61.0,
+            "disposalEfficiency" : 71.3,
+            "clangers" : 60.0,
+            "freesFor" : 43.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1642.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 31.0,
+              "totalClearances" : 40.0
+            },
+            "rebound50s" : 50.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 88.7
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 11.2,
+            "handballs" : 12.5,
+            "disposals" : 23.7,
+            "marks" : 4.6,
+            "bounces" : 0.2,
+            "tackles" : 4.2,
+            "contestedPossessions" : 9.7,
+            "uncontestedPossessions" : 14.0,
+            "totalPossessions" : 23.7,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 2.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 92.1,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 2.1,
+              "totalClearances" : 3.6
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 179.0,
+            "handballs" : 200.0,
+            "disposals" : 379.0,
+            "marks" : 74.0,
+            "bounces" : 3.0,
+            "tackles" : 68.0,
+            "contestedPossessions" : 155.0,
+            "uncontestedPossessions" : 224.0,
+            "totalPossessions" : 379.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 68.6,
+            "clangers" : 38.0,
+            "freesFor" : 41.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1473.0,
+            "clearances" : {
+              "centreClearances" : 24.0,
+              "stoppageClearances" : 34.0,
+              "totalClearances" : 58.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 79.1
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 13.5,
+            "disposals" : 24.5,
+            "marks" : 4.0,
+            "bounces" : 0.5,
+            "tackles" : 3.6,
+            "contestedPossessions" : 9.7,
+            "uncontestedPossessions" : 15.0,
+            "totalPossessions" : 24.6,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.8,
+            "freesFor" : 2.1,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 88.0,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.5
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 231.0,
+            "handballs" : 284.0,
+            "disposals" : 515.0,
+            "marks" : 84.0,
+            "bounces" : 11.0,
+            "tackles" : 76.0,
+            "contestedPossessions" : 203.0,
+            "uncontestedPossessions" : 314.0,
+            "totalPossessions" : 517.0,
+            "inside50s" : 71.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 71.7,
+            "clangers" : 58.0,
+            "freesFor" : 44.0,
+            "freesAgainst" : 24.0,
+            "dreamTeamPoints" : 1847.0,
+            "clearances" : {
+              "centreClearances" : 31.0,
+              "stoppageClearances" : 43.0,
+              "totalClearances" : 74.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 44.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 82.7
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 10.5,
+            "handballs" : 7.4,
+            "disposals" : 17.8,
+            "marks" : 5.0,
+            "bounces" : 0.8,
+            "tackles" : 2.1,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 12.6,
+            "totalPossessions" : 18.1,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.7,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 71.7,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 230.0,
+            "handballs" : 162.0,
+            "disposals" : 392.0,
+            "marks" : 110.0,
+            "bounces" : 18.0,
+            "tackles" : 47.0,
+            "contestedPossessions" : 121.0,
+            "uncontestedPossessions" : 278.0,
+            "totalPossessions" : 399.0,
+            "inside50s" : 37.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 35.0,
+            "disposalEfficiency" : 71.4,
+            "clangers" : 49.0,
+            "freesFor" : 38.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1578.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 20.0,
+              "totalClearances" : 37.0
+            },
+            "rebound50s" : 43.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 43.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 86.0
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 11.3,
+            "disposals" : 20.3,
+            "marks" : 6.2,
+            "bounces" : 1.2,
+            "tackles" : 2.6,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 15.6,
+            "totalPossessions" : 20.5,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 79.1,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 208.0,
+            "handballs" : 259.0,
+            "disposals" : 467.0,
+            "marks" : 142.0,
+            "bounces" : 28.0,
+            "tackles" : 60.0,
+            "contestedPossessions" : 112.0,
+            "uncontestedPossessions" : 359.0,
+            "totalPossessions" : 471.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 50.0,
+            "disposalEfficiency" : 80.7,
+            "clangers" : 42.0,
+            "freesFor" : 35.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1820.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 18.0
+            },
+            "rebound50s" : 53.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 90.3
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 10.3,
+            "handballs" : 9.2,
+            "disposals" : 19.5,
+            "marks" : 5.7,
+            "bounces" : 1.0,
+            "tackles" : 2.8,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 13.8,
+            "totalPossessions" : 19.4,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.3,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 78.0,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 2.8,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 26.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 267.0,
+            "handballs" : 239.0,
+            "disposals" : 506.0,
+            "marks" : 147.0,
+            "bounces" : 25.0,
+            "tackles" : 72.0,
+            "contestedPossessions" : 144.0,
+            "uncontestedPossessions" : 360.0,
+            "totalPossessions" : 504.0,
+            "inside50s" : 49.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 61.0,
+            "disposalEfficiency" : 80.2,
+            "clangers" : 49.0,
+            "freesFor" : 35.0,
+            "freesAgainst" : 24.0,
+            "dreamTeamPoints" : 2027.0,
+            "clearances" : {
+              "centreClearances" : 14.0,
+              "stoppageClearances" : 19.0,
+              "totalClearances" : 33.0
+            },
+            "rebound50s" : 74.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 57.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 26.0,
+          "timeOnGroundPercentage" : 90.7
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.9,
+            "handballs" : 5.4,
+            "disposals" : 14.4,
+            "marks" : 3.9,
+            "bounces" : 0.5,
+            "tackles" : 2.5,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 9.1,
+            "totalPossessions" : 14.4,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 61.2,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 179.0,
+            "handballs" : 109.0,
+            "disposals" : 288.0,
+            "marks" : 78.0,
+            "bounces" : 11.0,
+            "tackles" : 50.0,
+            "contestedPossessions" : 105.0,
+            "uncontestedPossessions" : 183.0,
+            "totalPossessions" : 288.0,
+            "inside50s" : 47.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 74.7,
+            "clangers" : 36.0,
+            "freesFor" : 29.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1225.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 21.0,
+              "totalClearances" : 34.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 46.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 69.0
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 5.0,
+            "disposals" : 13.0,
+            "marks" : 3.7,
+            "bounces" : 0.0,
+            "tackles" : 2.3,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 13.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.3,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 57.7,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 24.0,
+            "handballs" : 15.0,
+            "disposals" : 39.0,
+            "marks" : 11.0,
+            "bounces" : 0.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 15.0,
+            "uncontestedPossessions" : 24.0,
+            "totalPossessions" : 39.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 71.8,
+            "clangers" : 6.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 173.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 63.2
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.5,
+            "handballs" : 5.5,
+            "disposals" : 10.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 1.5,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 9.5,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 36.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 11.0,
+            "disposals" : 20.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 16.0,
+            "totalPossessions" : 19.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 80.0,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 73.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230254",
+            "playerName" : {
+              "givenName" : "Adam",
+              "surname" : "Selwood"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 50.4
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 61.0,
+      "handballs" : 38.0,
+      "disposals" : 99.0,
+      "marks" : 21.0,
+      "bounces" : 0.0,
+      "tackles" : 13.0,
+      "contestedPossessions" : 42.0,
+      "uncontestedPossessions" : 55.0,
+      "totalPossessions" : 97.0,
+      "inside50s" : 13.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 19.0,
+      "disposalEfficiency" : 67.7,
+      "clangers" : 15.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 4.0,
+      "dreamTeamPoints" : 376.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 12.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 150.4,
+      "ranking" : 417.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201301427",
+      "player" : {
+        "playerId" : "CD_I230254",
+        "playerName" : {
+          "givenName" : "Adam",
+          "surname" : "Selwood"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T150",
+        "teamAbbr" : "WCE",
+        "teamName" : "West Coast Eagles",
+        "teamNickname" : "Eagles"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 132.0,
+        "ranking" : 445,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 132.0,
+        "ranking" : 29,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 132.0,
+        "ranking" : 143,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 187
+  }
+}

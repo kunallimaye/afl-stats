@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280933",
+    "position" : "Centre Half Back",
+    "surname" : "Roberton",
+    "jumperNumber" : 17,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 9.9,
+      "handballs" : 5.5,
+      "disposals" : 15.4,
+      "marks" : 4.4,
+      "bounces" : 1.2,
+      "tackles" : 2.1,
+      "contestedPossessions" : 4.5,
+      "uncontestedPossessions" : 10.2,
+      "totalPossessions" : 14.7,
+      "inside50s" : 1.5,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.1,
+      "onePercenters" : 2.0,
+      "disposalEfficiency" : null,
+      "clangers" : 1.7,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 62.0,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.4,
+        "totalClearances" : 0.5
+      },
+      "rebound50s" : 2.8,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Dylan",
+    "bio" : "<p>A composed rebounding defender, Roberton arrived at St Kilda as a delisted free agent from Fremantle in November 2012.</p>\n\n<p>After 37 games across three seasons with the Dockers, Roberton played a further 20 in 2013, becoming one of St Kilda’s most pivotal defenders.</p>\n\n<p>He topped the club’s rebound 50s but also held down a key defensive post for much of the year when the likes of Fisher, Gilbert and Gwilt were injured.</p>\n\n<p>With Luke Delaney and Josh Bruce arriving at St Kilda in the summer, Roberton is likely to be released further afield in 2014 with his ability to read the play one of his prime assets.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/StKilda/Player Profiles/2015 - Profiles/ROBERTON Dylan.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-06-21T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 194,
+      "weightInKg" : 88,
+      "recruitedFrom" : "Frankston YCW/Dandenong U18",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 11.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 830.0,
+      "handballs" : 463.0,
+      "disposals" : 1293.0,
+      "marks" : 369.0,
+      "bounces" : 103.0,
+      "tackles" : 180.0,
+      "contestedPossessions" : 380.0,
+      "uncontestedPossessions" : 855.0,
+      "totalPossessions" : 1235.0,
+      "inside50s" : 129.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 26.0,
+      "hitouts" : 11.0,
+      "onePercenters" : 169.0,
+      "disposalEfficiency" : 76.3,
+      "clangers" : 143.0,
+      "freesFor" : 53.0,
+      "freesAgainst" : 57.0,
+      "dreamTeamPoints" : 5210.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 35.0,
+        "totalClearances" : 45.0
+      },
+      "rebound50s" : 234.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 52.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 13.9,
+            "handballs" : 6.8,
+            "disposals" : 20.7,
+            "marks" : 5.9,
+            "bounces" : 1.1,
+            "tackles" : 2.5,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 13.8,
+            "totalPossessions" : 19.0,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 82.8,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 4.1,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280933",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Roberton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 278.0,
+            "handballs" : 136.0,
+            "disposals" : 414.0,
+            "marks" : 119.0,
+            "bounces" : 23.0,
+            "tackles" : 50.0,
+            "contestedPossessions" : 104.0,
+            "uncontestedPossessions" : 276.0,
+            "totalPossessions" : 380.0,
+            "inside50s" : 36.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 35.0,
+            "disposalEfficiency" : 80.2,
+            "clangers" : 41.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 1657.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 83.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 57.1,
+            "ratingPoints" : 228.5,
+            "ranking" : 326.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280933",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Roberton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 84.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.6,
+            "handballs" : 5.1,
+            "disposals" : 12.7,
+            "marks" : 4.3,
+            "bounces" : 0.9,
+            "tackles" : 2.0,
+            "contestedPossessions" : 2.9,
+            "uncontestedPossessions" : 9.9,
+            "totalPossessions" : 12.7,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 51.6,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280933",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Roberton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 53.0,
+            "handballs" : 36.0,
+            "disposals" : 89.0,
+            "marks" : 30.0,
+            "bounces" : 6.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 20.0,
+            "uncontestedPossessions" : 69.0,
+            "totalPossessions" : 89.0,
+            "inside50s" : 11.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 73.0,
+            "clangers" : 13.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 361.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 199.6,
+            "ranking" : 358.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280933",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Roberton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 79.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.3,
+            "handballs" : 6.7,
+            "disposals" : 17.0,
+            "marks" : 4.7,
+            "bounces" : 2.2,
+            "tackles" : 1.9,
+            "contestedPossessions" : 5.3,
+            "uncontestedPossessions" : 10.6,
+            "totalPossessions" : 15.9,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 66.1,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 3.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280933",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Roberton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 206.0,
+            "handballs" : 134.0,
+            "disposals" : 340.0,
+            "marks" : 94.0,
+            "bounces" : 44.0,
+            "tackles" : 38.0,
+            "contestedPossessions" : 106.0,
+            "uncontestedPossessions" : 212.0,
+            "totalPossessions" : 318.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 57.0,
+            "disposalEfficiency" : 74.7,
+            "clangers" : 35.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 1323.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 78.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 239.6,
+            "ranking" : 313.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280933",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Roberton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 84.2
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 3.6,
+            "disposals" : 10.6,
+            "marks" : 2.9,
+            "bounces" : 0.2,
+            "tackles" : 1.8,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 5.8,
+            "totalPossessions" : 10.8,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 44.0,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280933",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Roberton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 70.0,
+            "handballs" : 36.0,
+            "disposals" : 106.0,
+            "marks" : 29.0,
+            "bounces" : 2.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 50.0,
+            "uncontestedPossessions" : 58.0,
+            "totalPossessions" : 108.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 79.2,
+            "clangers" : 12.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 440.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280933",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Roberton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 74.1
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 7.4,
+            "handballs" : 3.9,
+            "disposals" : 11.2,
+            "marks" : 2.9,
+            "bounces" : 0.4,
+            "tackles" : 1.9,
+            "contestedPossessions" : 3.4,
+            "uncontestedPossessions" : 7.9,
+            "totalPossessions" : 11.3,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 44.8,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280933",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Roberton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 103.0,
+            "handballs" : 54.0,
+            "disposals" : 157.0,
+            "marks" : 40.0,
+            "bounces" : 5.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 48.0,
+            "uncontestedPossessions" : 110.0,
+            "totalPossessions" : 158.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 68.8,
+            "clangers" : 26.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 627.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 26.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280933",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Roberton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 64.9
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 9.2,
+            "handballs" : 5.2,
+            "disposals" : 14.4,
+            "marks" : 4.4,
+            "bounces" : 1.8,
+            "tackles" : 2.6,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 14.1,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 61.7,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280933",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Roberton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 120.0,
+            "handballs" : 67.0,
+            "disposals" : 187.0,
+            "marks" : 57.0,
+            "bounces" : 23.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 53.0,
+            "uncontestedPossessions" : 130.0,
+            "totalPossessions" : 183.0,
+            "inside50s" : 27.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 74.9,
+            "clangers" : 16.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 802.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280933",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Roberton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 69.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 4.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 278.0,
+      "handballs" : 136.0,
+      "disposals" : 414.0,
+      "marks" : 119.0,
+      "bounces" : 23.0,
+      "tackles" : 50.0,
+      "contestedPossessions" : 104.0,
+      "uncontestedPossessions" : 276.0,
+      "totalPossessions" : 380.0,
+      "inside50s" : 36.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 4.0,
+      "onePercenters" : 35.0,
+      "disposalEfficiency" : 80.2,
+      "clangers" : 41.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1657.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 9.0,
+        "totalClearances" : 11.0
+      },
+      "rebound50s" : 83.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 57.1,
+      "ratingPoints" : 228.5,
+      "ranking" : 326.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280933",
+        "playerName" : {
+          "givenName" : "Dylan",
+          "surname" : "Roberton"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T130",
+        "teamAbbr" : "STK",
+        "teamName" : "St Kilda",
+        "teamNickname" : "Saints"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 228.3,
+        "ranking" : 328,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 228.3,
+        "ranking" : 16,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 228.3,
+        "ranking" : 64,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 199.9,
+        "ranking" : 151,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 84
+  }
+}

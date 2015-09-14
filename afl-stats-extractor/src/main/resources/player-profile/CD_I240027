@@ -1,0 +1,1413 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I240027",
+    "position" : "Right Wing",
+    "surname" : "Stanton",
+    "jumperNumber" : 5,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.5,
+      "superGoals" : null,
+      "kicks" : 15.1,
+      "handballs" : 7.7,
+      "disposals" : 22.8,
+      "marks" : 5.8,
+      "bounces" : 1.1,
+      "tackles" : 3.4,
+      "contestedPossessions" : 6.2,
+      "uncontestedPossessions" : 16.5,
+      "totalPossessions" : 22.7,
+      "inside50s" : 4.1,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.4,
+      "disposalEfficiency" : null,
+      "clangers" : 2.5,
+      "freesFor" : 1.0,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 94.8,
+      "clearances" : {
+        "centreClearances" : 0.9,
+        "stoppageClearances" : 1.3,
+        "totalClearances" : 2.2
+      },
+      "rebound50s" : 2.5,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Brent",
+    "bio" : "<p>The senior midfielder played every game last season and enjoyed another consistent year. It was probably without the same number of dominant games as recent times, but Stanton again placed in<br>\nthe top 10 at the best and fairest. He led the Bombers for kicks, was second for marks and was in the top five for handballs, tackles and inside-50 entries.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Essendon/Player Profiles/2015 - Profiles/STANTON Brent.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1986-05-01T02:00:00.000+0000",
+      "draftYear" : "2003",
+      "heightInCm" : 182,
+      "weightInKg" : 84,
+      "recruitedFrom" : "Banyule/Northern U18",
+      "debutYear" : "2004"
+    },
+    "careerStats" : {
+      "goals" : 156.0,
+      "behinds" : 125.0,
+      "superGoals" : null,
+      "kicks" : 3742.0,
+      "handballs" : 1902.0,
+      "disposals" : 5644.0,
+      "marks" : 1449.0,
+      "bounces" : 284.0,
+      "tackles" : 833.0,
+      "contestedPossessions" : 1534.0,
+      "uncontestedPossessions" : 4095.0,
+      "totalPossessions" : 5629.0,
+      "inside50s" : 1011.0,
+      "marksInside50" : 127.0,
+      "contestedMarks" : 58.0,
+      "hitouts" : 8.0,
+      "onePercenters" : 342.0,
+      "disposalEfficiency" : 73.0,
+      "clangers" : 623.0,
+      "freesFor" : 249.0,
+      "freesAgainst" : 173.0,
+      "dreamTeamPoints" : 23508.0,
+      "clearances" : {
+        "centreClearances" : 232.0,
+        "stoppageClearances" : 325.0,
+        "totalClearances" : 557.0
+      },
+      "rebound50s" : 609.0,
+      "goalAssists" : 115.0,
+      "goalAccuracy" : 45.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 17.3,
+            "handballs" : 9.0,
+            "disposals" : 26.2,
+            "marks" : 6.2,
+            "bounces" : 0.4,
+            "tackles" : 4.3,
+            "contestedPossessions" : 6.6,
+            "uncontestedPossessions" : 19.2,
+            "totalPossessions" : 25.8,
+            "inside50s" : 3.9,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 106.8,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.5
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 380.0,
+            "handballs" : 197.0,
+            "disposals" : 577.0,
+            "marks" : 137.0,
+            "bounces" : 9.0,
+            "tackles" : 94.0,
+            "contestedPossessions" : 145.0,
+            "uncontestedPossessions" : 423.0,
+            "totalPossessions" : 568.0,
+            "inside50s" : 86.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 73.7,
+            "clangers" : 59.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 2350.0,
+            "clearances" : {
+              "centreClearances" : 11.0,
+              "stoppageClearances" : 44.0,
+              "totalClearances" : 55.0
+            },
+            "rebound50s" : 65.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : 373.1,
+            "ranking" : 127.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 87.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 15.1,
+            "handballs" : 8.1,
+            "disposals" : 23.2,
+            "marks" : 6.0,
+            "bounces" : 0.3,
+            "tackles" : 3.7,
+            "contestedPossessions" : 5.9,
+            "uncontestedPossessions" : 17.0,
+            "totalPossessions" : 22.9,
+            "inside50s" : 3.3,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 99.0,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 13.0,
+            "superGoals" : null,
+            "kicks" : 347.0,
+            "handballs" : 187.0,
+            "disposals" : 534.0,
+            "marks" : 139.0,
+            "bounces" : 7.0,
+            "tackles" : 86.0,
+            "contestedPossessions" : 135.0,
+            "uncontestedPossessions" : 391.0,
+            "totalPossessions" : 526.0,
+            "inside50s" : 75.0,
+            "marksInside50" : 15.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 73.2,
+            "clangers" : 46.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 2278.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 25.0,
+              "totalClearances" : 35.0
+            },
+            "rebound50s" : 40.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 41.5,
+            "ratingPoints" : 373.4,
+            "ranking" : 129.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 84.3
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 17.2,
+            "handballs" : 7.7,
+            "disposals" : 25.0,
+            "marks" : 5.3,
+            "bounces" : 0.8,
+            "tackles" : 3.9,
+            "contestedPossessions" : 7.1,
+            "uncontestedPossessions" : 17.9,
+            "totalPossessions" : 25.0,
+            "inside50s" : 5.3,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 1.3,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 103.4,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 2.7
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 362.0,
+            "handballs" : 162.0,
+            "disposals" : 524.0,
+            "marks" : 112.0,
+            "bounces" : 16.0,
+            "tackles" : 81.0,
+            "contestedPossessions" : 150.0,
+            "uncontestedPossessions" : 376.0,
+            "totalPossessions" : 526.0,
+            "inside50s" : 111.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 70.8,
+            "clangers" : 53.0,
+            "freesFor" : 27.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 2171.0,
+            "clearances" : {
+              "centreClearances" : 22.0,
+              "stoppageClearances" : 35.0,
+              "totalClearances" : 57.0
+            },
+            "rebound50s" : 34.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 45.2,
+            "ratingPoints" : 405.3,
+            "ranking" : 84.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 83.4
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 17.9,
+            "handballs" : 6.8,
+            "disposals" : 24.8,
+            "marks" : 6.4,
+            "bounces" : 0.7,
+            "tackles" : 4.3,
+            "contestedPossessions" : 8.0,
+            "uncontestedPossessions" : 16.8,
+            "totalPossessions" : 24.8,
+            "inside50s" : 4.7,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 1.5,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 106.5,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.2
+            },
+            "rebound50s" : 2.8,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 359.0,
+            "handballs" : 137.0,
+            "disposals" : 496.0,
+            "marks" : 129.0,
+            "bounces" : 14.0,
+            "tackles" : 86.0,
+            "contestedPossessions" : 161.0,
+            "uncontestedPossessions" : 336.0,
+            "totalPossessions" : 497.0,
+            "inside50s" : 94.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 33.0,
+            "disposalEfficiency" : 73.0,
+            "clangers" : 51.0,
+            "freesFor" : 31.0,
+            "freesAgainst" : 24.0,
+            "dreamTeamPoints" : 2130.0,
+            "clearances" : {
+              "centreClearances" : 25.0,
+              "stoppageClearances" : 40.0,
+              "totalClearances" : 65.0
+            },
+            "rebound50s" : 56.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 41.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 85.8
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 16.3,
+            "handballs" : 8.5,
+            "disposals" : 24.8,
+            "marks" : 5.1,
+            "bounces" : 0.7,
+            "tackles" : 5.5,
+            "contestedPossessions" : 9.1,
+            "uncontestedPossessions" : 16.3,
+            "totalPossessions" : 25.4,
+            "inside50s" : 3.9,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.8,
+            "freesFor" : 1.4,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 107.0,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 2.2,
+              "totalClearances" : 3.6
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 343.0,
+            "handballs" : 178.0,
+            "disposals" : 521.0,
+            "marks" : 107.0,
+            "bounces" : 15.0,
+            "tackles" : 116.0,
+            "contestedPossessions" : 191.0,
+            "uncontestedPossessions" : 343.0,
+            "totalPossessions" : 534.0,
+            "inside50s" : 81.0,
+            "marksInside50" : 15.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 35.0,
+            "disposalEfficiency" : 72.0,
+            "clangers" : 59.0,
+            "freesFor" : 29.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 2247.0,
+            "clearances" : {
+              "centreClearances" : 29.0,
+              "stoppageClearances" : 47.0,
+              "totalClearances" : 76.0
+            },
+            "rebound50s" : 53.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 48.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 80.4
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 14.2,
+            "handballs" : 9.6,
+            "disposals" : 23.8,
+            "marks" : 6.1,
+            "bounces" : 1.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 6.6,
+            "uncontestedPossessions" : 17.0,
+            "totalPossessions" : 23.6,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 99.5,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 285.0,
+            "handballs" : 192.0,
+            "disposals" : 477.0,
+            "marks" : 122.0,
+            "bounces" : 20.0,
+            "tackles" : 81.0,
+            "contestedPossessions" : 132.0,
+            "uncontestedPossessions" : 341.0,
+            "totalPossessions" : 473.0,
+            "inside50s" : 64.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 73.0,
+            "clangers" : 53.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 1990.0,
+            "clearances" : {
+              "centreClearances" : 15.0,
+              "stoppageClearances" : 21.0,
+              "totalClearances" : 36.0
+            },
+            "rebound50s" : 61.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 54.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 81.8
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 14.3,
+            "handballs" : 10.6,
+            "disposals" : 24.9,
+            "marks" : 6.0,
+            "bounces" : 2.0,
+            "tackles" : 3.8,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 19.4,
+            "totalPossessions" : 25.1,
+            "inside50s" : 4.1,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 100.2,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.3
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 13.0,
+            "superGoals" : null,
+            "kicks" : 329.0,
+            "handballs" : 243.0,
+            "disposals" : 572.0,
+            "marks" : 138.0,
+            "bounces" : 47.0,
+            "tackles" : 87.0,
+            "contestedPossessions" : 131.0,
+            "uncontestedPossessions" : 447.0,
+            "totalPossessions" : 578.0,
+            "inside50s" : 95.0,
+            "marksInside50" : 16.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 32.0,
+            "disposalEfficiency" : 73.3,
+            "clangers" : 58.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 2304.0,
+            "clearances" : {
+              "centreClearances" : 21.0,
+              "stoppageClearances" : 33.0,
+              "totalClearances" : 54.0
+            },
+            "rebound50s" : 62.0,
+            "goalAssists" : 14.0,
+            "goalAccuracy" : 41.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 81.6
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 14.6,
+            "handballs" : 7.5,
+            "disposals" : 22.1,
+            "marks" : 5.5,
+            "bounces" : 2.9,
+            "tackles" : 3.3,
+            "contestedPossessions" : 6.2,
+            "uncontestedPossessions" : 15.9,
+            "totalPossessions" : 22.1,
+            "inside50s" : 4.3,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 1.6,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 93.1,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 2.5
+            },
+            "rebound50s" : 3.1,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 18.0,
+            "behinds" : 13.0,
+            "superGoals" : null,
+            "kicks" : 321.0,
+            "handballs" : 165.0,
+            "disposals" : 486.0,
+            "marks" : 122.0,
+            "bounces" : 63.0,
+            "tackles" : 72.0,
+            "contestedPossessions" : 137.0,
+            "uncontestedPossessions" : 350.0,
+            "totalPossessions" : 487.0,
+            "inside50s" : 95.0,
+            "marksInside50" : 17.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 69.5,
+            "clangers" : 65.0,
+            "freesFor" : 35.0,
+            "freesAgainst" : 18.0,
+            "dreamTeamPoints" : 2049.0,
+            "clearances" : {
+              "centreClearances" : 27.0,
+              "stoppageClearances" : 28.0,
+              "totalClearances" : 55.0
+            },
+            "rebound50s" : 69.0,
+            "goalAssists" : 16.0,
+            "goalAccuracy" : 51.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 85.4
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 16.1,
+            "handballs" : 7.3,
+            "disposals" : 23.4,
+            "marks" : 6.9,
+            "bounces" : 1.6,
+            "tackles" : 1.5,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 17.6,
+            "totalPossessions" : 23.3,
+            "inside50s" : 4.1,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 92.4,
+            "clearances" : {
+              "centreClearances" : 1.5,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 3.3,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 322.0,
+            "handballs" : 147.0,
+            "disposals" : 469.0,
+            "marks" : 139.0,
+            "bounces" : 32.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 113.0,
+            "uncontestedPossessions" : 353.0,
+            "totalPossessions" : 466.0,
+            "inside50s" : 83.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 78.7,
+            "clangers" : 45.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1849.0,
+            "clearances" : {
+              "centreClearances" : 30.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 45.0
+            },
+            "rebound50s" : 66.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 77.1
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 15.1,
+            "handballs" : 7.0,
+            "disposals" : 22.0,
+            "marks" : 6.1,
+            "bounces" : 1.3,
+            "tackles" : 1.9,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 16.6,
+            "totalPossessions" : 21.7,
+            "inside50s" : 4.7,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 88.1,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 18.0,
+            "superGoals" : null,
+            "kicks" : 332.0,
+            "handballs" : 153.0,
+            "disposals" : 485.0,
+            "marks" : 134.0,
+            "bounces" : 29.0,
+            "tackles" : 41.0,
+            "contestedPossessions" : 112.0,
+            "uncontestedPossessions" : 365.0,
+            "totalPossessions" : 477.0,
+            "inside50s" : 103.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 73.0,
+            "clangers" : 51.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1938.0,
+            "clearances" : {
+              "centreClearances" : 19.0,
+              "stoppageClearances" : 20.0,
+              "totalClearances" : 39.0
+            },
+            "rebound50s" : 52.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 36.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 88.2
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 13.3,
+            "handballs" : 5.3,
+            "disposals" : 18.5,
+            "marks" : 6.5,
+            "bounces" : 1.2,
+            "tackles" : 2.1,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 13.6,
+            "totalPossessions" : 18.5,
+            "inside50s" : 4.2,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 3.1,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 81.0,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 252.0,
+            "handballs" : 100.0,
+            "disposals" : 352.0,
+            "marks" : 123.0,
+            "bounces" : 22.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 92.0,
+            "uncontestedPossessions" : 259.0,
+            "totalPossessions" : 351.0,
+            "inside50s" : 80.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 75.3,
+            "clangers" : 58.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1539.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 25.0
+            },
+            "rebound50s" : 42.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 48.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 77.5
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 7.3,
+            "handballs" : 2.7,
+            "disposals" : 10.1,
+            "marks" : 3.1,
+            "bounces" : 0.7,
+            "tackles" : 1.3,
+            "contestedPossessions" : 2.7,
+            "uncontestedPossessions" : 7.4,
+            "totalPossessions" : 10.1,
+            "inside50s" : 2.9,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 44.2,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 110.0,
+            "handballs" : 41.0,
+            "disposals" : 151.0,
+            "marks" : 47.0,
+            "bounces" : 10.0,
+            "tackles" : 20.0,
+            "contestedPossessions" : 40.0,
+            "uncontestedPossessions" : 111.0,
+            "totalPossessions" : 151.0,
+            "inside50s" : 44.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 68.9,
+            "clangers" : 25.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 663.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240027",
+            "playerName" : {
+              "givenName" : "Brent",
+              "surname" : "Stanton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 61.1
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 9.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 380.0,
+      "handballs" : 197.0,
+      "disposals" : 577.0,
+      "marks" : 137.0,
+      "bounces" : 9.0,
+      "tackles" : 94.0,
+      "contestedPossessions" : 145.0,
+      "uncontestedPossessions" : 423.0,
+      "totalPossessions" : 568.0,
+      "inside50s" : 86.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 2.0,
+      "onePercenters" : 23.0,
+      "disposalEfficiency" : 73.7,
+      "clangers" : 59.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 2350.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 44.0,
+        "totalClearances" : 55.0
+      },
+      "rebound50s" : 65.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 42.9,
+      "ratingPoints" : 373.1,
+      "ranking" : 127.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I240027",
+        "playerName" : {
+          "givenName" : "Brent",
+          "surname" : "Stanton"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T50",
+        "teamAbbr" : "ESS",
+        "teamName" : "Essendon",
+        "teamNickname" : "Bombers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 379.4,
+        "ranking" : 119,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 379.4,
+        "ranking" : 5,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 379.4,
+        "ranking" : 59,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 246.0,
+        "ranking" : 75,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2003"
+    },
+    "careerGamesPlayed" : 248
+  }
+}

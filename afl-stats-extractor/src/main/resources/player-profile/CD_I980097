@@ -1,0 +1,544 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I980097",
+    "position" : "Left Forward Pocket",
+    "surname" : "Marsh",
+    "jumperNumber" : 15,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Ben",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1976-07-09T02:00:00.000+0000",
+      "draftYear" : "",
+      "heightInCm" : 201,
+      "weightInKg" : 102,
+      "recruitedFrom" : "West Adelaide (SA)/Adelaide",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 14.0,
+      "behinds" : 15.0,
+      "superGoals" : null,
+      "kicks" : 167.0,
+      "handballs" : 134.0,
+      "disposals" : 301.0,
+      "marks" : 102.0,
+      "bounces" : 2.0,
+      "tackles" : 38.0,
+      "contestedPossessions" : 156.0,
+      "uncontestedPossessions" : 140.0,
+      "totalPossessions" : 296.0,
+      "inside50s" : 59.0,
+      "marksInside50" : 21.0,
+      "contestedMarks" : 27.0,
+      "hitouts" : 445.0,
+      "onePercenters" : 51.0,
+      "disposalEfficiency" : 77.4,
+      "clangers" : 60.0,
+      "freesFor" : 24.0,
+      "freesAgainst" : 36.0,
+      "dreamTeamPoints" : 1687.0,
+      "clearances" : {
+        "centreClearances" : 22.0,
+        "stoppageClearances" : 32.0,
+        "totalClearances" : 54.0
+      },
+      "rebound50s" : 23.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 48.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.7,
+            "handballs" : 3.4,
+            "disposals" : 6.1,
+            "marks" : 2.3,
+            "bounces" : 0.0,
+            "tackles" : 0.7,
+            "contestedPossessions" : 3.1,
+            "uncontestedPossessions" : 2.9,
+            "totalPossessions" : 6.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.6,
+            "hitouts" : 10.4,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 34.3,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980097",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Marsh"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 19.0,
+            "handballs" : 24.0,
+            "disposals" : 43.0,
+            "marks" : 16.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 22.0,
+            "uncontestedPossessions" : 20.0,
+            "totalPossessions" : 42.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 73.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 72.1,
+            "clangers" : 11.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 240.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 12.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980097",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Marsh"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 39.8
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 1.0,
+            "handballs" : 0.0,
+            "disposals" : 1.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 1.0,
+            "totalPossessions" : 1.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.0,
+            "hitouts" : 7.5,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 11.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980097",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Marsh"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 2.0,
+            "handballs" : 0.0,
+            "disposals" : 2.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 2.0,
+            "totalPossessions" : 2.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 15.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 50.0,
+            "clangers" : 2.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 22.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980097",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Marsh"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 31.7
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.3,
+            "handballs" : 2.3,
+            "disposals" : 5.7,
+            "marks" : 1.5,
+            "bounces" : 0.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 3.2,
+            "uncontestedPossessions" : 3.0,
+            "totalPossessions" : 6.2,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 8.3,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 29.8,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980097",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Marsh"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 20.0,
+            "handballs" : 14.0,
+            "disposals" : 34.0,
+            "marks" : 9.0,
+            "bounces" : 0.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 19.0,
+            "uncontestedPossessions" : 18.0,
+            "totalPossessions" : 37.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 50.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 85.3,
+            "clangers" : 9.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 179.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980097",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Marsh"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 4.3,
+            "handballs" : 3.2,
+            "disposals" : 7.6,
+            "marks" : 2.2,
+            "bounces" : 0.1,
+            "tackles" : 0.9,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 3.3,
+            "totalPossessions" : 7.3,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.6,
+            "hitouts" : 10.4,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 40.8,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980097",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Marsh"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 78.0,
+            "handballs" : 58.0,
+            "disposals" : 136.0,
+            "marks" : 40.0,
+            "bounces" : 1.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 71.0,
+            "uncontestedPossessions" : 60.0,
+            "totalPossessions" : 131.0,
+            "inside50s" : 21.0,
+            "marksInside50" : 12.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 187.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 73.5,
+            "clangers" : 30.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 735.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 21.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980097",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Marsh"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 19.0,
+      "handballs" : 24.0,
+      "disposals" : 43.0,
+      "marks" : 16.0,
+      "bounces" : 0.0,
+      "tackles" : 5.0,
+      "contestedPossessions" : 22.0,
+      "uncontestedPossessions" : 20.0,
+      "totalPossessions" : 42.0,
+      "inside50s" : 7.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 73.0,
+      "onePercenters" : 12.0,
+      "disposalEfficiency" : 72.1,
+      "clangers" : 11.0,
+      "freesFor" : 6.0,
+      "freesAgainst" : 6.0,
+      "dreamTeamPoints" : 240.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 7.0,
+        "totalClearances" : 12.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 100.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

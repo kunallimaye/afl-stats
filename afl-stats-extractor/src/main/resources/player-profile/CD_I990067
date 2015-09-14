@@ -1,0 +1,956 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I990067",
+    "position" : "Interchange",
+    "surname" : "Street",
+    "jumperNumber" : 11,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Peter",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1980-06-06T02:00:00.000+0000",
+      "draftYear" : "1998",
+      "heightInCm" : 211,
+      "weightInKg" : 105,
+      "recruitedFrom" : "Glenorchy/Tas U18/Geelong",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 16.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 220.0,
+      "handballs" : 266.0,
+      "disposals" : 486.0,
+      "marks" : 171.0,
+      "bounces" : 13.0,
+      "tackles" : 121.0,
+      "contestedPossessions" : 195.0,
+      "uncontestedPossessions" : 287.0,
+      "totalPossessions" : 482.0,
+      "inside50s" : 79.0,
+      "marksInside50" : 21.0,
+      "contestedMarks" : 31.0,
+      "hitouts" : 1243.0,
+      "onePercenters" : 120.0,
+      "disposalEfficiency" : 76.1,
+      "clangers" : 129.0,
+      "freesFor" : 38.0,
+      "freesAgainst" : 69.0,
+      "dreamTeamPoints" : 3371.0,
+      "clearances" : {
+        "centreClearances" : 33.0,
+        "stoppageClearances" : 39.0,
+        "totalClearances" : 72.0
+      },
+      "rebound50s" : 39.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 1.0,
+            "handballs" : 3.0,
+            "disposals" : 4.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 3.0,
+            "totalPossessions" : 4.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 24.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 37.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990067",
+            "playerName" : {
+              "givenName" : "Peter",
+              "surname" : "Street"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 1.0,
+            "handballs" : 3.0,
+            "disposals" : 4.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 1.0,
+            "uncontestedPossessions" : 3.0,
+            "totalPossessions" : 4.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 24.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 75.0,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 37.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990067",
+            "playerName" : {
+              "givenName" : "Peter",
+              "surname" : "Street"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 50.4
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 3.7,
+            "handballs" : 3.8,
+            "disposals" : 7.5,
+            "marks" : 3.2,
+            "bounces" : 0.3,
+            "tackles" : 1.5,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 3.8,
+            "totalPossessions" : 7.3,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.6,
+            "hitouts" : 17.8,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 51.2,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990067",
+            "playerName" : {
+              "givenName" : "Peter",
+              "surname" : "Street"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 44.0,
+            "handballs" : 46.0,
+            "disposals" : 90.0,
+            "marks" : 39.0,
+            "bounces" : 4.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 42.0,
+            "uncontestedPossessions" : 46.0,
+            "totalPossessions" : 88.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 214.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 76.7,
+            "clangers" : 17.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 614.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990067",
+            "playerName" : {
+              "givenName" : "Peter",
+              "surname" : "Street"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 58.2
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 3.6,
+            "handballs" : 3.9,
+            "disposals" : 7.4,
+            "marks" : 2.7,
+            "bounces" : 0.4,
+            "tackles" : 2.1,
+            "contestedPossessions" : 2.4,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 7.4,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.4,
+            "hitouts" : 20.1,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 53.7,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990067",
+            "playerName" : {
+              "givenName" : "Peter",
+              "surname" : "Street"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 75.0,
+            "handballs" : 81.0,
+            "disposals" : 156.0,
+            "marks" : 57.0,
+            "bounces" : 9.0,
+            "tackles" : 45.0,
+            "contestedPossessions" : 50.0,
+            "uncontestedPossessions" : 106.0,
+            "totalPossessions" : 156.0,
+            "inside50s" : 22.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 422.0,
+            "onePercenters" : 45.0,
+            "disposalEfficiency" : 76.9,
+            "clangers" : 49.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 26.0,
+            "dreamTeamPoints" : 1127.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 55.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990067",
+            "playerName" : {
+              "givenName" : "Peter",
+              "surname" : "Street"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 65.3
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 2.8,
+            "handballs" : 4.5,
+            "disposals" : 7.4,
+            "marks" : 2.1,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 2.5,
+            "uncontestedPossessions" : 4.7,
+            "totalPossessions" : 7.2,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 14.7,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 45.1,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990067",
+            "playerName" : {
+              "givenName" : "Peter",
+              "surname" : "Street"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 31.0,
+            "handballs" : 50.0,
+            "disposals" : 81.0,
+            "marks" : 23.0,
+            "bounces" : 0.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 27.0,
+            "uncontestedPossessions" : 52.0,
+            "totalPossessions" : 79.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 162.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 77.8,
+            "clangers" : 24.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 496.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 12.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 20.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990067",
+            "playerName" : {
+              "givenName" : "Peter",
+              "surname" : "Street"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 54.3
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 2.1,
+            "handballs" : 2.5,
+            "disposals" : 4.6,
+            "marks" : 1.4,
+            "bounces" : 0.0,
+            "tackles" : 1.1,
+            "contestedPossessions" : 2.4,
+            "uncontestedPossessions" : 2.2,
+            "totalPossessions" : 4.6,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 11.3,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 32.0,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990067",
+            "playerName" : {
+              "givenName" : "Peter",
+              "surname" : "Street"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 33.0,
+            "handballs" : 40.0,
+            "disposals" : 73.0,
+            "marks" : 23.0,
+            "bounces" : 0.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 38.0,
+            "uncontestedPossessions" : 35.0,
+            "totalPossessions" : 73.0,
+            "inside50s" : 11.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 181.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 72.6,
+            "clangers" : 16.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 512.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 62.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990067",
+            "playerName" : {
+              "givenName" : "Peter",
+              "surname" : "Street"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 46.4
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 2.9,
+            "handballs" : 3.0,
+            "disposals" : 5.9,
+            "marks" : 2.4,
+            "bounces" : 0.0,
+            "tackles" : 1.1,
+            "contestedPossessions" : 2.1,
+            "uncontestedPossessions" : 3.5,
+            "totalPossessions" : 5.6,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.4,
+            "hitouts" : 21.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.2,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 47.0,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990067",
+            "playerName" : {
+              "givenName" : "Peter",
+              "surname" : "Street"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 23.0,
+            "handballs" : 24.0,
+            "disposals" : 47.0,
+            "marks" : 19.0,
+            "bounces" : 0.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 17.0,
+            "uncontestedPossessions" : 28.0,
+            "totalPossessions" : 45.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 168.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 78.7,
+            "clangers" : 11.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 376.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990067",
+            "playerName" : {
+              "givenName" : "Peter",
+              "surname" : "Street"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 59.6
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 2.0,
+            "handballs" : 2.6,
+            "disposals" : 4.6,
+            "marks" : 0.6,
+            "bounces" : 0.0,
+            "tackles" : 0.6,
+            "contestedPossessions" : 2.2,
+            "uncontestedPossessions" : 2.6,
+            "totalPossessions" : 4.8,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 7.4,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 21.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990067",
+            "playerName" : {
+              "givenName" : "Peter",
+              "surname" : "Street"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 13.0,
+            "disposals" : 23.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 11.0,
+            "uncontestedPossessions" : 13.0,
+            "totalPossessions" : 24.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 37.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 73.9,
+            "clangers" : 5.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 109.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990067",
+            "playerName" : {
+              "givenName" : "Peter",
+              "surname" : "Street"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.7,
+            "handballs" : 2.2,
+            "disposals" : 3.0,
+            "marks" : 1.2,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 2.2,
+            "uncontestedPossessions" : 1.0,
+            "totalPossessions" : 3.2,
+            "inside50s" : 0.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.7,
+            "hitouts" : 8.7,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 25.0,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990067",
+            "playerName" : {
+              "givenName" : "Peter",
+              "surname" : "Street"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.0,
+            "handballs" : 9.0,
+            "disposals" : 12.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 9.0,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 13.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 35.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 66.7,
+            "clangers" : 4.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 100.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I990067",
+            "playerName" : {
+              "givenName" : "Peter",
+              "surname" : "Street"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 1.0,
+      "handballs" : 3.0,
+      "disposals" : 4.0,
+      "marks" : 2.0,
+      "bounces" : 0.0,
+      "tackles" : 1.0,
+      "contestedPossessions" : 1.0,
+      "uncontestedPossessions" : 3.0,
+      "totalPossessions" : 4.0,
+      "inside50s" : 1.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 24.0,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : 75.0,
+      "clangers" : 3.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 2.0,
+      "dreamTeamPoints" : 37.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

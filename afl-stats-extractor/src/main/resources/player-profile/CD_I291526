@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291526",
+    "position" : "Ruck Rover",
+    "surname" : "Dahlhaus",
+    "jumperNumber" : 6,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.9,
+      "behinds" : 0.8,
+      "superGoals" : null,
+      "kicks" : 10.0,
+      "handballs" : 9.8,
+      "disposals" : 19.8,
+      "marks" : 2.7,
+      "bounces" : 0.2,
+      "tackles" : 4.4,
+      "contestedPossessions" : 9.3,
+      "uncontestedPossessions" : 10.5,
+      "totalPossessions" : 19.8,
+      "inside50s" : 3.2,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : null,
+      "clangers" : 2.0,
+      "freesFor" : 1.1,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 80.7,
+      "clearances" : {
+        "centreClearances" : 0.7,
+        "stoppageClearances" : 1.6,
+        "totalClearances" : 2.3
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 0.8,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Luke",
+    "bio" : "<p>Floating between the midfield and forward line Dahlhaus' quick thinking and persistence has the ability to break the game open. While more than willing to take the game on, he has a special talent for creating opportunities for his teammates and a natural instinct to chase down opponents. Dahlhaus joined the Western Bulldogs through the 2010 AFL Rookie Draft with their first round selection (pick 22 overall).<strong><br /> <br /> </strong>&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WesternBulldogs/Player Profiles/2015 - Profiles/DAHLHAUS Luke.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-08-21T02:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 178,
+      "weightInKg" : 77,
+      "recruitedFrom" : "Leopold/Geelong U18",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 86.0,
+      "behinds" : 76.0,
+      "superGoals" : null,
+      "kicks" : 942.0,
+      "handballs" : 923.0,
+      "disposals" : 1865.0,
+      "marks" : 253.0,
+      "bounces" : 22.0,
+      "tackles" : 410.0,
+      "contestedPossessions" : 875.0,
+      "uncontestedPossessions" : 987.0,
+      "totalPossessions" : 1862.0,
+      "inside50s" : 303.0,
+      "marksInside50" : 50.0,
+      "contestedMarks" : 27.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 97.0,
+      "disposalEfficiency" : 66.2,
+      "clangers" : 186.0,
+      "freesFor" : 108.0,
+      "freesAgainst" : 63.0,
+      "dreamTeamPoints" : 7582.0,
+      "clearances" : {
+        "centreClearances" : 67.0,
+        "stoppageClearances" : 152.0,
+        "totalClearances" : 219.0
+      },
+      "rebound50s" : 92.0,
+      "goalAssists" : 74.0,
+      "goalAccuracy" : 42.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 12.0,
+            "handballs" : 13.7,
+            "disposals" : 25.7,
+            "marks" : 3.3,
+            "bounces" : 0.3,
+            "tackles" : 5.2,
+            "contestedPossessions" : 11.6,
+            "uncontestedPossessions" : 14.2,
+            "totalPossessions" : 25.7,
+            "inside50s" : 3.7,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 97.1,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 2.5,
+              "totalClearances" : 3.9
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291526",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Dahlhaus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 276.0,
+            "handballs" : 314.0,
+            "disposals" : 590.0,
+            "marks" : 77.0,
+            "bounces" : 8.0,
+            "tackles" : 120.0,
+            "contestedPossessions" : 266.0,
+            "uncontestedPossessions" : 326.0,
+            "totalPossessions" : 592.0,
+            "inside50s" : 85.0,
+            "marksInside50" : 17.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 66.6,
+            "clangers" : 60.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 2234.0,
+            "clearances" : {
+              "centreClearances" : 32.0,
+              "stoppageClearances" : 58.0,
+              "totalClearances" : 90.0
+            },
+            "rebound50s" : 36.0,
+            "goalAssists" : 20.0,
+            "goalAccuracy" : 41.5,
+            "ratingPoints" : 424.4,
+            "ranking" : 72.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291526",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Dahlhaus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 82.3
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 1.1,
+            "superGoals" : null,
+            "kicks" : 11.4,
+            "handballs" : 10.2,
+            "disposals" : 21.6,
+            "marks" : 3.4,
+            "bounces" : 0.0,
+            "tackles" : 4.1,
+            "contestedPossessions" : 9.8,
+            "uncontestedPossessions" : 11.6,
+            "totalPossessions" : 21.4,
+            "inside50s" : 2.7,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 1.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 87.2,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291526",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Dahlhaus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 17.0,
+            "behinds" : 23.0,
+            "superGoals" : null,
+            "kicks" : 239.0,
+            "handballs" : 214.0,
+            "disposals" : 453.0,
+            "marks" : 71.0,
+            "bounces" : 1.0,
+            "tackles" : 87.0,
+            "contestedPossessions" : 205.0,
+            "uncontestedPossessions" : 244.0,
+            "totalPossessions" : 449.0,
+            "inside50s" : 56.0,
+            "marksInside50" : 16.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 65.3,
+            "clangers" : 44.0,
+            "freesFor" : 31.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1832.0,
+            "clearances" : {
+              "centreClearances" : 14.0,
+              "stoppageClearances" : 27.0,
+              "totalClearances" : 41.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 34.0,
+            "ratingPoints" : 411.0,
+            "ranking" : 94.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291526",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Dahlhaus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 83.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.3,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 8.7,
+            "disposals" : 16.8,
+            "marks" : 1.7,
+            "bounces" : 0.1,
+            "tackles" : 4.1,
+            "contestedPossessions" : 8.5,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 16.5,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 70.3,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291526",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Dahlhaus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 28.0,
+            "behinds" : 18.0,
+            "superGoals" : null,
+            "kicks" : 177.0,
+            "handballs" : 192.0,
+            "disposals" : 369.0,
+            "marks" : 37.0,
+            "bounces" : 2.0,
+            "tackles" : 90.0,
+            "contestedPossessions" : 188.0,
+            "uncontestedPossessions" : 175.0,
+            "totalPossessions" : 363.0,
+            "inside50s" : 56.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 68.3,
+            "clangers" : 35.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1547.0,
+            "clearances" : {
+              "centreClearances" : 11.0,
+              "stoppageClearances" : 24.0,
+              "totalClearances" : 35.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 18.0,
+            "goalAccuracy" : 54.9,
+            "ratingPoints" : 400.6,
+            "ranking" : 93.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291526",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Dahlhaus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 82.2
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 1.1,
+            "superGoals" : null,
+            "kicks" : 10.2,
+            "handballs" : 7.3,
+            "disposals" : 17.5,
+            "marks" : 2.6,
+            "bounces" : 0.4,
+            "tackles" : 3.9,
+            "contestedPossessions" : 8.2,
+            "uncontestedPossessions" : 9.7,
+            "totalPossessions" : 17.9,
+            "inside50s" : 4.2,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 74.6,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.9,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291526",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Dahlhaus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 18.0,
+            "superGoals" : null,
+            "kicks" : 174.0,
+            "handballs" : 124.0,
+            "disposals" : 298.0,
+            "marks" : 45.0,
+            "bounces" : 7.0,
+            "tackles" : 67.0,
+            "contestedPossessions" : 140.0,
+            "uncontestedPossessions" : 165.0,
+            "totalPossessions" : 305.0,
+            "inside50s" : 71.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 63.4,
+            "clangers" : 30.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 1268.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 32.0,
+              "totalClearances" : 38.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 32.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291526",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Dahlhaus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 82.2
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 6.9,
+            "handballs" : 7.2,
+            "disposals" : 14.1,
+            "marks" : 2.1,
+            "bounces" : 0.4,
+            "tackles" : 4.2,
+            "contestedPossessions" : 6.9,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 13.9,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 63.7,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 1.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291526",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Dahlhaus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 76.0,
+            "handballs" : 79.0,
+            "disposals" : 155.0,
+            "marks" : 23.0,
+            "bounces" : 4.0,
+            "tackles" : 46.0,
+            "contestedPossessions" : 76.0,
+            "uncontestedPossessions" : 77.0,
+            "totalPossessions" : 153.0,
+            "inside50s" : 35.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 67.1,
+            "clangers" : 17.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 701.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 57.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291526",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Dahlhaus"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 77.2
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 17.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 276.0,
+      "handballs" : 314.0,
+      "disposals" : 590.0,
+      "marks" : 77.0,
+      "bounces" : 8.0,
+      "tackles" : 120.0,
+      "contestedPossessions" : 266.0,
+      "uncontestedPossessions" : 326.0,
+      "totalPossessions" : 592.0,
+      "inside50s" : 85.0,
+      "marksInside50" : 17.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 16.0,
+      "disposalEfficiency" : 66.6,
+      "clangers" : 60.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 2234.0,
+      "clearances" : {
+        "centreClearances" : 32.0,
+        "stoppageClearances" : 58.0,
+        "totalClearances" : 90.0
+      },
+      "rebound50s" : 36.0,
+      "goalAssists" : 20.0,
+      "goalAccuracy" : 41.5,
+      "ratingPoints" : 424.4,
+      "ranking" : 72.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291526",
+        "playerName" : {
+          "givenName" : "Luke",
+          "surname" : "Dahlhaus"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T140",
+        "teamAbbr" : "WB",
+        "teamName" : "Western Bulldogs",
+        "teamNickname" : "Bulldogs"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 435.7,
+        "ranking" : 64,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 435.7,
+        "ranking" : 4,
+        "ratingType" : "TEAM",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 435.7,
+        "ranking" : 6,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 22.6,
+        "ranking" : 4,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 306.2,
+        "ranking" : 21,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 94
+  }
+}

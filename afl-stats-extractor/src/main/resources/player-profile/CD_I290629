@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I290629",
+    "position" : "Centre",
+    "surname" : "Heppell",
+    "jumperNumber" : 21,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 13.4,
+      "handballs" : 10.9,
+      "disposals" : 24.3,
+      "marks" : 5.1,
+      "bounces" : 0.4,
+      "tackles" : 3.8,
+      "contestedPossessions" : 9.4,
+      "uncontestedPossessions" : 15.1,
+      "totalPossessions" : 24.5,
+      "inside50s" : 3.2,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.9,
+      "onePercenters" : 1.8,
+      "disposalEfficiency" : null,
+      "clangers" : 2.2,
+      "freesFor" : 1.0,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 94.6,
+      "clearances" : {
+        "centreClearances" : 1.3,
+        "stoppageClearances" : 2.2,
+        "totalClearances" : 3.6
+      },
+      "rebound50s" : 1.9,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Dyson",
+    "bio" : "<p>Heppell’s brilliant young career stepped up another notch in 2014, as the midfielder won his first Crichton Medal as the club’s best and fairest and was named in the All-Australian team. The 22-year-old established himself as one of the premier young midfielders in the competition, averaging 28 disposals and five clearances a game. Heppell has continued his rise in his four AFL seasons and looks certain to be a star for a long time to come.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Essendon/Player Profiles/2014 - Profiles/HEPPELL Dyson.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-05-14T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 189,
+      "weightInKg" : 81,
+      "recruitedFrom" : "Leongatha/Gippsland U18",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 33.0,
+      "behinds" : 32.0,
+      "superGoals" : null,
+      "kicks" : 1417.0,
+      "handballs" : 1159.0,
+      "disposals" : 2576.0,
+      "marks" : 536.0,
+      "bounces" : 40.0,
+      "tackles" : 400.0,
+      "contestedPossessions" : 999.0,
+      "uncontestedPossessions" : 1601.0,
+      "totalPossessions" : 2600.0,
+      "inside50s" : 341.0,
+      "marksInside50" : 23.0,
+      "contestedMarks" : 34.0,
+      "hitouts" : 91.0,
+      "onePercenters" : 190.0,
+      "disposalEfficiency" : 68.8,
+      "clangers" : 234.0,
+      "freesFor" : 101.0,
+      "freesAgainst" : 58.0,
+      "dreamTeamPoints" : 10025.0,
+      "clearances" : {
+        "centreClearances" : 139.0,
+        "stoppageClearances" : 238.0,
+        "totalClearances" : 377.0
+      },
+      "rebound50s" : 199.0,
+      "goalAssists" : 43.0,
+      "goalAccuracy" : 38.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 13.8,
+            "handballs" : 11.9,
+            "disposals" : 25.7,
+            "marks" : 4.0,
+            "bounces" : 0.2,
+            "tackles" : 4.8,
+            "contestedPossessions" : 11.4,
+            "uncontestedPossessions" : 14.5,
+            "totalPossessions" : 25.9,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 2.1,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 101.8,
+            "clearances" : {
+              "centreClearances" : 1.7,
+              "stoppageClearances" : 3.1,
+              "totalClearances" : 4.9
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290629",
+            "playerName" : {
+              "givenName" : "Dyson",
+              "surname" : "Heppell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 304.0,
+            "handballs" : 262.0,
+            "disposals" : 566.0,
+            "marks" : 87.0,
+            "bounces" : 4.0,
+            "tackles" : 105.0,
+            "contestedPossessions" : 250.0,
+            "uncontestedPossessions" : 319.0,
+            "totalPossessions" : 569.0,
+            "inside50s" : 71.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 47.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 70.7,
+            "clangers" : 45.0,
+            "freesFor" : 26.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 2240.0,
+            "clearances" : {
+              "centreClearances" : 38.0,
+              "stoppageClearances" : 69.0,
+              "totalClearances" : 107.0
+            },
+            "rebound50s" : 32.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 56.5,
+            "ratingPoints" : 493.9,
+            "ranking" : 24.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290629",
+            "playerName" : {
+              "givenName" : "Dyson",
+              "surname" : "Heppell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 84.5
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 15.1,
+            "handballs" : 13.4,
+            "disposals" : 28.5,
+            "marks" : 5.3,
+            "bounces" : 0.4,
+            "tackles" : 4.5,
+            "contestedPossessions" : 12.1,
+            "uncontestedPossessions" : 16.5,
+            "totalPossessions" : 28.5,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.6,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 107.4,
+            "clearances" : {
+              "centreClearances" : 1.6,
+              "stoppageClearances" : 3.5,
+              "totalClearances" : 5.2
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290629",
+            "playerName" : {
+              "givenName" : "Dyson",
+              "surname" : "Heppell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 332.0,
+            "handballs" : 294.0,
+            "disposals" : 626.0,
+            "marks" : 116.0,
+            "bounces" : 9.0,
+            "tackles" : 99.0,
+            "contestedPossessions" : 266.0,
+            "uncontestedPossessions" : 362.0,
+            "totalPossessions" : 628.0,
+            "inside50s" : 70.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 13.0,
+            "onePercenters" : 43.0,
+            "disposalEfficiency" : 66.8,
+            "clangers" : 58.0,
+            "freesFor" : 25.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 2363.0,
+            "clearances" : {
+              "centreClearances" : 36.0,
+              "stoppageClearances" : 78.0,
+              "totalClearances" : 114.0
+            },
+            "rebound50s" : 39.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 441.2,
+            "ranking" : 65.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290629",
+            "playerName" : {
+              "givenName" : "Dyson",
+              "surname" : "Heppell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 85.1
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 14.2,
+            "handballs" : 10.1,
+            "disposals" : 24.3,
+            "marks" : 4.6,
+            "bounces" : 0.1,
+            "tackles" : 3.9,
+            "contestedPossessions" : 10.2,
+            "uncontestedPossessions" : 14.4,
+            "totalPossessions" : 24.6,
+            "inside50s" : 4.6,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.5,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 95.0,
+            "clearances" : {
+              "centreClearances" : 1.9,
+              "stoppageClearances" : 2.4,
+              "totalClearances" : 4.3
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290629",
+            "playerName" : {
+              "givenName" : "Dyson",
+              "surname" : "Heppell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 269.0,
+            "handballs" : 192.0,
+            "disposals" : 461.0,
+            "marks" : 88.0,
+            "bounces" : 2.0,
+            "tackles" : 74.0,
+            "contestedPossessions" : 193.0,
+            "uncontestedPossessions" : 274.0,
+            "totalPossessions" : 467.0,
+            "inside50s" : 88.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 10.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 61.8,
+            "clangers" : 50.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1805.0,
+            "clearances" : {
+              "centreClearances" : 37.0,
+              "stoppageClearances" : 45.0,
+              "totalClearances" : 82.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 30.8,
+            "ratingPoints" : 346.9,
+            "ranking" : 169.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290629",
+            "playerName" : {
+              "givenName" : "Dyson",
+              "surname" : "Heppell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 80.1
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 12.5,
+            "handballs" : 9.0,
+            "disposals" : 21.5,
+            "marks" : 5.6,
+            "bounces" : 0.6,
+            "tackles" : 2.9,
+            "contestedPossessions" : 6.9,
+            "uncontestedPossessions" : 14.5,
+            "totalPossessions" : 21.5,
+            "inside50s" : 2.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.4,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 85.2,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290629",
+            "playerName" : {
+              "givenName" : "Dyson",
+              "surname" : "Heppell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 250.0,
+            "handballs" : 180.0,
+            "disposals" : 430.0,
+            "marks" : 113.0,
+            "bounces" : 12.0,
+            "tackles" : 59.0,
+            "contestedPossessions" : 139.0,
+            "uncontestedPossessions" : 291.0,
+            "totalPossessions" : 430.0,
+            "inside50s" : 54.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 8.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 70.7,
+            "clangers" : 45.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 1704.0,
+            "clearances" : {
+              "centreClearances" : 15.0,
+              "stoppageClearances" : 22.0,
+              "totalClearances" : 37.0
+            },
+            "rebound50s" : 49.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 30.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290629",
+            "playerName" : {
+              "givenName" : "Dyson",
+              "surname" : "Heppell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 87.5
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 11.4,
+            "handballs" : 10.0,
+            "disposals" : 21.4,
+            "marks" : 5.7,
+            "bounces" : 0.6,
+            "tackles" : 2.7,
+            "contestedPossessions" : 6.6,
+            "uncontestedPossessions" : 15.4,
+            "totalPossessions" : 22.0,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.6,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 83.2,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290629",
+            "playerName" : {
+              "givenName" : "Dyson",
+              "surname" : "Heppell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 262.0,
+            "handballs" : 231.0,
+            "disposals" : 493.0,
+            "marks" : 132.0,
+            "bounces" : 13.0,
+            "tackles" : 63.0,
+            "contestedPossessions" : 152.0,
+            "uncontestedPossessions" : 355.0,
+            "totalPossessions" : 507.0,
+            "inside50s" : 58.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 13.0,
+            "onePercenters" : 64.0,
+            "disposalEfficiency" : 74.0,
+            "clangers" : 36.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1913.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 24.0,
+              "totalClearances" : 37.0
+            },
+            "rebound50s" : 56.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290629",
+            "playerName" : {
+              "givenName" : "Dyson",
+              "surname" : "Heppell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 85.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 13.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 304.0,
+      "handballs" : 262.0,
+      "disposals" : 566.0,
+      "marks" : 87.0,
+      "bounces" : 4.0,
+      "tackles" : 105.0,
+      "contestedPossessions" : 250.0,
+      "uncontestedPossessions" : 319.0,
+      "totalPossessions" : 569.0,
+      "inside50s" : 71.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 47.0,
+      "onePercenters" : 31.0,
+      "disposalEfficiency" : 70.7,
+      "clangers" : 45.0,
+      "freesFor" : 26.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 2240.0,
+      "clearances" : {
+        "centreClearances" : 38.0,
+        "stoppageClearances" : 69.0,
+        "totalClearances" : 107.0
+      },
+      "rebound50s" : 32.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 56.5,
+      "ratingPoints" : 493.9,
+      "ranking" : 24.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I290629",
+        "playerName" : {
+          "givenName" : "Dyson",
+          "surname" : "Heppell"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T50",
+        "teamAbbr" : "ESS",
+        "teamName" : "Essendon",
+        "teamNickname" : "Bombers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 494.7,
+        "ranking" : 25,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 494.7,
+        "ranking" : 1,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 494.7,
+        "ranking" : 12,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 299.0,
+        "ranking" : 25,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 106
+  }
+}

@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280608",
+    "position" : "Right Forward Pocket",
+    "surname" : "Trengove",
+    "jumperNumber" : 9,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.5,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 9.5,
+      "handballs" : 9.2,
+      "disposals" : 18.8,
+      "marks" : 4.2,
+      "bounces" : 0.4,
+      "tackles" : 4.6,
+      "contestedPossessions" : 7.3,
+      "uncontestedPossessions" : 11.4,
+      "totalPossessions" : 18.7,
+      "inside50s" : 2.3,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.5,
+      "hitouts" : 0.5,
+      "onePercenters" : 1.2,
+      "disposalEfficiency" : null,
+      "clangers" : 2.6,
+      "freesFor" : 0.9,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 79.8,
+      "clearances" : {
+        "centreClearances" : 0.7,
+        "stoppageClearances" : 1.4,
+        "totalClearances" : 2.1
+      },
+      "rebound50s" : 1.7,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jack",
+    "bio" : "<p>Trengove played just two games before requiring surgery to repair a navicular injury in his left foot. He was nearly traded to Richmond at the end of the season after the Tigers made an offer, but that was aborted when Trengove failed his medical. It meant a return to square one for Trengove, who had an operation in October to remove screws and have a bone graft, virtually ruining 2015 as well. The club is hopeful he will return, but if this operation fails, his promising career will be in serious jeopardy.<br>\n<br>\n<b>Player honours: </b>International Rules Series 2011; NAB AFL Rising Star nominee 2010; co-captain 2012-13.<br>\n<br>\n<b>Brownlow Medal: </b>career votes 1.<br>\n<br>\n<b>Draft history:</b> 2009 NAB AFL Draft 1st round selection (Melbourne) No. 2 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Melbourne/Player Profiles/2015 - Profiles/TRENGOVE Jack.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-09-02T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 185,
+      "weightInKg" : 82,
+      "recruitedFrom" : "Sturt (SA)",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 38.0,
+      "behinds" : 36.0,
+      "superGoals" : null,
+      "kicks" : 772.0,
+      "handballs" : 749.0,
+      "disposals" : 1521.0,
+      "marks" : 339.0,
+      "bounces" : 34.0,
+      "tackles" : 372.0,
+      "contestedPossessions" : 588.0,
+      "uncontestedPossessions" : 923.0,
+      "totalPossessions" : 1511.0,
+      "inside50s" : 189.0,
+      "marksInside50" : 42.0,
+      "contestedMarks" : 39.0,
+      "hitouts" : 39.0,
+      "onePercenters" : 94.0,
+      "disposalEfficiency" : 69.2,
+      "clangers" : 209.0,
+      "freesFor" : 74.0,
+      "freesAgainst" : 78.0,
+      "dreamTeamPoints" : 6462.0,
+      "clearances" : {
+        "centreClearances" : 56.0,
+        "stoppageClearances" : 113.0,
+        "totalClearances" : 169.0
+      },
+      "rebound50s" : 138.0,
+      "goalAssists" : 27.0,
+      "goalAccuracy" : 40.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280608",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Trengove"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 25.5,
+            "ranking" : 630.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280608",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Trengove"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 11.5,
+            "handballs" : 10.5,
+            "disposals" : 22.0,
+            "marks" : 5.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 14.5,
+            "totalPossessions" : 21.5,
+            "inside50s" : 2.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 78.0,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280608",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Trengove"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 23.0,
+            "handballs" : 21.0,
+            "disposals" : 44.0,
+            "marks" : 10.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 14.0,
+            "uncontestedPossessions" : 29.0,
+            "totalPossessions" : 43.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 65.9,
+            "clangers" : 4.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 156.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 174.6,
+            "ranking" : 384.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280608",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Trengove"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 91.2
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.5,
+            "handballs" : 8.4,
+            "disposals" : 17.9,
+            "marks" : 4.3,
+            "bounces" : 0.2,
+            "tackles" : 4.7,
+            "contestedPossessions" : 6.3,
+            "uncontestedPossessions" : 11.5,
+            "totalPossessions" : 17.8,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.4,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 78.0,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280608",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Trengove"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 190.0,
+            "handballs" : 168.0,
+            "disposals" : 358.0,
+            "marks" : 86.0,
+            "bounces" : 4.0,
+            "tackles" : 94.0,
+            "contestedPossessions" : 127.0,
+            "uncontestedPossessions" : 230.0,
+            "totalPossessions" : 357.0,
+            "inside50s" : 36.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 8.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 68.4,
+            "clangers" : 46.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1561.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 22.0,
+              "totalClearances" : 30.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : 258.4,
+            "ranking" : 287.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280608",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Trengove"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 83.4
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 8.6,
+            "disposals" : 17.7,
+            "marks" : 4.0,
+            "bounces" : 0.3,
+            "tackles" : 4.5,
+            "contestedPossessions" : 6.7,
+            "uncontestedPossessions" : 10.6,
+            "totalPossessions" : 17.4,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.8,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 1.1,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 76.0,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280608",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Trengove"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 199.0,
+            "handballs" : 190.0,
+            "disposals" : 389.0,
+            "marks" : 88.0,
+            "bounces" : 7.0,
+            "tackles" : 99.0,
+            "contestedPossessions" : 148.0,
+            "uncontestedPossessions" : 234.0,
+            "totalPossessions" : 382.0,
+            "inside50s" : 52.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 17.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 66.6,
+            "clangers" : 59.0,
+            "freesFor" : 24.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1671.0,
+            "clearances" : {
+              "centreClearances" : 14.0,
+              "stoppageClearances" : 26.0,
+              "totalClearances" : 40.0
+            },
+            "rebound50s" : 36.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 38.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280608",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Trengove"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 81.9
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 10.7,
+            "handballs" : 9.6,
+            "disposals" : 20.4,
+            "marks" : 4.8,
+            "bounces" : 0.7,
+            "tackles" : 5.3,
+            "contestedPossessions" : 8.8,
+            "uncontestedPossessions" : 11.6,
+            "totalPossessions" : 20.5,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.6,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 89.7,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.9,
+              "totalClearances" : 2.8
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280608",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Trengove"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 204.0,
+            "handballs" : 183.0,
+            "disposals" : 387.0,
+            "marks" : 92.0,
+            "bounces" : 14.0,
+            "tackles" : 100.0,
+            "contestedPossessions" : 168.0,
+            "uncontestedPossessions" : 221.0,
+            "totalPossessions" : 389.0,
+            "inside50s" : 57.0,
+            "marksInside50" : 13.0,
+            "contestedMarks" : 15.0,
+            "hitouts" : 12.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 71.8,
+            "clangers" : 57.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 1704.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 36.0,
+              "totalClearances" : 53.0
+            },
+            "rebound50s" : 37.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 46.4,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280608",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Trengove"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 83.2
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 10.4,
+            "disposals" : 19.1,
+            "marks" : 3.5,
+            "bounces" : 0.5,
+            "tackles" : 4.2,
+            "contestedPossessions" : 7.5,
+            "uncontestedPossessions" : 11.6,
+            "totalPossessions" : 19.1,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 76.1,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.4
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280608",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Trengove"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 156.0,
+            "handballs" : 187.0,
+            "disposals" : 343.0,
+            "marks" : 63.0,
+            "bounces" : 9.0,
+            "tackles" : 75.0,
+            "contestedPossessions" : 135.0,
+            "uncontestedPossessions" : 209.0,
+            "totalPossessions" : 344.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 69.7,
+            "clangers" : 43.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1370.0,
+            "clearances" : {
+              "centreClearances" : 16.0,
+              "stoppageClearances" : 28.0,
+              "totalClearances" : 44.0
+            },
+            "rebound50s" : 35.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 36.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280608",
+            "playerName" : {
+              "givenName" : "Jack",
+              "surname" : "Trengove"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 80.4
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : 0.0,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 25.5,
+      "ranking" : 630.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280608",
+        "playerName" : {
+          "givenName" : "Jack",
+          "surname" : "Trengove"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T90",
+        "teamAbbr" : "MELB",
+        "teamName" : "Melbourne",
+        "teamNickname" : "Demons"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 15.6,
+        "ranking" : 657,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 15.6,
+        "ranking" : 39,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 15.6,
+        "ranking" : 176,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 81
+  }
+}

@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291533",
+    "position" : "Full Back",
+    "surname" : "McDonald",
+    "jumperNumber" : 25,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 9.5,
+      "handballs" : 7.1,
+      "disposals" : 16.7,
+      "marks" : 5.3,
+      "bounces" : 0.7,
+      "tackles" : 1.9,
+      "contestedPossessions" : 5.4,
+      "uncontestedPossessions" : 10.8,
+      "totalPossessions" : 16.2,
+      "inside50s" : 0.8,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.8,
+      "hitouts" : 0.2,
+      "onePercenters" : 7.5,
+      "disposalEfficiency" : null,
+      "clangers" : 2.1,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 66.0,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.3,
+        "totalClearances" : 0.4
+      },
+      "rebound50s" : 3.8,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Tom",
+    "bio" : "<p>A transition year for McDonald as he showed himself capable of playing a leadership role in defence and taking on the game’s best forwards. In the first half of the season, he played on Nick Riewoldt, Jack Darling, Jeremy Cameron, Lachie Henderson, Tom Lynch, Lance Franklin, James Podsiadly and Liam Jones and only Riewoldt kicked more than two goals. McDonald started to use the ball more prudently, too, making better decisions. A diligent student of the game, he has excellent endurance and is a natural competitor. Finished seventh in the best and fairest and is capable of even better.<br>\n<br>\n<b>Player honours: </b>3rd best and fairest 2012; NAB AFL Rising Star nominee 2012.<br>\n<br>\n<b>Draft history: </b>2010 NAB AFL Draft 3rd round selection (Melbourne) No. 53 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Melbourne/Player Profiles/2015 - Profiles/MCDONALD Tom.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-09-18T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 194,
+      "weightInKg" : 94,
+      "recruitedFrom" : "Edenhope-Apsley/North Ballarat U18",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 7.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 782.0,
+      "handballs" : 584.0,
+      "disposals" : 1366.0,
+      "marks" : 431.0,
+      "bounces" : 56.0,
+      "tackles" : 157.0,
+      "contestedPossessions" : 446.0,
+      "uncontestedPossessions" : 884.0,
+      "totalPossessions" : 1330.0,
+      "inside50s" : 65.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 62.0,
+      "hitouts" : 18.0,
+      "onePercenters" : 619.0,
+      "disposalEfficiency" : 75.2,
+      "clangers" : 169.0,
+      "freesFor" : 41.0,
+      "freesAgainst" : 45.0,
+      "dreamTeamPoints" : 5408.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 308.0,
+      "goalAssists" : 10.0,
+      "goalAccuracy" : 43.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 12.2,
+            "handballs" : 6.8,
+            "disposals" : 19.0,
+            "marks" : 7.0,
+            "bounces" : 0.4,
+            "tackles" : 2.0,
+            "contestedPossessions" : 6.3,
+            "uncontestedPossessions" : 12.3,
+            "totalPossessions" : 18.6,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 1.3,
+            "hitouts" : 0.6,
+            "onePercenters" : 6.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 80.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 4.6,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291533",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "McDonald"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 268.0,
+            "handballs" : 149.0,
+            "disposals" : 417.0,
+            "marks" : 155.0,
+            "bounces" : 9.0,
+            "tackles" : 44.0,
+            "contestedPossessions" : 138.0,
+            "uncontestedPossessions" : 271.0,
+            "totalPossessions" : 409.0,
+            "inside50s" : 31.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 29.0,
+            "hitouts" : 14.0,
+            "onePercenters" : 152.0,
+            "disposalEfficiency" : 76.5,
+            "clangers" : 44.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1772.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 12.0
+            },
+            "rebound50s" : 102.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 386.8,
+            "ranking" : 110.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291533",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "McDonald"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 94.7
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.3,
+            "handballs" : 5.6,
+            "disposals" : 14.9,
+            "marks" : 4.8,
+            "bounces" : 0.5,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 10.5,
+            "totalPossessions" : 14.7,
+            "inside50s" : 0.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 59.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 3.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291533",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "McDonald"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 195.0,
+            "handballs" : 118.0,
+            "disposals" : 313.0,
+            "marks" : 101.0,
+            "bounces" : 11.0,
+            "tackles" : 35.0,
+            "contestedPossessions" : 89.0,
+            "uncontestedPossessions" : 220.0,
+            "totalPossessions" : 309.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 192.0,
+            "disposalEfficiency" : 73.2,
+            "clangers" : 52.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1245.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 66.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 340.8,
+            "ranking" : 169.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291533",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "McDonald"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 93.6
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.4,
+            "handballs" : 7.9,
+            "disposals" : 16.2,
+            "marks" : 4.2,
+            "bounces" : 1.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 10.9,
+            "totalPossessions" : 15.8,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.2,
+            "onePercenters" : 7.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 60.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 3.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291533",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "McDonald"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 142.0,
+            "handballs" : 134.0,
+            "disposals" : 276.0,
+            "marks" : 72.0,
+            "bounces" : 17.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 84.0,
+            "uncontestedPossessions" : 185.0,
+            "totalPossessions" : 269.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 131.0,
+            "disposalEfficiency" : 77.2,
+            "clangers" : 32.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1024.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 66.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 335.9,
+            "ranking" : 184.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291533",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "McDonald"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 97.8
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 8.5,
+            "disposals" : 16.6,
+            "marks" : 4.7,
+            "bounces" : 0.9,
+            "tackles" : 2.0,
+            "contestedPossessions" : 6.1,
+            "uncontestedPossessions" : 9.7,
+            "totalPossessions" : 15.8,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 62.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 3.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291533",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "McDonald"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 161.0,
+            "handballs" : 171.0,
+            "disposals" : 332.0,
+            "marks" : 94.0,
+            "bounces" : 18.0,
+            "tackles" : 40.0,
+            "contestedPossessions" : 123.0,
+            "uncontestedPossessions" : 194.0,
+            "totalPossessions" : 317.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 131.0,
+            "disposalEfficiency" : 73.5,
+            "clangers" : 39.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 1249.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 68.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291533",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "McDonald"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 92.1
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 6.0,
+            "disposals" : 14.0,
+            "marks" : 4.5,
+            "bounces" : 0.5,
+            "tackles" : 2.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 13.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 59.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291533",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "McDonald"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 16.0,
+            "handballs" : 12.0,
+            "disposals" : 28.0,
+            "marks" : 9.0,
+            "bounces" : 1.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 12.0,
+            "uncontestedPossessions" : 14.0,
+            "totalPossessions" : 26.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 75.0,
+            "clangers" : 2.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 118.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291533",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "McDonald"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T90",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 87.2
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 5.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 268.0,
+      "handballs" : 149.0,
+      "disposals" : 417.0,
+      "marks" : 155.0,
+      "bounces" : 9.0,
+      "tackles" : 44.0,
+      "contestedPossessions" : 138.0,
+      "uncontestedPossessions" : 271.0,
+      "totalPossessions" : 409.0,
+      "inside50s" : 31.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 29.0,
+      "hitouts" : 14.0,
+      "onePercenters" : 152.0,
+      "disposalEfficiency" : 76.5,
+      "clangers" : 44.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1772.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 9.0,
+        "totalClearances" : 12.0
+      },
+      "rebound50s" : 102.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 386.8,
+      "ranking" : 110.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291533",
+        "playerName" : {
+          "givenName" : "Tom",
+          "surname" : "McDonald"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T90",
+        "teamAbbr" : "MELB",
+        "teamName" : "Melbourne",
+        "teamNickname" : "Demons"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 392.8,
+        "ranking" : 100,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 392.8,
+        "ranking" : 2,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 392.8,
+        "ranking" : 5,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 257.9,
+        "ranking" : 61,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 82
+  }
+}

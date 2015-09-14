@@ -1,0 +1,1413 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I230197",
+    "position" : "Interchange",
+    "surname" : "Sewell",
+    "jumperNumber" : 12,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 9.5,
+      "handballs" : 11.4,
+      "disposals" : 20.9,
+      "marks" : 3.7,
+      "bounces" : 0.2,
+      "tackles" : 4.5,
+      "contestedPossessions" : 8.7,
+      "uncontestedPossessions" : 12.5,
+      "totalPossessions" : 21.2,
+      "inside50s" : 3.3,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.1,
+      "onePercenters" : 1.2,
+      "disposalEfficiency" : null,
+      "clangers" : 2.0,
+      "freesFor" : 0.8,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 79.9,
+      "clearances" : {
+        "centreClearances" : 1.7,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 3.7
+      },
+      "rebound50s" : 1.1,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Brad",
+    "bio" : "<p>Coming off a brilliant 2012 season, Sewell failed at times to capture the same form last year and was dropped in round 16. But he responded strongly, turning in several big performances in the run to the premiership. Although his disposal numbers were down across the season, the veteran still averaged more tackles a game than any other Hawk.&nbsp;</p>\n\n<p><b><br>\n</b><strong>Draft history: </strong>2003 Rookie Draft selection (Hawthorn) No. 7; 2003 rookie elevation (Hawthorn)</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Hawthorn/Player Profiles/2014 - Profiles/SEWELL Brad.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1984-02-02T01:00:00.000+0000",
+      "draftYear" : "2003",
+      "heightInCm" : 181,
+      "weightInKg" : 85,
+      "recruitedFrom" : "Newlyn/North Ballarat U18",
+      "debutYear" : "2004"
+    },
+    "careerStats" : {
+      "goals" : 32.0,
+      "behinds" : 43.0,
+      "superGoals" : null,
+      "kicks" : 1901.0,
+      "handballs" : 2289.0,
+      "disposals" : 4190.0,
+      "marks" : 745.0,
+      "bounces" : 46.0,
+      "tackles" : 907.0,
+      "contestedPossessions" : 1733.0,
+      "uncontestedPossessions" : 2507.0,
+      "totalPossessions" : 4240.0,
+      "inside50s" : 668.0,
+      "marksInside50" : 27.0,
+      "contestedMarks" : 37.0,
+      "hitouts" : 12.0,
+      "onePercenters" : 243.0,
+      "disposalEfficiency" : 77.0,
+      "clangers" : 403.0,
+      "freesFor" : 163.0,
+      "freesAgainst" : 191.0,
+      "dreamTeamPoints" : 15981.0,
+      "clearances" : {
+        "centreClearances" : 341.0,
+        "stoppageClearances" : 409.0,
+        "totalClearances" : 750.0
+      },
+      "rebound50s" : 220.0,
+      "goalAssists" : 86.0,
+      "goalAccuracy" : 36.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.2,
+            "handballs" : 8.4,
+            "disposals" : 18.6,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 3.8,
+            "contestedPossessions" : 6.2,
+            "uncontestedPossessions" : 12.3,
+            "totalPossessions" : 18.5,
+            "inside50s" : 3.3,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 73.3,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.6,
+              "totalClearances" : 2.5
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 102.0,
+            "handballs" : 84.0,
+            "disposals" : 186.0,
+            "marks" : 30.0,
+            "bounces" : 0.0,
+            "tackles" : 38.0,
+            "contestedPossessions" : 62.0,
+            "uncontestedPossessions" : 123.0,
+            "totalPossessions" : 185.0,
+            "inside50s" : 33.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 76.3,
+            "clangers" : 16.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 733.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 16.0,
+              "totalClearances" : 25.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 309.5,
+            "ranking" : 221.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 70.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 10.2,
+            "handballs" : 10.5,
+            "disposals" : 20.8,
+            "marks" : 2.4,
+            "bounces" : 0.0,
+            "tackles" : 4.9,
+            "contestedPossessions" : 8.5,
+            "uncontestedPossessions" : 12.6,
+            "totalPossessions" : 21.1,
+            "inside50s" : 3.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 76.5,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 1.9,
+              "totalClearances" : 3.3
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 215.0,
+            "handballs" : 221.0,
+            "disposals" : 436.0,
+            "marks" : 51.0,
+            "bounces" : 1.0,
+            "tackles" : 103.0,
+            "contestedPossessions" : 179.0,
+            "uncontestedPossessions" : 265.0,
+            "totalPossessions" : 444.0,
+            "inside50s" : 75.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 66.7,
+            "clangers" : 53.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 26.0,
+            "dreamTeamPoints" : 1606.0,
+            "clearances" : {
+              "centreClearances" : 30.0,
+              "stoppageClearances" : 39.0,
+              "totalClearances" : 69.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 18.2,
+            "ratingPoints" : 388.8,
+            "ranking" : 107.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 78.4
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 12.9,
+            "handballs" : 12.5,
+            "disposals" : 25.3,
+            "marks" : 2.5,
+            "bounces" : 0.1,
+            "tackles" : 5.3,
+            "contestedPossessions" : 12.3,
+            "uncontestedPossessions" : 13.2,
+            "totalPossessions" : 25.5,
+            "inside50s" : 4.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 91.8,
+            "clearances" : {
+              "centreClearances" : 2.5,
+              "stoppageClearances" : 3.3,
+              "totalClearances" : 5.8
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 13.0,
+            "superGoals" : null,
+            "kicks" : 309.0,
+            "handballs" : 299.0,
+            "disposals" : 608.0,
+            "marks" : 59.0,
+            "bounces" : 2.0,
+            "tackles" : 127.0,
+            "contestedPossessions" : 296.0,
+            "uncontestedPossessions" : 316.0,
+            "totalPossessions" : 612.0,
+            "inside50s" : 107.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 69.7,
+            "clangers" : 64.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 2204.0,
+            "clearances" : {
+              "centreClearances" : 60.0,
+              "stoppageClearances" : 79.0,
+              "totalClearances" : 139.0
+            },
+            "rebound50s" : 34.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 18.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 83.5
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 10.7,
+            "handballs" : 12.5,
+            "disposals" : 23.2,
+            "marks" : 3.5,
+            "bounces" : 0.1,
+            "tackles" : 5.2,
+            "contestedPossessions" : 10.8,
+            "uncontestedPossessions" : 13.0,
+            "totalPossessions" : 23.7,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.3,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 88.1,
+            "clearances" : {
+              "centreClearances" : 2.1,
+              "stoppageClearances" : 2.4,
+              "totalClearances" : 4.5
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 235.0,
+            "handballs" : 275.0,
+            "disposals" : 510.0,
+            "marks" : 76.0,
+            "bounces" : 2.0,
+            "tackles" : 114.0,
+            "contestedPossessions" : 237.0,
+            "uncontestedPossessions" : 285.0,
+            "totalPossessions" : 522.0,
+            "inside50s" : 75.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 74.7,
+            "clangers" : 42.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1939.0,
+            "clearances" : {
+              "centreClearances" : 47.0,
+              "stoppageClearances" : 53.0,
+              "totalClearances" : 100.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 79.6
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 9.2,
+            "handballs" : 11.5,
+            "disposals" : 20.7,
+            "marks" : 3.4,
+            "bounces" : 0.1,
+            "tackles" : 6.4,
+            "contestedPossessions" : 9.5,
+            "uncontestedPossessions" : 11.3,
+            "totalPossessions" : 20.8,
+            "inside50s" : 2.9,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.2,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.8,
+            "freesFor" : 1.1,
+            "freesAgainst" : 1.6,
+            "dreamTeamPoints" : 83.1,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 2.2,
+              "totalClearances" : 3.5
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 174.0,
+            "handballs" : 219.0,
+            "disposals" : 393.0,
+            "marks" : 64.0,
+            "bounces" : 1.0,
+            "tackles" : 121.0,
+            "contestedPossessions" : 181.0,
+            "uncontestedPossessions" : 214.0,
+            "totalPossessions" : 395.0,
+            "inside50s" : 55.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 74.3,
+            "clangers" : 54.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 31.0,
+            "dreamTeamPoints" : 1578.0,
+            "clearances" : {
+              "centreClearances" : 25.0,
+              "stoppageClearances" : 42.0,
+              "totalClearances" : 67.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 14.0,
+            "goalAccuracy" : 12.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 84.9
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 14.8,
+            "disposals" : 25.8,
+            "marks" : 4.4,
+            "bounces" : 0.1,
+            "tackles" : 6.5,
+            "contestedPossessions" : 10.8,
+            "uncontestedPossessions" : 14.8,
+            "totalPossessions" : 25.6,
+            "inside50s" : 4.9,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.5,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 101.5,
+            "clearances" : {
+              "centreClearances" : 2.3,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 5.3
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 209.0,
+            "handballs" : 281.0,
+            "disposals" : 490.0,
+            "marks" : 83.0,
+            "bounces" : 2.0,
+            "tackles" : 124.0,
+            "contestedPossessions" : 206.0,
+            "uncontestedPossessions" : 281.0,
+            "totalPossessions" : 487.0,
+            "inside50s" : 94.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 78.6,
+            "clangers" : 41.0,
+            "freesFor" : 28.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1929.0,
+            "clearances" : {
+              "centreClearances" : 43.0,
+              "stoppageClearances" : 57.0,
+              "totalClearances" : 100.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 85.4
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 14.5,
+            "disposals" : 23.5,
+            "marks" : 4.8,
+            "bounces" : 0.4,
+            "tackles" : 4.7,
+            "contestedPossessions" : 8.7,
+            "uncontestedPossessions" : 14.9,
+            "totalPossessions" : 23.6,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 88.9,
+            "clearances" : {
+              "centreClearances" : 2.5,
+              "stoppageClearances" : 2.2,
+              "totalClearances" : 4.8
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 188.0,
+            "handballs" : 305.0,
+            "disposals" : 493.0,
+            "marks" : 100.0,
+            "bounces" : 9.0,
+            "tackles" : 99.0,
+            "contestedPossessions" : 183.0,
+            "uncontestedPossessions" : 313.0,
+            "totalPossessions" : 496.0,
+            "inside50s" : 79.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 83.2,
+            "clangers" : 47.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 24.0,
+            "dreamTeamPoints" : 1867.0,
+            "clearances" : {
+              "centreClearances" : 53.0,
+              "stoppageClearances" : 47.0,
+              "totalClearances" : 100.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 43.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 86.7
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.6,
+            "handballs" : 12.7,
+            "disposals" : 21.3,
+            "marks" : 5.2,
+            "bounces" : 0.5,
+            "tackles" : 4.3,
+            "contestedPossessions" : 7.8,
+            "uncontestedPossessions" : 13.7,
+            "totalPossessions" : 21.5,
+            "inside50s" : 3.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 82.9,
+            "clearances" : {
+              "centreClearances" : 1.8,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 3.3
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 206.0,
+            "handballs" : 306.0,
+            "disposals" : 512.0,
+            "marks" : 124.0,
+            "bounces" : 13.0,
+            "tackles" : 104.0,
+            "contestedPossessions" : 188.0,
+            "uncontestedPossessions" : 328.0,
+            "totalPossessions" : 516.0,
+            "inside50s" : 85.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 29.0,
+            "disposalEfficiency" : 83.2,
+            "clangers" : 41.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 1990.0,
+            "clearances" : {
+              "centreClearances" : 43.0,
+              "stoppageClearances" : 36.0,
+              "totalClearances" : 79.0
+            },
+            "rebound50s" : 20.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 87.7
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.5,
+            "handballs" : 8.5,
+            "disposals" : 17.0,
+            "marks" : 5.0,
+            "bounces" : 0.5,
+            "tackles" : 2.0,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 11.0,
+            "totalPossessions" : 17.0,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 64.9,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.8
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 187.0,
+            "handballs" : 187.0,
+            "disposals" : 374.0,
+            "marks" : 110.0,
+            "bounces" : 11.0,
+            "tackles" : 45.0,
+            "contestedPossessions" : 132.0,
+            "uncontestedPossessions" : 242.0,
+            "totalPossessions" : 374.0,
+            "inside50s" : 36.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 47.0,
+            "disposalEfficiency" : 87.2,
+            "clangers" : 29.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1428.0,
+            "clearances" : {
+              "centreClearances" : 17.0,
+              "stoppageClearances" : 22.0,
+              "totalClearances" : 39.0
+            },
+            "rebound50s" : 37.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 92.1
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.3,
+            "handballs" : 6.7,
+            "disposals" : 13.1,
+            "marks" : 2.9,
+            "bounces" : 0.3,
+            "tackles" : 1.2,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 9.1,
+            "totalPossessions" : 13.2,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 45.0,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 76.0,
+            "handballs" : 81.0,
+            "disposals" : 157.0,
+            "marks" : 35.0,
+            "bounces" : 4.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 49.0,
+            "uncontestedPossessions" : 109.0,
+            "totalPossessions" : 158.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 82.2,
+            "clangers" : 14.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 540.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 84.2
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.5,
+            "handballs" : 5.2,
+            "disposals" : 9.7,
+            "marks" : 2.2,
+            "bounces" : 0.2,
+            "tackles" : 2.8,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 5.2,
+            "totalPossessions" : 9.8,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 0.3,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 41.3,
+            "clearances" : {
+              "centreClearances" : 1.8,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 2.7
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 27.0,
+            "handballs" : 31.0,
+            "disposals" : 58.0,
+            "marks" : 13.0,
+            "bounces" : 1.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 28.0,
+            "uncontestedPossessions" : 31.0,
+            "totalPossessions" : 59.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 84.5,
+            "clangers" : 2.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 248.0,
+            "clearances" : {
+              "centreClearances" : 11.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 48.6
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230197",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sewell"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 4.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 102.0,
+      "handballs" : 84.0,
+      "disposals" : 186.0,
+      "marks" : 30.0,
+      "bounces" : 0.0,
+      "tackles" : 38.0,
+      "contestedPossessions" : 62.0,
+      "uncontestedPossessions" : 123.0,
+      "totalPossessions" : 185.0,
+      "inside50s" : 33.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 7.0,
+      "disposalEfficiency" : 76.3,
+      "clangers" : 16.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 4.0,
+      "dreamTeamPoints" : 733.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 25.0
+      },
+      "rebound50s" : 8.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 100.0,
+      "ratingPoints" : 309.5,
+      "ranking" : 221.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201401427",
+      "player" : {
+        "playerId" : "CD_I230197",
+        "playerName" : {
+          "givenName" : "Brad",
+          "surname" : "Sewell"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T80",
+        "teamAbbr" : "HAW",
+        "teamName" : "Hawthorn",
+        "teamNickname" : "Hawks"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 293.7,
+        "ranking" : 245,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 293.7,
+        "ranking" : 19,
+        "ratingType" : "TEAM",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 293.7,
+        "ranking" : 101,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 101.8,
+        "ranking" : 377,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2002"
+    },
+    "careerGamesPlayed" : 200
+  }
+}

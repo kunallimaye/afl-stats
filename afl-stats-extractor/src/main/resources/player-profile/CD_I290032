@@ -1,0 +1,280 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I290032",
+    "position" : "Right Wing",
+    "surname" : "Lambert",
+    "jumperNumber" : 48,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.5,
+      "superGoals" : null,
+      "kicks" : 8.8,
+      "handballs" : 6.8,
+      "disposals" : 15.6,
+      "marks" : 3.4,
+      "bounces" : 0.0,
+      "tackles" : 2.5,
+      "contestedPossessions" : 7.2,
+      "uncontestedPossessions" : 8.5,
+      "totalPossessions" : 15.7,
+      "inside50s" : 2.6,
+      "marksInside50" : 0.6,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : null,
+      "clangers" : 2.2,
+      "freesFor" : 0.8,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 62.1,
+      "clearances" : {
+        "centreClearances" : 0.7,
+        "stoppageClearances" : 1.8,
+        "totalClearances" : 2.5
+      },
+      "rebound50s" : 0.9,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Kane",
+    "bio" : "<p>The mature-aged midfielder was classed as one of the standouts in the VFL during stints with the Northern Blues and Williamstown. Was prolific in the Seagulls&rsquo; finals series last year. Won the Fothergill-Round Medal in 2013 as the VFL&rsquo;s most promising young player. Has shown resilience after multiple draft knockbacks.</p>\n<p><strong>Draft history</strong>: 2015 Rookie Draft selection (Richmond) No. 46.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Richmond/Player Profiles/2015 - Profiles/LAMBERT Kane.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-11-26T01:00:00.000+0000",
+      "draftYear" : "2014",
+      "heightInCm" : 178,
+      "weightInKg" : 75,
+      "recruitedFrom" : "Northern Blues (VFL)/Williamstown (VFL)",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 8.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 114.0,
+      "handballs" : 89.0,
+      "disposals" : 203.0,
+      "marks" : 44.0,
+      "bounces" : 0.0,
+      "tackles" : 32.0,
+      "contestedPossessions" : 93.0,
+      "uncontestedPossessions" : 111.0,
+      "totalPossessions" : 204.0,
+      "inside50s" : 34.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 13.0,
+      "disposalEfficiency" : 67.5,
+      "clangers" : 29.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 807.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 24.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 12.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 42.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 8.8,
+            "handballs" : 6.8,
+            "disposals" : 15.6,
+            "marks" : 3.4,
+            "bounces" : 0.0,
+            "tackles" : 2.5,
+            "contestedPossessions" : 7.2,
+            "uncontestedPossessions" : 8.5,
+            "totalPossessions" : 15.7,
+            "inside50s" : 2.6,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 62.1,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 2.5
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290032",
+            "playerName" : {
+              "givenName" : "Kane",
+              "surname" : "Lambert"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 114.0,
+            "handballs" : 89.0,
+            "disposals" : 203.0,
+            "marks" : 44.0,
+            "bounces" : 0.0,
+            "tackles" : 32.0,
+            "contestedPossessions" : 93.0,
+            "uncontestedPossessions" : 111.0,
+            "totalPossessions" : 204.0,
+            "inside50s" : 34.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 67.5,
+            "clangers" : 29.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 807.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 24.0,
+              "totalClearances" : 33.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 42.1,
+            "ratingPoints" : 104.2,
+            "ranking" : 496.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290032",
+            "playerName" : {
+              "givenName" : "Kane",
+              "surname" : "Lambert"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 75.9
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 8.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 114.0,
+      "handballs" : 89.0,
+      "disposals" : 203.0,
+      "marks" : 44.0,
+      "bounces" : 0.0,
+      "tackles" : 32.0,
+      "contestedPossessions" : 93.0,
+      "uncontestedPossessions" : 111.0,
+      "totalPossessions" : 204.0,
+      "inside50s" : 34.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 13.0,
+      "disposalEfficiency" : 67.5,
+      "clangers" : 29.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 807.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 24.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 12.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 42.1,
+      "ratingPoints" : 104.2,
+      "ranking" : 496.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I290032",
+        "playerName" : {
+          "givenName" : "Kane",
+          "surname" : "Lambert"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T120",
+        "teamAbbr" : "RICH",
+        "teamName" : "Richmond",
+        "teamNickname" : "Tigers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 113.0,
+        "ranking" : 489,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 113.0,
+        "ranking" : 29,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 113.0,
+        "ranking" : 142,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 8.8,
+        "ranking" : 85,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 113.0,
+        "ranking" : 333,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2014"
+    },
+    "careerGamesPlayed" : 13
+  }
+}

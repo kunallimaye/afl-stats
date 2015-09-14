@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I293813",
+    "position" : "Full Forward",
+    "surname" : "Lynch",
+    "jumperNumber" : 19,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.5,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 8.7,
+      "handballs" : 5.3,
+      "disposals" : 14.1,
+      "marks" : 5.6,
+      "bounces" : 0.1,
+      "tackles" : 1.7,
+      "contestedPossessions" : 7.2,
+      "uncontestedPossessions" : 6.9,
+      "totalPossessions" : 14.1,
+      "inside50s" : 2.2,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.9,
+      "onePercenters" : 2.6,
+      "disposalEfficiency" : null,
+      "clangers" : 2.5,
+      "freesFor" : 0.9,
+      "freesAgainst" : 1.2,
+      "dreamTeamPoints" : 69.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.3,
+        "totalClearances" : 0.3
+      },
+      "rebound50s" : 0.6,
+      "goalAssists" : 0.6,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Tom",
+    "bio" : "<p>The hard-working centre half-forward took major strides in 2014. Lynch played all 22 games, was the club&rsquo;s leading goalkicker with 46 and was a close runner-up to David Swallow in the best and fairest. The vice-captain never dropped his standards no matter how well &ndash; or poorly late in the season &ndash; his team was travelling. He averaged 16 disposals and six marks and kicked four or more goals in five games to prove himself the most consistent forward target. His round 22 performance against Essendon with the Suns&rsquo; season on the line was outstanding, kicking four goals to help give his team a fighting chance of an upset win. Lynch is not flashy or fashionable, but is one of the best young forwards in the competition and right in the frame to succeed Gary Ablett as the Suns&rsquo; skipper when the dual Brownlow medallist decides it&rsquo;s time to hand over the reins.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GoldCoastSuns/Player Profiles/2015 - Profiles/LYNCH Tom.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-10-31T01:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 199,
+      "weightInKg" : 101,
+      "recruitedFrom" : "Sorrento/Dandenong U18",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 124.0,
+      "behinds" : 82.0,
+      "superGoals" : null,
+      "kicks" : 697.0,
+      "handballs" : 428.0,
+      "disposals" : 1125.0,
+      "marks" : 449.0,
+      "bounces" : 8.0,
+      "tackles" : 134.0,
+      "contestedPossessions" : 574.0,
+      "uncontestedPossessions" : 555.0,
+      "totalPossessions" : 1129.0,
+      "inside50s" : 180.0,
+      "marksInside50" : 163.0,
+      "contestedMarks" : 160.0,
+      "hitouts" : 69.0,
+      "onePercenters" : 205.0,
+      "disposalEfficiency" : 65.5,
+      "clangers" : 199.0,
+      "freesFor" : 76.0,
+      "freesAgainst" : 94.0,
+      "dreamTeamPoints" : 5519.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 24.0
+      },
+      "rebound50s" : 45.0,
+      "goalAssists" : 51.0,
+      "goalAccuracy" : 51.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.1,
+            "behinds" : 1.6,
+            "superGoals" : null,
+            "kicks" : 10.6,
+            "handballs" : 4.1,
+            "disposals" : 14.7,
+            "marks" : 6.7,
+            "bounces" : 0.3,
+            "tackles" : 1.6,
+            "contestedPossessions" : 7.4,
+            "uncontestedPossessions" : 7.4,
+            "totalPossessions" : 14.8,
+            "inside50s" : 3.6,
+            "marksInside50" : 2.4,
+            "contestedMarks" : 2.5,
+            "hitouts" : 0.8,
+            "onePercenters" : 3.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.8,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 79.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293813",
+            "playerName" : {
+              "givenName" : "Tom J.",
+              "surname" : "Lynch"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 43.0,
+            "behinds" : 33.0,
+            "superGoals" : null,
+            "kicks" : 212.0,
+            "handballs" : 83.0,
+            "disposals" : 295.0,
+            "marks" : 134.0,
+            "bounces" : 6.0,
+            "tackles" : 33.0,
+            "contestedPossessions" : 148.0,
+            "uncontestedPossessions" : 149.0,
+            "totalPossessions" : 297.0,
+            "inside50s" : 72.0,
+            "marksInside50" : 48.0,
+            "contestedMarks" : 51.0,
+            "hitouts" : 16.0,
+            "onePercenters" : 68.0,
+            "disposalEfficiency" : 64.1,
+            "clangers" : 56.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 25.0,
+            "dreamTeamPoints" : 1589.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 20.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 51.8,
+            "ratingPoints" : 443.6,
+            "ranking" : 58.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293813",
+            "playerName" : {
+              "givenName" : "Tom J.",
+              "surname" : "Lynch"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 95.4
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 2.1,
+            "behinds" : 1.1,
+            "superGoals" : null,
+            "kicks" : 9.2,
+            "handballs" : 5.8,
+            "disposals" : 15.0,
+            "marks" : 5.5,
+            "bounces" : 0.0,
+            "tackles" : 1.9,
+            "contestedPossessions" : 8.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 15.1,
+            "inside50s" : 2.3,
+            "marksInside50" : 2.8,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.2,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 75.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293813",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lynch"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 46.0,
+            "behinds" : 25.0,
+            "superGoals" : null,
+            "kicks" : 203.0,
+            "handballs" : 128.0,
+            "disposals" : 331.0,
+            "marks" : 122.0,
+            "bounces" : 1.0,
+            "tackles" : 41.0,
+            "contestedPossessions" : 177.0,
+            "uncontestedPossessions" : 155.0,
+            "totalPossessions" : 332.0,
+            "inside50s" : 50.0,
+            "marksInside50" : 62.0,
+            "contestedMarks" : 43.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 61.0,
+            "disposalEfficiency" : 63.7,
+            "clangers" : 49.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1654.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 22.0,
+            "goalAccuracy" : 54.8,
+            "ratingPoints" : 314.3,
+            "ranking" : 209.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293813",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lynch"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 95.2
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 7.1,
+            "handballs" : 5.0,
+            "disposals" : 12.1,
+            "marks" : 5.2,
+            "bounces" : 0.0,
+            "tackles" : 1.6,
+            "contestedPossessions" : 6.6,
+            "uncontestedPossessions" : 5.4,
+            "totalPossessions" : 12.0,
+            "inside50s" : 1.7,
+            "marksInside50" : 1.7,
+            "contestedMarks" : 2.2,
+            "hitouts" : 1.5,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 60.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293813",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lynch"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 57.0,
+            "handballs" : 40.0,
+            "disposals" : 97.0,
+            "marks" : 42.0,
+            "bounces" : 0.0,
+            "tackles" : 13.0,
+            "contestedPossessions" : 53.0,
+            "uncontestedPossessions" : 43.0,
+            "totalPossessions" : 96.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 14.0,
+            "contestedMarks" : 18.0,
+            "hitouts" : 12.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 62.9,
+            "clangers" : 14.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 483.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 47.1,
+            "ratingPoints" : 188.7,
+            "ranking" : 369.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293813",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lynch"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 87.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 8.6,
+            "handballs" : 6.4,
+            "disposals" : 14.9,
+            "marks" : 5.8,
+            "bounces" : 0.1,
+            "tackles" : 1.5,
+            "contestedPossessions" : 6.2,
+            "uncontestedPossessions" : 8.7,
+            "totalPossessions" : 14.9,
+            "inside50s" : 1.5,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 1.2,
+            "hitouts" : 1.8,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 1.1,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 65.7,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293813",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lynch"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 146.0,
+            "handballs" : 108.0,
+            "disposals" : 254.0,
+            "marks" : 98.0,
+            "bounces" : 1.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 106.0,
+            "uncontestedPossessions" : 148.0,
+            "totalPossessions" : 254.0,
+            "inside50s" : 26.0,
+            "marksInside50" : 21.0,
+            "contestedMarks" : 20.0,
+            "hitouts" : 30.0,
+            "onePercenters" : 46.0,
+            "disposalEfficiency" : 70.9,
+            "clangers" : 46.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 1117.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293813",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lynch"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 94.1
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 6.1,
+            "handballs" : 5.3,
+            "disposals" : 11.4,
+            "marks" : 4.1,
+            "bounces" : 0.0,
+            "tackles" : 1.6,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 4.6,
+            "totalPossessions" : 11.6,
+            "inside50s" : 1.4,
+            "marksInside50" : 1.4,
+            "contestedMarks" : 2.2,
+            "hitouts" : 0.5,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 52.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293813",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lynch"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 79.0,
+            "handballs" : 69.0,
+            "disposals" : 148.0,
+            "marks" : 53.0,
+            "bounces" : 0.0,
+            "tackles" : 21.0,
+            "contestedPossessions" : 91.0,
+            "uncontestedPossessions" : 60.0,
+            "totalPossessions" : 151.0,
+            "inside50s" : 18.0,
+            "marksInside50" : 18.0,
+            "contestedMarks" : 28.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 64.9,
+            "clangers" : 34.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 676.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 55.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293813",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Lynch"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 89.7
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 43.0,
+      "behinds" : 33.0,
+      "superGoals" : null,
+      "kicks" : 212.0,
+      "handballs" : 83.0,
+      "disposals" : 295.0,
+      "marks" : 134.0,
+      "bounces" : 6.0,
+      "tackles" : 33.0,
+      "contestedPossessions" : 148.0,
+      "uncontestedPossessions" : 149.0,
+      "totalPossessions" : 297.0,
+      "inside50s" : 72.0,
+      "marksInside50" : 48.0,
+      "contestedMarks" : 51.0,
+      "hitouts" : 16.0,
+      "onePercenters" : 68.0,
+      "disposalEfficiency" : 64.1,
+      "clangers" : 56.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 25.0,
+      "dreamTeamPoints" : 1589.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 3.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 20.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 51.8,
+      "ratingPoints" : 443.6,
+      "ranking" : 58.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I293813",
+        "playerName" : {
+          "givenName" : "Tom J.",
+          "surname" : "Lynch"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1000",
+        "teamAbbr" : "GCFC",
+        "teamName" : "Gold Coast Suns",
+        "teamNickname" : "Suns"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 444.8,
+        "ranking" : 57,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 444.8,
+        "ranking" : 2,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 444.8,
+        "ranking" : 6,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 248.0,
+        "ranking" : 72,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 80
+  }
+}

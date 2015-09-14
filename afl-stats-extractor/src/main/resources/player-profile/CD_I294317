@@ -1,0 +1,486 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I294317",
+    "position" : "Left Half Back",
+    "surname" : "Wright",
+    "jumperNumber" : 34,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 6.5,
+      "handballs" : 4.8,
+      "disposals" : 11.3,
+      "marks" : 2.3,
+      "bounces" : 0.8,
+      "tackles" : 2.4,
+      "contestedPossessions" : 3.7,
+      "uncontestedPossessions" : 7.7,
+      "totalPossessions" : 11.4,
+      "inside50s" : 1.4,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.4,
+      "disposalEfficiency" : null,
+      "clangers" : 1.4,
+      "freesFor" : 0.6,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 45.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.4,
+        "totalClearances" : 0.4
+      },
+      "rebound50s" : 1.9,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Nathan",
+    "bio" : "<p>An explosive stoppage player who reads the game exceptionally well, Wright was selection No.24 in the 2012 National Draft.</p>\n\n<p>He had back troubles and a broken jaw in 2013, but still managed to play eight senior matches in his debut season.</p>\n\n<p>Wright averaged 12 disposals as a back flanker, and regularly pumped the ball inside 50 following a dashing run from defence. He played on small forwards such as Eddie Betts and Leroy Jetta, and has an uncompromising approach to the game which sees him attack the ball with ferociousness.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/StKilda/Player Profiles/2015 - Profiles/WRIGHT Nathan.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1994-02-16T01:00:00.000+0000",
+      "draftYear" : "2012",
+      "heightInCm" : 185,
+      "weightInKg" : 77,
+      "recruitedFrom" : "Berwick/Dandenong U18",
+      "debutYear" : "2013"
+    },
+    "careerStats" : {
+      "goals" : 0.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 130.0,
+      "handballs" : 96.0,
+      "disposals" : 226.0,
+      "marks" : 47.0,
+      "bounces" : 16.0,
+      "tackles" : 49.0,
+      "contestedPossessions" : 74.0,
+      "uncontestedPossessions" : 154.0,
+      "totalPossessions" : 228.0,
+      "inside50s" : 28.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 28.0,
+      "disposalEfficiency" : 69.9,
+      "clangers" : 28.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 900.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 8.0,
+        "totalClearances" : 9.0
+      },
+      "rebound50s" : 39.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 7.8,
+            "handballs" : 4.4,
+            "disposals" : 12.2,
+            "marks" : 2.2,
+            "bounces" : 1.2,
+            "tackles" : 2.8,
+            "contestedPossessions" : 3.4,
+            "uncontestedPossessions" : 8.8,
+            "totalPossessions" : 12.2,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 48.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294317",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Wright"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 39.0,
+            "handballs" : 22.0,
+            "disposals" : 61.0,
+            "marks" : 11.0,
+            "bounces" : 6.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 17.0,
+            "uncontestedPossessions" : 44.0,
+            "totalPossessions" : 61.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 68.9,
+            "clangers" : 6.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 240.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 61.9,
+            "ranking" : 543.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294317",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Wright"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 60.4
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.4,
+            "handballs" : 2.4,
+            "disposals" : 9.9,
+            "marks" : 2.9,
+            "bounces" : 0.1,
+            "tackles" : 2.7,
+            "contestedPossessions" : 3.4,
+            "uncontestedPossessions" : 6.6,
+            "totalPossessions" : 10.0,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 46.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294317",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Wright"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 52.0,
+            "handballs" : 17.0,
+            "disposals" : 69.0,
+            "marks" : 20.0,
+            "bounces" : 1.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 24.0,
+            "uncontestedPossessions" : 46.0,
+            "totalPossessions" : 70.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 63.8,
+            "clangers" : 9.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 325.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 83.0,
+            "ranking" : 517.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294317",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Wright"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 81.5
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 4.9,
+            "handballs" : 7.1,
+            "disposals" : 12.0,
+            "marks" : 2.0,
+            "bounces" : 1.1,
+            "tackles" : 2.0,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 12.1,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 41.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294317",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Wright"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 39.0,
+            "handballs" : 57.0,
+            "disposals" : 96.0,
+            "marks" : 16.0,
+            "bounces" : 9.0,
+            "tackles" : 16.0,
+            "contestedPossessions" : 33.0,
+            "uncontestedPossessions" : 64.0,
+            "totalPossessions" : 97.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 75.0,
+            "clangers" : 13.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 335.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 48.2,
+            "ranking" : 599.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294317",
+            "playerName" : {
+              "givenName" : "Nathan",
+              "surname" : "Wright"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 80.5
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 39.0,
+      "handballs" : 22.0,
+      "disposals" : 61.0,
+      "marks" : 11.0,
+      "bounces" : 6.0,
+      "tackles" : 14.0,
+      "contestedPossessions" : 17.0,
+      "uncontestedPossessions" : 44.0,
+      "totalPossessions" : 61.0,
+      "inside50s" : 12.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 7.0,
+      "disposalEfficiency" : 68.9,
+      "clangers" : 6.0,
+      "freesFor" : 4.0,
+      "freesAgainst" : 5.0,
+      "dreamTeamPoints" : 240.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 3.0,
+        "totalClearances" : 3.0
+      },
+      "rebound50s" : 11.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 61.9,
+      "ranking" : 543.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I294317",
+        "playerName" : {
+          "givenName" : "Nathan",
+          "surname" : "Wright"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T130",
+        "teamAbbr" : "STK",
+        "teamName" : "St Kilda",
+        "teamNickname" : "Saints"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 61.9,
+        "ranking" : 550,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 61.9,
+        "ranking" : 32,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 61.9,
+        "ranking" : 106,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 25.2,
+        "ranking" : 545,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2012"
+    },
+    "careerGamesPlayed" : 20
+  }
+}

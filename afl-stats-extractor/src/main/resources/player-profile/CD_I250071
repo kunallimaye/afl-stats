@@ -1,0 +1,991 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I250071",
+    "position" : "Left Back Pocket",
+    "surname" : "Slattery",
+    "jumperNumber" : 20,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 5.2,
+      "handballs" : 5.5,
+      "disposals" : 10.7,
+      "marks" : 2.9,
+      "bounces" : 0.2,
+      "tackles" : 3.6,
+      "contestedPossessions" : 4.2,
+      "uncontestedPossessions" : 6.7,
+      "totalPossessions" : 10.9,
+      "inside50s" : 0.8,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.7,
+      "disposalEfficiency" : null,
+      "clangers" : 1.8,
+      "freesFor" : 0.7,
+      "freesAgainst" : 1.2,
+      "dreamTeamPoints" : 48.0,
+      "clearances" : {
+        "centreClearances" : 0.3,
+        "stoppageClearances" : 0.7,
+        "totalClearances" : 0.9
+      },
+      "rebound50s" : 1.4,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Henry",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1986-01-22T01:00:00.000+0000",
+      "draftYear" : "2004",
+      "heightInCm" : 185,
+      "weightInKg" : 86,
+      "recruitedFrom" : "West Adelaide (SA)",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 12.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 504.0,
+      "handballs" : 525.0,
+      "disposals" : 1029.0,
+      "marks" : 283.0,
+      "bounces" : 19.0,
+      "tackles" : 344.0,
+      "contestedPossessions" : 403.0,
+      "uncontestedPossessions" : 643.0,
+      "totalPossessions" : 1046.0,
+      "inside50s" : 78.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 22.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 258.0,
+      "disposalEfficiency" : 78.9,
+      "clangers" : 175.0,
+      "freesFor" : 70.0,
+      "freesAgainst" : 111.0,
+      "dreamTeamPoints" : 4607.0,
+      "clearances" : {
+        "centreClearances" : 26.0,
+        "stoppageClearances" : 65.0,
+        "totalClearances" : 91.0
+      },
+      "rebound50s" : 133.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 48.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.5,
+            "handballs" : 2.0,
+            "disposals" : 4.5,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 3.5,
+            "totalPossessions" : 5.5,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 12.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250071",
+            "playerName" : {
+              "givenName" : "Henry",
+              "surname" : "Slattery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 4.0,
+            "disposals" : 9.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 11.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 55.6,
+            "clangers" : 3.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 25.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250071",
+            "playerName" : {
+              "givenName" : "Henry",
+              "surname" : "Slattery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 43.4
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 4.1,
+            "disposals" : 10.1,
+            "marks" : 2.4,
+            "bounces" : 0.0,
+            "tackles" : 4.2,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 5.7,
+            "totalPossessions" : 10.7,
+            "inside50s" : 0.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 48.5,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250071",
+            "playerName" : {
+              "givenName" : "Henry",
+              "surname" : "Slattery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 48.0,
+            "handballs" : 33.0,
+            "disposals" : 81.0,
+            "marks" : 19.0,
+            "bounces" : 0.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 40.0,
+            "uncontestedPossessions" : 46.0,
+            "totalPossessions" : 86.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 76.5,
+            "clangers" : 10.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 388.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250071",
+            "playerName" : {
+              "givenName" : "Henry",
+              "surname" : "Slattery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 86.7
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 5.2,
+            "disposals" : 10.8,
+            "marks" : 2.9,
+            "bounces" : 0.2,
+            "tackles" : 4.2,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 6.5,
+            "totalPossessions" : 10.7,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 50.8,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250071",
+            "playerName" : {
+              "givenName" : "Henry",
+              "surname" : "Slattery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 72.0,
+            "handballs" : 68.0,
+            "disposals" : 140.0,
+            "marks" : 38.0,
+            "bounces" : 2.0,
+            "tackles" : 54.0,
+            "contestedPossessions" : 54.0,
+            "uncontestedPossessions" : 85.0,
+            "totalPossessions" : 139.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 80.7,
+            "clangers" : 18.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 660.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 19.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250071",
+            "playerName" : {
+              "givenName" : "Henry",
+              "surname" : "Slattery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 82.5
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.4,
+            "handballs" : 6.9,
+            "disposals" : 13.3,
+            "marks" : 3.6,
+            "bounces" : 0.1,
+            "tackles" : 3.8,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 9.4,
+            "totalPossessions" : 13.3,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 57.6,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250071",
+            "playerName" : {
+              "givenName" : "Henry",
+              "surname" : "Slattery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 135.0,
+            "handballs" : 145.0,
+            "disposals" : 280.0,
+            "marks" : 76.0,
+            "bounces" : 3.0,
+            "tackles" : 80.0,
+            "contestedPossessions" : 82.0,
+            "uncontestedPossessions" : 197.0,
+            "totalPossessions" : 279.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 63.0,
+            "disposalEfficiency" : 78.9,
+            "clangers" : 41.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1210.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 38.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250071",
+            "playerName" : {
+              "givenName" : "Henry",
+              "surname" : "Slattery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 88.8
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.2,
+            "handballs" : 5.9,
+            "disposals" : 11.1,
+            "marks" : 2.9,
+            "bounces" : 0.5,
+            "tackles" : 3.7,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 6.7,
+            "totalPossessions" : 11.3,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.7,
+            "dreamTeamPoints" : 47.8,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250071",
+            "playerName" : {
+              "givenName" : "Henry",
+              "surname" : "Slattery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 105.0,
+            "handballs" : 118.0,
+            "disposals" : 223.0,
+            "marks" : 59.0,
+            "bounces" : 11.0,
+            "tackles" : 74.0,
+            "contestedPossessions" : 92.0,
+            "uncontestedPossessions" : 134.0,
+            "totalPossessions" : 226.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 49.0,
+            "disposalEfficiency" : 81.2,
+            "clangers" : 51.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 35.0,
+            "dreamTeamPoints" : 956.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 21.0
+            },
+            "rebound50s" : 26.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250071",
+            "playerName" : {
+              "givenName" : "Henry",
+              "surname" : "Slattery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 87.2
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 4.5,
+            "handballs" : 4.8,
+            "disposals" : 9.3,
+            "marks" : 2.7,
+            "bounces" : 0.0,
+            "tackles" : 3.9,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 5.6,
+            "totalPossessions" : 9.6,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 45.9,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250071",
+            "playerName" : {
+              "givenName" : "Henry",
+              "surname" : "Slattery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 91.0,
+            "handballs" : 96.0,
+            "disposals" : 187.0,
+            "marks" : 55.0,
+            "bounces" : 1.0,
+            "tackles" : 78.0,
+            "contestedPossessions" : 79.0,
+            "uncontestedPossessions" : 113.0,
+            "totalPossessions" : 192.0,
+            "inside50s" : 20.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 54.0,
+            "disposalEfficiency" : 80.7,
+            "clangers" : 35.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 918.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 22.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 57.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250071",
+            "playerName" : {
+              "givenName" : "Henry",
+              "surname" : "Slattery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 85.0
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 3.9,
+            "handballs" : 5.5,
+            "disposals" : 9.4,
+            "marks" : 3.6,
+            "bounces" : 0.1,
+            "tackles" : 2.0,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 5.4,
+            "totalPossessions" : 9.5,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 39.4,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250071",
+            "playerName" : {
+              "givenName" : "Henry",
+              "surname" : "Slattery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 31.0,
+            "handballs" : 44.0,
+            "disposals" : 75.0,
+            "marks" : 29.0,
+            "bounces" : 1.0,
+            "tackles" : 16.0,
+            "contestedPossessions" : 33.0,
+            "uncontestedPossessions" : 43.0,
+            "totalPossessions" : 76.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 74.7,
+            "clangers" : 11.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 315.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250071",
+            "playerName" : {
+              "givenName" : "Henry",
+              "surname" : "Slattery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 88.1
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.2,
+            "handballs" : 4.2,
+            "disposals" : 8.5,
+            "marks" : 1.7,
+            "bounces" : 0.2,
+            "tackles" : 1.5,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 4.5,
+            "totalPossessions" : 9.2,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 33.7,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250071",
+            "playerName" : {
+              "givenName" : "Henry",
+              "surname" : "Slattery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 17.0,
+            "handballs" : 17.0,
+            "disposals" : 34.0,
+            "marks" : 7.0,
+            "bounces" : 1.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 19.0,
+            "uncontestedPossessions" : 18.0,
+            "totalPossessions" : 37.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 67.6,
+            "clangers" : 6.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 135.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I250071",
+            "playerName" : {
+              "givenName" : "Henry",
+              "surname" : "Slattery"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T50",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 66.9
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 5.0,
+      "handballs" : 4.0,
+      "disposals" : 9.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 2.0,
+      "contestedPossessions" : 4.0,
+      "uncontestedPossessions" : 7.0,
+      "totalPossessions" : 11.0,
+      "inside50s" : 1.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.0,
+      "disposalEfficiency" : 55.6,
+      "clangers" : 3.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 2.0,
+      "dreamTeamPoints" : 25.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201201427",
+      "player" : {
+        "playerId" : "CD_I250071",
+        "playerName" : {
+          "givenName" : "Henry",
+          "surname" : "Slattery"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T50",
+        "teamAbbr" : "ESS",
+        "teamName" : "Essendon",
+        "teamNickname" : "Bombers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 54.0,
+        "ranking" : 555,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 54.0,
+        "ranking" : 31,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 54.0,
+        "ranking" : 187,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      } ],
+      "draftYear" : null
+    },
+    "careerGamesPlayed" : 96
+  }
+}

@@ -1,0 +1,956 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960580",
+    "position" : "Right Half Forward",
+    "surname" : "Harvey",
+    "jumperNumber" : 35,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Robert",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1971-08-21T02:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 181,
+      "weightInKg" : 84,
+      "recruitedFrom" : "Seaford ",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 94.0,
+      "behinds" : 78.0,
+      "superGoals" : null,
+      "kicks" : 2493.0,
+      "handballs" : 1666.0,
+      "disposals" : 4159.0,
+      "marks" : 880.0,
+      "bounces" : 92.0,
+      "tackles" : 355.0,
+      "contestedPossessions" : 1465.0,
+      "uncontestedPossessions" : 2702.0,
+      "totalPossessions" : 4167.0,
+      "inside50s" : 681.0,
+      "marksInside50" : 88.0,
+      "contestedMarks" : 24.0,
+      "hitouts" : 4.0,
+      "onePercenters" : 238.0,
+      "disposalEfficiency" : 78.4,
+      "clangers" : 345.0,
+      "freesFor" : 145.0,
+      "freesAgainst" : 92.0,
+      "dreamTeamPoints" : 15386.0,
+      "clearances" : {
+        "centreClearances" : 301.0,
+        "stoppageClearances" : 382.0,
+        "totalClearances" : 683.0
+      },
+      "rebound50s" : 349.0,
+      "goalAssists" : 92.0,
+      "goalAccuracy" : 50.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 12.1,
+            "handballs" : 9.0,
+            "disposals" : 21.1,
+            "marks" : 5.4,
+            "bounces" : 0.7,
+            "tackles" : 1.7,
+            "contestedPossessions" : 6.2,
+            "uncontestedPossessions" : 15.1,
+            "totalPossessions" : 21.3,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 78.7,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960580",
+            "playerName" : {
+              "givenName" : "Robert",
+              "surname" : "Harvey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 291.0,
+            "handballs" : 216.0,
+            "disposals" : 507.0,
+            "marks" : 129.0,
+            "bounces" : 18.0,
+            "tackles" : 40.0,
+            "contestedPossessions" : 150.0,
+            "uncontestedPossessions" : 362.0,
+            "totalPossessions" : 512.0,
+            "inside50s" : 58.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 76.7,
+            "clangers" : 43.0,
+            "freesFor" : 20.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1888.0,
+            "clearances" : {
+              "centreClearances" : 15.0,
+              "stoppageClearances" : 34.0,
+              "totalClearances" : 49.0
+            },
+            "rebound50s" : 49.0,
+            "goalAssists" : 21.0,
+            "goalAccuracy" : 46.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960580",
+            "playerName" : {
+              "givenName" : "Robert",
+              "surname" : "Harvey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 66.1
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 12.2,
+            "handballs" : 8.5,
+            "disposals" : 20.6,
+            "marks" : 5.5,
+            "bounces" : 0.6,
+            "tackles" : 1.9,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 14.8,
+            "totalPossessions" : 20.4,
+            "inside50s" : 2.7,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 78.9,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960580",
+            "playerName" : {
+              "givenName" : "Robert",
+              "surname" : "Harvey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 231.0,
+            "handballs" : 161.0,
+            "disposals" : 392.0,
+            "marks" : 105.0,
+            "bounces" : 11.0,
+            "tackles" : 36.0,
+            "contestedPossessions" : 107.0,
+            "uncontestedPossessions" : 281.0,
+            "totalPossessions" : 388.0,
+            "inside50s" : 52.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 76.0,
+            "clangers" : 27.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 1499.0,
+            "clearances" : {
+              "centreClearances" : 16.0,
+              "stoppageClearances" : 25.0,
+              "totalClearances" : 41.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 57.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960580",
+            "playerName" : {
+              "givenName" : "Robert",
+              "surname" : "Harvey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 73.0
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 13.0,
+            "handballs" : 7.7,
+            "disposals" : 20.7,
+            "marks" : 6.3,
+            "bounces" : 0.2,
+            "tackles" : 3.2,
+            "contestedPossessions" : 6.1,
+            "uncontestedPossessions" : 14.6,
+            "totalPossessions" : 20.7,
+            "inside50s" : 3.3,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 90.7,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960580",
+            "playerName" : {
+              "givenName" : "Robert",
+              "surname" : "Harvey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 18.0,
+            "behinds" : 13.0,
+            "superGoals" : null,
+            "kicks" : 299.0,
+            "handballs" : 177.0,
+            "disposals" : 476.0,
+            "marks" : 146.0,
+            "bounces" : 5.0,
+            "tackles" : 73.0,
+            "contestedPossessions" : 141.0,
+            "uncontestedPossessions" : 335.0,
+            "totalPossessions" : 476.0,
+            "inside50s" : 77.0,
+            "marksInside50" : 20.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 38.0,
+            "disposalEfficiency" : 78.6,
+            "clangers" : 42.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 2086.0,
+            "clearances" : {
+              "centreClearances" : 20.0,
+              "stoppageClearances" : 31.0,
+              "totalClearances" : 51.0
+            },
+            "rebound50s" : 36.0,
+            "goalAssists" : 15.0,
+            "goalAccuracy" : 56.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960580",
+            "playerName" : {
+              "givenName" : "Robert",
+              "surname" : "Harvey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 77.9
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 12.2,
+            "handballs" : 9.4,
+            "disposals" : 21.6,
+            "marks" : 5.3,
+            "bounces" : 0.1,
+            "tackles" : 2.3,
+            "contestedPossessions" : 7.4,
+            "uncontestedPossessions" : 14.5,
+            "totalPossessions" : 21.9,
+            "inside50s" : 3.6,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 85.4,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 1.9,
+              "totalClearances" : 3.2
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960580",
+            "playerName" : {
+              "givenName" : "Robert",
+              "surname" : "Harvey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 208.0,
+            "handballs" : 159.0,
+            "disposals" : 367.0,
+            "marks" : 90.0,
+            "bounces" : 2.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 125.0,
+            "uncontestedPossessions" : 247.0,
+            "totalPossessions" : 372.0,
+            "inside50s" : 61.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 80.7,
+            "clangers" : 22.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 1452.0,
+            "clearances" : {
+              "centreClearances" : 22.0,
+              "stoppageClearances" : 32.0,
+              "totalClearances" : 54.0
+            },
+            "rebound50s" : 25.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 63.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960580",
+            "playerName" : {
+              "givenName" : "Robert",
+              "surname" : "Harvey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 76.0
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 13.1,
+            "handballs" : 8.6,
+            "disposals" : 21.7,
+            "marks" : 4.3,
+            "bounces" : 0.7,
+            "tackles" : 1.7,
+            "contestedPossessions" : 8.1,
+            "uncontestedPossessions" : 13.4,
+            "totalPossessions" : 21.5,
+            "inside50s" : 3.5,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 78.5,
+            "clearances" : {
+              "centreClearances" : 1.7,
+              "stoppageClearances" : 2.3,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960580",
+            "playerName" : {
+              "givenName" : "Robert",
+              "surname" : "Harvey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 301.0,
+            "handballs" : 197.0,
+            "disposals" : 498.0,
+            "marks" : 100.0,
+            "bounces" : 16.0,
+            "tackles" : 38.0,
+            "contestedPossessions" : 186.0,
+            "uncontestedPossessions" : 308.0,
+            "totalPossessions" : 494.0,
+            "inside50s" : 80.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 73.5,
+            "clangers" : 43.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1806.0,
+            "clearances" : {
+              "centreClearances" : 39.0,
+              "stoppageClearances" : 52.0,
+              "totalClearances" : 91.0
+            },
+            "rebound50s" : 44.0,
+            "goalAssists" : 17.0,
+            "goalAccuracy" : 52.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960580",
+            "playerName" : {
+              "givenName" : "Robert",
+              "surname" : "Harvey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 80.9
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 16.4,
+            "handballs" : 10.0,
+            "disposals" : 26.4,
+            "marks" : 5.2,
+            "bounces" : 0.7,
+            "tackles" : 2.7,
+            "contestedPossessions" : 10.1,
+            "uncontestedPossessions" : 16.2,
+            "totalPossessions" : 26.4,
+            "inside50s" : 4.7,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 98.3,
+            "clearances" : {
+              "centreClearances" : 2.1,
+              "stoppageClearances" : 3.1,
+              "totalClearances" : 5.3
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960580",
+            "playerName" : {
+              "givenName" : "Robert",
+              "surname" : "Harvey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 361.0,
+            "handballs" : 219.0,
+            "disposals" : 580.0,
+            "marks" : 114.0,
+            "bounces" : 16.0,
+            "tackles" : 59.0,
+            "contestedPossessions" : 223.0,
+            "uncontestedPossessions" : 357.0,
+            "totalPossessions" : 580.0,
+            "inside50s" : 103.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 79.7,
+            "clangers" : 39.0,
+            "freesFor" : 17.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 2163.0,
+            "clearances" : {
+              "centreClearances" : 47.0,
+              "stoppageClearances" : 69.0,
+              "totalClearances" : 116.0
+            },
+            "rebound50s" : 50.0,
+            "goalAssists" : 16.0,
+            "goalAccuracy" : 46.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960580",
+            "playerName" : {
+              "givenName" : "Robert",
+              "surname" : "Harvey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 91.3
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 12.2,
+            "handballs" : 7.2,
+            "disposals" : 19.4,
+            "marks" : 2.8,
+            "bounces" : 0.3,
+            "tackles" : 1.4,
+            "contestedPossessions" : 7.5,
+            "uncontestedPossessions" : 11.9,
+            "totalPossessions" : 19.4,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 67.8,
+            "clearances" : {
+              "centreClearances" : 2.2,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 4.2
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960580",
+            "playerName" : {
+              "givenName" : "Robert",
+              "surname" : "Harvey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 122.0,
+            "handballs" : 72.0,
+            "disposals" : 194.0,
+            "marks" : 28.0,
+            "bounces" : 3.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 75.0,
+            "uncontestedPossessions" : 119.0,
+            "totalPossessions" : 194.0,
+            "inside50s" : 38.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 79.4,
+            "clangers" : 16.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 678.0,
+            "clearances" : {
+              "centreClearances" : 22.0,
+              "stoppageClearances" : 20.0,
+              "totalClearances" : 42.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 36.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960580",
+            "playerName" : {
+              "givenName" : "Robert",
+              "surname" : "Harvey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.2,
+            "superGoals" : null,
+            "kicks" : 15.0,
+            "handballs" : 9.4,
+            "disposals" : 24.4,
+            "marks" : 4.0,
+            "bounces" : 0.2,
+            "tackles" : 2.2,
+            "contestedPossessions" : 11.3,
+            "uncontestedPossessions" : 14.0,
+            "totalPossessions" : 25.3,
+            "inside50s" : 5.9,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.8,
+            "freesFor" : 0.9,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 89.6,
+            "clearances" : {
+              "centreClearances" : 2.9,
+              "stoppageClearances" : 2.4,
+              "totalClearances" : 5.3
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960580",
+            "playerName" : {
+              "givenName" : "Robert",
+              "surname" : "Harvey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 135.0,
+            "handballs" : 85.0,
+            "disposals" : 220.0,
+            "marks" : 36.0,
+            "bounces" : 2.0,
+            "tackles" : 20.0,
+            "contestedPossessions" : 102.0,
+            "uncontestedPossessions" : 126.0,
+            "totalPossessions" : 228.0,
+            "inside50s" : 53.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 74.1,
+            "clangers" : 25.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 806.0,
+            "clearances" : {
+              "centreClearances" : 26.0,
+              "stoppageClearances" : 22.0,
+              "totalClearances" : 48.0
+            },
+            "rebound50s" : 17.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 45.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960580",
+            "playerName" : {
+              "givenName" : "Robert",
+              "surname" : "Harvey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 7.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 291.0,
+      "handballs" : 216.0,
+      "disposals" : 507.0,
+      "marks" : 129.0,
+      "bounces" : 18.0,
+      "tackles" : 40.0,
+      "contestedPossessions" : 150.0,
+      "uncontestedPossessions" : 362.0,
+      "totalPossessions" : 512.0,
+      "inside50s" : 58.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 26.0,
+      "disposalEfficiency" : 76.7,
+      "clangers" : 43.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 1888.0,
+      "clearances" : {
+        "centreClearances" : 15.0,
+        "stoppageClearances" : 34.0,
+        "totalClearances" : 49.0
+      },
+      "rebound50s" : 49.0,
+      "goalAssists" : 21.0,
+      "goalAccuracy" : 46.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

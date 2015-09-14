@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I281080",
+    "position" : "Full Back",
+    "surname" : "Sheppard",
+    "jumperNumber" : 5,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 9.3,
+      "handballs" : 5.6,
+      "disposals" : 14.9,
+      "marks" : 4.0,
+      "bounces" : 0.4,
+      "tackles" : 2.1,
+      "contestedPossessions" : 4.5,
+      "uncontestedPossessions" : 10.4,
+      "totalPossessions" : 14.9,
+      "inside50s" : 1.7,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.4,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.2,
+      "disposalEfficiency" : null,
+      "clangers" : 1.5,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.4,
+      "dreamTeamPoints" : 60.6,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.5,
+        "totalClearances" : 0.7
+      },
+      "rebound50s" : 1.8,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Brad",
+    "bio" : "<p>Was finally settled in a role at half-back after playing as a &nbsp;utility of sorts in previous seasons. After his role was clearly defined in the pre-season, Sheppard delivered consistent performances in his 14 games in 2014 before an ankle injury ended his year in round 18. Signed a two-year contract extension until the end of 2016. &nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WestCoastEagles/Player Profiles/2015 - Profiles/SHEPPARD Brad.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-05-23T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 186,
+      "weightInKg" : 82,
+      "recruitedFrom" : "East Fremantle (WA)",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 15.0,
+      "behinds" : 17.0,
+      "superGoals" : null,
+      "kicks" : 766.0,
+      "handballs" : 457.0,
+      "disposals" : 1223.0,
+      "marks" : 329.0,
+      "bounces" : 36.0,
+      "tackles" : 176.0,
+      "contestedPossessions" : 369.0,
+      "uncontestedPossessions" : 853.0,
+      "totalPossessions" : 1222.0,
+      "inside50s" : 139.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 33.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 178.0,
+      "disposalEfficiency" : 75.8,
+      "clangers" : 127.0,
+      "freesFor" : 58.0,
+      "freesAgainst" : 32.0,
+      "dreamTeamPoints" : 4972.0,
+      "clearances" : {
+        "centreClearances" : 15.0,
+        "stoppageClearances" : 45.0,
+        "totalClearances" : 60.0
+      },
+      "rebound50s" : 150.0,
+      "goalAssists" : 20.0,
+      "goalAccuracy" : 37.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 10.6,
+            "handballs" : 6.7,
+            "disposals" : 17.3,
+            "marks" : 5.6,
+            "bounces" : 0.5,
+            "tackles" : 1.5,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 12.1,
+            "totalPossessions" : 16.9,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.9,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 68.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281080",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sheppard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 243.0,
+            "handballs" : 154.0,
+            "disposals" : 397.0,
+            "marks" : 129.0,
+            "bounces" : 12.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 110.0,
+            "uncontestedPossessions" : 279.0,
+            "totalPossessions" : 389.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 20.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 74.0,
+            "disposalEfficiency" : 83.9,
+            "clangers" : 30.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1569.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 52.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 298.7,
+            "ranking" : 229.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281080",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sheppard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 89.2
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 11.6,
+            "handballs" : 5.1,
+            "disposals" : 16.7,
+            "marks" : 4.1,
+            "bounces" : 0.9,
+            "tackles" : 2.4,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 11.9,
+            "totalPossessions" : 16.8,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 66.5,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 2.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281080",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sheppard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 162.0,
+            "handballs" : 72.0,
+            "disposals" : 234.0,
+            "marks" : 57.0,
+            "bounces" : 12.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 69.0,
+            "uncontestedPossessions" : 166.0,
+            "totalPossessions" : 235.0,
+            "inside50s" : 26.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 34.0,
+            "disposalEfficiency" : 69.7,
+            "clangers" : 28.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 931.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 40.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 185.0,
+            "ranking" : 373.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281080",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sheppard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 79.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 4.4,
+            "disposals" : 11.8,
+            "marks" : 2.8,
+            "bounces" : 0.1,
+            "tackles" : 2.4,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 8.2,
+            "totalPossessions" : 12.0,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 50.7,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281080",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sheppard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 97.0,
+            "handballs" : 57.0,
+            "disposals" : 154.0,
+            "marks" : 37.0,
+            "bounces" : 1.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 50.0,
+            "uncontestedPossessions" : 106.0,
+            "totalPossessions" : 156.0,
+            "inside50s" : 25.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 70.8,
+            "clangers" : 16.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 659.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 27.3,
+            "ratingPoints" : 162.8,
+            "ranking" : 404.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281080",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sheppard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 74.4
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 4.8,
+            "disposals" : 13.0,
+            "marks" : 3.9,
+            "bounces" : 0.2,
+            "tackles" : 2.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 9.1,
+            "totalPossessions" : 13.1,
+            "inside50s" : 2.7,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 55.8,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281080",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sheppard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 98.0,
+            "handballs" : 58.0,
+            "disposals" : 156.0,
+            "marks" : 47.0,
+            "bounces" : 2.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 48.0,
+            "uncontestedPossessions" : 109.0,
+            "totalPossessions" : 157.0,
+            "inside50s" : 33.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 73.1,
+            "clangers" : 23.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 670.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 54.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281080",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sheppard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 76.1
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 4.3,
+            "disposals" : 12.3,
+            "marks" : 2.8,
+            "bounces" : 0.0,
+            "tackles" : 3.7,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 8.5,
+            "totalPossessions" : 12.5,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 57.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281080",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sheppard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 48.0,
+            "handballs" : 26.0,
+            "disposals" : 74.0,
+            "marks" : 17.0,
+            "bounces" : 0.0,
+            "tackles" : 22.0,
+            "contestedPossessions" : 24.0,
+            "uncontestedPossessions" : 51.0,
+            "totalPossessions" : 75.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 73.0,
+            "clangers" : 10.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 342.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281080",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sheppard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 82.3
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 8.4,
+            "handballs" : 6.4,
+            "disposals" : 14.9,
+            "marks" : 3.0,
+            "bounces" : 0.6,
+            "tackles" : 2.2,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 10.1,
+            "totalPossessions" : 15.0,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 57.2,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281080",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sheppard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 118.0,
+            "handballs" : 90.0,
+            "disposals" : 208.0,
+            "marks" : 42.0,
+            "bounces" : 9.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 68.0,
+            "uncontestedPossessions" : 142.0,
+            "totalPossessions" : 210.0,
+            "inside50s" : 23.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 73.6,
+            "clangers" : 20.0,
+            "freesFor" : 11.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 801.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 8.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 22.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281080",
+            "playerName" : {
+              "givenName" : "Brad",
+              "surname" : "Sheppard"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 77.5
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 3.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 243.0,
+      "handballs" : 154.0,
+      "disposals" : 397.0,
+      "marks" : 129.0,
+      "bounces" : 12.0,
+      "tackles" : 34.0,
+      "contestedPossessions" : 110.0,
+      "uncontestedPossessions" : 279.0,
+      "totalPossessions" : 389.0,
+      "inside50s" : 29.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 20.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 74.0,
+      "disposalEfficiency" : 83.9,
+      "clangers" : 30.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 1569.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 10.0,
+        "totalClearances" : 10.0
+      },
+      "rebound50s" : 52.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 298.7,
+      "ranking" : 229.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I281080",
+        "playerName" : {
+          "givenName" : "Brad",
+          "surname" : "Sheppard"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T150",
+        "teamAbbr" : "WCE",
+        "teamName" : "West Coast Eagles",
+        "teamNickname" : "Eagles"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 299.9,
+        "ranking" : 230,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 299.9,
+        "ranking" : 14,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 299.9,
+        "ranking" : 38,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 6.8,
+        "ranking" : 117,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 208.2,
+        "ranking" : 136,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 82
+  }
+}

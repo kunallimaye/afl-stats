@@ -1,0 +1,486 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I294592",
+    "position" : "Right Wing",
+    "surname" : "McIntosh",
+    "jumperNumber" : 33,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 10.5,
+      "handballs" : 4.8,
+      "disposals" : 15.3,
+      "marks" : 4.1,
+      "bounces" : 0.7,
+      "tackles" : 2.6,
+      "contestedPossessions" : 4.4,
+      "uncontestedPossessions" : 10.6,
+      "totalPossessions" : 15.0,
+      "inside50s" : 2.5,
+      "marksInside50" : 0.3,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.4,
+      "disposalEfficiency" : null,
+      "clangers" : 2.3,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 64.8,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 1.1
+      },
+      "rebound50s" : 2.0,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Kamdyn",
+    "bio" : "<p>Was again cut down by injury with a foot stress fracture that robbed him of six weeks late in his second season, but showed enough to warrant a one-year contract extension. Has excellent running capacity and is a good size for a wingman at 192cm. The Tigers believe the West Australian has the ability to make it at the AFL level if he can get his body right.<br /><br /><strong>Draft history</strong>: 2012 AFL Draft 2nd round selection (Richmond) No. 31 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Richmond/Player Profiles/2015 - Profiles/MCINTOSH Kamdyn.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1994-04-03T02:00:00.000+0000",
+      "draftYear" : "2012",
+      "heightInCm" : 192,
+      "weightInKg" : 89,
+      "recruitedFrom" : "Pinjarra (WA)/Peel Thunder (WAFL)",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 8.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 242.0,
+      "handballs" : 111.0,
+      "disposals" : 353.0,
+      "marks" : 94.0,
+      "bounces" : 16.0,
+      "tackles" : 60.0,
+      "contestedPossessions" : 101.0,
+      "uncontestedPossessions" : 243.0,
+      "totalPossessions" : 344.0,
+      "inside50s" : 58.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 32.0,
+      "disposalEfficiency" : 68.3,
+      "clangers" : 52.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 16.0,
+      "dreamTeamPoints" : 1490.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 24.0,
+        "totalClearances" : 26.0
+      },
+      "rebound50s" : 47.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 42.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 10.5,
+            "handballs" : 4.8,
+            "disposals" : 15.3,
+            "marks" : 4.1,
+            "bounces" : 0.7,
+            "tackles" : 2.6,
+            "contestedPossessions" : 4.4,
+            "uncontestedPossessions" : 10.6,
+            "totalPossessions" : 15.0,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 64.8,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294592",
+            "playerName" : {
+              "givenName" : "Kamdyn",
+              "surname" : "McIntosh"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 242.0,
+            "handballs" : 111.0,
+            "disposals" : 353.0,
+            "marks" : 94.0,
+            "bounces" : 16.0,
+            "tackles" : 60.0,
+            "contestedPossessions" : 101.0,
+            "uncontestedPossessions" : 243.0,
+            "totalPossessions" : 344.0,
+            "inside50s" : 58.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 32.0,
+            "disposalEfficiency" : 68.3,
+            "clangers" : 52.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1490.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 24.0,
+              "totalClearances" : 26.0
+            },
+            "rebound50s" : 47.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 42.1,
+            "ratingPoints" : 139.7,
+            "ranking" : 451.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294592",
+            "playerName" : {
+              "givenName" : "Kamdyn",
+              "surname" : "McIntosh"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 75.2
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294592",
+            "playerName" : {
+              "givenName" : "Kamdyn",
+              "surname" : "McIntosh"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294592",
+            "playerName" : {
+              "givenName" : "Kamdyn",
+              "surname" : "McIntosh"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294592",
+            "playerName" : {
+              "givenName" : "Kamdyn",
+              "surname" : "McIntosh"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294592",
+            "playerName" : {
+              "givenName" : "Kamdyn",
+              "surname" : "McIntosh"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 8.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 242.0,
+      "handballs" : 111.0,
+      "disposals" : 353.0,
+      "marks" : 94.0,
+      "bounces" : 16.0,
+      "tackles" : 60.0,
+      "contestedPossessions" : 101.0,
+      "uncontestedPossessions" : 243.0,
+      "totalPossessions" : 344.0,
+      "inside50s" : 58.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 32.0,
+      "disposalEfficiency" : 68.3,
+      "clangers" : 52.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 16.0,
+      "dreamTeamPoints" : 1490.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 24.0,
+        "totalClearances" : 26.0
+      },
+      "rebound50s" : 47.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 42.1,
+      "ratingPoints" : 139.7,
+      "ranking" : 451.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I294592",
+        "playerName" : {
+          "givenName" : "Kamdyn",
+          "surname" : "McIntosh"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T120",
+        "teamAbbr" : "RICH",
+        "teamName" : "Richmond",
+        "teamNickname" : "Tigers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 149.1,
+        "ranking" : 438,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 149.1,
+        "ranking" : 24,
+        "ratingType" : "TEAM",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 149.1,
+        "ranking" : 131,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 9.4,
+        "ranking" : 77,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 149.1,
+        "ranking" : 250,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2012"
+    },
+    "careerGamesPlayed" : 23
+  }
+}

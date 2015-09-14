@@ -1,0 +1,1104 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I260303",
+    "position" : "Centre Half Back",
+    "surname" : "Brown",
+    "jumperNumber" : 1,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 5.0,
+      "handballs" : 6.2,
+      "disposals" : 11.2,
+      "marks" : 3.3,
+      "bounces" : 0.1,
+      "tackles" : 1.8,
+      "contestedPossessions" : 3.7,
+      "uncontestedPossessions" : 7.6,
+      "totalPossessions" : 11.4,
+      "inside50s" : 1.0,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.4,
+      "hitouts" : 0.0,
+      "onePercenters" : 3.5,
+      "disposalEfficiency" : null,
+      "clangers" : 1.7,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 43.9,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.2,
+        "totalClearances" : 0.3
+      },
+      "rebound50s" : 1.3,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Mitchell",
+    "bio" : "<p>The strong, athletic defender played 19 games in 2014 and is starting to get some continuity after years of injury troubles. Had a nasty ankle scare in round 15, but missed only two weeks. Filled<br>\na role up forward at times during the first half of the season, but moved back into defence following the retirement of Darren Glass mid-year to partner Eric Mackenzie in the second key post. Has two years to run on his contract.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WestCoastEagles/Player Profiles/2015 - Profiles/BROWN Mitchell.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1988-12-17T01:00:00.000+0000",
+      "draftYear" : "2006",
+      "heightInCm" : 195,
+      "weightInKg" : 93,
+      "recruitedFrom" : "Ballarat/North Ballarat U18",
+      "debutYear" : "2007"
+    },
+    "careerStats" : {
+      "goals" : 13.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 449.0,
+      "handballs" : 562.0,
+      "disposals" : 1011.0,
+      "marks" : 295.0,
+      "bounces" : 12.0,
+      "tackles" : 162.0,
+      "contestedPossessions" : 335.0,
+      "uncontestedPossessions" : 688.0,
+      "totalPossessions" : 1023.0,
+      "inside50s" : 88.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 34.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 312.0,
+      "disposalEfficiency" : 74.1,
+      "clangers" : 154.0,
+      "freesFor" : 42.0,
+      "freesAgainst" : 62.0,
+      "dreamTeamPoints" : 3950.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 115.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 39.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 2.0,
+            "disposals" : 2.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 2.0,
+            "totalPossessions" : 2.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 4.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260303",
+            "playerName" : {
+              "givenName" : "Mitchell",
+              "surname" : "Brown"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 2.0,
+            "disposals" : 2.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 2.0,
+            "totalPossessions" : 2.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 50.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 4.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 95.2,
+            "ranking" : 505.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260303",
+            "playerName" : {
+              "givenName" : "Mitchell",
+              "surname" : "Brown"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 11.1
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 4.6,
+            "handballs" : 5.0,
+            "disposals" : 9.6,
+            "marks" : 2.6,
+            "bounces" : 0.2,
+            "tackles" : 2.2,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 6.1,
+            "totalPossessions" : 9.8,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 39.8,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260303",
+            "playerName" : {
+              "givenName" : "Mitchell",
+              "surname" : "Brown"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 87.0,
+            "handballs" : 95.0,
+            "disposals" : 182.0,
+            "marks" : 50.0,
+            "bounces" : 3.0,
+            "tackles" : 41.0,
+            "contestedPossessions" : 72.0,
+            "uncontestedPossessions" : 115.0,
+            "totalPossessions" : 187.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 66.0,
+            "disposalEfficiency" : 75.3,
+            "clangers" : 32.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 757.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 75.0,
+            "ratingPoints" : 192.9,
+            "ranking" : 366.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260303",
+            "playerName" : {
+              "givenName" : "Mitchell",
+              "surname" : "Brown"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 87.7
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 4.4,
+            "handballs" : 5.5,
+            "disposals" : 9.9,
+            "marks" : 2.9,
+            "bounces" : 0.1,
+            "tackles" : 2.3,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 5.4,
+            "totalPossessions" : 10.2,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.3,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 39.2,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260303",
+            "playerName" : {
+              "givenName" : "Mitchell",
+              "surname" : "Brown"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 83.0,
+            "handballs" : 105.0,
+            "disposals" : 188.0,
+            "marks" : 55.0,
+            "bounces" : 2.0,
+            "tackles" : 44.0,
+            "contestedPossessions" : 90.0,
+            "uncontestedPossessions" : 103.0,
+            "totalPossessions" : 193.0,
+            "inside50s" : 14.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 89.0,
+            "disposalEfficiency" : 71.8,
+            "clangers" : 39.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 745.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 140.2,
+            "ranking" : 433.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260303",
+            "playerName" : {
+              "givenName" : "Mitchell",
+              "surname" : "Brown"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 87.2
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.2,
+            "handballs" : 5.4,
+            "disposals" : 8.6,
+            "marks" : 2.7,
+            "bounces" : 0.1,
+            "tackles" : 1.0,
+            "contestedPossessions" : 2.9,
+            "uncontestedPossessions" : 6.1,
+            "totalPossessions" : 9.0,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 30.9,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260303",
+            "playerName" : {
+              "givenName" : "Mitchell",
+              "surname" : "Brown"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 26.0,
+            "handballs" : 43.0,
+            "disposals" : 69.0,
+            "marks" : 22.0,
+            "bounces" : 1.0,
+            "tackles" : 8.0,
+            "contestedPossessions" : 23.0,
+            "uncontestedPossessions" : 49.0,
+            "totalPossessions" : 72.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 78.3,
+            "clangers" : 11.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 247.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260303",
+            "playerName" : {
+              "givenName" : "Mitchell",
+              "surname" : "Brown"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 75.2
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 3.8,
+            "disposals" : 10.3,
+            "marks" : 2.3,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 10.7,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.3,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.7,
+            "dreamTeamPoints" : 36.7,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260303",
+            "playerName" : {
+              "givenName" : "Mitchell",
+              "surname" : "Brown"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 39.0,
+            "handballs" : 23.0,
+            "disposals" : 62.0,
+            "marks" : 14.0,
+            "bounces" : 0.0,
+            "tackles" : 10.0,
+            "contestedPossessions" : 22.0,
+            "uncontestedPossessions" : 42.0,
+            "totalPossessions" : 64.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 80.6,
+            "clangers" : 20.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 220.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 10.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260303",
+            "playerName" : {
+              "givenName" : "Mitchell",
+              "surname" : "Brown"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 90.6
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 5.9,
+            "handballs" : 7.8,
+            "disposals" : 13.7,
+            "marks" : 3.3,
+            "bounces" : 0.2,
+            "tackles" : 1.8,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 9.1,
+            "totalPossessions" : 13.4,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 51.2,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260303",
+            "playerName" : {
+              "givenName" : "Mitchell",
+              "surname" : "Brown"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 77.0,
+            "handballs" : 101.0,
+            "disposals" : 178.0,
+            "marks" : 43.0,
+            "bounces" : 2.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 56.0,
+            "uncontestedPossessions" : 118.0,
+            "totalPossessions" : 174.0,
+            "inside50s" : 13.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 39.0,
+            "disposalEfficiency" : 69.7,
+            "clangers" : 22.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 666.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 36.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260303",
+            "playerName" : {
+              "givenName" : "Mitchell",
+              "surname" : "Brown"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 84.8
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 9.3,
+            "disposals" : 14.7,
+            "marks" : 4.5,
+            "bounces" : 0.2,
+            "tackles" : 1.7,
+            "contestedPossessions" : 3.2,
+            "uncontestedPossessions" : 11.6,
+            "totalPossessions" : 14.8,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 56.6,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260303",
+            "playerName" : {
+              "givenName" : "Mitchell",
+              "surname" : "Brown"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 104.0,
+            "handballs" : 176.0,
+            "disposals" : 280.0,
+            "marks" : 86.0,
+            "bounces" : 3.0,
+            "tackles" : 32.0,
+            "contestedPossessions" : 61.0,
+            "uncontestedPossessions" : 221.0,
+            "totalPossessions" : 282.0,
+            "inside50s" : 31.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 52.0,
+            "disposalEfficiency" : 74.3,
+            "clangers" : 27.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 1075.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 8.0
+            },
+            "rebound50s" : 30.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 57.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260303",
+            "playerName" : {
+              "givenName" : "Mitchell",
+              "surname" : "Brown"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 76.6
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260303",
+            "playerName" : {
+              "givenName" : "Mitchell",
+              "surname" : "Brown"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260303",
+            "playerName" : {
+              "givenName" : "Mitchell",
+              "surname" : "Brown"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 6.6,
+            "handballs" : 3.4,
+            "disposals" : 10.0,
+            "marks" : 5.0,
+            "bounces" : 0.2,
+            "tackles" : 0.6,
+            "contestedPossessions" : 2.2,
+            "uncontestedPossessions" : 7.6,
+            "totalPossessions" : 9.8,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 0.6,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 47.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260303",
+            "playerName" : {
+              "givenName" : "Mitchell",
+              "surname" : "Brown"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 33.0,
+            "handballs" : 17.0,
+            "disposals" : 50.0,
+            "marks" : 25.0,
+            "bounces" : 1.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 11.0,
+            "uncontestedPossessions" : 38.0,
+            "totalPossessions" : 49.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 74.0,
+            "clangers" : 3.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 236.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 28.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I260303",
+            "playerName" : {
+              "givenName" : "Mitchell",
+              "surname" : "Brown"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 64.7
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 2.0,
+      "disposals" : 2.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 2.0,
+      "totalPossessions" : 2.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : 50.0,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 4.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 95.2,
+      "ranking" : 505.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I260303",
+        "playerName" : {
+          "givenName" : "Mitchell",
+          "surname" : "Brown"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T150",
+        "teamAbbr" : "WCE",
+        "teamName" : "West Coast Eagles",
+        "teamNickname" : "Eagles"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 95.2,
+        "ranking" : 508,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 95.2,
+        "ranking" : 28,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 95.2,
+        "ranking" : 59,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 0.5,
+        "ranking" : 664,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2006"
+    },
+    "careerGamesPlayed" : 90
+  }
+}

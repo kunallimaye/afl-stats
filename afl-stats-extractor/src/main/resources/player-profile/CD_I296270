@@ -1,0 +1,280 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I296270",
+    "position" : "Left Back Pocket",
+    "surname" : "Dawson",
+    "jumperNumber" : 24,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.2,
+      "superGoals" : null,
+      "kicks" : 7.6,
+      "handballs" : 3.7,
+      "disposals" : 11.3,
+      "marks" : 4.4,
+      "bounces" : 0.1,
+      "tackles" : 0.8,
+      "contestedPossessions" : 2.1,
+      "uncontestedPossessions" : 9.2,
+      "totalPossessions" : 11.3,
+      "inside50s" : 1.0,
+      "marksInside50" : 0.2,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.3,
+      "disposalEfficiency" : null,
+      "clangers" : 1.0,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 46.4,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.1
+      },
+      "rebound50s" : 1.4,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Liam",
+    "bio" : "<p>A strong defender/midfielder, Dawson can play a creative role or lock down on an opponent. Was injured in this year's NAB AFL Under-18 Championships but won the Harrison Medal in 2013. Showcased his renowned skills when he scored 25/30 in the clean hands test and 25/30 in the goal-kicking test at the NAB AFL Combine. Liam is a graduate of the Brisbane Lions Academy.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2015 - Profiles/DAWSON Liam.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1996-01-23T01:00:00.000+0000",
+      "draftYear" : "2014",
+      "heightInCm" : 188,
+      "weightInKg" : 84,
+      "recruitedFrom" : null,
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 1.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 76.0,
+      "handballs" : 37.0,
+      "disposals" : 113.0,
+      "marks" : 44.0,
+      "bounces" : 1.0,
+      "tackles" : 8.0,
+      "contestedPossessions" : 21.0,
+      "uncontestedPossessions" : 92.0,
+      "totalPossessions" : 113.0,
+      "inside50s" : 10.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 13.0,
+      "disposalEfficiency" : 83.2,
+      "clangers" : 10.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 5.0,
+      "dreamTeamPoints" : 464.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 14.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 25.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 7.6,
+            "handballs" : 3.7,
+            "disposals" : 11.3,
+            "marks" : 4.4,
+            "bounces" : 0.1,
+            "tackles" : 0.8,
+            "contestedPossessions" : 2.1,
+            "uncontestedPossessions" : 9.2,
+            "totalPossessions" : 11.3,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 46.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296270",
+            "playerName" : {
+              "givenName" : "Liam",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 76.0,
+            "handballs" : 37.0,
+            "disposals" : 113.0,
+            "marks" : 44.0,
+            "bounces" : 1.0,
+            "tackles" : 8.0,
+            "contestedPossessions" : 21.0,
+            "uncontestedPossessions" : 92.0,
+            "totalPossessions" : 113.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 83.2,
+            "clangers" : 10.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 464.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : 43.5,
+            "ranking" : 589.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I296270",
+            "playerName" : {
+              "givenName" : "Liam",
+              "surname" : "Dawson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 71.4
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 76.0,
+      "handballs" : 37.0,
+      "disposals" : 113.0,
+      "marks" : 44.0,
+      "bounces" : 1.0,
+      "tackles" : 8.0,
+      "contestedPossessions" : 21.0,
+      "uncontestedPossessions" : 92.0,
+      "totalPossessions" : 113.0,
+      "inside50s" : 10.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 13.0,
+      "disposalEfficiency" : 83.2,
+      "clangers" : 10.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 5.0,
+      "dreamTeamPoints" : 464.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 14.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 25.0,
+      "ratingPoints" : 43.5,
+      "ranking" : 589.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I296270",
+        "playerName" : {
+          "givenName" : "Liam",
+          "surname" : "Dawson"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 48.0,
+        "ranking" : 584,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 48.0,
+        "ranking" : 34,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 48.0,
+        "ranking" : 113,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 48.0,
+        "ranking" : 487,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2014"
+    },
+    "careerGamesPlayed" : 10
+  }
+}

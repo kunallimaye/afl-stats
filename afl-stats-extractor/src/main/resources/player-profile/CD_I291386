@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291386",
+    "position" : "Rover",
+    "surname" : "Sinclair",
+    "jumperNumber" : 28,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.4,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 6.7,
+      "handballs" : 5.4,
+      "disposals" : 12.1,
+      "marks" : 2.7,
+      "bounces" : 0.6,
+      "tackles" : 2.3,
+      "contestedPossessions" : 4.3,
+      "uncontestedPossessions" : 7.7,
+      "totalPossessions" : 12.0,
+      "inside50s" : 2.2,
+      "marksInside50" : 0.3,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : null,
+      "clangers" : 1.5,
+      "freesFor" : 0.4,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 50.2,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.4,
+        "totalClearances" : 0.6
+      },
+      "rebound50s" : 0.9,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Ben",
+    "bio" : "<p>Constantly belies his build to be an inspiration to teammates with his attack on the ball and the ball carrier. Possesses genuine pace, desperation and a willingness to compete. These qualities have made him a valuable option at both ends of the ground during the first five years of his career. He made his name as a small forward in 2012 but found himself playing in a lock-down role at the other end of the ground the following year. A brave and diligent customer, Sinclair will be looking to further cement his place as a small defender in 2015 after missing the bulk of the previous season through injury.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Collingwood/Player Profiles/2015 - Profiles/SINCLAIR Ben.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-10-01T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 183,
+      "weightInKg" : 80,
+      "recruitedFrom" : "Scotch College/Oakleigh U18",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 20.0,
+      "behinds" : 17.0,
+      "superGoals" : null,
+      "kicks" : 336.0,
+      "handballs" : 269.0,
+      "disposals" : 605.0,
+      "marks" : 136.0,
+      "bounces" : 31.0,
+      "tackles" : 117.0,
+      "contestedPossessions" : 213.0,
+      "uncontestedPossessions" : 385.0,
+      "totalPossessions" : 598.0,
+      "inside50s" : 110.0,
+      "marksInside50" : 16.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 51.0,
+      "disposalEfficiency" : 74.5,
+      "clangers" : 75.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 23.0,
+      "dreamTeamPoints" : 2510.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 44.0,
+      "goalAssists" : 17.0,
+      "goalAccuracy" : 40.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.8,
+            "handballs" : 5.8,
+            "disposals" : 14.7,
+            "marks" : 2.8,
+            "bounces" : 0.2,
+            "tackles" : 2.0,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 10.2,
+            "totalPossessions" : 13.8,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 54.3,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291386",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Sinclair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 53.0,
+            "handballs" : 35.0,
+            "disposals" : 88.0,
+            "marks" : 17.0,
+            "bounces" : 1.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 22.0,
+            "uncontestedPossessions" : 61.0,
+            "totalPossessions" : 83.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 76.1,
+            "clangers" : 8.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 2.0,
+            "dreamTeamPoints" : 326.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 94.3,
+            "ranking" : 506.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291386",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Sinclair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 71.3
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.8,
+            "handballs" : 7.8,
+            "disposals" : 14.6,
+            "marks" : 3.4,
+            "bounces" : 1.0,
+            "tackles" : 1.4,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 8.8,
+            "totalPossessions" : 14.8,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 54.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291386",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Sinclair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 34.0,
+            "handballs" : 39.0,
+            "disposals" : 73.0,
+            "marks" : 17.0,
+            "bounces" : 5.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 30.0,
+            "uncontestedPossessions" : 44.0,
+            "totalPossessions" : 74.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 74.0,
+            "clangers" : 11.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 271.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 167.3,
+            "ranking" : 394.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291386",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Sinclair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 82.8
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.7,
+            "handballs" : 5.9,
+            "disposals" : 12.5,
+            "marks" : 2.9,
+            "bounces" : 1.0,
+            "tackles" : 2.8,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 8.5,
+            "totalPossessions" : 12.6,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 51.2,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291386",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Sinclair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 100.0,
+            "handballs" : 88.0,
+            "disposals" : 188.0,
+            "marks" : 44.0,
+            "bounces" : 15.0,
+            "tackles" : 42.0,
+            "contestedPossessions" : 61.0,
+            "uncontestedPossessions" : 128.0,
+            "totalPossessions" : 189.0,
+            "inside50s" : 35.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 83.5,
+            "clangers" : 17.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 768.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 243.4,
+            "ranking" : 307.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291386",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Sinclair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 77.4
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 6.4,
+            "handballs" : 4.1,
+            "disposals" : 10.5,
+            "marks" : 2.5,
+            "bounces" : 0.3,
+            "tackles" : 2.2,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 6.1,
+            "totalPossessions" : 10.4,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 47.4,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291386",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Sinclair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 14.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 129.0,
+            "handballs" : 82.0,
+            "disposals" : 211.0,
+            "marks" : 50.0,
+            "bounces" : 7.0,
+            "tackles" : 44.0,
+            "contestedPossessions" : 87.0,
+            "uncontestedPossessions" : 122.0,
+            "totalPossessions" : 209.0,
+            "inside50s" : 46.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 65.9,
+            "clangers" : 35.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 949.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291386",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Sinclair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 71.0
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 6.2,
+            "disposals" : 11.2,
+            "marks" : 2.0,
+            "bounces" : 0.7,
+            "tackles" : 3.0,
+            "contestedPossessions" : 3.2,
+            "uncontestedPossessions" : 7.5,
+            "totalPossessions" : 10.7,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 49.0,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291386",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Sinclair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 20.0,
+            "handballs" : 25.0,
+            "disposals" : 45.0,
+            "marks" : 8.0,
+            "bounces" : 3.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 13.0,
+            "uncontestedPossessions" : 30.0,
+            "totalPossessions" : 43.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 75.6,
+            "clangers" : 4.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 196.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291386",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Sinclair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 67.7
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291386",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Sinclair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291386",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Sinclair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 53.0,
+      "handballs" : 35.0,
+      "disposals" : 88.0,
+      "marks" : 17.0,
+      "bounces" : 1.0,
+      "tackles" : 12.0,
+      "contestedPossessions" : 22.0,
+      "uncontestedPossessions" : 61.0,
+      "totalPossessions" : 83.0,
+      "inside50s" : 12.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 9.0,
+      "disposalEfficiency" : 76.1,
+      "clangers" : 8.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 2.0,
+      "dreamTeamPoints" : 326.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 3.0,
+        "totalClearances" : 5.0
+      },
+      "rebound50s" : 12.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 94.3,
+      "ranking" : 506.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291386",
+        "playerName" : {
+          "givenName" : "Ben",
+          "surname" : "Sinclair"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T40",
+        "teamAbbr" : "COLL",
+        "teamName" : "Collingwood",
+        "teamNickname" : "Magpies"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 94.3,
+        "ranking" : 510,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 94.3,
+        "ranking" : 30,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 94.3,
+        "ranking" : 103,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 42.7,
+        "ranking" : 505,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 50
+  }
+}

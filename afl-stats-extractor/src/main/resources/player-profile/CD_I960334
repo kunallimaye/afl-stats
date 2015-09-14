@@ -1,0 +1,647 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I960334",
+    "position" : "Left Back Pocket",
+    "surname" : "Bandy",
+    "jumperNumber" : 11,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Daniel",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1975-11-18T01:00:00.000+0000",
+      "draftYear" : null,
+      "heightInCm" : 200,
+      "weightInKg" : 98,
+      "recruitedFrom" : "Perth (WA)/Fremantle",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 86.0,
+      "behinds" : 60.0,
+      "superGoals" : null,
+      "kicks" : 897.0,
+      "handballs" : 589.0,
+      "disposals" : 1486.0,
+      "marks" : 632.0,
+      "bounces" : 5.0,
+      "tackles" : 119.0,
+      "contestedPossessions" : 534.0,
+      "uncontestedPossessions" : 977.0,
+      "totalPossessions" : 1511.0,
+      "inside50s" : 246.0,
+      "marksInside50" : 119.0,
+      "contestedMarks" : 98.0,
+      "hitouts" : 744.0,
+      "onePercenters" : 176.0,
+      "disposalEfficiency" : 76.8,
+      "clangers" : 259.0,
+      "freesFor" : 71.0,
+      "freesAgainst" : 80.0,
+      "dreamTeamPoints" : 7392.0,
+      "clearances" : {
+        "centreClearances" : 37.0,
+        "stoppageClearances" : 74.0,
+        "totalClearances" : 111.0
+      },
+      "rebound50s" : 135.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 56.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 6.1,
+            "handballs" : 3.9,
+            "disposals" : 10.0,
+            "marks" : 5.3,
+            "bounces" : 0.1,
+            "tackles" : 0.7,
+            "contestedPossessions" : 2.4,
+            "uncontestedPossessions" : 7.6,
+            "totalPossessions" : 10.0,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.3,
+            "hitouts" : 6.6,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 52.1,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960334",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Bandy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 43.0,
+            "handballs" : 27.0,
+            "disposals" : 70.0,
+            "marks" : 37.0,
+            "bounces" : 1.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 17.0,
+            "uncontestedPossessions" : 53.0,
+            "totalPossessions" : 70.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 46.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 70.0,
+            "clangers" : 18.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 365.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960334",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Bandy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 68.7
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.5,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 7.2,
+            "handballs" : 4.0,
+            "disposals" : 11.2,
+            "marks" : 4.7,
+            "bounces" : 0.0,
+            "tackles" : 0.7,
+            "contestedPossessions" : 2.7,
+            "uncontestedPossessions" : 8.7,
+            "totalPossessions" : 11.5,
+            "inside50s" : 2.5,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 5.5,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 61.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960334",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Bandy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 29.0,
+            "handballs" : 16.0,
+            "disposals" : 45.0,
+            "marks" : 19.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 11.0,
+            "uncontestedPossessions" : 35.0,
+            "totalPossessions" : 46.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 22.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 80.0,
+            "clangers" : 5.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 246.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960334",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Bandy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 84.1
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 6.1,
+            "handballs" : 5.7,
+            "disposals" : 11.7,
+            "marks" : 5.2,
+            "bounces" : 0.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 4.2,
+            "uncontestedPossessions" : 7.6,
+            "totalPossessions" : 11.8,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 1.1,
+            "hitouts" : 6.2,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 3.2,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.1,
+            "dreamTeamPoints" : 56.7,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960334",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Bandy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 73.0,
+            "handballs" : 68.0,
+            "disposals" : 141.0,
+            "marks" : 63.0,
+            "bounces" : 0.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 51.0,
+            "uncontestedPossessions" : 91.0,
+            "totalPossessions" : 142.0,
+            "inside50s" : 24.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 75.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 70.9,
+            "clangers" : 38.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 681.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960334",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Bandy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 87.6
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.4,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 8.4,
+            "handballs" : 6.0,
+            "disposals" : 14.4,
+            "marks" : 6.6,
+            "bounces" : 0.0,
+            "tackles" : 1.9,
+            "contestedPossessions" : 6.4,
+            "uncontestedPossessions" : 8.3,
+            "totalPossessions" : 14.6,
+            "inside50s" : 2.6,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 1.5,
+            "hitouts" : 7.6,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 80.6,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960334",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Bandy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 30.0,
+            "behinds" : 21.0,
+            "superGoals" : null,
+            "kicks" : 185.0,
+            "handballs" : 131.0,
+            "disposals" : 316.0,
+            "marks" : 146.0,
+            "bounces" : 0.0,
+            "tackles" : 41.0,
+            "contestedPossessions" : 140.0,
+            "uncontestedPossessions" : 182.0,
+            "totalPossessions" : 322.0,
+            "inside50s" : 58.0,
+            "marksInside50" : 43.0,
+            "contestedMarks" : 32.0,
+            "hitouts" : 167.0,
+            "onePercenters" : 62.0,
+            "disposalEfficiency" : 74.4,
+            "clangers" : 43.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1773.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 20.0,
+              "totalClearances" : 26.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 55.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960334",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Bandy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T140",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 7.3,
+            "handballs" : 4.4,
+            "disposals" : 11.6,
+            "marks" : 4.5,
+            "bounces" : 0.2,
+            "tackles" : 0.7,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 8.1,
+            "totalPossessions" : 11.8,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.5,
+            "hitouts" : 5.4,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 55.8,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960334",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Bandy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 124.0,
+            "handballs" : 74.0,
+            "disposals" : 198.0,
+            "marks" : 76.0,
+            "bounces" : 3.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 63.0,
+            "uncontestedPossessions" : 137.0,
+            "totalPossessions" : 200.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 12.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 92.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 73.7,
+            "clangers" : 29.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 948.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 52.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I960334",
+            "playerName" : {
+              "givenName" : "Daniel",
+              "surname" : "Bandy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 4.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 43.0,
+      "handballs" : 27.0,
+      "disposals" : 70.0,
+      "marks" : 37.0,
+      "bounces" : 1.0,
+      "tackles" : 5.0,
+      "contestedPossessions" : 17.0,
+      "uncontestedPossessions" : 53.0,
+      "totalPossessions" : 70.0,
+      "inside50s" : 10.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 46.0,
+      "onePercenters" : 10.0,
+      "disposalEfficiency" : 70.0,
+      "clangers" : 18.0,
+      "freesFor" : 5.0,
+      "freesAgainst" : 9.0,
+      "dreamTeamPoints" : 365.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 3.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

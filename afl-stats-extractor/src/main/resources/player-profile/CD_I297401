@@ -1,0 +1,383 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I297401",
+    "position" : "Ruck Rover",
+    "surname" : "Crouch",
+    "jumperNumber" : 44,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 8.3,
+      "handballs" : 11.1,
+      "disposals" : 19.4,
+      "marks" : 2.9,
+      "bounces" : 0.1,
+      "tackles" : 3.4,
+      "contestedPossessions" : 7.5,
+      "uncontestedPossessions" : 11.9,
+      "totalPossessions" : 19.4,
+      "inside50s" : 1.6,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.6,
+      "disposalEfficiency" : null,
+      "clangers" : 2.3,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.8,
+      "dreamTeamPoints" : 69.0,
+      "clearances" : {
+        "centreClearances" : 1.1,
+        "stoppageClearances" : 2.3,
+        "totalClearances" : 3.4
+      },
+      "rebound50s" : 1.3,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Matt",
+    "bio" : "<p>Crouch made an immediate impact in his first year of senior football. The ball magnet made his AFL debut in Round Three and retained his spot for the next five weeks, notching eight games in total for the year. Crouch earned a NAB Rising Star nomination in Round Five against GWS, despite being subbed out, and will be eligible for the award again in 2015. Dominated at state league level with an average of 33 possessions and eight clearances across 10 matches, and polled 12 votes on Magarey Medal night.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/AdelaideCrows/Player Profiles/2015 - Profiles/CROUCH Matt.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1995-04-21T02:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 180,
+      "weightInKg" : 78,
+      "recruitedFrom" : "North Ballarat",
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 5.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 199.0,
+      "handballs" : 266.0,
+      "disposals" : 465.0,
+      "marks" : 70.0,
+      "bounces" : 2.0,
+      "tackles" : 81.0,
+      "contestedPossessions" : 181.0,
+      "uncontestedPossessions" : 285.0,
+      "totalPossessions" : 466.0,
+      "inside50s" : 39.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 14.0,
+      "disposalEfficiency" : 72.0,
+      "clangers" : 55.0,
+      "freesFor" : 13.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1657.0,
+      "clearances" : {
+        "centreClearances" : 26.0,
+        "stoppageClearances" : 55.0,
+        "totalClearances" : 81.0
+      },
+      "rebound50s" : 32.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 8.5,
+            "handballs" : 12.3,
+            "disposals" : 20.8,
+            "marks" : 2.7,
+            "bounces" : 0.1,
+            "tackles" : 3.4,
+            "contestedPossessions" : 8.6,
+            "uncontestedPossessions" : 12.2,
+            "totalPossessions" : 20.8,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.9,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 70.7,
+            "clearances" : {
+              "centreClearances" : 1.4,
+              "stoppageClearances" : 2.7,
+              "totalClearances" : 4.1
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I297401",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Crouch"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 136.0,
+            "handballs" : 197.0,
+            "disposals" : 333.0,
+            "marks" : 44.0,
+            "bounces" : 1.0,
+            "tackles" : 55.0,
+            "contestedPossessions" : 138.0,
+            "uncontestedPossessions" : 195.0,
+            "totalPossessions" : 333.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 70.9,
+            "clangers" : 46.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1131.0,
+            "clearances" : {
+              "centreClearances" : 22.0,
+              "stoppageClearances" : 44.0,
+              "totalClearances" : 66.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 22.2,
+            "ratingPoints" : 168.9,
+            "ranking" : 407.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I297401",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Crouch"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 59.2
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 7.9,
+            "handballs" : 8.6,
+            "disposals" : 16.5,
+            "marks" : 3.2,
+            "bounces" : 0.1,
+            "tackles" : 3.2,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 11.2,
+            "totalPossessions" : 16.6,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.1,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 65.7,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 1.9
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I297401",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Crouch"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 63.0,
+            "handballs" : 69.0,
+            "disposals" : 132.0,
+            "marks" : 26.0,
+            "bounces" : 1.0,
+            "tackles" : 26.0,
+            "contestedPossessions" : 43.0,
+            "uncontestedPossessions" : 90.0,
+            "totalPossessions" : 133.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 75.0,
+            "clangers" : 9.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 526.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 45.3,
+            "ranking" : 595.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I297401",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Crouch"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 52.3
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 136.0,
+      "handballs" : 197.0,
+      "disposals" : 333.0,
+      "marks" : 44.0,
+      "bounces" : 1.0,
+      "tackles" : 55.0,
+      "contestedPossessions" : 138.0,
+      "uncontestedPossessions" : 195.0,
+      "totalPossessions" : 333.0,
+      "inside50s" : 29.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 8.0,
+      "disposalEfficiency" : 70.9,
+      "clangers" : 46.0,
+      "freesFor" : 7.0,
+      "freesAgainst" : 16.0,
+      "dreamTeamPoints" : 1131.0,
+      "clearances" : {
+        "centreClearances" : 22.0,
+        "stoppageClearances" : 44.0,
+        "totalClearances" : 66.0
+      },
+      "rebound50s" : 19.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 22.2,
+      "ratingPoints" : 168.9,
+      "ranking" : 407.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I297401",
+        "playerName" : {
+          "givenName" : "Matt",
+          "surname" : "Crouch"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T10",
+        "teamAbbr" : "ADEL",
+        "teamName" : "Adelaide Crows",
+        "teamNickname" : "Crows"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 172.9,
+        "ranking" : 402,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 172.9,
+        "ranking" : 22,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 172.9,
+        "ranking" : 128,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 4.0,
+        "ranking" : 153,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 115.6,
+        "ranking" : 327,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2013"
+    },
+    "careerGamesPlayed" : 24
+  }
+}

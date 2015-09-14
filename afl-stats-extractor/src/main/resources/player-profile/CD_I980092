@@ -1,0 +1,956 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I980092",
+    "position" : "Left Half Back",
+    "surname" : "Carr",
+    "jumperNumber" : 9,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Matthew",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1978-12-29T01:00:00.000+0000",
+      "draftYear" : "1995",
+      "heightInCm" : 190,
+      "weightInKg" : 89,
+      "recruitedFrom" : "East Frem (WA)/Coll Res/East Frem (WA)/St K",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 66.0,
+      "behinds" : 51.0,
+      "superGoals" : null,
+      "kicks" : 1741.0,
+      "handballs" : 839.0,
+      "disposals" : 2580.0,
+      "marks" : 810.0,
+      "bounces" : 148.0,
+      "tackles" : 312.0,
+      "contestedPossessions" : 826.0,
+      "uncontestedPossessions" : 1752.0,
+      "totalPossessions" : 2578.0,
+      "inside50s" : 406.0,
+      "marksInside50" : 66.0,
+      "contestedMarks" : 70.0,
+      "hitouts" : 12.0,
+      "onePercenters" : 138.0,
+      "disposalEfficiency" : 79.4,
+      "clangers" : 328.0,
+      "freesFor" : 71.0,
+      "freesAgainst" : 121.0,
+      "dreamTeamPoints" : 10746.0,
+      "clearances" : {
+        "centreClearances" : 83.0,
+        "stoppageClearances" : 134.0,
+        "totalClearances" : 217.0
+      },
+      "rebound50s" : 267.0,
+      "goalAssists" : 26.0,
+      "goalAccuracy" : 53.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.7,
+            "handballs" : 6.5,
+            "disposals" : 13.2,
+            "marks" : 4.0,
+            "bounces" : 0.2,
+            "tackles" : 1.2,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 9.7,
+            "totalPossessions" : 13.2,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 51.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980092",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Carr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 27.0,
+            "handballs" : 26.0,
+            "disposals" : 53.0,
+            "marks" : 16.0,
+            "bounces" : 1.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 14.0,
+            "uncontestedPossessions" : 39.0,
+            "totalPossessions" : 53.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.0,
+            "disposalEfficiency" : 64.2,
+            "clangers" : 8.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 207.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980092",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Carr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 53.5
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.2,
+            "handballs" : 7.7,
+            "disposals" : 15.9,
+            "marks" : 4.4,
+            "bounces" : 0.4,
+            "tackles" : 3.3,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 10.4,
+            "totalPossessions" : 15.5,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 66.8,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980092",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Carr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 140.0,
+            "handballs" : 131.0,
+            "disposals" : 271.0,
+            "marks" : 75.0,
+            "bounces" : 7.0,
+            "tackles" : 56.0,
+            "contestedPossessions" : 87.0,
+            "uncontestedPossessions" : 177.0,
+            "totalPossessions" : 264.0,
+            "inside50s" : 39.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 73.8,
+            "clangers" : 27.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1135.0,
+            "clearances" : {
+              "centreClearances" : 15.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 28.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 45.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980092",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Carr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 78.8
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 6.3,
+            "disposals" : 16.3,
+            "marks" : 5.8,
+            "bounces" : 0.6,
+            "tackles" : 2.3,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 11.1,
+            "totalPossessions" : 16.4,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 69.9,
+            "clearances" : {
+              "centreClearances" : 0.9,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980092",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Carr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 17.0,
+            "superGoals" : null,
+            "kicks" : 250.0,
+            "handballs" : 158.0,
+            "disposals" : 408.0,
+            "marks" : 144.0,
+            "bounces" : 16.0,
+            "tackles" : 57.0,
+            "contestedPossessions" : 131.0,
+            "uncontestedPossessions" : 278.0,
+            "totalPossessions" : 409.0,
+            "inside50s" : 75.0,
+            "marksInside50" : 12.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 27.0,
+            "disposalEfficiency" : 74.5,
+            "clangers" : 55.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 1747.0,
+            "clearances" : {
+              "centreClearances" : 22.0,
+              "stoppageClearances" : 20.0,
+              "totalClearances" : 42.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 34.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980092",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Carr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 83.7
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 15.3,
+            "handballs" : 5.5,
+            "disposals" : 20.8,
+            "marks" : 5.8,
+            "bounces" : 1.3,
+            "tackles" : 2.2,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 15.7,
+            "totalPossessions" : 21.2,
+            "inside50s" : 3.8,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 83.9,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980092",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Carr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 199.0,
+            "handballs" : 72.0,
+            "disposals" : 271.0,
+            "marks" : 76.0,
+            "bounces" : 17.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 72.0,
+            "uncontestedPossessions" : 204.0,
+            "totalPossessions" : 276.0,
+            "inside50s" : 49.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 81.5,
+            "clangers" : 31.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1091.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 18.0
+            },
+            "rebound50s" : 35.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 62.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980092",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Carr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 90.2
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 9.5,
+            "handballs" : 4.5,
+            "disposals" : 14.1,
+            "marks" : 4.1,
+            "bounces" : 1.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 10.2,
+            "totalPossessions" : 14.2,
+            "inside50s" : 2.9,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 57.6,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.3,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 2.1,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980092",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Carr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 105.0,
+            "handballs" : 50.0,
+            "disposals" : 155.0,
+            "marks" : 45.0,
+            "bounces" : 11.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 44.0,
+            "uncontestedPossessions" : 112.0,
+            "totalPossessions" : 156.0,
+            "inside50s" : 32.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 78.7,
+            "clangers" : 19.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 634.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 17.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 57.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980092",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Carr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 81.1
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 12.8,
+            "handballs" : 4.7,
+            "disposals" : 17.4,
+            "marks" : 5.8,
+            "bounces" : 1.2,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 12.4,
+            "totalPossessions" : 17.6,
+            "inside50s" : 3.1,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 75.5,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.6
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980092",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Carr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 19.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 268.0,
+            "handballs" : 98.0,
+            "disposals" : 366.0,
+            "marks" : 122.0,
+            "bounces" : 25.0,
+            "tackles" : 35.0,
+            "contestedPossessions" : 108.0,
+            "uncontestedPossessions" : 261.0,
+            "totalPossessions" : 369.0,
+            "inside50s" : 65.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 80.3,
+            "clangers" : 39.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 1586.0,
+            "clearances" : {
+              "centreClearances" : 16.0,
+              "stoppageClearances" : 17.0,
+              "totalClearances" : 33.0
+            },
+            "rebound50s" : 28.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 67.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980092",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Carr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 93.9
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.5,
+            "handballs" : 4.7,
+            "disposals" : 14.1,
+            "marks" : 3.8,
+            "bounces" : 0.4,
+            "tackles" : 2.3,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 9.9,
+            "totalPossessions" : 14.0,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 61.0,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980092",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Carr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 12.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 208.0,
+            "handballs" : 103.0,
+            "disposals" : 311.0,
+            "marks" : 84.0,
+            "bounces" : 8.0,
+            "tackles" : 50.0,
+            "contestedPossessions" : 90.0,
+            "uncontestedPossessions" : 217.0,
+            "totalPossessions" : 307.0,
+            "inside50s" : 50.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 29.0,
+            "disposalEfficiency" : 81.0,
+            "clangers" : 28.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 1342.0,
+            "clearances" : {
+              "centreClearances" : 9.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 23.0
+            },
+            "rebound50s" : 22.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 70.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980092",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Carr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 15.7,
+            "handballs" : 4.4,
+            "disposals" : 20.1,
+            "marks" : 6.9,
+            "bounces" : 1.5,
+            "tackles" : 1.1,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 13.7,
+            "totalPossessions" : 19.7,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.9,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 82.0,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 3.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980092",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Carr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 330.0,
+            "handballs" : 93.0,
+            "disposals" : 423.0,
+            "marks" : 144.0,
+            "bounces" : 32.0,
+            "tackles" : 23.0,
+            "contestedPossessions" : 127.0,
+            "uncontestedPossessions" : 287.0,
+            "totalPossessions" : 414.0,
+            "inside50s" : 42.0,
+            "marksInside50" : 14.0,
+            "contestedMarks" : 18.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 84.9,
+            "clangers" : 48.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1723.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 20.0,
+              "totalClearances" : 24.0
+            },
+            "rebound50s" : 67.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I980092",
+            "playerName" : {
+              "givenName" : "Matthew",
+              "surname" : "Carr"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 27.0,
+      "handballs" : 26.0,
+      "disposals" : 53.0,
+      "marks" : 16.0,
+      "bounces" : 1.0,
+      "tackles" : 5.0,
+      "contestedPossessions" : 14.0,
+      "uncontestedPossessions" : 39.0,
+      "totalPossessions" : 53.0,
+      "inside50s" : 10.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 5.0,
+      "disposalEfficiency" : 64.2,
+      "clangers" : 8.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 207.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

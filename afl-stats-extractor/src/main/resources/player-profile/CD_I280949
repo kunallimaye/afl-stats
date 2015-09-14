@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280949",
+    "position" : "Right Back Pocket",
+    "surname" : "Thompson",
+    "jumperNumber" : 6,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 5.9,
+      "handballs" : 5.8,
+      "disposals" : 11.7,
+      "marks" : 3.8,
+      "bounces" : 0.7,
+      "tackles" : 2.0,
+      "contestedPossessions" : 3.5,
+      "uncontestedPossessions" : 8.3,
+      "totalPossessions" : 11.9,
+      "inside50s" : 1.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.0,
+      "onePercenters" : 5.5,
+      "disposalEfficiency" : null,
+      "clangers" : 1.3,
+      "freesFor" : 0.8,
+      "freesAgainst" : 0.6,
+      "dreamTeamPoints" : 48.6,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.2,
+        "totalClearances" : 0.2
+      },
+      "rebound50s" : 1.7,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Luke",
+    "bio" : "<p>Thompson didn’t manage a senior game in an injury-interrupted 2013 season. The athletic key defender missed part of the pre-season through injury, and a serious ankle sprain caused him to spend another six weeks on the sidelines during the season. He returned to play in the SANFL finals. Able to start the pre-season with his teammates this time around, Thompson will be hoping to add to his 14-game tally in 2014.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/AdelaideCrows/Player Profiles/2014 - Profiles/THOMPSON Luke.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-02-08T01:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 194,
+      "weightInKg" : 88,
+      "recruitedFrom" : "Timboon Demons/Geelong U18",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 2.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 118.0,
+      "handballs" : 116.0,
+      "disposals" : 234.0,
+      "marks" : 77.0,
+      "bounces" : 15.0,
+      "tackles" : 40.0,
+      "contestedPossessions" : 71.0,
+      "uncontestedPossessions" : 167.0,
+      "totalPossessions" : 238.0,
+      "inside50s" : 21.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 110.0,
+      "disposalEfficiency" : 83.3,
+      "clangers" : 26.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 972.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 40.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.5,
+            "handballs" : 4.5,
+            "disposals" : 9.0,
+            "marks" : 2.8,
+            "bounces" : 0.2,
+            "tackles" : 2.3,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 9.0,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 39.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280949",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 27.0,
+            "handballs" : 27.0,
+            "disposals" : 54.0,
+            "marks" : 17.0,
+            "bounces" : 1.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 18.0,
+            "uncontestedPossessions" : 36.0,
+            "totalPossessions" : 54.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 31.0,
+            "disposalEfficiency" : 90.7,
+            "clangers" : 7.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 236.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 55.7,
+            "ranking" : 563.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280949",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 89.6
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280949",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 14.8,
+            "ranking" : 664.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280949",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.7,
+            "handballs" : 6.0,
+            "disposals" : 11.7,
+            "marks" : 3.0,
+            "bounces" : 1.7,
+            "tackles" : 2.3,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 8.3,
+            "totalPossessions" : 12.0,
+            "inside50s" : 0.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 1.3,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 47.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280949",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 17.0,
+            "handballs" : 18.0,
+            "disposals" : 35.0,
+            "marks" : 9.0,
+            "bounces" : 5.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 11.0,
+            "uncontestedPossessions" : 25.0,
+            "totalPossessions" : 36.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 77.1,
+            "clangers" : 3.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 143.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280949",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 88.3
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.8,
+            "handballs" : 6.5,
+            "disposals" : 13.3,
+            "marks" : 4.6,
+            "bounces" : 0.8,
+            "tackles" : 1.7,
+            "contestedPossessions" : 3.8,
+            "uncontestedPossessions" : 9.6,
+            "totalPossessions" : 13.5,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 54.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280949",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 75.0,
+            "handballs" : 71.0,
+            "disposals" : 146.0,
+            "marks" : 51.0,
+            "bounces" : 9.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 42.0,
+            "uncontestedPossessions" : 106.0,
+            "totalPossessions" : 148.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 63.0,
+            "disposalEfficiency" : 82.2,
+            "clangers" : 16.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 596.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280949",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 93.7
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280949",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280949",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T10",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 27.0,
+      "handballs" : 27.0,
+      "disposals" : 54.0,
+      "marks" : 17.0,
+      "bounces" : 1.0,
+      "tackles" : 14.0,
+      "contestedPossessions" : 18.0,
+      "uncontestedPossessions" : 36.0,
+      "totalPossessions" : 54.0,
+      "inside50s" : 3.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 31.0,
+      "disposalEfficiency" : 90.7,
+      "clangers" : 7.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 3.0,
+      "dreamTeamPoints" : 236.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 14.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 55.7,
+      "ranking" : 563.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201401427",
+      "player" : {
+        "playerId" : "CD_I280949",
+        "playerName" : {
+          "givenName" : "Luke",
+          "surname" : "Thompson"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T10",
+        "teamAbbr" : "ADEL",
+        "teamName" : "Adelaide Crows",
+        "teamNickname" : "Crows"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 45.9,
+        "ranking" : 595,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 45.9,
+        "ranking" : 36,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 45.9,
+        "ranking" : 128,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 45.9,
+        "ranking" : 491,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 20
+  }
+}

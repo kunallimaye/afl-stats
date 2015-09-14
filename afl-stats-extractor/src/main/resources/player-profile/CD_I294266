@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I294266",
+    "position" : "Full Forward",
+    "surname" : "Hickey",
+    "jumperNumber" : 1,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.4,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 4.1,
+      "handballs" : 6.3,
+      "disposals" : 10.4,
+      "marks" : 3.6,
+      "bounces" : 0.0,
+      "tackles" : 2.1,
+      "contestedPossessions" : 6.0,
+      "uncontestedPossessions" : 4.6,
+      "totalPossessions" : 10.6,
+      "inside50s" : 1.0,
+      "marksInside50" : 0.7,
+      "contestedMarks" : 1.3,
+      "hitouts" : 12.1,
+      "onePercenters" : 1.9,
+      "disposalEfficiency" : null,
+      "clangers" : 2.1,
+      "freesFor" : 1.0,
+      "freesAgainst" : 1.2,
+      "dreamTeamPoints" : 56.4,
+      "clearances" : {
+        "centreClearances" : 0.4,
+        "stoppageClearances" : 0.7,
+        "totalClearances" : 1.1
+      },
+      "rebound50s" : 0.4,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Tom",
+    "bio" : "<p>A maturing ruckman possessing an elite aerobic capacity, Hickey arrived at St Kilda from the Gold Coast in 2012 for picks 13, 36 and 55 in a deal that also landed the Saints picks 26 and 47.</p>\n\n<p>Injury has affected the left footer’s two years at the club, but following a knee operation in London in September, he is well-placed to make his mark in 2015.</p>\n\n<p><b>2014 coaches’ perspective – Adam Kingsley (midfield coach)</b><br>\n<i>Tom had an interrupted season with injury. He showed glimpses of being a good ruckman for us with his spread and run. He booted three goals in a half for us against GWS. We expect Tom to be right to go by next year’s pre-season after having his knee done and it should be a good battle between a few of the boys for the number one ruck spot in 2015.</i></p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/StKilda/Player Profiles/2015 - Profiles/HICKEY Tom.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-03-06T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 201,
+      "weightInKg" : 94,
+      "recruitedFrom" : "Morningside (Qld)",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 17.0,
+      "behinds" : 17.0,
+      "superGoals" : null,
+      "kicks" : 168.0,
+      "handballs" : 260.0,
+      "disposals" : 428.0,
+      "marks" : 147.0,
+      "bounces" : 0.0,
+      "tackles" : 85.0,
+      "contestedPossessions" : 248.0,
+      "uncontestedPossessions" : 188.0,
+      "totalPossessions" : 436.0,
+      "inside50s" : 39.0,
+      "marksInside50" : 28.0,
+      "contestedMarks" : 54.0,
+      "hitouts" : 498.0,
+      "onePercenters" : 78.0,
+      "disposalEfficiency" : 73.4,
+      "clangers" : 85.0,
+      "freesFor" : 42.0,
+      "freesAgainst" : 51.0,
+      "dreamTeamPoints" : 2311.0,
+      "clearances" : {
+        "centreClearances" : 18.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 46.0
+      },
+      "rebound50s" : 15.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 42.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 5.1,
+            "handballs" : 5.5,
+            "disposals" : 10.6,
+            "marks" : 3.4,
+            "bounces" : 0.0,
+            "tackles" : 2.3,
+            "contestedPossessions" : 7.4,
+            "uncontestedPossessions" : 3.9,
+            "totalPossessions" : 11.3,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 1.8,
+            "hitouts" : 9.1,
+            "onePercenters" : 2.3,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 1.1,
+            "freesAgainst" : 1.5,
+            "dreamTeamPoints" : 55.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294266",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Hickey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 56.0,
+            "handballs" : 61.0,
+            "disposals" : 117.0,
+            "marks" : 37.0,
+            "bounces" : 0.0,
+            "tackles" : 25.0,
+            "contestedPossessions" : 81.0,
+            "uncontestedPossessions" : 43.0,
+            "totalPossessions" : 124.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 20.0,
+            "hitouts" : 100.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 69.2,
+            "clangers" : 27.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 614.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 46.7,
+            "ratingPoints" : 176.5,
+            "ranking" : 396.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294266",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Hickey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 80.5
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 3.8,
+            "handballs" : 7.8,
+            "disposals" : 11.7,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 3.2,
+            "contestedPossessions" : 6.8,
+            "uncontestedPossessions" : 4.7,
+            "totalPossessions" : 11.5,
+            "inside50s" : 1.2,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 1.2,
+            "hitouts" : 24.0,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 1.5,
+            "freesAgainst" : 1.7,
+            "dreamTeamPoints" : 75.5,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 2.2
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294266",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Hickey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 23.0,
+            "handballs" : 47.0,
+            "disposals" : 70.0,
+            "marks" : 24.0,
+            "bounces" : 0.0,
+            "tackles" : 19.0,
+            "contestedPossessions" : 41.0,
+            "uncontestedPossessions" : 28.0,
+            "totalPossessions" : 69.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 144.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 80.0,
+            "clangers" : 16.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 453.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 13.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : 127.6,
+            "ranking" : 461.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294266",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Hickey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 6.0,
+          "timeOnGroundPercentage" : 87.7
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 3.6,
+            "handballs" : 6.8,
+            "disposals" : 10.4,
+            "marks" : 3.5,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 5.2,
+            "totalPossessions" : 10.5,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.9,
+            "hitouts" : 12.1,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 52.2,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294266",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Hickey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 43.0,
+            "handballs" : 82.0,
+            "disposals" : 125.0,
+            "marks" : 42.0,
+            "bounces" : 0.0,
+            "tackles" : 18.0,
+            "contestedPossessions" : 63.0,
+            "uncontestedPossessions" : 63.0,
+            "totalPossessions" : 126.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 145.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 72.0,
+            "clangers" : 23.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 626.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 22.2,
+            "ratingPoints" : 126.5,
+            "ranking" : 450.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294266",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Hickey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 81.2
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 4.1,
+            "handballs" : 5.6,
+            "disposals" : 9.7,
+            "marks" : 4.2,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 4.4,
+            "totalPossessions" : 9.8,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 1.6,
+            "hitouts" : 10.1,
+            "onePercenters" : 2.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.3,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 52.8,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294266",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Hickey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 41.0,
+            "handballs" : 56.0,
+            "disposals" : 97.0,
+            "marks" : 42.0,
+            "bounces" : 0.0,
+            "tackles" : 17.0,
+            "contestedPossessions" : 54.0,
+            "uncontestedPossessions" : 44.0,
+            "totalPossessions" : 98.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 16.0,
+            "hitouts" : 101.0,
+            "onePercenters" : 26.0,
+            "disposalEfficiency" : 73.2,
+            "clangers" : 19.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 528.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294266",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Hickey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 10.0,
+          "timeOnGroundPercentage" : 83.2
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 2.5,
+            "handballs" : 7.0,
+            "disposals" : 9.5,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 5.0,
+            "totalPossessions" : 9.5,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 45.0,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294266",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Hickey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 14.0,
+            "disposals" : 19.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 9.0,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 19.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 8.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 84.2,
+            "clangers" : 0.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 90.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294266",
+            "playerName" : {
+              "givenName" : "Tom",
+              "surname" : "Hickey"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 52.4
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 7.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 56.0,
+      "handballs" : 61.0,
+      "disposals" : 117.0,
+      "marks" : 37.0,
+      "bounces" : 0.0,
+      "tackles" : 25.0,
+      "contestedPossessions" : 81.0,
+      "uncontestedPossessions" : 43.0,
+      "totalPossessions" : 124.0,
+      "inside50s" : 16.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 20.0,
+      "hitouts" : 100.0,
+      "onePercenters" : 25.0,
+      "disposalEfficiency" : 69.2,
+      "clangers" : 27.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 16.0,
+      "dreamTeamPoints" : 614.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 11.0,
+        "totalClearances" : 11.0
+      },
+      "rebound50s" : 5.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 46.7,
+      "ratingPoints" : 176.5,
+      "ranking" : 396.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I294266",
+        "playerName" : {
+          "givenName" : "Tom",
+          "surname" : "Hickey"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T130",
+        "teamAbbr" : "STK",
+        "teamName" : "St Kilda",
+        "teamNickname" : "Saints"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 173.8,
+        "ranking" : 400,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 173.8,
+        "ranking" : 20,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 173.8,
+        "ranking" : 27,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 106.8,
+        "ranking" : 349,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 41
+  }
+}

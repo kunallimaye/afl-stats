@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280918",
+    "position" : "Left Forward Pocket",
+    "surname" : "Christensen",
+    "jumperNumber" : 3,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.9,
+      "behinds" : 0.6,
+      "superGoals" : null,
+      "kicks" : 10.2,
+      "handballs" : 9.2,
+      "disposals" : 19.4,
+      "marks" : 3.4,
+      "bounces" : 0.1,
+      "tackles" : 3.7,
+      "contestedPossessions" : 8.4,
+      "uncontestedPossessions" : 11.3,
+      "totalPossessions" : 19.6,
+      "inside50s" : 3.2,
+      "marksInside50" : 0.7,
+      "contestedMarks" : 0.2,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.9,
+      "disposalEfficiency" : null,
+      "clangers" : 2.5,
+      "freesFor" : 1.9,
+      "freesAgainst" : 1.1,
+      "dreamTeamPoints" : 78.5,
+      "clearances" : {
+        "centreClearances" : 0.8,
+        "stoppageClearances" : 2.1,
+        "totalClearances" : 2.9
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 0.7,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Allen",
+    "bio" : "<p>• Christensen was born and raised in Geelong, playing for the Geelong Falcons in the TAC Cup U18 Competition before being drafted by the Geelong Cats with pick 40 in the 2009 AFL National Draft.</p>\n\n<p>• He debuted for the Cats in Rd2 2011, going on to play 19 games with his Rd18 performance against Richmond earning an AFL Rising Star nomination.</p>\n\n<p>• Christensen was a member of Geelong's 2011 AFL Premiership Team, defeating Collingwood.</p>\n\n<p>• Christensen was traded to the Lions during the 2014 AFL Trade Period in exchange for pick 21 which the Lions received from GWS for Joel Patfull.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2015 - Profiles/CHRISTENSEN Allen.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-05-19T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 177,
+      "weightInKg" : 76,
+      "recruitedFrom" : "Lara/Geelong U18",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 75.0,
+      "behinds" : 52.0,
+      "superGoals" : null,
+      "kicks" : 890.0,
+      "handballs" : 800.0,
+      "disposals" : 1690.0,
+      "marks" : 292.0,
+      "bounces" : 13.0,
+      "tackles" : 324.0,
+      "contestedPossessions" : 727.0,
+      "uncontestedPossessions" : 982.0,
+      "totalPossessions" : 1709.0,
+      "inside50s" : 279.0,
+      "marksInside50" : 60.0,
+      "contestedMarks" : 17.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 80.0,
+      "disposalEfficiency" : 70.0,
+      "clangers" : 218.0,
+      "freesFor" : 169.0,
+      "freesAgainst" : 95.0,
+      "dreamTeamPoints" : 6828.0,
+      "clearances" : {
+        "centreClearances" : 70.0,
+        "stoppageClearances" : 182.0,
+        "totalClearances" : 252.0
+      },
+      "rebound50s" : 84.0,
+      "goalAssists" : 63.0,
+      "goalAccuracy" : 47.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 12.1,
+            "handballs" : 8.1,
+            "disposals" : 20.2,
+            "marks" : 4.1,
+            "bounces" : 0.2,
+            "tackles" : 3.4,
+            "contestedPossessions" : 7.3,
+            "uncontestedPossessions" : 13.1,
+            "totalPossessions" : 20.5,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 2.6,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 83.3,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 2.1,
+              "totalClearances" : 2.6
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280918",
+            "playerName" : {
+              "givenName" : "Allen",
+              "surname" : "Christensen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 19.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 267.0,
+            "handballs" : 178.0,
+            "disposals" : 445.0,
+            "marks" : 91.0,
+            "bounces" : 5.0,
+            "tackles" : 75.0,
+            "contestedPossessions" : 161.0,
+            "uncontestedPossessions" : 289.0,
+            "totalPossessions" : 450.0,
+            "inside50s" : 67.0,
+            "marksInside50" : 16.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 70.8,
+            "clangers" : 55.0,
+            "freesFor" : 57.0,
+            "freesAgainst" : 27.0,
+            "dreamTeamPoints" : 1832.0,
+            "clearances" : {
+              "centreClearances" : 12.0,
+              "stoppageClearances" : 46.0,
+              "totalClearances" : 58.0
+            },
+            "rebound50s" : 22.0,
+            "goalAssists" : 17.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 324.4,
+            "ranking" : 187.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280918",
+            "playerName" : {
+              "givenName" : "Allen",
+              "surname" : "Christensen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 80.2
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 11.4,
+            "handballs" : 9.7,
+            "disposals" : 21.1,
+            "marks" : 3.4,
+            "bounces" : 0.1,
+            "tackles" : 3.9,
+            "contestedPossessions" : 10.0,
+            "uncontestedPossessions" : 11.2,
+            "totalPossessions" : 21.2,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 3.1,
+            "freesFor" : 2.2,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 82.6,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 3.2,
+              "totalClearances" : 3.7
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280918",
+            "playerName" : {
+              "givenName" : "Allen",
+              "surname" : "Christensen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 91.0,
+            "handballs" : 78.0,
+            "disposals" : 169.0,
+            "marks" : 27.0,
+            "bounces" : 1.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 80.0,
+            "uncontestedPossessions" : 90.0,
+            "totalPossessions" : 170.0,
+            "inside50s" : 26.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 66.3,
+            "clangers" : 25.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 661.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 26.0,
+              "totalClearances" : 30.0
+            },
+            "rebound50s" : 13.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : 349.7,
+            "ranking" : 162.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280918",
+            "playerName" : {
+              "givenName" : "Allen",
+              "surname" : "Christensen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 81.4
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.1,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 10.1,
+            "handballs" : 11.0,
+            "disposals" : 21.1,
+            "marks" : 3.2,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 9.2,
+            "uncontestedPossessions" : 12.0,
+            "totalPossessions" : 21.2,
+            "inside50s" : 3.6,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.8,
+            "freesFor" : 1.9,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 84.4,
+            "clearances" : {
+              "centreClearances" : 1.2,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280918",
+            "playerName" : {
+              "givenName" : "Allen",
+              "surname" : "Christensen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 23.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 212.0,
+            "handballs" : 231.0,
+            "disposals" : 443.0,
+            "marks" : 68.0,
+            "bounces" : 1.0,
+            "tackles" : 85.0,
+            "contestedPossessions" : 194.0,
+            "uncontestedPossessions" : 252.0,
+            "totalPossessions" : 446.0,
+            "inside50s" : 76.0,
+            "marksInside50" : 19.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 70.9,
+            "clangers" : 58.0,
+            "freesFor" : 39.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1773.0,
+            "clearances" : {
+              "centreClearances" : 25.0,
+              "stoppageClearances" : 38.0,
+              "totalClearances" : 63.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 19.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 416.2,
+            "ranking" : 75.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280918",
+            "playerName" : {
+              "givenName" : "Allen",
+              "surname" : "Christensen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 78.6
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 9.8,
+            "handballs" : 9.6,
+            "disposals" : 19.4,
+            "marks" : 2.8,
+            "bounces" : 0.2,
+            "tackles" : 3.7,
+            "contestedPossessions" : 8.8,
+            "uncontestedPossessions" : 10.7,
+            "totalPossessions" : 19.5,
+            "inside50s" : 2.7,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 74.2,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 2.2,
+              "totalClearances" : 2.8
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280918",
+            "playerName" : {
+              "givenName" : "Allen",
+              "surname" : "Christensen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 166.0,
+            "handballs" : 163.0,
+            "disposals" : 329.0,
+            "marks" : 47.0,
+            "bounces" : 3.0,
+            "tackles" : 63.0,
+            "contestedPossessions" : 150.0,
+            "uncontestedPossessions" : 182.0,
+            "totalPossessions" : 332.0,
+            "inside50s" : 46.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 66.9,
+            "clangers" : 37.0,
+            "freesFor" : 23.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1261.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 37.0,
+              "totalClearances" : 47.0
+            },
+            "rebound50s" : 20.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 34.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280918",
+            "playerName" : {
+              "givenName" : "Allen",
+              "surname" : "Christensen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 75.6
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 8.1,
+            "handballs" : 7.9,
+            "disposals" : 16.0,
+            "marks" : 3.1,
+            "bounces" : 0.2,
+            "tackles" : 3.7,
+            "contestedPossessions" : 7.5,
+            "uncontestedPossessions" : 8.9,
+            "totalPossessions" : 16.4,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 1.7,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 68.5,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 2.8
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280918",
+            "playerName" : {
+              "givenName" : "Allen",
+              "surname" : "Christensen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 18.0,
+            "behinds" : 11.0,
+            "superGoals" : null,
+            "kicks" : 154.0,
+            "handballs" : 150.0,
+            "disposals" : 304.0,
+            "marks" : 59.0,
+            "bounces" : 3.0,
+            "tackles" : 70.0,
+            "contestedPossessions" : 142.0,
+            "uncontestedPossessions" : 169.0,
+            "totalPossessions" : 311.0,
+            "inside50s" : 64.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 72.7,
+            "clangers" : 43.0,
+            "freesFor" : 32.0,
+            "freesAgainst" : 23.0,
+            "dreamTeamPoints" : 1301.0,
+            "clearances" : {
+              "centreClearances" : 19.0,
+              "stoppageClearances" : 35.0,
+              "totalClearances" : 54.0
+            },
+            "rebound50s" : 6.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 54.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280918",
+            "playerName" : {
+              "givenName" : "Allen",
+              "surname" : "Christensen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 67.2
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280918",
+            "playerName" : {
+              "givenName" : "Allen",
+              "surname" : "Christensen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280918",
+            "playerName" : {
+              "givenName" : "Allen",
+              "surname" : "Christensen"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 19.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 267.0,
+      "handballs" : 178.0,
+      "disposals" : 445.0,
+      "marks" : 91.0,
+      "bounces" : 5.0,
+      "tackles" : 75.0,
+      "contestedPossessions" : 161.0,
+      "uncontestedPossessions" : 289.0,
+      "totalPossessions" : 450.0,
+      "inside50s" : 67.0,
+      "marksInside50" : 16.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 15.0,
+      "disposalEfficiency" : 70.8,
+      "clangers" : 55.0,
+      "freesFor" : 57.0,
+      "freesAgainst" : 27.0,
+      "dreamTeamPoints" : 1832.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 46.0,
+        "totalClearances" : 58.0
+      },
+      "rebound50s" : 22.0,
+      "goalAssists" : 17.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 324.4,
+      "ranking" : 187.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280918",
+        "playerName" : {
+          "givenName" : "Allen",
+          "surname" : "Christensen"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 322.7,
+        "ranking" : 189,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 322.7,
+        "ranking" : 9,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 322.7,
+        "ranking" : 15,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 217.3,
+        "ranking" : 118,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 87
+  }
+}

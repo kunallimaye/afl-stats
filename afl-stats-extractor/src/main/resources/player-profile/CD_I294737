@@ -1,0 +1,486 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I294737",
+    "position" : "Ruck",
+    "surname" : "Sinclair",
+    "jumperNumber" : 22,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.7,
+      "behinds" : 0.7,
+      "superGoals" : null,
+      "kicks" : 6.7,
+      "handballs" : 5.0,
+      "disposals" : 11.7,
+      "marks" : 4.0,
+      "bounces" : 0.0,
+      "tackles" : 1.5,
+      "contestedPossessions" : 5.9,
+      "uncontestedPossessions" : 5.8,
+      "totalPossessions" : 11.7,
+      "inside50s" : 2.0,
+      "marksInside50" : 1.1,
+      "contestedMarks" : 1.4,
+      "hitouts" : 15.9,
+      "onePercenters" : 2.5,
+      "disposalEfficiency" : null,
+      "clangers" : 2.3,
+      "freesFor" : 1.5,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 67.1,
+      "clearances" : {
+        "centreClearances" : 0.3,
+        "stoppageClearances" : 1.1,
+        "totalClearances" : 1.4
+      },
+      "rebound50s" : 0.4,
+      "goalAssists" : 0.4,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Callum",
+    "bio" : "<p>A readymade and versatile tall, who has been upgraded off the rookie list after two seasons at West Coast. He played five games in 2013 and four in 2014, but the Eagles’ strength in the ruck stocks made it difficult to force his way in. Overlooked after being a strong draft chance in 2010, he battled knee problems in 2011 and moved from VFL club Port Melbourne to WAFL club<br>\nSubiaco in 2012.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WestCoastEagles/Player Profiles/2015 - Profiles/SINCLAIR Callum.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1989-09-23T02:00:00.000+0000",
+      "draftYear" : "2013",
+      "heightInCm" : 200,
+      "weightInKg" : 98,
+      "recruitedFrom" : "Beaumaris JFC (VIC)/Subiaco (WAFL)",
+      "debutYear" : "2013"
+    },
+    "careerStats" : {
+      "goals" : 18.0,
+      "behinds" : 18.0,
+      "superGoals" : null,
+      "kicks" : 180.0,
+      "handballs" : 135.0,
+      "disposals" : 315.0,
+      "marks" : 109.0,
+      "bounces" : 0.0,
+      "tackles" : 41.0,
+      "contestedPossessions" : 160.0,
+      "uncontestedPossessions" : 156.0,
+      "totalPossessions" : 316.0,
+      "inside50s" : 55.0,
+      "marksInside50" : 29.0,
+      "contestedMarks" : 37.0,
+      "hitouts" : 428.0,
+      "onePercenters" : 68.0,
+      "disposalEfficiency" : 68.9,
+      "clangers" : 61.0,
+      "freesFor" : 41.0,
+      "freesAgainst" : 28.0,
+      "dreamTeamPoints" : 1812.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 31.0,
+        "totalClearances" : 38.0
+      },
+      "rebound50s" : 11.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 40.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 5.6,
+            "disposals" : 12.6,
+            "marks" : 4.4,
+            "bounces" : 0.0,
+            "tackles" : 1.6,
+            "contestedPossessions" : 6.2,
+            "uncontestedPossessions" : 6.4,
+            "totalPossessions" : 12.6,
+            "inside50s" : 2.2,
+            "marksInside50" : 1.2,
+            "contestedMarks" : 1.5,
+            "hitouts" : 19.2,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.6,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 74.1,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 1.7
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294737",
+            "playerName" : {
+              "givenName" : "Callum",
+              "surname" : "Sinclair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 13.0,
+            "behinds" : 10.0,
+            "superGoals" : null,
+            "kicks" : 126.0,
+            "handballs" : 100.0,
+            "disposals" : 226.0,
+            "marks" : 80.0,
+            "bounces" : 0.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 111.0,
+            "uncontestedPossessions" : 116.0,
+            "totalPossessions" : 227.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 22.0,
+            "contestedMarks" : 27.0,
+            "hitouts" : 346.0,
+            "onePercenters" : 48.0,
+            "disposalEfficiency" : 72.6,
+            "clangers" : 43.0,
+            "freesFor" : 29.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 1334.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 26.0,
+              "totalClearances" : 30.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 44.8,
+            "ratingPoints" : 157.1,
+            "ranking" : 430.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294737",
+            "playerName" : {
+              "givenName" : "Callum",
+              "surname" : "Sinclair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 78.6
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 4.0,
+            "disposals" : 10.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 4.0,
+            "totalPossessions" : 9.7,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.5,
+            "hitouts" : 8.7,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 49.5,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.7
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294737",
+            "playerName" : {
+              "givenName" : "Callum",
+              "surname" : "Sinclair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 24.0,
+            "handballs" : 16.0,
+            "disposals" : 40.0,
+            "marks" : 8.0,
+            "bounces" : 0.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 23.0,
+            "uncontestedPossessions" : 16.0,
+            "totalPossessions" : 39.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 35.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 55.0,
+            "clangers" : 10.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 198.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : 47.9,
+            "ranking" : 588.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294737",
+            "playerName" : {
+              "givenName" : "Callum",
+              "surname" : "Sinclair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 4.0,
+          "timeOnGroundPercentage" : 74.1
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 3.8,
+            "disposals" : 9.8,
+            "marks" : 4.2,
+            "bounces" : 0.0,
+            "tackles" : 1.2,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 4.8,
+            "totalPossessions" : 10.0,
+            "inside50s" : 1.4,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.6,
+            "hitouts" : 9.4,
+            "onePercenters" : 2.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 56.0,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294737",
+            "playerName" : {
+              "givenName" : "Callum",
+              "surname" : "Sinclair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 30.0,
+            "handballs" : 19.0,
+            "disposals" : 49.0,
+            "marks" : 21.0,
+            "bounces" : 0.0,
+            "tackles" : 6.0,
+            "contestedPossessions" : 26.0,
+            "uncontestedPossessions" : 24.0,
+            "totalPossessions" : 50.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 47.0,
+            "onePercenters" : 14.0,
+            "disposalEfficiency" : 63.3,
+            "clangers" : 8.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 280.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 27.3,
+            "ratingPoints" : 28.6,
+            "ranking" : 636.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I294737",
+            "playerName" : {
+              "givenName" : "Callum",
+              "surname" : "Sinclair"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 72.7
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 13.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 126.0,
+      "handballs" : 100.0,
+      "disposals" : 226.0,
+      "marks" : 80.0,
+      "bounces" : 0.0,
+      "tackles" : 29.0,
+      "contestedPossessions" : 111.0,
+      "uncontestedPossessions" : 116.0,
+      "totalPossessions" : 227.0,
+      "inside50s" : 40.0,
+      "marksInside50" : 22.0,
+      "contestedMarks" : 27.0,
+      "hitouts" : 346.0,
+      "onePercenters" : 48.0,
+      "disposalEfficiency" : 72.6,
+      "clangers" : 43.0,
+      "freesFor" : 29.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1334.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 8.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 44.8,
+      "ratingPoints" : 157.1,
+      "ranking" : 430.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "RUCK",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I294737",
+        "playerName" : {
+          "givenName" : "Callum",
+          "surname" : "Sinclair"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T150",
+        "teamAbbr" : "WCE",
+        "teamName" : "West Coast Eagles",
+        "teamNickname" : "Eagles"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 163.5,
+        "ranking" : 416,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 163.5,
+        "ranking" : 25,
+        "ratingType" : "TEAM",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 163.5,
+        "ranking" : 28,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 6.4,
+        "ranking" : 119,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 144.2,
+        "ranking" : 260,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2012"
+    },
+    "careerGamesPlayed" : 27
+  }
+}

@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I281075",
+    "position" : "Full Back",
+    "surname" : "Thompson",
+    "jumperNumber" : 16,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 5.9,
+      "handballs" : 3.9,
+      "disposals" : 9.8,
+      "marks" : 4.0,
+      "bounces" : 0.1,
+      "tackles" : 2.1,
+      "contestedPossessions" : 4.1,
+      "uncontestedPossessions" : 5.6,
+      "totalPossessions" : 9.7,
+      "inside50s" : 0.6,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.8,
+      "hitouts" : 1.1,
+      "onePercenters" : 7.8,
+      "disposalEfficiency" : null,
+      "clangers" : 1.2,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.4,
+      "dreamTeamPoints" : 46.9,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.2,
+        "totalClearances" : 0.2
+      },
+      "rebound50s" : 1.9,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Rory",
+    "bio" : "<p>Carried a hip injury for much of last season, but still locked down a key defensive post alongside Steven May. The 24-year-old battled through many of his 19 games, lacking the agility that had helped him to a breakout 2013. Standing 200cm, Thompson is blessed with terrific speed that can close down his opponent&rsquo;s leads and, when fully fit, is nimble enough to mark much smaller men. Thompson and May have the potential to be one of the more lethal defensive pairings in the game.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GoldCoastSuns/Player Profiles/2015 - Profiles/THOMPSON Rory.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-03-12T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 200,
+      "weightInKg" : 102,
+      "recruitedFrom" : "Southport (Qld)",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 7.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 382.0,
+      "handballs" : 253.0,
+      "disposals" : 635.0,
+      "marks" : 258.0,
+      "bounces" : 8.0,
+      "tackles" : 138.0,
+      "contestedPossessions" : 267.0,
+      "uncontestedPossessions" : 362.0,
+      "totalPossessions" : 629.0,
+      "inside50s" : 37.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 51.0,
+      "hitouts" : 72.0,
+      "onePercenters" : 510.0,
+      "disposalEfficiency" : 79.8,
+      "clangers" : 78.0,
+      "freesFor" : 30.0,
+      "freesAgainst" : 26.0,
+      "dreamTeamPoints" : 3049.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 12.0,
+        "totalClearances" : 14.0
+      },
+      "rebound50s" : 125.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.5,
+            "handballs" : 3.1,
+            "disposals" : 7.6,
+            "marks" : 3.2,
+            "bounces" : 0.1,
+            "tackles" : 1.2,
+            "contestedPossessions" : 2.7,
+            "uncontestedPossessions" : 4.7,
+            "totalPossessions" : 7.3,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.6,
+            "onePercenters" : 6.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 34.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281075",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 54.0,
+            "handballs" : 37.0,
+            "disposals" : 91.0,
+            "marks" : 38.0,
+            "bounces" : 1.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 32.0,
+            "uncontestedPossessions" : 56.0,
+            "totalPossessions" : 88.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 80.0,
+            "disposalEfficiency" : 74.7,
+            "clangers" : 12.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 4.0,
+            "dreamTeamPoints" : 408.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 244.8,
+            "ranking" : 306.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281075",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 86.7
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.8,
+            "handballs" : 3.8,
+            "disposals" : 8.6,
+            "marks" : 3.1,
+            "bounces" : 0.1,
+            "tackles" : 2.6,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 4.7,
+            "totalPossessions" : 8.4,
+            "inside50s" : 0.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.3,
+            "hitouts" : 2.5,
+            "onePercenters" : 8.1,
+            "disposalEfficiency" : null,
+            "clangers" : 0.8,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 43.3,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281075",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 91.0,
+            "handballs" : 73.0,
+            "disposals" : 164.0,
+            "marks" : 58.0,
+            "bounces" : 2.0,
+            "tackles" : 49.0,
+            "contestedPossessions" : 70.0,
+            "uncontestedPossessions" : 89.0,
+            "totalPossessions" : 159.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 47.0,
+            "onePercenters" : 153.0,
+            "disposalEfficiency" : 79.9,
+            "clangers" : 16.0,
+            "freesFor" : 5.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 823.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 29.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 347.6,
+            "ranking" : 163.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281075",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 92.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 7.5,
+            "handballs" : 4.2,
+            "disposals" : 11.7,
+            "marks" : 5.0,
+            "bounces" : 0.2,
+            "tackles" : 1.9,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 7.2,
+            "totalPossessions" : 11.8,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.2,
+            "onePercenters" : 8.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.4,
+            "dreamTeamPoints" : 54.4,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281075",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 157.0,
+            "handballs" : 89.0,
+            "disposals" : 246.0,
+            "marks" : 105.0,
+            "bounces" : 5.0,
+            "tackles" : 39.0,
+            "contestedPossessions" : 96.0,
+            "uncontestedPossessions" : 152.0,
+            "totalPossessions" : 248.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 17.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 183.0,
+            "disposalEfficiency" : 81.3,
+            "clangers" : 32.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 1143.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 52.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 62.5,
+            "ratingPoints" : 282.8,
+            "ranking" : 250.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281075",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 94.4
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.4,
+            "handballs" : 2.8,
+            "disposals" : 9.2,
+            "marks" : 3.6,
+            "bounces" : 0.0,
+            "tackles" : 2.4,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 4.8,
+            "totalPossessions" : 8.8,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.2,
+            "hitouts" : 1.8,
+            "onePercenters" : 7.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 47.8,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281075",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 32.0,
+            "handballs" : 14.0,
+            "disposals" : 46.0,
+            "marks" : 18.0,
+            "bounces" : 0.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 20.0,
+            "uncontestedPossessions" : 24.0,
+            "totalPossessions" : 44.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 9.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 84.8,
+            "clangers" : 5.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 239.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281075",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 91.1
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.0,
+            "handballs" : 5.0,
+            "disposals" : 11.0,
+            "marks" : 4.9,
+            "bounces" : 0.0,
+            "tackles" : 2.9,
+            "contestedPossessions" : 6.1,
+            "uncontestedPossessions" : 5.1,
+            "totalPossessions" : 11.2,
+            "inside50s" : 0.7,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 1.6,
+            "hitouts" : 0.6,
+            "onePercenters" : 7.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 54.5,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 2.2,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281075",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 48.0,
+            "handballs" : 40.0,
+            "disposals" : 88.0,
+            "marks" : 39.0,
+            "bounces" : 0.0,
+            "tackles" : 23.0,
+            "contestedPossessions" : 49.0,
+            "uncontestedPossessions" : 41.0,
+            "totalPossessions" : 90.0,
+            "inside50s" : 6.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 5.0,
+            "onePercenters" : 58.0,
+            "disposalEfficiency" : 78.4,
+            "clangers" : 13.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 436.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 18.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281075",
+            "playerName" : {
+              "givenName" : "Rory",
+              "surname" : "Thompson"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 93.5
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 54.0,
+      "handballs" : 37.0,
+      "disposals" : 91.0,
+      "marks" : 38.0,
+      "bounces" : 1.0,
+      "tackles" : 15.0,
+      "contestedPossessions" : 32.0,
+      "uncontestedPossessions" : 56.0,
+      "totalPossessions" : 88.0,
+      "inside50s" : 8.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 7.0,
+      "onePercenters" : 80.0,
+      "disposalEfficiency" : 74.7,
+      "clangers" : 12.0,
+      "freesFor" : 3.0,
+      "freesAgainst" : 4.0,
+      "dreamTeamPoints" : 408.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 19.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 244.8,
+      "ranking" : 306.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I281075",
+        "playerName" : {
+          "givenName" : "Rory",
+          "surname" : "Thompson"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1000",
+        "teamAbbr" : "GCFC",
+        "teamName" : "Gold Coast Suns",
+        "teamNickname" : "Suns"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 247.2,
+        "ranking" : 303,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 247.2,
+        "ranking" : 17,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 247.2,
+        "ranking" : 28,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 74.0,
+        "ranking" : 415,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 65
+  }
+}

@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I290778",
+    "position" : "Rover",
+    "surname" : "Parker",
+    "jumperNumber" : 26,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.8,
+      "behinds" : 0.5,
+      "superGoals" : null,
+      "kicks" : 9.7,
+      "handballs" : 11.2,
+      "disposals" : 20.9,
+      "marks" : 3.2,
+      "bounces" : 0.1,
+      "tackles" : 4.4,
+      "contestedPossessions" : 9.9,
+      "uncontestedPossessions" : 11.0,
+      "totalPossessions" : 20.9,
+      "inside50s" : 2.7,
+      "marksInside50" : 0.7,
+      "contestedMarks" : 0.5,
+      "hitouts" : 0.4,
+      "onePercenters" : 1.5,
+      "disposalEfficiency" : null,
+      "clangers" : 2.8,
+      "freesFor" : 1.0,
+      "freesAgainst" : 1.2,
+      "dreamTeamPoints" : 81.7,
+      "clearances" : {
+        "centreClearances" : 1.1,
+        "stoppageClearances" : 2.5,
+        "totalClearances" : 3.7
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Luke",
+    "bio" : "<p><span style=\"font-family: arial,helvetica,sans-serif; font-size: small;\">Already a tough, talented midfielder, Parker soared to new heights in 2014. </span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif; font-size: small;\">Playing every game, he averaged 26 disposals, six tackles and four marks, all comfortably career highs, and was named in the All-Australian squad. </span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif; font-size: small;\">An excellent contested mark, he kicked 25 goals and topped it all off by beating Josh Kennedy and Lance Franklin to claim his first Club Champion award, all at the age of 21.</span><br /> <br /><span style=\"font-family: arial,helvetica,sans-serif; font-size: small;\"> <strong>Draft history:</strong> 2010 NAB AFL Draft 2nd round selection (Sydney) No. 40 overall.</span></p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/SydneySwans/Player Profiles/2014 Profiles/PARKER Luke.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-10-25T01:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 184,
+      "weightInKg" : 85,
+      "recruitedFrom" : "Langwarrin/Dandenong U18",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 78.0,
+      "behinds" : 53.0,
+      "superGoals" : null,
+      "kicks" : 981.0,
+      "handballs" : 1133.0,
+      "disposals" : 2114.0,
+      "marks" : 327.0,
+      "bounces" : 14.0,
+      "tackles" : 443.0,
+      "contestedPossessions" : 998.0,
+      "uncontestedPossessions" : 1108.0,
+      "totalPossessions" : 2106.0,
+      "inside50s" : 270.0,
+      "marksInside50" : 73.0,
+      "contestedMarks" : 52.0,
+      "hitouts" : 41.0,
+      "onePercenters" : 147.0,
+      "disposalEfficiency" : 69.1,
+      "clangers" : 282.0,
+      "freesFor" : 98.0,
+      "freesAgainst" : 125.0,
+      "dreamTeamPoints" : 8247.0,
+      "clearances" : {
+        "centreClearances" : 116.0,
+        "stoppageClearances" : 257.0,
+        "totalClearances" : 373.0
+      },
+      "rebound50s" : 101.0,
+      "goalAssists" : 53.0,
+      "goalAccuracy" : 49.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 11.5,
+            "handballs" : 14.1,
+            "disposals" : 25.6,
+            "marks" : 3.4,
+            "bounces" : 0.2,
+            "tackles" : 4.7,
+            "contestedPossessions" : 12.8,
+            "uncontestedPossessions" : 12.6,
+            "totalPossessions" : 25.4,
+            "inside50s" : 2.7,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 0.7,
+            "hitouts" : 1.2,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 3.6,
+            "freesFor" : 1.7,
+            "freesAgainst" : 1.6,
+            "dreamTeamPoints" : 96.3,
+            "clearances" : {
+              "centreClearances" : 1.9,
+              "stoppageClearances" : 3.6,
+              "totalClearances" : 5.5
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290778",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Parker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 18.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 219.0,
+            "handballs" : 267.0,
+            "disposals" : 486.0,
+            "marks" : 65.0,
+            "bounces" : 3.0,
+            "tackles" : 90.0,
+            "contestedPossessions" : 244.0,
+            "uncontestedPossessions" : 239.0,
+            "totalPossessions" : 483.0,
+            "inside50s" : 51.0,
+            "marksInside50" : 17.0,
+            "contestedMarks" : 13.0,
+            "hitouts" : 23.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 68.1,
+            "clangers" : 69.0,
+            "freesFor" : 32.0,
+            "freesAgainst" : 31.0,
+            "dreamTeamPoints" : 1830.0,
+            "clearances" : {
+              "centreClearances" : 37.0,
+              "stoppageClearances" : 68.0,
+              "totalClearances" : 105.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 40.9,
+            "ratingPoints" : 475.7,
+            "ranking" : 36.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290778",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Parker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 83.1
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 11.4,
+            "handballs" : 14.5,
+            "disposals" : 25.9,
+            "marks" : 4.2,
+            "bounces" : 0.1,
+            "tackles" : 6.0,
+            "contestedPossessions" : 12.7,
+            "uncontestedPossessions" : 13.3,
+            "totalPossessions" : 26.0,
+            "inside50s" : 3.2,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.9,
+            "hitouts" : 0.7,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 3.5,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.7,
+            "dreamTeamPoints" : 103.2,
+            "clearances" : {
+              "centreClearances" : 1.6,
+              "stoppageClearances" : 3.2,
+              "totalClearances" : 4.8
+            },
+            "rebound50s" : 1.6,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290778",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Parker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 25.0,
+            "behinds" : 14.0,
+            "superGoals" : null,
+            "kicks" : 286.0,
+            "handballs" : 362.0,
+            "disposals" : 648.0,
+            "marks" : 104.0,
+            "bounces" : 3.0,
+            "tackles" : 151.0,
+            "contestedPossessions" : 318.0,
+            "uncontestedPossessions" : 332.0,
+            "totalPossessions" : 650.0,
+            "inside50s" : 81.0,
+            "marksInside50" : 26.0,
+            "contestedMarks" : 22.0,
+            "hitouts" : 17.0,
+            "onePercenters" : 52.0,
+            "disposalEfficiency" : 68.5,
+            "clangers" : 87.0,
+            "freesFor" : 26.0,
+            "freesAgainst" : 42.0,
+            "dreamTeamPoints" : 2579.0,
+            "clearances" : {
+              "centreClearances" : 41.0,
+              "stoppageClearances" : 80.0,
+              "totalClearances" : 121.0
+            },
+            "rebound50s" : 39.0,
+            "goalAssists" : 15.0,
+            "goalAccuracy" : 56.8,
+            "ratingPoints" : 461.1,
+            "ranking" : 47.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290778",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Parker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 82.2
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.9,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 10.6,
+            "handballs" : 10.4,
+            "disposals" : 21.0,
+            "marks" : 3.0,
+            "bounces" : 0.1,
+            "tackles" : 5.0,
+            "contestedPossessions" : 9.6,
+            "uncontestedPossessions" : 11.1,
+            "totalPossessions" : 20.7,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.8,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 85.4,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 2.4,
+              "totalClearances" : 3.2
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290778",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Parker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 22.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 265.0,
+            "handballs" : 259.0,
+            "disposals" : 524.0,
+            "marks" : 76.0,
+            "bounces" : 2.0,
+            "tackles" : 125.0,
+            "contestedPossessions" : 241.0,
+            "uncontestedPossessions" : 277.0,
+            "totalPossessions" : 518.0,
+            "inside50s" : 71.0,
+            "marksInside50" : 20.0,
+            "contestedMarks" : 12.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 67.4,
+            "clangers" : 70.0,
+            "freesFor" : 26.0,
+            "freesAgainst" : 25.0,
+            "dreamTeamPoints" : 2136.0,
+            "clearances" : {
+              "centreClearances" : 19.0,
+              "stoppageClearances" : 61.0,
+              "totalClearances" : 80.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 18.0,
+            "goalAccuracy" : 55.0,
+            "ratingPoints" : 340.9,
+            "ranking" : 178.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290778",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Parker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 77.5
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.4,
+            "handballs" : 8.6,
+            "disposals" : 16.0,
+            "marks" : 2.8,
+            "bounces" : 0.3,
+            "tackles" : 2.8,
+            "contestedPossessions" : 6.6,
+            "uncontestedPossessions" : 9.3,
+            "totalPossessions" : 15.8,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.5,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 58.5,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.7,
+              "totalClearances" : 2.5
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290778",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Parker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 140.0,
+            "handballs" : 164.0,
+            "disposals" : 304.0,
+            "marks" : 54.0,
+            "bounces" : 5.0,
+            "tackles" : 53.0,
+            "contestedPossessions" : 125.0,
+            "uncontestedPossessions" : 176.0,
+            "totalPossessions" : 301.0,
+            "inside50s" : 48.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 73.0,
+            "clangers" : 35.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 1111.0,
+            "clearances" : {
+              "centreClearances" : 15.0,
+              "stoppageClearances" : 32.0,
+              "totalClearances" : 47.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 45.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290778",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Parker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 57.6
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 6.2,
+            "disposals" : 11.7,
+            "marks" : 2.2,
+            "bounces" : 0.1,
+            "tackles" : 1.8,
+            "contestedPossessions" : 5.4,
+            "uncontestedPossessions" : 6.5,
+            "totalPossessions" : 11.8,
+            "inside50s" : 1.5,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 45.5,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290778",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Parker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 71.0,
+            "handballs" : 81.0,
+            "disposals" : 152.0,
+            "marks" : 28.0,
+            "bounces" : 1.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 70.0,
+            "uncontestedPossessions" : 84.0,
+            "totalPossessions" : 154.0,
+            "inside50s" : 19.0,
+            "marksInside50" : 8.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 73.0,
+            "clangers" : 21.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 8.0,
+            "dreamTeamPoints" : 591.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 16.0,
+              "totalClearances" : 20.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 42.1,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290778",
+            "playerName" : {
+              "givenName" : "Luke",
+              "surname" : "Parker"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 54.9
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 18.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 219.0,
+      "handballs" : 267.0,
+      "disposals" : 486.0,
+      "marks" : 65.0,
+      "bounces" : 3.0,
+      "tackles" : 90.0,
+      "contestedPossessions" : 244.0,
+      "uncontestedPossessions" : 239.0,
+      "totalPossessions" : 483.0,
+      "inside50s" : 51.0,
+      "marksInside50" : 17.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 23.0,
+      "onePercenters" : 23.0,
+      "disposalEfficiency" : 68.1,
+      "clangers" : 69.0,
+      "freesFor" : 32.0,
+      "freesAgainst" : 31.0,
+      "dreamTeamPoints" : 1830.0,
+      "clearances" : {
+        "centreClearances" : 37.0,
+        "stoppageClearances" : 68.0,
+        "totalClearances" : 105.0
+      },
+      "rebound50s" : 21.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 40.9,
+      "ratingPoints" : 475.7,
+      "ranking" : 36.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I290778",
+        "playerName" : {
+          "givenName" : "Luke",
+          "surname" : "Parker"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T160",
+        "teamAbbr" : "SYD",
+        "teamName" : "Sydney Swans",
+        "teamNickname" : "Swans"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 475.7,
+        "ranking" : 36,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 475.7,
+        "ranking" : 3,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 475.7,
+        "ranking" : 20,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 240.8,
+        "ranking" : 80,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 101
+  }
+}

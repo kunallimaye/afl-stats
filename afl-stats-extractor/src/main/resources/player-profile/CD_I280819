@@ -1,0 +1,795 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I280819",
+    "position" : "Interchange",
+    "surname" : "Grimes",
+    "jumperNumber" : 2,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 6.3,
+      "handballs" : 4.9,
+      "disposals" : 11.2,
+      "marks" : 3.8,
+      "bounces" : 0.2,
+      "tackles" : 2.0,
+      "contestedPossessions" : 3.7,
+      "uncontestedPossessions" : 7.3,
+      "totalPossessions" : 11.0,
+      "inside50s" : 0.6,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.5,
+      "hitouts" : 0.0,
+      "onePercenters" : 4.7,
+      "disposalEfficiency" : null,
+      "clangers" : 1.7,
+      "freesFor" : 0.9,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 46.4,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.2,
+        "totalClearances" : 0.2
+      },
+      "rebound50s" : 1.6,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Dylan",
+    "bio" : "<p>After long-term hamstring injuries in 2011 and 2012, Grimes suffered a stress fracture in his foot in 2013, missing 11 games mid-season. The brother of Melbourne’s Jack Grimes, he worked<br>\nback to play the last four games, proving his value as a versatile and classy key defender. Reads the play well and has re-signed until the end of 2015.</p>\n\n<p><b>Player honours</b>: &nbsp;AFL Rising Star nominee 2012.<br>\n<b>Draft history</b>: 2010 &nbsp;AFL Pre-Season Draft 1st round selection (Richmond) No. 2 overall.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Richmond/Player Profiles/2015 - Profiles/GRIMES Dylan.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1991-07-16T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 193,
+      "weightInKg" : 89,
+      "recruitedFrom" : "Hurstbridge/Northern U18",
+      "debutYear" : "2010"
+    },
+    "careerStats" : {
+      "goals" : 2.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 399.0,
+      "handballs" : 309.0,
+      "disposals" : 708.0,
+      "marks" : 242.0,
+      "bounces" : 10.0,
+      "tackles" : 124.0,
+      "contestedPossessions" : 234.0,
+      "uncontestedPossessions" : 462.0,
+      "totalPossessions" : 696.0,
+      "inside50s" : 38.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 29.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 294.0,
+      "disposalEfficiency" : 81.5,
+      "clangers" : 110.0,
+      "freesFor" : 56.0,
+      "freesAgainst" : 60.0,
+      "dreamTeamPoints" : 2926.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 12.0,
+        "totalClearances" : 13.0
+      },
+      "rebound50s" : 99.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.9,
+            "handballs" : 4.9,
+            "disposals" : 10.9,
+            "marks" : 2.9,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.3,
+            "uncontestedPossessions" : 6.4,
+            "totalPossessions" : 10.8,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 1.3,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 42.6,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280819",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 107.0,
+            "handballs" : 89.0,
+            "disposals" : 196.0,
+            "marks" : 52.0,
+            "bounces" : 0.0,
+            "tackles" : 30.0,
+            "contestedPossessions" : 78.0,
+            "uncontestedPossessions" : 116.0,
+            "totalPossessions" : 194.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 60.0,
+            "disposalEfficiency" : 82.1,
+            "clangers" : 24.0,
+            "freesFor" : 24.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 766.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 26.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 198.6,
+            "ranking" : 367.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280819",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 75.3
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 4.4,
+            "disposals" : 9.8,
+            "marks" : 3.2,
+            "bounces" : 0.1,
+            "tackles" : 2.8,
+            "contestedPossessions" : 2.9,
+            "uncontestedPossessions" : 6.5,
+            "totalPossessions" : 9.4,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 43.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280819",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 104.0,
+            "handballs" : 83.0,
+            "disposals" : 187.0,
+            "marks" : 61.0,
+            "bounces" : 1.0,
+            "tackles" : 53.0,
+            "contestedPossessions" : 55.0,
+            "uncontestedPossessions" : 123.0,
+            "totalPossessions" : 178.0,
+            "inside50s" : 12.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 67.0,
+            "disposalEfficiency" : 77.0,
+            "clangers" : 37.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 24.0,
+            "dreamTeamPoints" : 823.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 28.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 137.0,
+            "ranking" : 444.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280819",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 79.5
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 6.4,
+            "handballs" : 3.4,
+            "disposals" : 9.9,
+            "marks" : 3.8,
+            "bounces" : 0.6,
+            "tackles" : 1.7,
+            "contestedPossessions" : 3.3,
+            "uncontestedPossessions" : 6.3,
+            "totalPossessions" : 9.7,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 42.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280819",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 58.0,
+            "handballs" : 31.0,
+            "disposals" : 89.0,
+            "marks" : 34.0,
+            "bounces" : 5.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 30.0,
+            "uncontestedPossessions" : 57.0,
+            "totalPossessions" : 87.0,
+            "inside50s" : 7.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 32.0,
+            "disposalEfficiency" : 71.9,
+            "clangers" : 15.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 386.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 16.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 121.3,
+            "ranking" : 458.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280819",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 72.6
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.3,
+            "handballs" : 5.8,
+            "disposals" : 16.1,
+            "marks" : 7.4,
+            "bounces" : 0.4,
+            "tackles" : 1.6,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 12.3,
+            "totalPossessions" : 16.2,
+            "inside50s" : 0.2,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 69.6,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280819",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 93.0,
+            "handballs" : 52.0,
+            "disposals" : 145.0,
+            "marks" : 67.0,
+            "bounces" : 4.0,
+            "tackles" : 14.0,
+            "contestedPossessions" : 35.0,
+            "uncontestedPossessions" : 111.0,
+            "totalPossessions" : 146.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 51.0,
+            "disposalEfficiency" : 86.9,
+            "clangers" : 17.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 626.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280819",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 86.2
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 7.3,
+            "disposals" : 12.3,
+            "marks" : 3.9,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.9,
+            "uncontestedPossessions" : 7.4,
+            "totalPossessions" : 12.3,
+            "inside50s" : 0.3,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 11.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.4,
+            "dreamTeamPoints" : 44.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280819",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 35.0,
+            "handballs" : 51.0,
+            "disposals" : 86.0,
+            "marks" : 27.0,
+            "bounces" : 0.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 34.0,
+            "uncontestedPossessions" : 52.0,
+            "totalPossessions" : 86.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 82.0,
+            "disposalEfficiency" : 87.2,
+            "clangers" : 16.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 310.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 8.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280819",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 90.1
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.0,
+            "handballs" : 3.0,
+            "disposals" : 5.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 3.0,
+            "totalPossessions" : 5.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 15.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280819",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 2.0,
+            "handballs" : 3.0,
+            "disposals" : 5.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 3.0,
+            "totalPossessions" : 5.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 100.0,
+            "clangers" : 1.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 15.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I280819",
+            "playerName" : {
+              "givenName" : "Dylan",
+              "surname" : "Grimes"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T120",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 76.7
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 107.0,
+      "handballs" : 89.0,
+      "disposals" : 196.0,
+      "marks" : 52.0,
+      "bounces" : 0.0,
+      "tackles" : 30.0,
+      "contestedPossessions" : 78.0,
+      "uncontestedPossessions" : 116.0,
+      "totalPossessions" : 194.0,
+      "inside50s" : 15.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 60.0,
+      "disposalEfficiency" : 82.1,
+      "clangers" : 24.0,
+      "freesFor" : 24.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 766.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 3.0,
+        "totalClearances" : 3.0
+      },
+      "rebound50s" : 26.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 100.0,
+      "ratingPoints" : 198.6,
+      "ranking" : 367.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I280819",
+        "playerName" : {
+          "givenName" : "Dylan",
+          "surname" : "Grimes"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T120",
+        "teamAbbr" : "RICH",
+        "teamName" : "Richmond",
+        "teamNickname" : "Tigers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 205.3,
+        "ranking" : 359,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 205.3,
+        "ranking" : 17,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 205.3,
+        "ranking" : 74,
+        "ratingType" : "POSITION",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 9.9,
+        "ranking" : 69,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 113.6,
+        "ranking" : 332,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2009"
+    },
+    "careerGamesPlayed" : 63
+  }
+}

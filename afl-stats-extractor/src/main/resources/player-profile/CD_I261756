@@ -1,0 +1,898 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I261756",
+    "position" : "Interchange",
+    "surname" : "Broughton",
+    "jumperNumber" : 36,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.2,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 9.6,
+      "handballs" : 10.3,
+      "disposals" : 19.8,
+      "marks" : 4.5,
+      "bounces" : 0.8,
+      "tackles" : 3.6,
+      "contestedPossessions" : 7.1,
+      "uncontestedPossessions" : 12.5,
+      "totalPossessions" : 19.6,
+      "inside50s" : 1.5,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.5,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.4,
+      "disposalEfficiency" : null,
+      "clangers" : 1.9,
+      "freesFor" : 1.1,
+      "freesAgainst" : 0.8,
+      "dreamTeamPoints" : 77.1,
+      "clearances" : {
+        "centreClearances" : 0.3,
+        "stoppageClearances" : 0.8,
+        "totalClearances" : 1.1
+      },
+      "rebound50s" : 2.6,
+      "goalAssists" : 0.2,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Greg",
+    "bio" : "<p>Due to list reductions at Metricon Stadium that forced the SUNS to cut their primary list from 40 to 38 players, Broughton was delisted at the end of last year with the promise that he would be selected via the rookie draft.</p>\n<p>He has found a home deep in the SUNS backline with his discipline and poise under pressure a feature of his game.</p>\n<p>Following an indifferent first season after joining from Fremantle, Broughton played 20 games in 2014 to become a permanent fixture in the back half, often taking the opposition&rsquo;s best forward. </p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GoldCoastSuns/Player Profiles/2015 - Profiles/BROUGHTON Greg.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1986-09-29T02:00:00.000+0000",
+      "draftYear" : "2009",
+      "heightInCm" : 189,
+      "weightInKg" : 85,
+      "recruitedFrom" : "Subiaco (WA)",
+      "debutYear" : "2009"
+    },
+    "careerStats" : {
+      "goals" : 19.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 1053.0,
+      "handballs" : 1128.0,
+      "disposals" : 2181.0,
+      "marks" : 499.0,
+      "bounces" : 91.0,
+      "tackles" : 398.0,
+      "contestedPossessions" : 779.0,
+      "uncontestedPossessions" : 1373.0,
+      "totalPossessions" : 2152.0,
+      "inside50s" : 161.0,
+      "marksInside50" : 16.0,
+      "contestedMarks" : 51.0,
+      "hitouts" : 3.0,
+      "onePercenters" : 260.0,
+      "disposalEfficiency" : 77.1,
+      "clangers" : 208.0,
+      "freesFor" : 121.0,
+      "freesAgainst" : 90.0,
+      "dreamTeamPoints" : 8486.0,
+      "clearances" : {
+        "centreClearances" : 36.0,
+        "stoppageClearances" : 88.0,
+        "totalClearances" : 124.0
+      },
+      "rebound50s" : 288.0,
+      "goalAssists" : 21.0,
+      "goalAccuracy" : 45.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.2,
+            "handballs" : 6.6,
+            "disposals" : 9.8,
+            "marks" : 1.8,
+            "bounces" : 0.0,
+            "tackles" : 2.0,
+            "contestedPossessions" : 2.8,
+            "uncontestedPossessions" : 6.8,
+            "totalPossessions" : 9.6,
+            "inside50s" : 0.4,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 34.6,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261756",
+            "playerName" : {
+              "givenName" : "Greg",
+              "surname" : "Broughton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 16.0,
+            "handballs" : 33.0,
+            "disposals" : 49.0,
+            "marks" : 9.0,
+            "bounces" : 0.0,
+            "tackles" : 10.0,
+            "contestedPossessions" : 14.0,
+            "uncontestedPossessions" : 34.0,
+            "totalPossessions" : 48.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 83.7,
+            "clangers" : 6.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 173.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 183.7,
+            "ranking" : 384.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261756",
+            "playerName" : {
+              "givenName" : "Greg",
+              "surname" : "Broughton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 69.0
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 7.7,
+            "handballs" : 9.7,
+            "disposals" : 17.4,
+            "marks" : 4.2,
+            "bounces" : 0.7,
+            "tackles" : 3.6,
+            "contestedPossessions" : 6.5,
+            "uncontestedPossessions" : 10.4,
+            "totalPossessions" : 16.9,
+            "inside50s" : 0.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.5,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 69.4,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 2.4,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261756",
+            "playerName" : {
+              "givenName" : "Greg",
+              "surname" : "Broughton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 154.0,
+            "handballs" : 195.0,
+            "disposals" : 349.0,
+            "marks" : 84.0,
+            "bounces" : 14.0,
+            "tackles" : 73.0,
+            "contestedPossessions" : 130.0,
+            "uncontestedPossessions" : 209.0,
+            "totalPossessions" : 339.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 48.0,
+            "disposalEfficiency" : 80.2,
+            "clangers" : 30.0,
+            "freesFor" : 25.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1389.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 17.0,
+              "totalClearances" : 21.0
+            },
+            "rebound50s" : 48.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 28.6,
+            "ratingPoints" : 285.3,
+            "ranking" : 251.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261756",
+            "playerName" : {
+              "givenName" : "Greg",
+              "surname" : "Broughton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 85.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 8.5,
+            "handballs" : 8.9,
+            "disposals" : 17.5,
+            "marks" : 4.0,
+            "bounces" : 0.4,
+            "tackles" : 2.8,
+            "contestedPossessions" : 6.6,
+            "uncontestedPossessions" : 10.4,
+            "totalPossessions" : 17.0,
+            "inside50s" : 0.6,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.6,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 65.1,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261756",
+            "playerName" : {
+              "givenName" : "Greg",
+              "surname" : "Broughton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 145.0,
+            "handballs" : 152.0,
+            "disposals" : 297.0,
+            "marks" : 68.0,
+            "bounces" : 6.0,
+            "tackles" : 47.0,
+            "contestedPossessions" : 112.0,
+            "uncontestedPossessions" : 177.0,
+            "totalPossessions" : 289.0,
+            "inside50s" : 11.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 46.0,
+            "disposalEfficiency" : 80.8,
+            "clangers" : 32.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1107.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 12.0,
+              "totalClearances" : 18.0
+            },
+            "rebound50s" : 34.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 66.7,
+            "ratingPoints" : 308.0,
+            "ranking" : 224.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261756",
+            "playerName" : {
+              "givenName" : "Greg",
+              "surname" : "Broughton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1000",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 88.6
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.6,
+            "handballs" : 9.4,
+            "disposals" : 18.0,
+            "marks" : 4.1,
+            "bounces" : 0.3,
+            "tackles" : 5.3,
+            "contestedPossessions" : 7.5,
+            "uncontestedPossessions" : 10.6,
+            "totalPossessions" : 18.1,
+            "inside50s" : 2.3,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 79.2,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261756",
+            "playerName" : {
+              "givenName" : "Greg",
+              "surname" : "Broughton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 129.0,
+            "handballs" : 141.0,
+            "disposals" : 270.0,
+            "marks" : 62.0,
+            "bounces" : 5.0,
+            "tackles" : 79.0,
+            "contestedPossessions" : 112.0,
+            "uncontestedPossessions" : 159.0,
+            "totalPossessions" : 271.0,
+            "inside50s" : 35.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 73.0,
+            "clangers" : 28.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1188.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 23.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261756",
+            "playerName" : {
+              "givenName" : "Greg",
+              "surname" : "Broughton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 79.0
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 11.7,
+            "handballs" : 10.1,
+            "disposals" : 21.9,
+            "marks" : 4.1,
+            "bounces" : 0.5,
+            "tackles" : 4.0,
+            "contestedPossessions" : 8.7,
+            "uncontestedPossessions" : 13.0,
+            "totalPossessions" : 21.6,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 1.5,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 84.3,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 2.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261756",
+            "playerName" : {
+              "givenName" : "Greg",
+              "surname" : "Broughton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 246.0,
+            "handballs" : 213.0,
+            "disposals" : 459.0,
+            "marks" : 86.0,
+            "bounces" : 10.0,
+            "tackles" : 85.0,
+            "contestedPossessions" : 182.0,
+            "uncontestedPossessions" : 272.0,
+            "totalPossessions" : 454.0,
+            "inside50s" : 45.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 39.0,
+            "disposalEfficiency" : 71.7,
+            "clangers" : 43.0,
+            "freesFor" : 32.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1770.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 20.0,
+              "totalClearances" : 30.0
+            },
+            "rebound50s" : 57.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 38.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261756",
+            "playerName" : {
+              "givenName" : "Greg",
+              "surname" : "Broughton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 87.5
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 12.4,
+            "handballs" : 11.9,
+            "disposals" : 24.3,
+            "marks" : 5.6,
+            "bounces" : 1.8,
+            "tackles" : 3.4,
+            "contestedPossessions" : 7.4,
+            "uncontestedPossessions" : 16.8,
+            "totalPossessions" : 24.2,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 90.8,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 3.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261756",
+            "playerName" : {
+              "givenName" : "Greg",
+              "surname" : "Broughton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 210.0,
+            "handballs" : 203.0,
+            "disposals" : 413.0,
+            "marks" : 95.0,
+            "bounces" : 31.0,
+            "tackles" : 57.0,
+            "contestedPossessions" : 126.0,
+            "uncontestedPossessions" : 286.0,
+            "totalPossessions" : 412.0,
+            "inside50s" : 37.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 49.0,
+            "disposalEfficiency" : 75.8,
+            "clangers" : 42.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1544.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 16.0,
+              "totalClearances" : 23.0
+            },
+            "rebound50s" : 67.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261756",
+            "playerName" : {
+              "givenName" : "Greg",
+              "surname" : "Broughton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 85.1
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 10.2,
+            "handballs" : 12.7,
+            "disposals" : 22.9,
+            "marks" : 6.3,
+            "bounces" : 1.7,
+            "tackles" : 3.1,
+            "contestedPossessions" : 7.1,
+            "uncontestedPossessions" : 15.7,
+            "totalPossessions" : 22.8,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 87.7,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 3.7,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261756",
+            "playerName" : {
+              "givenName" : "Greg",
+              "surname" : "Broughton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 153.0,
+            "handballs" : 191.0,
+            "disposals" : 344.0,
+            "marks" : 95.0,
+            "bounces" : 25.0,
+            "tackles" : 47.0,
+            "contestedPossessions" : 106.0,
+            "uncontestedPossessions" : 236.0,
+            "totalPossessions" : 342.0,
+            "inside50s" : 15.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 53.0,
+            "disposalEfficiency" : 81.7,
+            "clangers" : 27.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 1315.0,
+            "clearances" : {
+              "centreClearances" : 3.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 56.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261756",
+            "playerName" : {
+              "givenName" : "Greg",
+              "surname" : "Broughton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 88.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 16.0,
+      "handballs" : 33.0,
+      "disposals" : 49.0,
+      "marks" : 9.0,
+      "bounces" : 0.0,
+      "tackles" : 10.0,
+      "contestedPossessions" : 14.0,
+      "uncontestedPossessions" : 34.0,
+      "totalPossessions" : 48.0,
+      "inside50s" : 2.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 7.0,
+      "disposalEfficiency" : 83.7,
+      "clangers" : 6.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 3.0,
+      "dreamTeamPoints" : 173.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 3.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 183.7,
+      "ranking" : 384.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I261756",
+        "playerName" : {
+          "givenName" : "Greg",
+          "surname" : "Broughton"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1000",
+        "teamAbbr" : "GCFC",
+        "teamName" : "Gold Coast Suns",
+        "teamNickname" : "Suns"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 183.2,
+        "ranking" : 389,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 183.2,
+        "ranking" : 25,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 183.2,
+        "ranking" : 80,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 15.9,
+        "ranking" : 581,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2008"
+    },
+    "careerGamesPlayed" : 110
+  }
+}

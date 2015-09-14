@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I281329",
+    "position" : "Left Half Back",
+    "surname" : "Bewick",
+    "jumperNumber" : 8,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.7,
+      "behinds" : 0.6,
+      "superGoals" : null,
+      "kicks" : 7.9,
+      "handballs" : 5.6,
+      "disposals" : 13.5,
+      "marks" : 3.9,
+      "bounces" : 0.4,
+      "tackles" : 2.0,
+      "contestedPossessions" : 4.8,
+      "uncontestedPossessions" : 8.6,
+      "totalPossessions" : 13.4,
+      "inside50s" : 2.0,
+      "marksInside50" : 0.7,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.1,
+      "onePercenters" : 0.7,
+      "disposalEfficiency" : null,
+      "clangers" : 1.8,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 59.0,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.9,
+        "totalClearances" : 1.1
+      },
+      "rebound50s" : 0.8,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Rohan",
+    "bio" : "<p>Rohan Bewick is a hard-running player with a penetrating kick who tasted senior WAFL action before joining the Lions as a mature-age recruit at the end of the 2010 season. He seems to do his best work either on a wing or across half-forward.&nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/BrisbaneLions/Player Profiles/2015 - Profiles/BEWICK Rohan.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1989-10-10T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 184,
+      "weightInKg" : 83,
+      "recruitedFrom" : "West Perth (WA)",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 57.0,
+      "behinds" : 49.0,
+      "superGoals" : null,
+      "kicks" : 617.0,
+      "handballs" : 433.0,
+      "disposals" : 1050.0,
+      "marks" : 306.0,
+      "bounces" : 28.0,
+      "tackles" : 157.0,
+      "contestedPossessions" : 372.0,
+      "uncontestedPossessions" : 672.0,
+      "totalPossessions" : 1044.0,
+      "inside50s" : 157.0,
+      "marksInside50" : 55.0,
+      "contestedMarks" : 25.0,
+      "hitouts" : 5.0,
+      "onePercenters" : 53.0,
+      "disposalEfficiency" : 67.4,
+      "clangers" : 142.0,
+      "freesFor" : 54.0,
+      "freesAgainst" : 37.0,
+      "dreamTeamPoints" : 4602.0,
+      "clearances" : {
+        "centreClearances" : 16.0,
+        "stoppageClearances" : 67.0,
+        "totalClearances" : 83.0
+      },
+      "rebound50s" : 65.0,
+      "goalAssists" : 26.0,
+      "goalAccuracy" : 46.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 7.6,
+            "handballs" : 5.9,
+            "disposals" : 13.5,
+            "marks" : 4.3,
+            "bounces" : 0.3,
+            "tackles" : 3.0,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 9.3,
+            "totalPossessions" : 13.8,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 62.7,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281329",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Bewick"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 114.0,
+            "handballs" : 89.0,
+            "disposals" : 203.0,
+            "marks" : 65.0,
+            "bounces" : 4.0,
+            "tackles" : 45.0,
+            "contestedPossessions" : 68.0,
+            "uncontestedPossessions" : 139.0,
+            "totalPossessions" : 207.0,
+            "inside50s" : 19.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 71.4,
+            "clangers" : 25.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 941.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 17.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 55.6,
+            "ratingPoints" : 232.2,
+            "ranking" : 323.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281329",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Bewick"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 84.5
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 9.1,
+            "handballs" : 7.4,
+            "disposals" : 16.6,
+            "marks" : 4.1,
+            "bounces" : 0.6,
+            "tackles" : 1.5,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 11.8,
+            "totalPossessions" : 16.6,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 64.0,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281329",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Bewick"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 146.0,
+            "handballs" : 119.0,
+            "disposals" : 265.0,
+            "marks" : 65.0,
+            "bounces" : 10.0,
+            "tackles" : 24.0,
+            "contestedPossessions" : 76.0,
+            "uncontestedPossessions" : 189.0,
+            "totalPossessions" : 265.0,
+            "inside50s" : 38.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 74.7,
+            "clangers" : 24.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 1024.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 17.0,
+              "totalClearances" : 23.0
+            },
+            "rebound50s" : 22.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 47.4,
+            "ratingPoints" : 234.5,
+            "ranking" : 323.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281329",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Bewick"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 80.7
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 1.1,
+            "superGoals" : null,
+            "kicks" : 7.6,
+            "handballs" : 5.5,
+            "disposals" : 13.1,
+            "marks" : 4.1,
+            "bounces" : 0.3,
+            "tackles" : 2.4,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 7.4,
+            "totalPossessions" : 13.1,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.2,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 60.9,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281329",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Bewick"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 15.0,
+            "behinds" : 21.0,
+            "superGoals" : null,
+            "kicks" : 145.0,
+            "handballs" : 104.0,
+            "disposals" : 249.0,
+            "marks" : 77.0,
+            "bounces" : 5.0,
+            "tackles" : 46.0,
+            "contestedPossessions" : 107.0,
+            "uncontestedPossessions" : 141.0,
+            "totalPossessions" : 248.0,
+            "inside50s" : 40.0,
+            "marksInside50" : 15.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 63.9,
+            "clangers" : 40.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1158.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 9.0,
+            "goalAssists" : 11.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : 220.0,
+            "ranking" : 331.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281329",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Bewick"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 83.1
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.1,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 7.7,
+            "handballs" : 4.7,
+            "disposals" : 12.4,
+            "marks" : 3.6,
+            "bounces" : 0.4,
+            "tackles" : 1.7,
+            "contestedPossessions" : 4.7,
+            "uncontestedPossessions" : 7.4,
+            "totalPossessions" : 12.1,
+            "inside50s" : 2.2,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 56.9,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281329",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Bewick"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 18.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 124.0,
+            "handballs" : 75.0,
+            "disposals" : 199.0,
+            "marks" : 58.0,
+            "bounces" : 6.0,
+            "tackles" : 27.0,
+            "contestedPossessions" : 75.0,
+            "uncontestedPossessions" : 118.0,
+            "totalPossessions" : 193.0,
+            "inside50s" : 35.0,
+            "marksInside50" : 16.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 66.8,
+            "clangers" : 27.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 911.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 18.0
+            },
+            "rebound50s" : 11.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 51.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281329",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Bewick"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 16.0,
+          "timeOnGroundPercentage" : 73.6
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.3,
+            "handballs" : 3.8,
+            "disposals" : 11.2,
+            "marks" : 3.4,
+            "bounces" : 0.2,
+            "tackles" : 1.2,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 7.1,
+            "totalPossessions" : 11.0,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.2,
+            "dreamTeamPoints" : 47.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.8,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281329",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Bewick"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 88.0,
+            "handballs" : 46.0,
+            "disposals" : 134.0,
+            "marks" : 41.0,
+            "bounces" : 3.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 47.0,
+            "uncontestedPossessions" : 85.0,
+            "totalPossessions" : 132.0,
+            "inside50s" : 25.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 53.7,
+            "clangers" : 26.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 568.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I281329",
+            "playerName" : {
+              "givenName" : "Rohan",
+              "surname" : "Bewick"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T20",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 57.5
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 10.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 114.0,
+      "handballs" : 89.0,
+      "disposals" : 203.0,
+      "marks" : 65.0,
+      "bounces" : 4.0,
+      "tackles" : 45.0,
+      "contestedPossessions" : 68.0,
+      "uncontestedPossessions" : 139.0,
+      "totalPossessions" : 207.0,
+      "inside50s" : 19.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 10.0,
+      "disposalEfficiency" : 71.4,
+      "clangers" : 25.0,
+      "freesFor" : 6.0,
+      "freesAgainst" : 9.0,
+      "dreamTeamPoints" : 941.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 15.0,
+        "totalClearances" : 17.0
+      },
+      "rebound50s" : 19.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 55.6,
+      "ratingPoints" : 232.2,
+      "ranking" : 323.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I281329",
+        "playerName" : {
+          "givenName" : "Rohan",
+          "surname" : "Bewick"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T20",
+        "teamAbbr" : "BL",
+        "teamName" : "Brisbane Lions",
+        "teamNickname" : "Lions"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 234.4,
+        "ranking" : 321,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 234.4,
+        "ranking" : 16,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 234.4,
+        "ranking" : 40,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 101.1,
+        "ranking" : 364,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 78
+  }
+}

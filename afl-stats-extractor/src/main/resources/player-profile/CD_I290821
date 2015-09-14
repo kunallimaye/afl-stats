@@ -1,0 +1,692 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I290821",
+    "position" : "Left Forward Pocket",
+    "surname" : "Fasolo",
+    "jumperNumber" : 1,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.1,
+      "behinds" : 0.8,
+      "superGoals" : null,
+      "kicks" : 8.6,
+      "handballs" : 5.4,
+      "disposals" : 14.0,
+      "marks" : 4.3,
+      "bounces" : 0.2,
+      "tackles" : 2.6,
+      "contestedPossessions" : 5.8,
+      "uncontestedPossessions" : 8.4,
+      "totalPossessions" : 14.1,
+      "inside50s" : 2.8,
+      "marksInside50" : 1.1,
+      "contestedMarks" : 0.7,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.9,
+      "disposalEfficiency" : null,
+      "clangers" : 2.0,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 66.1,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.6,
+        "totalClearances" : 0.8
+      },
+      "rebound50s" : 0.4,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Alex",
+    "bio" : "<p>Made a huge impression in his first few seasons on the list, breaking into a premiership outfit in the forward pocket. Shows genuine goal sense and has the confidence to back himself when in possession. His accurate disposal and his long kicking has became a feature of his game, and served him well when he was moved to half back during season 2014. Fasolo will look to increase the time spent in the midfield as he develops his engine, but exactly where his best football lies may depend on how he adapts to his new role in defence.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Collingwood/Player Profiles/2015 - Profiles/FASOLO Alex.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1992-06-08T02:00:00.000+0000",
+      "draftYear" : "2010",
+      "heightInCm" : 181,
+      "weightInKg" : 84,
+      "recruitedFrom" : "East Fremantle (WA)",
+      "debutYear" : "2011"
+    },
+    "careerStats" : {
+      "goals" : 79.0,
+      "behinds" : 54.0,
+      "superGoals" : null,
+      "kicks" : 595.0,
+      "handballs" : 371.0,
+      "disposals" : 966.0,
+      "marks" : 300.0,
+      "bounces" : 17.0,
+      "tackles" : 178.0,
+      "contestedPossessions" : 397.0,
+      "uncontestedPossessions" : 577.0,
+      "totalPossessions" : 974.0,
+      "inside50s" : 196.0,
+      "marksInside50" : 73.0,
+      "contestedMarks" : 47.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 59.0,
+      "disposalEfficiency" : 74.0,
+      "clangers" : 138.0,
+      "freesFor" : 50.0,
+      "freesAgainst" : 51.0,
+      "dreamTeamPoints" : 4564.0,
+      "clearances" : {
+        "centreClearances" : 15.0,
+        "stoppageClearances" : 40.0,
+        "totalClearances" : 55.0
+      },
+      "rebound50s" : 30.0,
+      "goalAssists" : 35.0,
+      "goalAccuracy" : 51.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.6,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 8.8,
+            "handballs" : 5.0,
+            "disposals" : 13.8,
+            "marks" : 4.8,
+            "bounces" : 0.0,
+            "tackles" : 2.9,
+            "contestedPossessions" : 6.2,
+            "uncontestedPossessions" : 7.9,
+            "totalPossessions" : 14.1,
+            "inside50s" : 2.9,
+            "marksInside50" : 2.1,
+            "contestedMarks" : 0.9,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 71.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.2
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 1.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290821",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Fasolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 27.0,
+            "behinds" : 15.0,
+            "superGoals" : null,
+            "kicks" : 150.0,
+            "handballs" : 85.0,
+            "disposals" : 235.0,
+            "marks" : 81.0,
+            "bounces" : 0.0,
+            "tackles" : 49.0,
+            "contestedPossessions" : 105.0,
+            "uncontestedPossessions" : 135.0,
+            "totalPossessions" : 240.0,
+            "inside50s" : 49.0,
+            "marksInside50" : 35.0,
+            "contestedMarks" : 15.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 13.0,
+            "disposalEfficiency" : 71.5,
+            "clangers" : 40.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 12.0,
+            "dreamTeamPoints" : 1219.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 5.0,
+            "goalAssists" : 18.0,
+            "goalAccuracy" : 54.0,
+            "ratingPoints" : 256.0,
+            "ranking" : 287.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290821",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Fasolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 83.7
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 8.6,
+            "handballs" : 6.4,
+            "disposals" : 15.0,
+            "marks" : 4.2,
+            "bounces" : 0.2,
+            "tackles" : 2.6,
+            "contestedPossessions" : 5.1,
+            "uncontestedPossessions" : 9.8,
+            "totalPossessions" : 14.9,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 64.7,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290821",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Fasolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 7.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 103.0,
+            "handballs" : 77.0,
+            "disposals" : 180.0,
+            "marks" : 51.0,
+            "bounces" : 2.0,
+            "tackles" : 31.0,
+            "contestedPossessions" : 61.0,
+            "uncontestedPossessions" : 118.0,
+            "totalPossessions" : 179.0,
+            "inside50s" : 24.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 19.0,
+            "disposalEfficiency" : 75.6,
+            "clangers" : 25.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 776.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 10.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 38.9,
+            "ratingPoints" : 133.9,
+            "ranking" : 452.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290821",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Fasolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 79.4
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 3.0,
+            "disposals" : 11.0,
+            "marks" : 4.0,
+            "bounces" : 0.0,
+            "tackles" : 1.7,
+            "contestedPossessions" : 3.3,
+            "uncontestedPossessions" : 7.3,
+            "totalPossessions" : 10.7,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.3,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.3,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 48.7,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.7,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290821",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Fasolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 24.0,
+            "handballs" : 9.0,
+            "disposals" : 33.0,
+            "marks" : 12.0,
+            "bounces" : 0.0,
+            "tackles" : 5.0,
+            "contestedPossessions" : 10.0,
+            "uncontestedPossessions" : 22.0,
+            "totalPossessions" : 32.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 63.6,
+            "clangers" : 5.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 146.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 25.0,
+            "ratingPoints" : 275.4,
+            "ranking" : 262.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290821",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Fasolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 62.6
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 0.8,
+            "superGoals" : null,
+            "kicks" : 9.8,
+            "handballs" : 5.6,
+            "disposals" : 15.5,
+            "marks" : 4.7,
+            "bounces" : 0.4,
+            "tackles" : 2.7,
+            "contestedPossessions" : 6.2,
+            "uncontestedPossessions" : 9.4,
+            "totalPossessions" : 15.6,
+            "inside50s" : 3.5,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.7,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.2,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 71.4,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290821",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Fasolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 28.0,
+            "behinds" : 20.0,
+            "superGoals" : null,
+            "kicks" : 236.0,
+            "handballs" : 135.0,
+            "disposals" : 371.0,
+            "marks" : 113.0,
+            "bounces" : 9.0,
+            "tackles" : 64.0,
+            "contestedPossessions" : 149.0,
+            "uncontestedPossessions" : 225.0,
+            "totalPossessions" : 374.0,
+            "inside50s" : 83.0,
+            "marksInside50" : 18.0,
+            "contestedMarks" : 17.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 16.0,
+            "disposalEfficiency" : 75.7,
+            "clangers" : 52.0,
+            "freesFor" : 18.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 1713.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 20.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 8.0,
+            "goalAccuracy" : 50.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290821",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Fasolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 80.3
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.2,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 6.3,
+            "handballs" : 5.0,
+            "disposals" : 11.3,
+            "marks" : 3.3,
+            "bounces" : 0.5,
+            "tackles" : 2.2,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 5.9,
+            "totalPossessions" : 11.5,
+            "inside50s" : 2.4,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 54.6,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 0.1,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290821",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Fasolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 16.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 82.0,
+            "handballs" : 65.0,
+            "disposals" : 147.0,
+            "marks" : 43.0,
+            "bounces" : 6.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 73.0,
+            "uncontestedPossessions" : 77.0,
+            "totalPossessions" : 150.0,
+            "inside50s" : 31.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 10.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 73.5,
+            "clangers" : 16.0,
+            "freesFor" : 6.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 710.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 13.0,
+              "totalClearances" : 18.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 57.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I290821",
+            "playerName" : {
+              "givenName" : "Alex",
+              "surname" : "Fasolo"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 57.6
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 27.0,
+      "behinds" : 15.0,
+      "superGoals" : null,
+      "kicks" : 150.0,
+      "handballs" : 85.0,
+      "disposals" : 235.0,
+      "marks" : 81.0,
+      "bounces" : 0.0,
+      "tackles" : 49.0,
+      "contestedPossessions" : 105.0,
+      "uncontestedPossessions" : 135.0,
+      "totalPossessions" : 240.0,
+      "inside50s" : 49.0,
+      "marksInside50" : 35.0,
+      "contestedMarks" : 15.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 13.0,
+      "disposalEfficiency" : 71.5,
+      "clangers" : 40.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1219.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 4.0,
+        "totalClearances" : 4.0
+      },
+      "rebound50s" : 5.0,
+      "goalAssists" : 18.0,
+      "goalAccuracy" : 54.0,
+      "ratingPoints" : 256.0,
+      "ranking" : 287.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I290821",
+        "playerName" : {
+          "givenName" : "Alex",
+          "surname" : "Fasolo"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T40",
+        "teamAbbr" : "COLL",
+        "teamName" : "Collingwood",
+        "teamNickname" : "Magpies"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 267.6,
+        "ranking" : 277,
+        "ratingType" : "OVERALL",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 267.6,
+        "ranking" : 17,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 267.6,
+        "ranking" : 37,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 177.8,
+        "ranking" : 187,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2010"
+    },
+    "careerGamesPlayed" : 69
+  }
+}

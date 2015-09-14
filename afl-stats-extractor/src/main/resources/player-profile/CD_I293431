@@ -1,0 +1,486 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I293431",
+    "position" : "Interchange",
+    "surname" : "Kennedy",
+    "jumperNumber" : 7,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.6,
+      "behinds" : 0.4,
+      "superGoals" : null,
+      "kicks" : 6.1,
+      "handballs" : 5.7,
+      "disposals" : 11.8,
+      "marks" : 1.6,
+      "bounces" : 0.3,
+      "tackles" : 1.8,
+      "contestedPossessions" : 5.1,
+      "uncontestedPossessions" : 6.8,
+      "totalPossessions" : 11.8,
+      "inside50s" : 1.9,
+      "marksInside50" : 0.4,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.3,
+      "disposalEfficiency" : null,
+      "clangers" : 2.0,
+      "freesFor" : 0.4,
+      "freesAgainst" : 0.4,
+      "dreamTeamPoints" : 44.8,
+      "clearances" : {
+        "centreClearances" : 0.6,
+        "stoppageClearances" : 0.9,
+        "totalClearances" : 1.5
+      },
+      "rebound50s" : 0.4,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Ben",
+    "bio" : "<p>A left-footed small forward/midfielder with explosive pace and rare agility, Kennedy is a prolific ball winner who excels at stoppages and is extremely dangerous around goal with set shots or snaps. He made a bright start to his Collingwood career, playing 12 senior games in his first year on the list and averaged 24.4 disposals in his seven games in the VFL. He senior opportunities a little harder to come by in 2014, for he was involved as a substitute in five of his eight games at the highest level. Entering his third year, Kennedy be looking to become a senior regular in 2015.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Collingwood/Player Profiles/2015 - Profiles/KENNEDY Ben.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1994-03-03T01:00:00.000+0000",
+      "draftYear" : "2012",
+      "heightInCm" : 175,
+      "weightInKg" : 76,
+      "recruitedFrom" : "Brighton District (SA)/Glenelg (SANFL)",
+      "debutYear" : "2013"
+    },
+    "careerStats" : {
+      "goals" : 15.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 152.0,
+      "handballs" : 142.0,
+      "disposals" : 294.0,
+      "marks" : 40.0,
+      "bounces" : 8.0,
+      "tackles" : 46.0,
+      "contestedPossessions" : 127.0,
+      "uncontestedPossessions" : 169.0,
+      "totalPossessions" : 296.0,
+      "inside50s" : 47.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 8.0,
+      "disposalEfficiency" : 63.9,
+      "clangers" : 50.0,
+      "freesFor" : 10.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1121.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 37.0
+      },
+      "rebound50s" : 10.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 41.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 6.4,
+            "handballs" : 4.6,
+            "disposals" : 11.0,
+            "marks" : 1.8,
+            "bounces" : 0.0,
+            "tackles" : 2.2,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 6.8,
+            "totalPossessions" : 10.8,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.2,
+            "disposalEfficiency" : null,
+            "clangers" : 3.2,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 43.2,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.8,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293431",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 32.0,
+            "handballs" : 23.0,
+            "disposals" : 55.0,
+            "marks" : 9.0,
+            "bounces" : 0.0,
+            "tackles" : 11.0,
+            "contestedPossessions" : 20.0,
+            "uncontestedPossessions" : 34.0,
+            "totalPossessions" : 54.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 61.8,
+            "clangers" : 16.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 216.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 28.6,
+            "ratingPoints" : 68.3,
+            "ranking" : 533.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293431",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 58.8
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 6.7,
+            "handballs" : 5.5,
+            "disposals" : 12.2,
+            "marks" : 1.4,
+            "bounces" : 0.2,
+            "tackles" : 1.9,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 6.7,
+            "totalPossessions" : 12.4,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.2,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 44.5,
+            "clearances" : {
+              "centreClearances" : 0.6,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.9
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293431",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 54.0,
+            "handballs" : 44.0,
+            "disposals" : 98.0,
+            "marks" : 11.0,
+            "bounces" : 2.0,
+            "tackles" : 15.0,
+            "contestedPossessions" : 45.0,
+            "uncontestedPossessions" : 54.0,
+            "totalPossessions" : 99.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 6.0,
+            "disposalEfficiency" : 68.4,
+            "clangers" : 12.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 356.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 7.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 57.1,
+            "ratingPoints" : 130.9,
+            "ranking" : 456.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293431",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 50.7
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.7,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 5.5,
+            "handballs" : 6.2,
+            "disposals" : 11.7,
+            "marks" : 1.7,
+            "bounces" : 0.5,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 6.7,
+            "totalPossessions" : 11.9,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.1,
+            "dreamTeamPoints" : 45.7,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293431",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 66.0,
+            "handballs" : 75.0,
+            "disposals" : 141.0,
+            "marks" : 20.0,
+            "bounces" : 6.0,
+            "tackles" : 20.0,
+            "contestedPossessions" : 62.0,
+            "uncontestedPossessions" : 81.0,
+            "totalPossessions" : 143.0,
+            "inside50s" : 22.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 61.7,
+            "clangers" : 22.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 549.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 11.0,
+              "totalClearances" : 16.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 40.9,
+            "ratingPoints" : 71.5,
+            "ranking" : 548.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I293431",
+            "playerName" : {
+              "givenName" : "Ben",
+              "surname" : "Kennedy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T40",
+          "gamesPlayed" : 12.0,
+          "timeOnGroundPercentage" : 55.7
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 2.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 32.0,
+      "handballs" : 23.0,
+      "disposals" : 55.0,
+      "marks" : 9.0,
+      "bounces" : 0.0,
+      "tackles" : 11.0,
+      "contestedPossessions" : 20.0,
+      "uncontestedPossessions" : 34.0,
+      "totalPossessions" : 54.0,
+      "inside50s" : 9.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 1.0,
+      "disposalEfficiency" : 61.8,
+      "clangers" : 16.0,
+      "freesFor" : 4.0,
+      "freesAgainst" : 5.0,
+      "dreamTeamPoints" : 216.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 2.0,
+        "totalClearances" : 6.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 28.6,
+      "ratingPoints" : 68.3,
+      "ranking" : 533.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I293431",
+        "playerName" : {
+          "givenName" : "Ben",
+          "surname" : "Kennedy"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T40",
+        "teamAbbr" : "COLL",
+        "teamName" : "Collingwood",
+        "teamNickname" : "Magpies"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 77.5,
+        "ranking" : 525,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 77.5,
+        "ranking" : 32,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 77.5,
+        "ranking" : 44,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 18.1,
+        "ranking" : 576,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2012"
+    },
+    "careerGamesPlayed" : 25
+  }
+}

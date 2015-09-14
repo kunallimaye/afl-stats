@@ -1,0 +1,1001 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I261231",
+    "position" : "Centre Half Forward",
+    "surname" : "Palmer",
+    "jumperNumber" : 7,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.7,
+      "behinds" : 0.5,
+      "superGoals" : null,
+      "kicks" : 9.8,
+      "handballs" : 8.5,
+      "disposals" : 18.3,
+      "marks" : 4.0,
+      "bounces" : 0.8,
+      "tackles" : 3.0,
+      "contestedPossessions" : 6.7,
+      "uncontestedPossessions" : 11.5,
+      "totalPossessions" : 18.3,
+      "inside50s" : 2.6,
+      "marksInside50" : 0.5,
+      "contestedMarks" : 0.3,
+      "hitouts" : 0.1,
+      "onePercenters" : 0.8,
+      "disposalEfficiency" : null,
+      "clangers" : 2.2,
+      "freesFor" : 1.1,
+      "freesAgainst" : 0.7,
+      "dreamTeamPoints" : 74.3,
+      "clearances" : {
+        "centreClearances" : 0.7,
+        "stoppageClearances" : 1.3,
+        "totalClearances" : 2.1
+      },
+      "rebound50s" : 1.2,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Rhys",
+    "bio" : "<p>Rhys Palmer is a left-footed midfielder who played his junior football at Bullcreek Leeming Football Club in Western Australia. Palmer was selected at pick seven in the 2007 NAB AFL Draft by Fremantle and made his debut in 2008, taking out the NAB AFL Rising Star Award in his debut season. He joined the GIANTS as an uncontracted player at the end of 2011.<br /> &nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2015 - Profiles/PALMER Rhys.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1989-02-13T01:00:00.000+0000",
+      "draftYear" : "2007",
+      "heightInCm" : 181,
+      "weightInKg" : 82,
+      "recruitedFrom" : "East Fremantle (WA)",
+      "debutYear" : "2008"
+    },
+    "careerStats" : {
+      "goals" : 82.0,
+      "behinds" : 60.0,
+      "superGoals" : null,
+      "kicks" : 1079.0,
+      "handballs" : 931.0,
+      "disposals" : 2010.0,
+      "marks" : 436.0,
+      "bounces" : 92.0,
+      "tackles" : 329.0,
+      "contestedPossessions" : 742.0,
+      "uncontestedPossessions" : 1269.0,
+      "totalPossessions" : 2011.0,
+      "inside50s" : 290.0,
+      "marksInside50" : 59.0,
+      "contestedMarks" : 28.0,
+      "hitouts" : 12.0,
+      "onePercenters" : 93.0,
+      "disposalEfficiency" : 68.5,
+      "clangers" : 247.0,
+      "freesFor" : 118.0,
+      "freesAgainst" : 77.0,
+      "dreamTeamPoints" : 8174.0,
+      "clearances" : {
+        "centreClearances" : 79.0,
+        "stoppageClearances" : 148.0,
+        "totalClearances" : 227.0
+      },
+      "rebound50s" : 130.0,
+      "goalAssists" : 56.0,
+      "goalAccuracy" : 45.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.3,
+            "behinds" : 1.1,
+            "superGoals" : null,
+            "kicks" : 9.5,
+            "handballs" : 5.6,
+            "disposals" : 15.1,
+            "marks" : 3.8,
+            "bounces" : 0.6,
+            "tackles" : 2.7,
+            "contestedPossessions" : 5.9,
+            "uncontestedPossessions" : 9.2,
+            "totalPossessions" : 15.1,
+            "inside50s" : 3.6,
+            "marksInside50" : 0.8,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.3,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 70.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.1
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.9,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261231",
+            "playerName" : {
+              "givenName" : "Rhys",
+              "surname" : "Palmer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 18.0,
+            "behinds" : 16.0,
+            "superGoals" : null,
+            "kicks" : 133.0,
+            "handballs" : 79.0,
+            "disposals" : 212.0,
+            "marks" : 53.0,
+            "bounces" : 9.0,
+            "tackles" : 38.0,
+            "contestedPossessions" : 83.0,
+            "uncontestedPossessions" : 129.0,
+            "totalPossessions" : 212.0,
+            "inside50s" : 50.0,
+            "marksInside50" : 11.0,
+            "contestedMarks" : 5.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.0,
+            "disposalEfficiency" : 68.4,
+            "clangers" : 27.0,
+            "freesFor" : 13.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 984.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 15.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : 293.7,
+            "ranking" : 240.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261231",
+            "playerName" : {
+              "givenName" : "Rhys",
+              "surname" : "Palmer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 84.4
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.4,
+            "behinds" : 0.7,
+            "superGoals" : null,
+            "kicks" : 8.6,
+            "handballs" : 8.0,
+            "disposals" : 16.6,
+            "marks" : 3.2,
+            "bounces" : 0.6,
+            "tackles" : 2.9,
+            "contestedPossessions" : 7.0,
+            "uncontestedPossessions" : 9.5,
+            "totalPossessions" : 16.5,
+            "inside50s" : 2.9,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.1,
+            "freesFor" : 0.8,
+            "freesAgainst" : 1.2,
+            "dreamTeamPoints" : 69.2,
+            "clearances" : {
+              "centreClearances" : 0.8,
+              "stoppageClearances" : 1.2,
+              "totalClearances" : 1.9
+            },
+            "rebound50s" : 0.7,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261231",
+            "playerName" : {
+              "givenName" : "Rhys",
+              "surname" : "Palmer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 23.0,
+            "behinds" : 12.0,
+            "superGoals" : null,
+            "kicks" : 147.0,
+            "handballs" : 136.0,
+            "disposals" : 283.0,
+            "marks" : 54.0,
+            "bounces" : 10.0,
+            "tackles" : 49.0,
+            "contestedPossessions" : 119.0,
+            "uncontestedPossessions" : 161.0,
+            "totalPossessions" : 280.0,
+            "inside50s" : 50.0,
+            "marksInside50" : 12.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 20.0,
+            "disposalEfficiency" : 66.8,
+            "clangers" : 36.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 1177.0,
+            "clearances" : {
+              "centreClearances" : 13.0,
+              "stoppageClearances" : 20.0,
+              "totalClearances" : 33.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 53.5,
+            "ratingPoints" : 251.6,
+            "ranking" : 300.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261231",
+            "playerName" : {
+              "givenName" : "Rhys",
+              "surname" : "Palmer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 17.0,
+          "timeOnGroundPercentage" : 85.8
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.8,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 9.4,
+            "handballs" : 7.3,
+            "disposals" : 16.6,
+            "marks" : 4.6,
+            "bounces" : 0.1,
+            "tackles" : 2.9,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 10.5,
+            "totalPossessions" : 16.1,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 72.8,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.9,
+              "totalClearances" : 1.3
+            },
+            "rebound50s" : 1.1,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261231",
+            "playerName" : {
+              "givenName" : "Rhys",
+              "surname" : "Palmer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 103.0,
+            "handballs" : 80.0,
+            "disposals" : 183.0,
+            "marks" : 51.0,
+            "bounces" : 1.0,
+            "tackles" : 32.0,
+            "contestedPossessions" : 62.0,
+            "uncontestedPossessions" : 115.0,
+            "totalPossessions" : 177.0,
+            "inside50s" : 19.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 7.0,
+            "disposalEfficiency" : 68.3,
+            "clangers" : 25.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 6.0,
+            "dreamTeamPoints" : 801.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 14.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 47.4,
+            "ratingPoints" : 197.5,
+            "ranking" : 355.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261231",
+            "playerName" : {
+              "givenName" : "Rhys",
+              "surname" : "Palmer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 11.0,
+          "timeOnGroundPercentage" : 79.1
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 10.5,
+            "handballs" : 8.5,
+            "disposals" : 19.1,
+            "marks" : 4.4,
+            "bounces" : 0.2,
+            "tackles" : 2.3,
+            "contestedPossessions" : 7.1,
+            "uncontestedPossessions" : 12.2,
+            "totalPossessions" : 19.3,
+            "inside50s" : 2.2,
+            "marksInside50" : 0.7,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.4,
+            "onePercenters" : 1.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 1.4,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 74.3,
+            "clearances" : {
+              "centreClearances" : 0.7,
+              "stoppageClearances" : 1.5,
+              "totalClearances" : 2.1
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261231",
+            "playerName" : {
+              "givenName" : "Rhys",
+              "surname" : "Palmer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 158.0,
+            "handballs" : 128.0,
+            "disposals" : 286.0,
+            "marks" : 66.0,
+            "bounces" : 3.0,
+            "tackles" : 34.0,
+            "contestedPossessions" : 106.0,
+            "uncontestedPossessions" : 183.0,
+            "totalPossessions" : 289.0,
+            "inside50s" : 33.0,
+            "marksInside50" : 10.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 6.0,
+            "onePercenters" : 23.0,
+            "disposalEfficiency" : 65.4,
+            "clangers" : 35.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1115.0,
+            "clearances" : {
+              "centreClearances" : 10.0,
+              "stoppageClearances" : 22.0,
+              "totalClearances" : 32.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 40.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261231",
+            "playerName" : {
+              "givenName" : "Rhys",
+              "surname" : "Palmer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 82.6
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 7.3,
+            "handballs" : 8.1,
+            "disposals" : 15.4,
+            "marks" : 3.2,
+            "bounces" : 0.0,
+            "tackles" : 3.8,
+            "contestedPossessions" : 5.5,
+            "uncontestedPossessions" : 9.9,
+            "totalPossessions" : 15.4,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.5,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 65.4,
+            "clearances" : {
+              "centreClearances" : 0.5,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.5
+            },
+            "rebound50s" : 0.9,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261231",
+            "playerName" : {
+              "givenName" : "Rhys",
+              "surname" : "Palmer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 110.0,
+            "handballs" : 121.0,
+            "disposals" : 231.0,
+            "marks" : 48.0,
+            "bounces" : 0.0,
+            "tackles" : 57.0,
+            "contestedPossessions" : 82.0,
+            "uncontestedPossessions" : 149.0,
+            "totalPossessions" : 231.0,
+            "inside50s" : 29.0,
+            "marksInside50" : 7.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 9.0,
+            "disposalEfficiency" : 70.6,
+            "clangers" : 24.0,
+            "freesFor" : 10.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 981.0,
+            "clearances" : {
+              "centreClearances" : 7.0,
+              "stoppageClearances" : 15.0,
+              "totalClearances" : 22.0
+            },
+            "rebound50s" : 14.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 37.5,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261231",
+            "playerName" : {
+              "givenName" : "Rhys",
+              "surname" : "Palmer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 15.0,
+          "timeOnGroundPercentage" : 69.5
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 8.7,
+            "handballs" : 10.5,
+            "disposals" : 19.2,
+            "marks" : 3.5,
+            "bounces" : 0.2,
+            "tackles" : 4.0,
+            "contestedPossessions" : 6.9,
+            "uncontestedPossessions" : 12.3,
+            "totalPossessions" : 19.2,
+            "inside50s" : 2.5,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 2.6,
+            "freesFor" : 1.1,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 74.5,
+            "clearances" : {
+              "centreClearances" : 1.1,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 2.8
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261231",
+            "playerName" : {
+              "givenName" : "Rhys",
+              "surname" : "Palmer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 113.0,
+            "handballs" : 136.0,
+            "disposals" : 249.0,
+            "marks" : 46.0,
+            "bounces" : 2.0,
+            "tackles" : 52.0,
+            "contestedPossessions" : 90.0,
+            "uncontestedPossessions" : 160.0,
+            "totalPossessions" : 250.0,
+            "inside50s" : 33.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 12.0,
+            "disposalEfficiency" : 71.9,
+            "clangers" : 34.0,
+            "freesFor" : 14.0,
+            "freesAgainst" : 10.0,
+            "dreamTeamPoints" : 969.0,
+            "clearances" : {
+              "centreClearances" : 14.0,
+              "stoppageClearances" : 23.0,
+              "totalClearances" : 37.0
+            },
+            "rebound50s" : 19.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261231",
+            "playerName" : {
+              "givenName" : "Rhys",
+              "surname" : "Palmer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 13.0,
+          "timeOnGroundPercentage" : 64.0
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 9.0,
+            "handballs" : 11.8,
+            "disposals" : 20.8,
+            "marks" : 3.6,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 6.6,
+            "uncontestedPossessions" : 14.2,
+            "totalPossessions" : 20.8,
+            "inside50s" : 1.6,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.2,
+            "onePercenters" : 0.2,
+            "disposalEfficiency" : null,
+            "clangers" : 3.4,
+            "freesFor" : 0.6,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 79.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.4,
+              "totalClearances" : 2.4
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261231",
+            "playerName" : {
+              "givenName" : "Rhys",
+              "surname" : "Palmer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 45.0,
+            "handballs" : 59.0,
+            "disposals" : 104.0,
+            "marks" : 18.0,
+            "bounces" : 0.0,
+            "tackles" : 20.0,
+            "contestedPossessions" : 33.0,
+            "uncontestedPossessions" : 71.0,
+            "totalPossessions" : 104.0,
+            "inside50s" : 8.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 66.3,
+            "clangers" : 17.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 5.0,
+            "dreamTeamPoints" : 395.0,
+            "clearances" : {
+              "centreClearances" : 5.0,
+              "stoppageClearances" : 7.0,
+              "totalClearances" : 12.0
+            },
+            "rebound50s" : 4.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261231",
+            "playerName" : {
+              "givenName" : "Rhys",
+              "surname" : "Palmer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 5.0,
+          "timeOnGroundPercentage" : 68.4
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 13.5,
+            "handballs" : 9.6,
+            "disposals" : 23.1,
+            "marks" : 5.0,
+            "bounces" : 3.3,
+            "tackles" : 2.3,
+            "contestedPossessions" : 8.4,
+            "uncontestedPossessions" : 15.0,
+            "totalPossessions" : 23.4,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.8,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.7,
+            "freesAgainst" : 0.5,
+            "dreamTeamPoints" : 87.6,
+            "clearances" : {
+              "centreClearances" : 1.3,
+              "stoppageClearances" : 1.8,
+              "totalClearances" : 3.1
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261231",
+            "playerName" : {
+              "givenName" : "Rhys",
+              "surname" : "Palmer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 270.0,
+            "handballs" : 192.0,
+            "disposals" : 462.0,
+            "marks" : 100.0,
+            "bounces" : 67.0,
+            "tackles" : 47.0,
+            "contestedPossessions" : 168.0,
+            "uncontestedPossessions" : 301.0,
+            "totalPossessions" : 469.0,
+            "inside50s" : 68.0,
+            "marksInside50" : 9.0,
+            "contestedMarks" : 7.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 17.0,
+            "disposalEfficiency" : 68.8,
+            "clangers" : 49.0,
+            "freesFor" : 34.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1752.0,
+            "clearances" : {
+              "centreClearances" : 26.0,
+              "stoppageClearances" : 36.0,
+              "totalClearances" : 62.0
+            },
+            "rebound50s" : 38.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 41.7,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I261231",
+            "playerName" : {
+              "givenName" : "Rhys",
+              "surname" : "Palmer"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 74.6
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 18.0,
+      "behinds" : 16.0,
+      "superGoals" : null,
+      "kicks" : 133.0,
+      "handballs" : 79.0,
+      "disposals" : 212.0,
+      "marks" : 53.0,
+      "bounces" : 9.0,
+      "tackles" : 38.0,
+      "contestedPossessions" : 83.0,
+      "uncontestedPossessions" : 129.0,
+      "totalPossessions" : 212.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 4.0,
+      "disposalEfficiency" : 68.4,
+      "clangers" : 27.0,
+      "freesFor" : 13.0,
+      "freesAgainst" : 7.0,
+      "dreamTeamPoints" : 984.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 15.0,
+        "totalClearances" : 15.0
+      },
+      "rebound50s" : 4.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 42.9,
+      "ratingPoints" : 293.7,
+      "ranking" : 240.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I261231",
+        "playerName" : {
+          "givenName" : "Rhys",
+          "surname" : "Palmer"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 305.8,
+        "ranking" : 222,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 305.8,
+        "ranking" : 12,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 305.8,
+        "ranking" : 30,
+        "ratingType" : "POSITION",
+        "trend" : "FALLING"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 129.5,
+        "ranking" : 296,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2007"
+    },
+    "careerGamesPlayed" : 110
+  }
+}

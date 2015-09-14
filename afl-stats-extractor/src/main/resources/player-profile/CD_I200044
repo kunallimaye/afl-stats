@@ -1,0 +1,544 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I200044",
+    "position" : "Interchange",
+    "surname" : "Loats",
+    "jumperNumber" : 19,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 0.0,
+      "handballs" : 0.0,
+      "disposals" : 0.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 0.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 0.0,
+      "inside50s" : 0.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 0.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "David",
+    "bio" : null,
+    "photoUrl" : null,
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1981-02-13T01:00:00.000+0000",
+      "draftYear" : "",
+      "heightInCm" : 200,
+      "weightInKg" : 98,
+      "recruitedFrom" : "Leopold/Geelong U18/Hawthorn",
+      "debutYear" : null
+    },
+    "careerStats" : {
+      "goals" : 3.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 47.0,
+      "handballs" : 31.0,
+      "disposals" : 78.0,
+      "marks" : 28.0,
+      "bounces" : 0.0,
+      "tackles" : 21.0,
+      "contestedPossessions" : 42.0,
+      "uncontestedPossessions" : 36.0,
+      "totalPossessions" : 78.0,
+      "inside50s" : 23.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 174.0,
+      "onePercenters" : 13.0,
+      "disposalEfficiency" : 79.5,
+      "clangers" : 19.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 546.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 12.0,
+        "totalClearances" : 16.0
+      },
+      "rebound50s" : 6.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 60.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 1.0,
+            "handballs" : 2.0,
+            "disposals" : 3.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 3.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 16.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200044",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Loats"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 1.0,
+            "handballs" : 2.0,
+            "disposals" : 3.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 3.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 3.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 100.0,
+            "clangers" : 0.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 16.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200044",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Loats"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T70",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 35.0
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 4.5,
+            "handballs" : 2.5,
+            "disposals" : 7.0,
+            "marks" : 2.1,
+            "bounces" : 0.0,
+            "tackles" : 1.5,
+            "contestedPossessions" : 3.5,
+            "uncontestedPossessions" : 3.4,
+            "totalPossessions" : 6.9,
+            "inside50s" : 2.1,
+            "marksInside50" : 0.4,
+            "contestedMarks" : 0.1,
+            "hitouts" : 16.2,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.9,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 47.9,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.4
+            },
+            "rebound50s" : 0.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200044",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Loats"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 36.0,
+            "handballs" : 20.0,
+            "disposals" : 56.0,
+            "marks" : 17.0,
+            "bounces" : 0.0,
+            "tackles" : 12.0,
+            "contestedPossessions" : 28.0,
+            "uncontestedPossessions" : 27.0,
+            "totalPossessions" : 55.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 130.0,
+            "onePercenters" : 11.0,
+            "disposalEfficiency" : 78.6,
+            "clangers" : 15.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 7.0,
+            "dreamTeamPoints" : 383.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200044",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Loats"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 8.0,
+          "timeOnGroundPercentage" : 60.7
+        }
+      }
+    }, {
+      "year" : "2002",
+      "seasonId" : "CD_S2002014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 3.3,
+            "handballs" : 3.0,
+            "disposals" : 6.3,
+            "marks" : 3.7,
+            "bounces" : 0.0,
+            "tackles" : 3.0,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 3.0,
+            "totalPossessions" : 6.7,
+            "inside50s" : 1.7,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 12.3,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 49.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200044",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Loats"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 9.0,
+            "disposals" : 19.0,
+            "marks" : 11.0,
+            "bounces" : 0.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 11.0,
+            "uncontestedPossessions" : 9.0,
+            "totalPossessions" : 20.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 37.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 78.9,
+            "clangers" : 4.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 3.0,
+            "dreamTeamPoints" : 147.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 3.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200044",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Loats"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2001",
+      "seasonId" : "CD_S2001014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200044",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Loats"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I200044",
+            "playerName" : {
+              "givenName" : "David",
+              "surname" : "Loats"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T80",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 1.0,
+      "handballs" : 2.0,
+      "disposals" : 3.0,
+      "marks" : 0.0,
+      "bounces" : 0.0,
+      "tackles" : 0.0,
+      "contestedPossessions" : 3.0,
+      "uncontestedPossessions" : 0.0,
+      "totalPossessions" : 3.0,
+      "inside50s" : 1.0,
+      "marksInside50" : 0.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 7.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : 100.0,
+      "clangers" : 0.0,
+      "freesFor" : 2.0,
+      "freesAgainst" : 0.0,
+      "dreamTeamPoints" : 16.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : null,
+    "careerGamesPlayed" : 0
+  }
+}

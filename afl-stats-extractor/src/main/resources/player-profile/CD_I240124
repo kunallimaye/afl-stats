@@ -1,0 +1,1207 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I240124",
+    "position" : "Centre",
+    "surname" : "Priddis",
+    "jumperNumber" : 11,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.3,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 10.5,
+      "handballs" : 15.7,
+      "disposals" : 26.2,
+      "marks" : 2.6,
+      "bounces" : 0.5,
+      "tackles" : 6.5,
+      "contestedPossessions" : 13.0,
+      "uncontestedPossessions" : 13.5,
+      "totalPossessions" : 26.4,
+      "inside50s" : 3.2,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.1,
+      "hitouts" : 0.1,
+      "onePercenters" : 1.1,
+      "disposalEfficiency" : null,
+      "clangers" : 2.6,
+      "freesFor" : 1.5,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 97.3,
+      "clearances" : {
+        "centreClearances" : 2.6,
+        "stoppageClearances" : 3.5,
+        "totalClearances" : 6.1
+      },
+      "rebound50s" : 1.5,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Matt",
+    "bio" : "<p>Capped his finest year in the AFL by winning the Brownlow Medal in stunning fashion. It was just reward for one of the hardest-working players in the competition. He led the league in total disposals (627) in the home and away season, was second in contested possessions and third in tackles. Polled in 13 games to win the Brownlow with 26 votes. Joined Haydn Bunton snr as the only players to win a Brownlow and a Sandover Medal. Made the All-Australian 40-man squad, but missed the final 22.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/WestCoastEagles/Player Profiles/2015 - Profiles/PRIDDIS Matt.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1985-03-21T02:00:00.000+0000",
+      "draftYear" : "2006",
+      "heightInCm" : 185,
+      "weightInKg" : 86,
+      "recruitedFrom" : "Subiaco (WA)",
+      "debutYear" : "2006"
+    },
+    "careerStats" : {
+      "goals" : 62.0,
+      "behinds" : 50.0,
+      "superGoals" : null,
+      "kicks" : 2052.0,
+      "handballs" : 3059.0,
+      "disposals" : 5111.0,
+      "marks" : 498.0,
+      "bounces" : 91.0,
+      "tackles" : 1265.0,
+      "contestedPossessions" : 2528.0,
+      "uncontestedPossessions" : 2627.0,
+      "totalPossessions" : 5155.0,
+      "inside50s" : 626.0,
+      "marksInside50" : 21.0,
+      "contestedMarks" : 16.0,
+      "hitouts" : 11.0,
+      "onePercenters" : 208.0,
+      "disposalEfficiency" : 68.8,
+      "clangers" : 513.0,
+      "freesFor" : 291.0,
+      "freesAgainst" : 192.0,
+      "dreamTeamPoints" : 18976.0,
+      "clearances" : {
+        "centreClearances" : 504.0,
+        "stoppageClearances" : 687.0,
+        "totalClearances" : 1191.0
+      },
+      "rebound50s" : 298.0,
+      "goalAssists" : 92.0,
+      "goalAccuracy" : 44.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 10.0,
+            "handballs" : 20.0,
+            "disposals" : 30.0,
+            "marks" : 2.0,
+            "bounces" : 0.2,
+            "tackles" : 7.4,
+            "contestedPossessions" : 15.0,
+            "uncontestedPossessions" : 15.7,
+            "totalPossessions" : 30.7,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 3.3,
+            "freesFor" : 1.2,
+            "freesAgainst" : 1.8,
+            "dreamTeamPoints" : 103.0,
+            "clearances" : {
+              "centreClearances" : 3.1,
+              "stoppageClearances" : 4.6,
+              "totalClearances" : 7.7
+            },
+            "rebound50s" : 1.2,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 221.0,
+            "handballs" : 439.0,
+            "disposals" : 660.0,
+            "marks" : 43.0,
+            "bounces" : 5.0,
+            "tackles" : 162.0,
+            "contestedPossessions" : 330.0,
+            "uncontestedPossessions" : 345.0,
+            "totalPossessions" : 675.0,
+            "inside50s" : 75.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 24.0,
+            "disposalEfficiency" : 69.8,
+            "clangers" : 72.0,
+            "freesFor" : 27.0,
+            "freesAgainst" : 40.0,
+            "dreamTeamPoints" : 2265.0,
+            "clearances" : {
+              "centreClearances" : 68.0,
+              "stoppageClearances" : 102.0,
+              "totalClearances" : 170.0
+            },
+            "rebound50s" : 26.0,
+            "goalAssists" : 22.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 522.1,
+            "ranking" : 15.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 87.1
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 11.9,
+            "handballs" : 16.6,
+            "disposals" : 28.5,
+            "marks" : 2.5,
+            "bounces" : 0.1,
+            "tackles" : 7.3,
+            "contestedPossessions" : 15.0,
+            "uncontestedPossessions" : 13.5,
+            "totalPossessions" : 28.5,
+            "inside50s" : 3.2,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 1.6,
+            "freesAgainst" : 0.9,
+            "dreamTeamPoints" : 107.8,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 4.6,
+              "totalClearances" : 6.7
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 10.0,
+            "behinds" : 8.0,
+            "superGoals" : null,
+            "kicks" : 261.0,
+            "handballs" : 366.0,
+            "disposals" : 627.0,
+            "marks" : 56.0,
+            "bounces" : 3.0,
+            "tackles" : 161.0,
+            "contestedPossessions" : 330.0,
+            "uncontestedPossessions" : 297.0,
+            "totalPossessions" : 627.0,
+            "inside50s" : 70.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 65.1,
+            "clangers" : 54.0,
+            "freesFor" : 35.0,
+            "freesAgainst" : 20.0,
+            "dreamTeamPoints" : 2372.0,
+            "clearances" : {
+              "centreClearances" : 45.0,
+              "stoppageClearances" : 102.0,
+              "totalClearances" : 147.0
+            },
+            "rebound50s" : 44.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 47.6,
+            "ratingPoints" : 490.7,
+            "ranking" : 23.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 85.4
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 10.5,
+            "handballs" : 16.4,
+            "disposals" : 26.9,
+            "marks" : 2.3,
+            "bounces" : 0.1,
+            "tackles" : 6.1,
+            "contestedPossessions" : 14.2,
+            "uncontestedPossessions" : 12.8,
+            "totalPossessions" : 27.0,
+            "inside50s" : 2.7,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.9,
+            "disposalEfficiency" : null,
+            "clangers" : 3.2,
+            "freesFor" : 1.8,
+            "freesAgainst" : 1.3,
+            "dreamTeamPoints" : 95.8,
+            "clearances" : {
+              "centreClearances" : 2.9,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 221.0,
+            "handballs" : 344.0,
+            "disposals" : 565.0,
+            "marks" : 49.0,
+            "bounces" : 3.0,
+            "tackles" : 129.0,
+            "contestedPossessions" : 298.0,
+            "uncontestedPossessions" : 269.0,
+            "totalPossessions" : 567.0,
+            "inside50s" : 56.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 18.0,
+            "disposalEfficiency" : 66.5,
+            "clangers" : 68.0,
+            "freesFor" : 38.0,
+            "freesAgainst" : 27.0,
+            "dreamTeamPoints" : 2012.0,
+            "clearances" : {
+              "centreClearances" : 61.0,
+              "stoppageClearances" : 85.0,
+              "totalClearances" : 146.0
+            },
+            "rebound50s" : 28.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : 470.6,
+            "ranking" : 39.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 82.8
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 8.9,
+            "handballs" : 17.2,
+            "disposals" : 26.1,
+            "marks" : 2.7,
+            "bounces" : 0.6,
+            "tackles" : 5.5,
+            "contestedPossessions" : 13.7,
+            "uncontestedPossessions" : 12.6,
+            "totalPossessions" : 26.4,
+            "inside50s" : 2.6,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.5,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 92.5,
+            "clearances" : {
+              "centreClearances" : 2.7,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 6.7
+            },
+            "rebound50s" : 1.7,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 8.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 196.0,
+            "handballs" : 379.0,
+            "disposals" : 575.0,
+            "marks" : 60.0,
+            "bounces" : 13.0,
+            "tackles" : 122.0,
+            "contestedPossessions" : 302.0,
+            "uncontestedPossessions" : 278.0,
+            "totalPossessions" : 580.0,
+            "inside50s" : 58.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 25.0,
+            "disposalEfficiency" : 70.4,
+            "clangers" : 53.0,
+            "freesFor" : 34.0,
+            "freesAgainst" : 21.0,
+            "dreamTeamPoints" : 2036.0,
+            "clearances" : {
+              "centreClearances" : 60.0,
+              "stoppageClearances" : 87.0,
+              "totalClearances" : 147.0
+            },
+            "rebound50s" : 37.0,
+            "goalAssists" : 12.0,
+            "goalAccuracy" : 53.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 83.2
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.4,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 11.0,
+            "handballs" : 15.4,
+            "disposals" : 26.5,
+            "marks" : 3.0,
+            "bounces" : 0.2,
+            "tackles" : 7.7,
+            "contestedPossessions" : 15.1,
+            "uncontestedPossessions" : 12.1,
+            "totalPossessions" : 27.2,
+            "inside50s" : 3.6,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.4,
+            "disposalEfficiency" : null,
+            "clangers" : 2.5,
+            "freesFor" : 1.8,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 105.4,
+            "clearances" : {
+              "centreClearances" : 2.9,
+              "stoppageClearances" : 3.5,
+              "totalClearances" : 6.4
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 9.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 276.0,
+            "handballs" : 386.0,
+            "disposals" : 662.0,
+            "marks" : 76.0,
+            "bounces" : 6.0,
+            "tackles" : 193.0,
+            "contestedPossessions" : 378.0,
+            "uncontestedPossessions" : 303.0,
+            "totalPossessions" : 681.0,
+            "inside50s" : 89.0,
+            "marksInside50" : 4.0,
+            "contestedMarks" : 6.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 36.0,
+            "disposalEfficiency" : 67.1,
+            "clangers" : 62.0,
+            "freesFor" : 44.0,
+            "freesAgainst" : 24.0,
+            "dreamTeamPoints" : 2634.0,
+            "clearances" : {
+              "centreClearances" : 72.0,
+              "stoppageClearances" : 87.0,
+              "totalClearances" : 159.0
+            },
+            "rebound50s" : 26.0,
+            "goalAssists" : 10.0,
+            "goalAccuracy" : 60.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 25.0,
+          "timeOnGroundPercentage" : 88.2
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 8.0,
+            "handballs" : 17.7,
+            "disposals" : 25.7,
+            "marks" : 1.9,
+            "bounces" : 0.2,
+            "tackles" : 6.8,
+            "contestedPossessions" : 13.8,
+            "uncontestedPossessions" : 12.4,
+            "totalPossessions" : 26.2,
+            "inside50s" : 2.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 2.0,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 93.5,
+            "clearances" : {
+              "centreClearances" : 3.1,
+              "stoppageClearances" : 3.4,
+              "totalClearances" : 6.5
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 5.0,
+            "superGoals" : null,
+            "kicks" : 152.0,
+            "handballs" : 336.0,
+            "disposals" : 488.0,
+            "marks" : 36.0,
+            "bounces" : 3.0,
+            "tackles" : 130.0,
+            "contestedPossessions" : 262.0,
+            "uncontestedPossessions" : 235.0,
+            "totalPossessions" : 497.0,
+            "inside50s" : 54.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 4.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 10.0,
+            "disposalEfficiency" : 72.7,
+            "clangers" : 45.0,
+            "freesFor" : 38.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1777.0,
+            "clearances" : {
+              "centreClearances" : 59.0,
+              "stoppageClearances" : 64.0,
+              "totalClearances" : 123.0
+            },
+            "rebound50s" : 24.0,
+            "goalAssists" : 9.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 87.9
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 9.9,
+            "handballs" : 15.4,
+            "disposals" : 25.4,
+            "marks" : 2.7,
+            "bounces" : 0.4,
+            "tackles" : 6.3,
+            "contestedPossessions" : 11.7,
+            "uncontestedPossessions" : 13.8,
+            "totalPossessions" : 25.5,
+            "inside50s" : 3.0,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 1.7,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 95.9,
+            "clearances" : {
+              "centreClearances" : 2.5,
+              "stoppageClearances" : 2.9,
+              "totalClearances" : 5.4
+            },
+            "rebound50s" : 1.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 6.0,
+            "behinds" : 7.0,
+            "superGoals" : null,
+            "kicks" : 199.0,
+            "handballs" : 309.0,
+            "disposals" : 508.0,
+            "marks" : 55.0,
+            "bounces" : 9.0,
+            "tackles" : 127.0,
+            "contestedPossessions" : 234.0,
+            "uncontestedPossessions" : 277.0,
+            "totalPossessions" : 511.0,
+            "inside50s" : 60.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 21.0,
+            "disposalEfficiency" : 70.7,
+            "clangers" : 46.0,
+            "freesFor" : 34.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1918.0,
+            "clearances" : {
+              "centreClearances" : 50.0,
+              "stoppageClearances" : 59.0,
+              "totalClearances" : 109.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 31.6,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 20.0,
+          "timeOnGroundPercentage" : 83.2
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 11.2,
+            "handballs" : 12.7,
+            "disposals" : 23.9,
+            "marks" : 2.4,
+            "bounces" : 1.3,
+            "tackles" : 5.7,
+            "contestedPossessions" : 9.9,
+            "uncontestedPossessions" : 14.2,
+            "totalPossessions" : 24.1,
+            "inside50s" : 3.4,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.2,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 1.2,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 89.9,
+            "clearances" : {
+              "centreClearances" : 2.2,
+              "stoppageClearances" : 2.3,
+              "totalClearances" : 4.6
+            },
+            "rebound50s" : 2.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 9.0,
+            "superGoals" : null,
+            "kicks" : 202.0,
+            "handballs" : 228.0,
+            "disposals" : 430.0,
+            "marks" : 44.0,
+            "bounces" : 23.0,
+            "tackles" : 103.0,
+            "contestedPossessions" : 179.0,
+            "uncontestedPossessions" : 255.0,
+            "totalPossessions" : 434.0,
+            "inside50s" : 62.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 3.0,
+            "onePercenters" : 22.0,
+            "disposalEfficiency" : 68.1,
+            "clangers" : 43.0,
+            "freesFor" : 21.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 1618.0,
+            "clearances" : {
+              "centreClearances" : 40.0,
+              "stoppageClearances" : 42.0,
+              "totalClearances" : 82.0
+            },
+            "rebound50s" : 41.0,
+            "goalAssists" : 5.0,
+            "goalAccuracy" : 14.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 80.8
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.5,
+            "behinds" : 0.2,
+            "superGoals" : null,
+            "kicks" : 12.7,
+            "handballs" : 10.8,
+            "disposals" : 23.5,
+            "marks" : 3.0,
+            "bounces" : 1.0,
+            "tackles" : 5.4,
+            "contestedPossessions" : 9.1,
+            "uncontestedPossessions" : 14.5,
+            "totalPossessions" : 23.6,
+            "inside50s" : 4.1,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.2,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 92.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 2.4,
+              "totalClearances" : 4.3
+            },
+            "rebound50s" : 1.8,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 11.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 305.0,
+            "handballs" : 260.0,
+            "disposals" : 565.0,
+            "marks" : 73.0,
+            "bounces" : 25.0,
+            "tackles" : 129.0,
+            "contestedPossessions" : 219.0,
+            "uncontestedPossessions" : 348.0,
+            "totalPossessions" : 567.0,
+            "inside50s" : 98.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 69.9,
+            "clangers" : 64.0,
+            "freesFor" : 19.0,
+            "freesAgainst" : 17.0,
+            "dreamTeamPoints" : 2208.0,
+            "clearances" : {
+              "centreClearances" : 47.0,
+              "stoppageClearances" : 57.0,
+              "totalClearances" : 104.0
+            },
+            "rebound50s" : 43.0,
+            "goalAssists" : 13.0,
+            "goalAccuracy" : 61.1,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 24.0,
+          "timeOnGroundPercentage" : 71.5
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 9.5,
+            "handballs" : 6.0,
+            "disposals" : 15.5,
+            "marks" : 3.0,
+            "bounces" : 0.5,
+            "tackles" : 4.5,
+            "contestedPossessions" : 6.0,
+            "uncontestedPossessions" : 10.0,
+            "totalPossessions" : 16.0,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.5,
+            "disposalEfficiency" : null,
+            "clangers" : 3.0,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 68.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 2.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 19.0,
+            "handballs" : 12.0,
+            "disposals" : 31.0,
+            "marks" : 6.0,
+            "bounces" : 1.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 12.0,
+            "uncontestedPossessions" : 20.0,
+            "totalPossessions" : 32.0,
+            "inside50s" : 4.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : 67.7,
+            "clangers" : 6.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 136.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 2.0,
+              "totalClearances" : 4.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I240124",
+            "playerName" : {
+              "givenName" : "Matt",
+              "surname" : "Priddis"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T150",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 62.8
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 6.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 221.0,
+      "handballs" : 439.0,
+      "disposals" : 660.0,
+      "marks" : 43.0,
+      "bounces" : 5.0,
+      "tackles" : 162.0,
+      "contestedPossessions" : 330.0,
+      "uncontestedPossessions" : 345.0,
+      "totalPossessions" : 675.0,
+      "inside50s" : 75.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 24.0,
+      "disposalEfficiency" : 69.8,
+      "clangers" : 72.0,
+      "freesFor" : 27.0,
+      "freesAgainst" : 40.0,
+      "dreamTeamPoints" : 2265.0,
+      "clearances" : {
+        "centreClearances" : 68.0,
+        "stoppageClearances" : 102.0,
+        "totalClearances" : 170.0
+      },
+      "rebound50s" : 26.0,
+      "goalAssists" : 22.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 522.1,
+      "ranking" : 15.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MIDFIELDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I240124",
+        "playerName" : {
+          "givenName" : "Matt",
+          "surname" : "Priddis"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T150",
+        "teamAbbr" : "WCE",
+        "teamName" : "West Coast Eagles",
+        "teamNickname" : "Eagles"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 522.1,
+        "ranking" : 15,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 522.1,
+        "ranking" : 2,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 522.1,
+        "ranking" : 8,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 314.9,
+        "ranking" : 16,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2005"
+    },
+    "careerGamesPlayed" : 195
+  }
+}

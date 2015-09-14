@@ -1,0 +1,486 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291926",
+    "position" : "Left Forward Pocket",
+    "surname" : "Duffy",
+    "jumperNumber" : 24,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.0,
+      "behinds" : 0.3,
+      "superGoals" : null,
+      "kicks" : 4.0,
+      "handballs" : 3.3,
+      "disposals" : 7.3,
+      "marks" : 1.7,
+      "bounces" : 0.0,
+      "tackles" : 0.3,
+      "contestedPossessions" : 3.0,
+      "uncontestedPossessions" : 4.7,
+      "totalPossessions" : 7.7,
+      "inside50s" : 1.3,
+      "marksInside50" : 0.3,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : null,
+      "clangers" : 0.7,
+      "freesFor" : 0.0,
+      "freesAgainst" : 0.3,
+      "dreamTeamPoints" : 30.3,
+      "clearances" : {
+        "centreClearances" : 0.3,
+        "stoppageClearances" : 0.3,
+        "totalClearances" : 0.7
+      },
+      "rebound50s" : 0.3,
+      "goalAssists" : 0.3,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Max",
+    "bio" : "<p><strong>Outlook:</strong> Duffy had shoulder surgery after the 2014 season and resumed full pre-season training in late January. Showed great goal sense in his AFL debut last year and will push for more opportunities.<br /><br /><strong>What the coach says (Marc Webb): </strong>Max finished well last year. He&rsquo;s had a bit of a delayed start to the pre-season because of a shoulder injury but he&rsquo;s built himself back into full football and looking like getting back to his best.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/Fremantle/Player Profiles/2015 - Profiles/DUFFY Max.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-04-11T02:00:00.000+0000",
+      "draftYear" : "2012",
+      "heightInCm" : 184,
+      "weightInKg" : 82,
+      "recruitedFrom" : "Rossmoyne (WA)/East Fremantle (WAFL)",
+      "debutYear" : "2014"
+    },
+    "careerStats" : {
+      "goals" : 3.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 12.0,
+      "handballs" : 10.0,
+      "disposals" : 22.0,
+      "marks" : 5.0,
+      "bounces" : 0.0,
+      "tackles" : 1.0,
+      "contestedPossessions" : 9.0,
+      "uncontestedPossessions" : 14.0,
+      "totalPossessions" : 23.0,
+      "inside50s" : 4.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : 63.6,
+      "clangers" : 2.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 91.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 1.0,
+        "totalClearances" : 2.0
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 7.0,
+            "disposals" : 12.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 13.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 45.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291926",
+            "playerName" : {
+              "givenName" : "Max",
+              "surname" : "Duffy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 5.0,
+            "handballs" : 7.0,
+            "disposals" : 12.0,
+            "marks" : 3.0,
+            "bounces" : 0.0,
+            "tackles" : 1.0,
+            "contestedPossessions" : 5.0,
+            "uncontestedPossessions" : 8.0,
+            "totalPossessions" : 13.0,
+            "inside50s" : 3.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 66.7,
+            "clangers" : 2.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 45.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 17.9,
+            "ranking" : 655.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291926",
+            "playerName" : {
+              "givenName" : "Max",
+              "surname" : "Duffy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 1.0,
+          "timeOnGroundPercentage" : 86.4
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.5,
+            "superGoals" : null,
+            "kicks" : 3.5,
+            "handballs" : 1.5,
+            "disposals" : 5.0,
+            "marks" : 1.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 2.0,
+            "uncontestedPossessions" : 3.0,
+            "totalPossessions" : 5.0,
+            "inside50s" : 0.5,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 23.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.5
+            },
+            "rebound50s" : 0.5,
+            "goalAssists" : 0.5,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291926",
+            "playerName" : {
+              "givenName" : "Max",
+              "surname" : "Duffy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 7.0,
+            "handballs" : 3.0,
+            "disposals" : 10.0,
+            "marks" : 2.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 4.0,
+            "uncontestedPossessions" : 6.0,
+            "totalPossessions" : 10.0,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 60.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 46.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 1.0,
+              "totalClearances" : 1.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 40.0,
+            "ratingPoints" : 9.7,
+            "ranking" : 681.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291926",
+            "playerName" : {
+              "givenName" : "Max",
+              "surname" : "Duffy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 2.0,
+          "timeOnGroundPercentage" : 19.9
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291926",
+            "playerName" : {
+              "givenName" : "Max",
+              "surname" : "Duffy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291926",
+            "playerName" : {
+              "givenName" : "Max",
+              "surname" : "Duffy"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T60",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 1.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 5.0,
+      "handballs" : 7.0,
+      "disposals" : 12.0,
+      "marks" : 3.0,
+      "bounces" : 0.0,
+      "tackles" : 1.0,
+      "contestedPossessions" : 5.0,
+      "uncontestedPossessions" : 8.0,
+      "totalPossessions" : 13.0,
+      "inside50s" : 3.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 0.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 0.0,
+      "disposalEfficiency" : 66.7,
+      "clangers" : 2.0,
+      "freesFor" : 0.0,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 45.0,
+      "clearances" : {
+        "centreClearances" : 1.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 1.0
+      },
+      "rebound50s" : 0.0,
+      "goalAssists" : 0.0,
+      "goalAccuracy" : 100.0,
+      "ratingPoints" : 17.9,
+      "ranking" : 655.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291926",
+        "playerName" : {
+          "givenName" : "Max",
+          "surname" : "Duffy"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T60",
+        "teamAbbr" : "FRE",
+        "teamName" : "Fremantle",
+        "teamNickname" : "Dockers"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 17.9,
+        "ranking" : 655,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 17.9,
+        "ranking" : 34,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 17.9,
+        "ranking" : 104,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 8.2,
+        "ranking" : 622,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2012"
+    },
+    "careerGamesPlayed" : 3
+  }
+}

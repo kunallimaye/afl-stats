@@ -1,0 +1,589 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I291821",
+    "position" : "Right Forward Pocket",
+    "surname" : "Patton",
+    "jumperNumber" : 12,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 1.2,
+      "behinds" : 0.8,
+      "superGoals" : null,
+      "kicks" : 6.6,
+      "handballs" : 3.2,
+      "disposals" : 9.8,
+      "marks" : 4.2,
+      "bounces" : 0.1,
+      "tackles" : 1.5,
+      "contestedPossessions" : 4.6,
+      "uncontestedPossessions" : 5.6,
+      "totalPossessions" : 10.2,
+      "inside50s" : 1.7,
+      "marksInside50" : 1.3,
+      "contestedMarks" : 1.2,
+      "hitouts" : 0.7,
+      "onePercenters" : 1.3,
+      "disposalEfficiency" : null,
+      "clangers" : 1.5,
+      "freesFor" : 0.7,
+      "freesAgainst" : 0.5,
+      "dreamTeamPoints" : 52.7,
+      "clearances" : {
+        "centreClearances" : 0.2,
+        "stoppageClearances" : 0.2,
+        "totalClearances" : 0.4
+      },
+      "rebound50s" : 0.4,
+      "goalAssists" : 0.5,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Jonathon",
+    "bio" : "<p>Jonathon Patton is a big forward from Rowville in Victoria. With a massive on-field presence, speed and an ability to take outstanding contested marks, Patton&rsquo;s playing style has been likened to Brisbane great, Jonathan Brown. He was drafted to the GIANTS with pick one in the 2011 NAB AFL Draft.<br /> &nbsp;</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/GWSGiants/Player Profiles/2015 - Profiles/PATTON Jonathon.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1993-05-20T02:00:00.000+0000",
+      "draftYear" : "2011",
+      "heightInCm" : 198,
+      "weightInKg" : 103,
+      "recruitedFrom" : "St Simons (Vic)/Eastern U18",
+      "debutYear" : "2012"
+    },
+    "careerStats" : {
+      "goals" : 37.0,
+      "behinds" : 27.0,
+      "superGoals" : null,
+      "kicks" : 211.0,
+      "handballs" : 104.0,
+      "disposals" : 315.0,
+      "marks" : 136.0,
+      "bounces" : 4.0,
+      "tackles" : 48.0,
+      "contestedPossessions" : 146.0,
+      "uncontestedPossessions" : 179.0,
+      "totalPossessions" : 325.0,
+      "inside50s" : 54.0,
+      "marksInside50" : 42.0,
+      "contestedMarks" : 38.0,
+      "hitouts" : 21.0,
+      "onePercenters" : 43.0,
+      "disposalEfficiency" : 71.7,
+      "clangers" : 48.0,
+      "freesFor" : 23.0,
+      "freesAgainst" : 16.0,
+      "dreamTeamPoints" : 1686.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 6.0,
+        "totalClearances" : 12.0
+      },
+      "rebound50s" : 13.0,
+      "goalAssists" : 15.0,
+      "goalAccuracy" : 54.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 6.7,
+            "handballs" : 3.0,
+            "disposals" : 9.7,
+            "marks" : 4.3,
+            "bounces" : 0.0,
+            "tackles" : 1.3,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 7.0,
+            "totalPossessions" : 10.7,
+            "inside50s" : 3.0,
+            "marksInside50" : 1.7,
+            "contestedMarks" : 0.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.3,
+            "freesFor" : 0.3,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 50.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.3,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291821",
+            "playerName" : {
+              "givenName" : "Jonathon",
+              "surname" : "Patton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 20.0,
+            "handballs" : 9.0,
+            "disposals" : 29.0,
+            "marks" : 13.0,
+            "bounces" : 0.0,
+            "tackles" : 4.0,
+            "contestedPossessions" : 11.0,
+            "uncontestedPossessions" : 21.0,
+            "totalPossessions" : 32.0,
+            "inside50s" : 9.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : 62.1,
+            "clangers" : 4.0,
+            "freesFor" : 1.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 152.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 1.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : 164.4,
+            "ranking" : 412.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291821",
+            "playerName" : {
+              "givenName" : "Jonathon",
+              "surname" : "Patton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 85.0
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.3,
+            "behinds" : 0.9,
+            "superGoals" : null,
+            "kicks" : 7.7,
+            "handballs" : 3.6,
+            "disposals" : 11.3,
+            "marks" : 5.1,
+            "bounces" : 0.1,
+            "tackles" : 1.5,
+            "contestedPossessions" : 5.2,
+            "uncontestedPossessions" : 6.5,
+            "totalPossessions" : 11.6,
+            "inside50s" : 1.6,
+            "marksInside50" : 1.5,
+            "contestedMarks" : 1.5,
+            "hitouts" : 1.1,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.9,
+            "freesFor" : 0.8,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 60.1,
+            "clearances" : {
+              "centreClearances" : 0.3,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 0.6,
+            "goalAssists" : 0.4,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291821",
+            "playerName" : {
+              "givenName" : "Jonathon",
+              "surname" : "Patton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 25.0,
+            "behinds" : 17.0,
+            "superGoals" : null,
+            "kicks" : 147.0,
+            "handballs" : 68.0,
+            "disposals" : 215.0,
+            "marks" : 96.0,
+            "bounces" : 2.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 98.0,
+            "uncontestedPossessions" : 123.0,
+            "totalPossessions" : 221.0,
+            "inside50s" : 30.0,
+            "marksInside50" : 28.0,
+            "contestedMarks" : 29.0,
+            "hitouts" : 20.0,
+            "onePercenters" : 30.0,
+            "disposalEfficiency" : 72.6,
+            "clangers" : 37.0,
+            "freesFor" : 16.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1141.0,
+            "clearances" : {
+              "centreClearances" : 6.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 12.0
+            },
+            "rebound50s" : 12.0,
+            "goalAssists" : 7.0,
+            "goalAccuracy" : 55.6,
+            "ratingPoints" : 174.0,
+            "ranking" : 386.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291821",
+            "playerName" : {
+              "givenName" : "Jonathon",
+              "surname" : "Patton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 85.2
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 1.7,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 5.3,
+            "handballs" : 2.3,
+            "disposals" : 7.7,
+            "marks" : 2.3,
+            "bounces" : 0.7,
+            "tackles" : 2.3,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 3.7,
+            "totalPossessions" : 7.3,
+            "inside50s" : 1.7,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.0,
+            "freesFor" : 0.7,
+            "freesAgainst" : 0.3,
+            "dreamTeamPoints" : 47.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.7,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291821",
+            "playerName" : {
+              "givenName" : "Jonathon",
+              "surname" : "Patton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 16.0,
+            "handballs" : 7.0,
+            "disposals" : 23.0,
+            "marks" : 7.0,
+            "bounces" : 2.0,
+            "tackles" : 7.0,
+            "contestedPossessions" : 11.0,
+            "uncontestedPossessions" : 11.0,
+            "totalPossessions" : 22.0,
+            "inside50s" : 5.0,
+            "marksInside50" : 3.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 3.0,
+            "disposalEfficiency" : 60.9,
+            "clangers" : 3.0,
+            "freesFor" : 2.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 143.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 62.5,
+            "ratingPoints" : 67.5,
+            "ranking" : 559.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291821",
+            "playerName" : {
+              "givenName" : "Jonathon",
+              "surname" : "Patton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 3.0,
+          "timeOnGroundPercentage" : 69.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.6,
+            "behinds" : 0.6,
+            "superGoals" : null,
+            "kicks" : 4.0,
+            "handballs" : 2.9,
+            "disposals" : 6.9,
+            "marks" : 2.9,
+            "bounces" : 0.0,
+            "tackles" : 1.3,
+            "contestedPossessions" : 3.7,
+            "uncontestedPossessions" : 3.4,
+            "totalPossessions" : 7.1,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.9,
+            "contestedMarks" : 1.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.1,
+            "disposalEfficiency" : null,
+            "clangers" : 0.6,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.1,
+            "dreamTeamPoints" : 35.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.6,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291821",
+            "playerName" : {
+              "givenName" : "Jonathon",
+              "surname" : "Patton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 4.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 28.0,
+            "handballs" : 20.0,
+            "disposals" : 48.0,
+            "marks" : 20.0,
+            "bounces" : 0.0,
+            "tackles" : 9.0,
+            "contestedPossessions" : 26.0,
+            "uncontestedPossessions" : 24.0,
+            "totalPossessions" : 50.0,
+            "inside50s" : 10.0,
+            "marksInside50" : 6.0,
+            "contestedMarks" : 8.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 8.0,
+            "disposalEfficiency" : 79.2,
+            "clangers" : 4.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 250.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 4.0,
+            "goalAccuracy" : 44.4,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I291821",
+            "playerName" : {
+              "givenName" : "Jonathon",
+              "surname" : "Patton"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T1010",
+          "gamesPlayed" : 7.0,
+          "timeOnGroundPercentage" : 72.4
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 3.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 20.0,
+      "handballs" : 9.0,
+      "disposals" : 29.0,
+      "marks" : 13.0,
+      "bounces" : 0.0,
+      "tackles" : 4.0,
+      "contestedPossessions" : 11.0,
+      "uncontestedPossessions" : 21.0,
+      "totalPossessions" : 32.0,
+      "inside50s" : 9.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 1.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 2.0,
+      "disposalEfficiency" : 62.1,
+      "clangers" : 4.0,
+      "freesFor" : 1.0,
+      "freesAgainst" : 1.0,
+      "dreamTeamPoints" : 152.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 0.0,
+        "totalClearances" : 0.0
+      },
+      "rebound50s" : 1.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : 164.4,
+      "ranking" : 412.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "KEY_FORWARD",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I291821",
+        "playerName" : {
+          "givenName" : "Jonathon",
+          "surname" : "Patton"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T1010",
+        "teamAbbr" : "GWS",
+        "teamName" : "GWS Giants",
+        "teamNickname" : "Giants"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 164.4,
+        "ranking" : 413,
+        "ratingType" : "OVERALL",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 164.4,
+        "ranking" : 24,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 164.4,
+        "ranking" : 41,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 15.1,
+        "ranking" : 589,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2011"
+    },
+    "careerGamesPlayed" : 32
+  }
+}

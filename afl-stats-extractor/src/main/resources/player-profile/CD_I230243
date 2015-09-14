@@ -1,0 +1,1516 @@
+{
+  "playerProfile" : {
+    "id" : "CD_I230243",
+    "position" : "Centre Half Back",
+    "surname" : "Dempster",
+    "jumperNumber" : 24,
+    "milestones" : null,
+    "careerAverages" : {
+      "goals" : 0.1,
+      "behinds" : 0.1,
+      "superGoals" : null,
+      "kicks" : 8.3,
+      "handballs" : 4.9,
+      "disposals" : 13.2,
+      "marks" : 4.7,
+      "bounces" : 0.7,
+      "tackles" : 2.4,
+      "contestedPossessions" : 4.1,
+      "uncontestedPossessions" : 8.8,
+      "totalPossessions" : 12.9,
+      "inside50s" : 1.4,
+      "marksInside50" : 0.1,
+      "contestedMarks" : 0.6,
+      "hitouts" : 0.1,
+      "onePercenters" : 3.3,
+      "disposalEfficiency" : null,
+      "clangers" : 1.8,
+      "freesFor" : 0.5,
+      "freesAgainst" : 0.8,
+      "dreamTeamPoints" : 57.3,
+      "clearances" : {
+        "centreClearances" : 0.1,
+        "stoppageClearances" : 0.4,
+        "totalClearances" : 0.5
+      },
+      "rebound50s" : 2.4,
+      "goalAssists" : 0.1,
+      "goalAccuracy" : null,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "firstName" : "Sean",
+    "bio" : "<p>A composed and reliable defender, Dempster came to St Kilda at the end of 2007 from the Sydney Swans.</p>\n\n<p>Since his arrival he has been a consistent and permanent fixture in the Saints backline, earning All-Australian honours in 2012 and finishing seventh in the 2013 best and fairest.</p>\n\n<p>Despite missing three of the first four games due to injury, Dempster finished second behind Nick Riewoldt at the club for total marks, and was often forced to play on bigger opponents due to St Kilda’s injury crisis.</p>",
+    "photoUrl" : "http://m.afl.com.au/staticfile/AFL Tenant/StKilda/Player Profiles/2015 - Profiles/DEMPSTER Sean.png",
+    "aflAwards" : null,
+    "clubAwards" : null,
+    "qa" : null,
+    "sponsor" : null,
+    "basicStats" : {
+      "dateOfBirth" : "1984-01-20T01:00:00.000+0000",
+      "draftYear" : "2002",
+      "heightInCm" : 191,
+      "weightInKg" : 87,
+      "recruitedFrom" : "Snowy Rovers/Gippsland U18/Sydney",
+      "debutYear" : "2005"
+    },
+    "careerStats" : {
+      "goals" : 20.0,
+      "behinds" : 26.0,
+      "superGoals" : null,
+      "kicks" : 1690.0,
+      "handballs" : 985.0,
+      "disposals" : 2675.0,
+      "marks" : 960.0,
+      "bounces" : 152.0,
+      "tackles" : 480.0,
+      "contestedPossessions" : 839.0,
+      "uncontestedPossessions" : 1782.0,
+      "totalPossessions" : 2621.0,
+      "inside50s" : 286.0,
+      "marksInside50" : 17.0,
+      "contestedMarks" : 126.0,
+      "hitouts" : 18.0,
+      "onePercenters" : 672.0,
+      "disposalEfficiency" : 78.2,
+      "clangers" : 369.0,
+      "freesFor" : 96.0,
+      "freesAgainst" : 157.0,
+      "dreamTeamPoints" : 11629.0,
+      "clearances" : {
+        "centreClearances" : 19.0,
+        "stoppageClearances" : 73.0,
+        "totalClearances" : 92.0
+      },
+      "rebound50s" : 482.0,
+      "goalAssists" : 27.0,
+      "goalAccuracy" : 37.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "interchangeCounts" : null
+    },
+    "yearlySeasonStats" : [ {
+      "year" : "2015",
+      "seasonId" : "CD_S2015014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 11.3,
+            "handballs" : 6.4,
+            "disposals" : 17.7,
+            "marks" : 7.0,
+            "bounces" : 0.6,
+            "tackles" : 1.7,
+            "contestedPossessions" : 5.7,
+            "uncontestedPossessions" : 11.6,
+            "totalPossessions" : 17.3,
+            "inside50s" : 1.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.3,
+            "hitouts" : 0.0,
+            "onePercenters" : 5.1,
+            "disposalEfficiency" : null,
+            "clangers" : 2.7,
+            "freesFor" : 0.7,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 72.3,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 3.8,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 238.0,
+            "handballs" : 134.0,
+            "disposals" : 372.0,
+            "marks" : 148.0,
+            "bounces" : 13.0,
+            "tackles" : 36.0,
+            "contestedPossessions" : 119.0,
+            "uncontestedPossessions" : 244.0,
+            "totalPossessions" : 363.0,
+            "inside50s" : 20.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 28.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 108.0,
+            "disposalEfficiency" : 79.6,
+            "clangers" : 56.0,
+            "freesFor" : 15.0,
+            "freesAgainst" : 22.0,
+            "dreamTeamPoints" : 1519.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 79.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : 321.7,
+            "ranking" : 190.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 21.0,
+          "timeOnGroundPercentage" : 92.5
+        }
+      }
+    }, {
+      "year" : "2014",
+      "seasonId" : "CD_S2014014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 11.6,
+            "handballs" : 5.0,
+            "disposals" : 16.6,
+            "marks" : 6.2,
+            "bounces" : 1.7,
+            "tackles" : 1.3,
+            "contestedPossessions" : 4.6,
+            "uncontestedPossessions" : 11.2,
+            "totalPossessions" : 15.8,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 1.2,
+            "hitouts" : 0.3,
+            "onePercenters" : 4.5,
+            "disposalEfficiency" : null,
+            "clangers" : 2.4,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 68.2,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.1,
+              "totalClearances" : 0.1
+            },
+            "rebound50s" : 4.1,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 3.0,
+            "superGoals" : null,
+            "kicks" : 255.0,
+            "handballs" : 111.0,
+            "disposals" : 366.0,
+            "marks" : 136.0,
+            "bounces" : 38.0,
+            "tackles" : 29.0,
+            "contestedPossessions" : 101.0,
+            "uncontestedPossessions" : 247.0,
+            "totalPossessions" : 348.0,
+            "inside50s" : 20.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 26.0,
+            "hitouts" : 7.0,
+            "onePercenters" : 100.0,
+            "disposalEfficiency" : 76.5,
+            "clangers" : 52.0,
+            "freesFor" : 9.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1500.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 3.0,
+              "totalClearances" : 3.0
+            },
+            "rebound50s" : 90.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 325.9,
+            "ranking" : 194.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 86.6
+        }
+      }
+    }, {
+      "year" : "2013",
+      "seasonId" : "CD_S2013014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 10.5,
+            "handballs" : 5.4,
+            "disposals" : 15.9,
+            "marks" : 5.9,
+            "bounces" : 0.7,
+            "tackles" : 1.8,
+            "contestedPossessions" : 4.5,
+            "uncontestedPossessions" : 10.9,
+            "totalPossessions" : 15.4,
+            "inside50s" : 0.9,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.1,
+            "onePercenters" : 3.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.3,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.7,
+            "dreamTeamPoints" : 66.1,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 3.1,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 200.0,
+            "handballs" : 102.0,
+            "disposals" : 302.0,
+            "marks" : 113.0,
+            "bounces" : 14.0,
+            "tackles" : 35.0,
+            "contestedPossessions" : 85.0,
+            "uncontestedPossessions" : 207.0,
+            "totalPossessions" : 292.0,
+            "inside50s" : 17.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 16.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 70.0,
+            "disposalEfficiency" : 80.8,
+            "clangers" : 43.0,
+            "freesFor" : 8.0,
+            "freesAgainst" : 14.0,
+            "dreamTeamPoints" : 1256.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 5.0
+            },
+            "rebound50s" : 58.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 100.0,
+            "ratingPoints" : 324.6,
+            "ranking" : 200.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 90.7
+        }
+      }
+    }, {
+      "year" : "2012",
+      "seasonId" : "CD_S2012014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 12.5,
+            "handballs" : 5.2,
+            "disposals" : 17.7,
+            "marks" : 7.0,
+            "bounces" : 1.2,
+            "tackles" : 2.0,
+            "contestedPossessions" : 5.6,
+            "uncontestedPossessions" : 11.3,
+            "totalPossessions" : 16.9,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 4.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.7,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 75.7,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.3,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 3.3,
+            "goalAssists" : 0.3,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 274.0,
+            "handballs" : 115.0,
+            "disposals" : 389.0,
+            "marks" : 155.0,
+            "bounces" : 26.0,
+            "tackles" : 43.0,
+            "contestedPossessions" : 124.0,
+            "uncontestedPossessions" : 248.0,
+            "totalPossessions" : 372.0,
+            "inside50s" : 41.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 26.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 101.0,
+            "disposalEfficiency" : 80.5,
+            "clangers" : 37.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 1665.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 6.0,
+              "totalClearances" : 7.0
+            },
+            "rebound50s" : 72.0,
+            "goalAssists" : 6.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 91.2
+        }
+      }
+    }, {
+      "year" : "2011",
+      "seasonId" : "CD_S2011014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 7.9,
+            "handballs" : 6.1,
+            "disposals" : 14.0,
+            "marks" : 4.0,
+            "bounces" : 0.3,
+            "tackles" : 3.2,
+            "contestedPossessions" : 4.8,
+            "uncontestedPossessions" : 9.1,
+            "totalPossessions" : 13.9,
+            "inside50s" : 1.4,
+            "marksInside50" : 0.2,
+            "contestedMarks" : 0.4,
+            "hitouts" : 0.1,
+            "onePercenters" : 3.8,
+            "disposalEfficiency" : null,
+            "clangers" : 1.8,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 59.3,
+            "clearances" : {
+              "centreClearances" : 0.2,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.8
+            },
+            "rebound50s" : 2.5,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 2.0,
+            "behinds" : 6.0,
+            "superGoals" : null,
+            "kicks" : 181.0,
+            "handballs" : 140.0,
+            "disposals" : 321.0,
+            "marks" : 91.0,
+            "bounces" : 8.0,
+            "tackles" : 73.0,
+            "contestedPossessions" : 110.0,
+            "uncontestedPossessions" : 210.0,
+            "totalPossessions" : 320.0,
+            "inside50s" : 32.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 9.0,
+            "hitouts" : 2.0,
+            "onePercenters" : 88.0,
+            "disposalEfficiency" : 76.0,
+            "clangers" : 42.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 19.0,
+            "dreamTeamPoints" : 1363.0,
+            "clearances" : {
+              "centreClearances" : 4.0,
+              "stoppageClearances" : 14.0,
+              "totalClearances" : 18.0
+            },
+            "rebound50s" : 58.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 22.2,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 23.0,
+          "timeOnGroundPercentage" : 88.6
+        }
+      }
+    }, {
+      "year" : "2010",
+      "seasonId" : "CD_S2010014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.1,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 5.9,
+            "disposals" : 12.4,
+            "marks" : 5.2,
+            "bounces" : 0.1,
+            "tackles" : 3.5,
+            "contestedPossessions" : 4.1,
+            "uncontestedPossessions" : 8.1,
+            "totalPossessions" : 12.2,
+            "inside50s" : 1.3,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.8,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.7,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 59.6,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.6,
+              "totalClearances" : 0.6
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 1.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 91.0,
+            "handballs" : 82.0,
+            "disposals" : 173.0,
+            "marks" : 73.0,
+            "bounces" : 2.0,
+            "tackles" : 49.0,
+            "contestedPossessions" : 57.0,
+            "uncontestedPossessions" : 114.0,
+            "totalPossessions" : 171.0,
+            "inside50s" : 18.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 11.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 38.0,
+            "disposalEfficiency" : 81.5,
+            "clangers" : 19.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 834.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 9.0,
+              "totalClearances" : 9.0
+            },
+            "rebound50s" : 21.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : 0.0,
+            "ranking" : 0.0,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 80.9
+        }
+      }
+    }, {
+      "year" : "2009",
+      "seasonId" : "CD_S2009014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.4,
+            "superGoals" : null,
+            "kicks" : 6.1,
+            "handballs" : 4.8,
+            "disposals" : 10.9,
+            "marks" : 4.1,
+            "bounces" : 0.2,
+            "tackles" : 3.6,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 7.1,
+            "totalPossessions" : 11.0,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.6,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.0,
+            "onePercenters" : 1.7,
+            "disposalEfficiency" : null,
+            "clangers" : 2.0,
+            "freesFor" : 0.4,
+            "freesAgainst" : 1.0,
+            "dreamTeamPoints" : 54.3,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 1.1,
+              "totalClearances" : 1.2
+            },
+            "rebound50s" : 0.2,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 55.0,
+            "handballs" : 43.0,
+            "disposals" : 98.0,
+            "marks" : 37.0,
+            "bounces" : 2.0,
+            "tackles" : 32.0,
+            "contestedPossessions" : 35.0,
+            "uncontestedPossessions" : 64.0,
+            "totalPossessions" : 99.0,
+            "inside50s" : 16.0,
+            "marksInside50" : 5.0,
+            "contestedMarks" : 2.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 15.0,
+            "disposalEfficiency" : 68.4,
+            "clangers" : 18.0,
+            "freesFor" : 4.0,
+            "freesAgainst" : 9.0,
+            "dreamTeamPoints" : 489.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 11.0
+            },
+            "rebound50s" : 2.0,
+            "goalAssists" : 1.0,
+            "goalAccuracy" : 33.3,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 9.0,
+          "timeOnGroundPercentage" : 81.1
+        }
+      }
+    }, {
+      "year" : "2008",
+      "seasonId" : "CD_S2008014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 6.9,
+            "handballs" : 5.4,
+            "disposals" : 12.3,
+            "marks" : 3.8,
+            "bounces" : 0.8,
+            "tackles" : 2.7,
+            "contestedPossessions" : 3.9,
+            "uncontestedPossessions" : 8.4,
+            "totalPossessions" : 12.4,
+            "inside50s" : 1.8,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.1,
+            "onePercenters" : 2.5,
+            "disposalEfficiency" : null,
+            "clangers" : 1.6,
+            "freesFor" : 0.6,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 53.1,
+            "clearances" : {
+              "centreClearances" : 0.4,
+              "stoppageClearances" : 0.5,
+              "totalClearances" : 0.9
+            },
+            "rebound50s" : 1.4,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 132.0,
+            "handballs" : 102.0,
+            "disposals" : 234.0,
+            "marks" : 72.0,
+            "bounces" : 16.0,
+            "tackles" : 52.0,
+            "contestedPossessions" : 75.0,
+            "uncontestedPossessions" : 160.0,
+            "totalPossessions" : 235.0,
+            "inside50s" : 34.0,
+            "marksInside50" : 1.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 48.0,
+            "disposalEfficiency" : 77.4,
+            "clangers" : 30.0,
+            "freesFor" : 12.0,
+            "freesAgainst" : 16.0,
+            "dreamTeamPoints" : 1009.0,
+            "clearances" : {
+              "centreClearances" : 8.0,
+              "stoppageClearances" : 10.0,
+              "totalClearances" : 18.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T130",
+          "gamesPlayed" : 19.0,
+          "timeOnGroundPercentage" : 85.0
+        }
+      }
+    }, {
+      "year" : "2007",
+      "seasonId" : "CD_S2007014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.2,
+            "behinds" : 0.3,
+            "superGoals" : null,
+            "kicks" : 6.5,
+            "handballs" : 4.3,
+            "disposals" : 10.8,
+            "marks" : 3.7,
+            "bounces" : 0.7,
+            "tackles" : 2.0,
+            "contestedPossessions" : 3.2,
+            "uncontestedPossessions" : 7.6,
+            "totalPossessions" : 10.9,
+            "inside50s" : 2.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.2,
+            "hitouts" : 0.3,
+            "onePercenters" : 2.0,
+            "disposalEfficiency" : null,
+            "clangers" : 1.5,
+            "freesFor" : 0.5,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 47.2,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.4,
+              "totalClearances" : 0.4
+            },
+            "rebound50s" : 1.9,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 3.0,
+            "behinds" : 4.0,
+            "superGoals" : null,
+            "kicks" : 91.0,
+            "handballs" : 60.0,
+            "disposals" : 151.0,
+            "marks" : 52.0,
+            "bounces" : 10.0,
+            "tackles" : 28.0,
+            "contestedPossessions" : 45.0,
+            "uncontestedPossessions" : 107.0,
+            "totalPossessions" : 152.0,
+            "inside50s" : 28.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 3.0,
+            "hitouts" : 4.0,
+            "onePercenters" : 28.0,
+            "disposalEfficiency" : 74.8,
+            "clangers" : 21.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 11.0,
+            "dreamTeamPoints" : 661.0,
+            "clearances" : {
+              "centreClearances" : 1.0,
+              "stoppageClearances" : 5.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 27.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 42.9,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 14.0,
+          "timeOnGroundPercentage" : 80.6
+        }
+      }
+    }, {
+      "year" : "2006",
+      "seasonId" : "CD_S2006014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.3,
+            "behinds" : 0.1,
+            "superGoals" : null,
+            "kicks" : 4.6,
+            "handballs" : 2.2,
+            "disposals" : 6.7,
+            "marks" : 2.3,
+            "bounces" : 0.5,
+            "tackles" : 2.6,
+            "contestedPossessions" : 2.2,
+            "uncontestedPossessions" : 4.6,
+            "totalPossessions" : 6.8,
+            "inside50s" : 1.9,
+            "marksInside50" : 0.1,
+            "contestedMarks" : 0.1,
+            "hitouts" : 0.1,
+            "onePercenters" : 1.6,
+            "disposalEfficiency" : null,
+            "clangers" : 1.4,
+            "freesFor" : 0.4,
+            "freesAgainst" : 0.8,
+            "dreamTeamPoints" : 35.0,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 0.8,
+            "goalAssists" : 0.2,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 5.0,
+            "behinds" : 2.0,
+            "superGoals" : null,
+            "kicks" : 82.0,
+            "handballs" : 39.0,
+            "disposals" : 121.0,
+            "marks" : 41.0,
+            "bounces" : 9.0,
+            "tackles" : 47.0,
+            "contestedPossessions" : 39.0,
+            "uncontestedPossessions" : 83.0,
+            "totalPossessions" : 122.0,
+            "inside50s" : 35.0,
+            "marksInside50" : 2.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 29.0,
+            "disposalEfficiency" : 77.7,
+            "clangers" : 25.0,
+            "freesFor" : 7.0,
+            "freesAgainst" : 15.0,
+            "dreamTeamPoints" : 630.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 15.0,
+            "goalAssists" : 3.0,
+            "goalAccuracy" : 50.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 18.0,
+          "timeOnGroundPercentage" : 82.9
+        }
+      }
+    }, {
+      "year" : "2005",
+      "seasonId" : "CD_S2005014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 4.1,
+            "handballs" : 2.6,
+            "disposals" : 6.7,
+            "marks" : 1.9,
+            "bounces" : 0.6,
+            "tackles" : 2.5,
+            "contestedPossessions" : 2.3,
+            "uncontestedPossessions" : 4.5,
+            "totalPossessions" : 6.7,
+            "inside50s" : 1.1,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 2.1,
+            "disposalEfficiency" : null,
+            "clangers" : 1.2,
+            "freesFor" : 0.1,
+            "freesAgainst" : 0.6,
+            "dreamTeamPoints" : 32.0,
+            "clearances" : {
+              "centreClearances" : 0.1,
+              "stoppageClearances" : 0.2,
+              "totalClearances" : 0.3
+            },
+            "rebound50s" : 1.5,
+            "goalAssists" : 0.1,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 1.0,
+            "superGoals" : null,
+            "kicks" : 91.0,
+            "handballs" : 57.0,
+            "disposals" : 148.0,
+            "marks" : 42.0,
+            "bounces" : 14.0,
+            "tackles" : 56.0,
+            "contestedPossessions" : 50.0,
+            "uncontestedPossessions" : 98.0,
+            "totalPossessions" : 148.0,
+            "inside50s" : 25.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 1.0,
+            "hitouts" : 1.0,
+            "onePercenters" : 47.0,
+            "disposalEfficiency" : 77.7,
+            "clangers" : 26.0,
+            "freesFor" : 3.0,
+            "freesAgainst" : 13.0,
+            "dreamTeamPoints" : 703.0,
+            "clearances" : {
+              "centreClearances" : 2.0,
+              "stoppageClearances" : 4.0,
+              "totalClearances" : 6.0
+            },
+            "rebound50s" : 33.0,
+            "goalAssists" : 2.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 22.0,
+          "timeOnGroundPercentage" : 80.7
+        }
+      }
+    }, {
+      "year" : "2004",
+      "seasonId" : "CD_S2004014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    }, {
+      "year" : "2003",
+      "seasonId" : "CD_S2003014",
+      "totalsAndAverages" : {
+        "averages" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : null,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : null,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : null
+        },
+        "totals" : {
+          "stats" : {
+            "goals" : 0.0,
+            "behinds" : 0.0,
+            "superGoals" : null,
+            "kicks" : 0.0,
+            "handballs" : 0.0,
+            "disposals" : 0.0,
+            "marks" : 0.0,
+            "bounces" : 0.0,
+            "tackles" : 0.0,
+            "contestedPossessions" : 0.0,
+            "uncontestedPossessions" : 0.0,
+            "totalPossessions" : 0.0,
+            "inside50s" : 0.0,
+            "marksInside50" : 0.0,
+            "contestedMarks" : 0.0,
+            "hitouts" : 0.0,
+            "onePercenters" : 0.0,
+            "disposalEfficiency" : 0.0,
+            "clangers" : 0.0,
+            "freesFor" : 0.0,
+            "freesAgainst" : 0.0,
+            "dreamTeamPoints" : 0.0,
+            "clearances" : {
+              "centreClearances" : 0.0,
+              "stoppageClearances" : 0.0,
+              "totalClearances" : 0.0
+            },
+            "rebound50s" : 0.0,
+            "goalAssists" : 0.0,
+            "goalAccuracy" : 0.0,
+            "ratingPoints" : null,
+            "ranking" : null,
+            "interchangeCounts" : null
+          },
+          "player" : {
+            "playerId" : "CD_I230243",
+            "playerName" : {
+              "givenName" : "Sean",
+              "surname" : "Dempster"
+            },
+            "captain" : false,
+            "playerJumperNumber" : null
+          },
+          "teamId" : "CD_T160",
+          "gamesPlayed" : 0.0,
+          "timeOnGroundPercentage" : 0.0
+        }
+      }
+    } ],
+    "seasonStats" : {
+      "goals" : 0.0,
+      "behinds" : 0.0,
+      "superGoals" : null,
+      "kicks" : 238.0,
+      "handballs" : 134.0,
+      "disposals" : 372.0,
+      "marks" : 148.0,
+      "bounces" : 13.0,
+      "tackles" : 36.0,
+      "contestedPossessions" : 119.0,
+      "uncontestedPossessions" : 244.0,
+      "totalPossessions" : 363.0,
+      "inside50s" : 20.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 28.0,
+      "hitouts" : 0.0,
+      "onePercenters" : 108.0,
+      "disposalEfficiency" : 79.6,
+      "clangers" : 56.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1519.0,
+      "clearances" : {
+        "centreClearances" : 0.0,
+        "stoppageClearances" : 3.0,
+        "totalClearances" : 3.0
+      },
+      "rebound50s" : 79.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 0.0,
+      "ratingPoints" : 321.7,
+      "ranking" : 190.0,
+      "interchangeCounts" : null
+    },
+    "latestPlayerRating" : {
+      "position" : "MEDIUM_DEFENDER",
+      "roundId" : "CD_R201501424",
+      "player" : {
+        "playerId" : "CD_I230243",
+        "playerName" : {
+          "givenName" : "Sean",
+          "surname" : "Dempster"
+        },
+        "captain" : false,
+        "playerJumperNumber" : null
+      },
+      "team" : {
+        "teamId" : "CD_T130",
+        "teamAbbr" : "STK",
+        "teamName" : "St Kilda",
+        "teamNickname" : "Saints"
+      },
+      "detailedRatings" : [ {
+        "ratingPoints" : 320.1,
+        "ranking" : 195,
+        "ratingType" : "OVERALL",
+        "trend" : "CLIMBING"
+      }, {
+        "ratingPoints" : 320.1,
+        "ranking" : 8,
+        "ratingType" : "TEAM",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 320.1,
+        "ranking" : 27,
+        "ratingType" : "POSITION",
+        "trend" : "NO_CHANGE"
+      }, {
+        "ratingPoints" : 0.0,
+        "ranking" : 0,
+        "ratingType" : "ROUND",
+        "trend" : null
+      }, {
+        "ratingPoints" : 183.5,
+        "ranking" : 177,
+        "ratingType" : "SEASON",
+        "trend" : null
+      } ],
+      "draftYear" : "2002"
+    },
+    "careerGamesPlayed" : 203
+  }
+}
