@@ -41,26 +41,37 @@ public class TestStatisticsServiceBean {
                 		"org.apache.camel:camel-http4:2.15.2",
                 		"org.apache.camel:camel-jsonpath:2.15.2",
 						"org.apache.cxf:cxf-rt-rs-client:3.0.0-milestone1"
-						).withTransitivity().asFile())                .addAsWebInfResource(EmptyAsset.INSTANCE, "beans.xml");
+						).withTransitivity().asFile())                
+						.addAsWebInfResource(EmptyAsset.INSTANCE, "beans.xml");
     }
     
-    @Test
-    @RunAsClient
-    public void testGetSeasonStatistics(@ArquillianResource URL contextRoot) throws Exception {
-    	WebClient client = WebClient.create("http://localhost:8080/test-afl-extraction/statistics/season/2015");
-		client.type("application/json").accept("application/json");
-		Response response = client.get();
-		System.out.println("OUTPUT: " + response.toString());
-		Assert.assertEquals(Response.Status.OK.getStatusCode(), response.getStatus());
-    }
+//    @Test
+//    @RunAsClient
+//    public void testGetSeasonStatistics(@ArquillianResource URL contextRoot) throws Exception {
+//    	WebClient client = WebClient.create("http://localhost:8080/test-afl-extraction/statistics/season/2015");
+//		client.type("application/json").accept("application/json");
+//		Response response = client.get();
+//		System.out.println("OUTPUT: " + response.toString());
+//		Assert.assertEquals(Response.Status.OK.getStatusCode(), response.getStatus());
+//    }
+//
+//    @Test
+//    @RunAsClient
+//    public void testGetPlayersInSeasonStatistics(@ArquillianResource URL contextRoot) throws Exception {
+//    	WebClient client = WebClient.create("http://localhost:8080/test-afl-extraction/statistics/players/2015");
+//		client.type("application/json").accept("application/json");
+//		Response response = client.get();
+//		System.out.println("OUTPUT: " + response.toString());
+//		Assert.assertEquals(Response.Status.OK.getStatusCode(), response.getStatus());
+//    }
 
     @Test
     @RunAsClient
-    public void testGetPlayersInSeasonStatistics(@ArquillianResource URL contextRoot) throws Exception {
-    	WebClient client = WebClient.create("http://localhost:8080/test-afl-extraction/statistics/players/2015");
+    public void testGetPlayerProfile(@ArquillianResource URL contextRoot) throws Exception {
+    	WebClient client = WebClient.create("http://localhost:8080/test-afl-extraction/statistics/player-profile/CD_I960197");
 		client.type("application/json").accept("application/json");
 		Response response = client.get();
-		System.out.println("OUTPUT: " + response.toString());
+		System.out.println("OUTPUT: " + response.getEntity());
 		Assert.assertEquals(Response.Status.OK.getStatusCode(), response.getStatus());
     }
 }
