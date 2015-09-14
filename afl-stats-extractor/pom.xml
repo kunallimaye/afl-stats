@@ -99,6 +99,11 @@
 			<groupId>org.apache.camel</groupId>
 			<artifactId>camel-jsonpath</artifactId>
 		</dependency>
+		<!-- Required for Json un/marshalling -->
+		<dependency>
+			<groupId>org.apache.camel</groupId>
+			<artifactId>camel-xstream</artifactId>
+		</dependency>
 
 		<dependency>
 			<groupId>org.slf4j</groupId>
