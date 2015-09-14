@@ -15,7 +15,6 @@
 		<!-- Apache versions -->
 		<httpclient.version>4.5</httpclient.version>
 		<commons-io.version>2.4</commons-io.version>
-		<version.shrinkwrap.resolvers>2.1.1</version.shrinkwrap.resolvers>
 	</properties>
 
 	<dependencyManagement>
@@ -31,6 +30,13 @@
 				<groupId>org.jboss.bom.eap</groupId>
 				<artifactId>jboss-javaee-6.0-with-tools</artifactId>
 				<version>${version.jboss.bom.eap}</version>
+				<type>pom</type>
+				<scope>import</scope>
+			</dependency>
+			<dependency>
+				<groupId>org.jboss.bom</groupId>
+				<artifactId>jboss-javaee-6.0-with-infinispan</artifactId>
+				<version>${version.jboss.bom.infinispan}</version>
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
@@ -89,22 +95,32 @@
 			<groupId>org.apache.camel</groupId>
 			<artifactId>camel-core</artifactId>
 		</dependency>
+		
 		<!-- Required for http client -->
 		<dependency>
 			<groupId>org.apache.camel</groupId>
 			<artifactId>camel-http4</artifactId>
 		</dependency>
+		
 		<!-- Required for JsonPath -->
 		<dependency>
 			<groupId>org.apache.camel</groupId>
 			<artifactId>camel-jsonpath</artifactId>
 		</dependency>
+		
 		<!-- Required for Json un/marshalling -->
 		<dependency>
 			<groupId>org.apache.camel</groupId>
 			<artifactId>camel-xstream</artifactId>
 		</dependency>
 
+		<!-- Required for caching sub system -->
+		<dependency>
+			<groupId>org.infinispan</groupId>
+			<artifactId>infinispan-core</artifactId>
+			<version>8.0.0.Final</version>
+		</dependency>
+		
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-log4j12</artifactId>
